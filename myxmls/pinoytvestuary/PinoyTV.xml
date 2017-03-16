@@ -11,7 +11,10 @@
 
 <item>
 <title>TV 5</title>
-<link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
+<link>
+<sublink>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</sublink>
+<sublink>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</sublink>
+</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/tv5.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -38,8 +41,6 @@
 
 <item>
 <title>People's Television</title>
-<!-- <link>rtmp://121.97.17.78:1935/live1/ playpath=ptvstream swfUrl=http://121.97.17.78/jwplayer-7.6.1/jwplayer.flash.swf live=1 timeout=15 pageUrl=http://121.97.17.78/</link> -->
-<!-- <link>plugin://plugin.video.youtube/play/?video_id=Miu3VZ3Gv1g</link> -->
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]
 <regex>
 <name>id</name>
@@ -58,7 +59,6 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 <item>
 <title>NET 25</title>
 <link>http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8</link>
-<!-- <link>plugin://plugin.video.youtube/play/?video_id=4KElarDyZDM</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/net25_zps47b5bd2a.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>Net 25 is a Philippine terrestrial/cable television network owned and operated by Eagle Broadcasting Corporation. The network is named for its flagship station in Metro Manila, DZEC-TV, which is carried on UHF channel 25 on terrestrial TV, and has carried by major cable operators in the country. This station's broadcast facilities are located at #25 Central Ave., New Era, Quezon City.
@@ -100,7 +100,10 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>INC TV</title>
-<link>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</link>
+<link>
+<sublink>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</sublink>
+<sublink>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</sublink>
+</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/inctv2_zpsd8fmcjmx.png</thumbnail>
 <genre>Religion</genre>
 <info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
@@ -119,7 +122,6 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 <item>
 <title>The Old Path</title>
 <link>rtmp://stream.mcgi.org.au/vodtv/247_en playpath=247_en swfUrl=http://www.theoldpath.tv/players/player.swf live=true timeout=15 pageUrl=http://www.theoldpath.tv/</link>
-<!-- <link>rtmp://ocatv.mcgi.me/public playpath=247_en  swfUrl=http://www.theoldpath.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.theoldpath.tv/</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/top_zpsjp9owqof.png</thumbnail>
 <genre>Religion</genre>
 <info>TheOldPath.TV is the English format website of the Ang Dating Daan, the award-winning religious program hosted by Bro. Eli Soriano. Like its companion the AngDatingDaan.org., this online resource provides users an accessible means to watch the 24-hour English broadcast of the program and video library of answered questions by Bro Eli from the question and answer segment of Bible Expositions.</info>
@@ -129,7 +131,6 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 <item>
 <title>RHTV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Pf6FraTjt4U</link>
-<!-- <link>rtsp://bayantel-ss.dagupan.com/dzrhvideo</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rhtv_zps3ad444e7.png</thumbnail>
 <genre>News</genre>
 <info>DZRH Television or RHTV is a 24-hour cable news channel of Manila Broadcasting Company in the Philippines. Its programs are primarily from MBC's flagship AM station DZRH. RHTV can be seen on Cablelink channel 3, and 54 cable TV affiliates nationwide, as well as live internet TV streaming on their official website.
@@ -140,7 +141,10 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>CLTV 36</title>
-<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</link>
+<link>
+<sublink>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</sublink>
+<sublink>plugin://plugin.video.f4mTester/?name=CLTV+36&amp;url=http%3A%2F%2Fcltv36-lh.akamaihd.net%2Fz%2Fcltv36_1%40300961%2Fmanifest.f4m%3Fg%3DEQURJMOSLPIS%26hdcore%3D3.6.0%26plugin%3Djwplayer-3.6.0.0&amp;mode=play</sublink>
+</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cltv36a_zpshzvn1yd5.png</thumbnail>
 <genre>Local News</genre>
 <info>Central Luzon Television is a regional free TV in the Philippines. It focusses on a centralized media coverage, starting off with Pampanga and the provinces of Central Luzon or Region III. These provinces include Nueva Ecija, Bulacan, Bataan, Tarlac, Zambales and Aurora. CLTV can also seen in some areas in Metro Manila, Rizal and Cavite via a weak signal. CLTV 36 can be seen from 8:00AM to 10:30PM (Mondays to Sundays)</info>
@@ -157,31 +161,13 @@ Slogan: "One Nation, One Station"</info>
 </item>
 
 <item>
-<title>CLTV 36 [COLOR=red]Link 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?name=CLTV+36&amp;url=http%3A%2F%2Fcltv36-lh.akamaihd.net%2Fz%2Fcltv36_1%40300961%2Fmanifest.f4m%3Fg%3DEQURJMOSLPIS%26hdcore%3D3.6.0%26plugin%3Djwplayer-3.6.0.0&amp;mode=play</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cltv36a_zpshzvn1yd5.png</thumbnail>
-<genre>Local News</genre>
-<info>Central Luzon Television is a regional free TV in the Philippines. It focusses on a centralized media coverage, starting off with Pampanga and the provinces of Central Luzon or Region III. These provinces include Nueva Ecija, Bulacan, Bataan, Tarlac, Zambales and Aurora. CLTV can also seen in some areas in Metro Manila, Rizal and Cavite via a weak signal. CLTV 36 can be seen from 8:00AM to 10:30PM (Mondays to Sundays)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/cltv_zps313c5510.jpg</fanart>
-</item>
-
-<item>
-<title>INC TV [COLOR=red]Link 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/inctv2_zpsd8fmcjmx.png</thumbnail>
-<genre>Religion</genre>
-<info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/inctv_zpsb8583170.jpg</fanart>
-</item>
-
-<item>
 <title>Radio Television Malacanang</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/user/RTVMalacanang/featured</page>
-</regex>
+</regex></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rtvm_zpsvlluannl.png</thumbnail>
 <genre>News, Public Service</genre>
 <info>PBS-RTVM is open and working 24 hours a day, 7 days a week, rain or shine. Its personnel are among the most dedicated workers in government, reporting for duty in the late hours of the night and the wee hours of the morning – packing heavy broadcast equipment, traveling to wherever duty calls in good roads and in bad. The main strength of the men and women of RTVM is their professionalism – working with minimum supervision and delivering the best product within the deadline required.</info>
@@ -191,14 +177,6 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>GMA 7</title>
 <link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link>
-<!-- <link>http://iphone-streaming.ustream.tv/uhls/21475190/streams/live/iphone/playlist.m3u8</link> -->
-<!-- <link>http://iphone-streaming.ustream.tv/ustreamVideo/21302791/streams/live/playlist.m3u8</link> -->
-<!-- <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/user/UCpzuVmgg-YF_FATxDgH2ggA/featured</page>
-</regex> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
@@ -206,57 +184,5 @@ Slogan: "One Nation, One Station"</info>
 Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
 </item>
-
-<!-- <item>
-<title>ABS-CBN [COLOR red](OFFLINE)[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/21420710/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abscbn_zps601491ef.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>ABS-CBN is a major commercial television network in the Philippines. It is the oldest and the leading television network in the country. Branded as The Kapamilya Network (Kapamilya is a Tagalog term for "a member of the family")
-Slogan:  "In the Service of the Filipino."
-
-[COLOR red]Available only at 8:30pm Manila Time[/COLOR]</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abs-cbn_zps49357a5c.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>GMA 7</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/21449317/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
-
-Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>People's Television [COLOR red]Link 2[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/9544987/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ptv_zpsbd9ff817.png</thumbnail>
-<genre>News, Public Service</genre>
-<info>People's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.
-
-Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/ptv_zps4b595d19.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>Aksyon TV</title>
-<link>http://stream3.news5.ph/aksyon/aksyonplayout/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aksyontv1_zpsw3h7wjnk.png</thumbnail>
-<genre>News / Sports</genre>
-<info>AksyonTV (English: Action TV) is a 24-hour non-stop news and sports-related television network in the Philippines. Owned and operated by ABC Development Corporation.
-
-Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)
-Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's action, here in AksyonTV, News, Public Service and Sports)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/aksyontv_zps546091c1.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>TEST</title>
-<link>plugin://plugin.video.f4mTester/?proxy_for_chunks=False&amp;maxbitrate=0&amp;name=TEST&amp;url=http://live.ss.osnplay.com/out/u/channel10.ism/manifest.f4m&amp;proxy=&amp;mode=play</link>
-<thumbnail> </thumbnail>
-</item> -->
 
 </items>
