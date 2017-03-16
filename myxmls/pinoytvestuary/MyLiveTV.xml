@@ -1,0 +1,239 @@
+﻿<items>
+
+<item>
+<title>ABC</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=ABC</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abc_zps2c41fa79.png</thumbnail>
+<genre>Entertainment, News</genre>
+<info>The American Broadcasting Company (abbreviated ABC, stylized in the logo as abc since 1962) is an American commercial broadcast television network. Throughout its history, ABC has supported its financial operations by diversifying into the press, the publishing industry, the operation of theaters, and filmmaking. Many of the company's assets in these fields have been sold to other entities, and since 2007, when ABC Radio (also known as "Cumulus Media Networks") was sold to Citadel Broadcasting, ABC has reduced its broadcasting operations almost exclusively to television. It is the world's fifth-oldest major broadcasting media network.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
+</item>
+
+<item>
+<title>CBS</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CBS</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cbs_zpsf3065408.png</thumbnail>
+<genre>Entertainment, News</genre>
+<info>CBS is an American commercial broadcast television network, which started as a radio network; it continues to operate a radio network and a portfolio of television and radio stations in large and mid-sized markets. The name is derived from the initials of the network's former name, Columbia Broadcasting System. The company's headquarters is in New York City, with major production facilities and operations in New York City and Los Angeles.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/cbs_fanart_zpsd26a91a9.jpg</fanart>
+</item>
+
+<item>
+<title>The CW</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CW</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cw1_zpse676005c.png</thumbnail>
+<genre>Entertainment, News</genre>
+<info>The CW Television Network (The CW) is an American broadcast television network that is operated by The CW Network, LLC, a limited liability joint venture between CBS Corporation, the former owners of the United Paramount Network (UPN), and the Warner Bros. Entertainment subsidiary of Time Warner, former majority owner of The WB Television Network. The "CW" name is derived from the first letters of the names of these corporations (CBS and Warner Bros.).</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/cw_fanart_zps31a0356d.jpg</fanart>
+</item>
+
+<item>
+<title>FOX</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=FOX</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/fox_zpse9e43207.png</thumbnail>
+<genre>News and Entertainment</genre>
+<info>The Fox Broadcasting Company is an American commercial broadcast television network that is owned by the Fox Entertainment Group division of 21st Century Fox. It is the third largest major television network in the world, based on total revenues, assets and international coverage.
+The network is named after sister company 20th Century Fox, and indirectly for producer William Fox, who founded one of the movie studio's predecessors, Fox Film. Fox is a member of the North American Broadcasters Association and the National Association of Broadcasters.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/fox_fanart_zps4ce0a764.jpg</fanart>
+</item>
+
+<item>
+<title>NBC</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=NBC</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/nbc_zpse64a81fb.png</thumbnail>
+<genre>News and Entertainment</genre>
+<info>The National Broadcasting Company (NBC) is an American commercial broadcast television and radio network. It is headquartered in the GE Building in New York City's Rockefeller Center, with additional major offices near Los Angeles and in Chicago. NBC is sometimes referred to as the "Peacock Network", due to its stylized peacock logo, which was originally created for its color broadcasts.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/nbc_fanart1_zps2c1f8f60.jpg</fanart>
+</item>
+
+<item>
+<title>My Network TV</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=MY9</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/mynetwork_zps786dc18c.png</thumbnail>
+<genre>News, Talk, Drama Series</genre>
+<info>MyNetworkTV (unofficially abbreviated as MyTV, MyNet, MNT or MNTV, and sometimes referred to as "My Network") is an American television network/syndication service that is owned by the Fox Entertainment Group division of 21st Century Fox, and operated by division subsidiaries Fox Television Stations and 20th Television. MyNetworkTV began operations on September 5, 2006 with an initial affiliate lineup covering about 96% of the country, most of which consisted of stations that were former affiliates of The WB and UPN that did not join the successor of those two networks, The CW.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/mytv_fanart_zpsd33c00dd.jpg</fanart>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DNational%2BGeographic%26url%3Dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DNational%2BGeographic%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/natgeo_zps38692c0b.png</thumbnail>
+<genre>Educational, Documentary</genre>
+<info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/natgeo_fanart_zps805bd99c.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Channel</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BChannel%26url%3Dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BChannel%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discovery_zps3740a025.png</thumbnail>
+<genre>Educational, Documentary</genre>
+<info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discovery_fanart_zps6f793690.jpg</fanart>
+<date></date>
+</item>
+
+<itemx>
+<title>Science Channel</title>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discoscience2_zpsgwcgoyum.png</thumbnail>
+<genre>Science, Documentary</genre>
+<info>Science is an American digital cable and satellite television network that is owned by Discovery Communications. The channel features programming focusing on the fields of wilderness survival, ufology, manufacturing, construction, technology, space, prehistory and animal science.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discoscience_fanart_zpszz6dkani.jpg</fanart>
+</itemx>
+
+<item>
+<title>Animal Planet</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DAnimal%2BPlanet%26url%3Dmpd%253A%252F%252Fa0f8ddb8c8251a68f136648b32c0f62d.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DAnimal%2BPlanet%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fa0f8ddb8c8251a68f136648b32c0f62d.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/animalplanet_zps83d95a68.png</thumbnail>
+<genre>Educational, Documentary</genre>
+<info>Animal Planet is an American basic cable and satellite television channel owned by Discovery Communications. Originally focused on more educationally-based television shows, the network has featured more reality programming since the late 2000s. It is available throughout the United States, as well as in over 70 countries around the world. Country-specific versions of the channel have been created in Canada, India, Japan, Taiwan and other countries.</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/animalplanet_fanart_zps0f89825d.jpg</fanart>
+</item>
+
+<item>
+<title>History</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bChannel%26url%3dmpd%253A%252F%252Fd722293bb9bbf20cc112924ef000a225.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHistory%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd722293bb9bbf20cc112924ef000a225.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/history_zpszw43s0zr.png</thumbnail>
+<genre>Education, Historical Events</genre>
+<info>History is an American basic cable and satellite television channel that is owned by A+E Networks, a joint venture between the Hearst Corporation and the Disney–ABC Television Group division of The Walt Disney Company.[CR]Programming on History has covered a wide range of historical periods and topics, while similar themed topics are often organized into themed weeks or daily marathons. Subjects include warfare, inventions, aviation, mechanical and civil engineering, technology, mythical creatures, monsters, UFO, conspiracy theories, aliens, religious beliefs, disaster scenarios, apocalyptic "after man" scenarios, doomsday, and 2012 superstitions. Programming also includes mainstream reality television-style shows involving truck drivers, alligator hunters, pawn stores, antique and collectible "pickers", car restorers, and others. Occasionally some programs compare contemporary culture and technology with that of the past.</info>
+<fanart>https://i.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>HGTV</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHouse%2b%2526%2bGarden%2bTelevision%26url%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHouse%2b%2526%2bGarden%2bTelevision%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/HGTV_zpsmy5lpjqs.png</thumbnail>
+<genre>Education, Home Improvement, Gardening</genre>
+<info>HGTV (Home & Garden Television) is an American basic cable and satellite television channel that is owned by Scripps Networks Interactive. HGTV broadcasts a variety of how-to shows with a focus on home improvement, gardening, craft and remodeling.</info>
+<fanart>http://www.hgtv.com/content/dam/images/hgtv/editorial/tentpoles/hgtv-dream-home-2015/HGTV-showchip-hgtv-dream-home-2015.jpg</fanart>
+</item>
+
+<item>
+<title>A & E</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DA%2526E%26url%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DA%2526E%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aampe_zpsyyzjszrr.png</thumbnail>
+<genre>General</genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bravo TV</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DBravo%2BTV%26url%3Dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DBravo%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DBravo%2BTV%26url%3Dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DBravo%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/bravo_zpszb3kq5uw.jpg</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DComedy%2BCentral%26url%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DComedy%2BCentral%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ComdyCentral.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spike TV</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSpike%2BTV%26url%3Dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSpike%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSpike%2BTV%26url%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSpike%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Spike.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SyFy</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSyFy%26url%3Dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSyFy%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSyFy%26url%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSyFy%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Syfy.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTBS%26url%3Dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTBS%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTBS%26url%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTBS%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TBS.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTLC%26url%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTLC%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TLC.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTNT%2BUSA%26url%3Dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTNT%2BUSA%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTNT%2BUSA%26url%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTNT%2BUSA%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</sublink>
+</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TNT.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>USA Network</title>
+<link>http://origin2.cignal.tv/aes/smil:aksyon.smil/playlist.m3u8</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DUSA%2BNetwork%26url%3Dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DUSA%2BNetwork%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DUSA%2BNetwork%26url%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DUSA%2BNetwork%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/USANetwork.png</thumbnail>
+<genre>Live TV</genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>http://origin2.cignal.tv/aes/smil:aksyon.smil/playlist.m3u8</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DCartoon%2BNetwork%26url%3Dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DCartoon%2BNetwork%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/CartoonNetwork.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+</items>
