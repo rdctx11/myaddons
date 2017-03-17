@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="plugin.program.addoninstaller" version="1.2.9"
+    	name="Addon Installer" provider-name="tvaddons.ag, Blazetamer">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.addon.common" optional="true" />
+		<import addon="repository.xbmchub" version="1.0.6" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Addon Browser</summary>
+        <description>Its like an App Store where you'll find Addons for Kodi, and everything is free!</description>
+        <disclaimer>By using this, you take reponsibility for anything that happens.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <forum>http://forums.tvaddons.ag/forums/156-ADDON-INSTALLER</forum>
+        <website>http://addons.tvaddons.ag/</website>
+        <source></source>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="plugin.video.abscbnnews"
+	name="ABS-CBN News" version="1.0.3" provider-name="NIELDC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">ABS-CBN News and Current Affairs youtube videos.</summary>
+    <description lang="en">This is the official YouTube video channel of ABS-CBN News and Current Affairs</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ccloudtv"
+       name="cCloud TV"
+       version="1.4.8"
+       provider-name="podgod, Coder Alpha">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+    <import addon="repository.podgod" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>All the best from cCloud TV</summary>
+    <description>cCloud is an open source cloud based social IPTV service. It is built by the community for the community, where streaming is just a click away. Just click, play and stream. Yes, it's that simple. Just go to [COLOR blue]http://ccloudtv.org[/COLOR] and enjoy:) Please report any channels that are down here [COLOR blue]http://www.tiny.cc/reportchs[/COLOR] Users can now check servers status which can be found at [COLOR blue]http://ccloudtv.org/status[/COLOR]
+    </description>
+	<license>http://www.gnu.org/licenses/</license>
+    <forum>http://ccloudtv.org/forum</forum>
+    <website>http://ccloudtv.org</website>
+    <website>http://facebook.com/ccloudapp</website>
+    <website>http://twitter.com/ccloudapp</website>
+    <email></email>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.exodus" version="2.0.5" name="Exodus" provider-name="Exodus">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="repository.exodus" version="1.0.0" />
+		<import addon="script.exodus.artwork" version="1.0.4" />
+		<import addon="script.module.urlresolver" version="3.0.0" />
+		<import addon="script.module.metahandler" version="1.0.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="exodus.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Exodus</summary>
+		<description lang="en">Please visit www.tvaddons.ag for Exodus support and assistance! Kindly note that Exodus is not an official part of the media player you are running, and therefore not to be mentioned within official support channels, this addon has nothing to do with the media player itself, nor it’s intended use, it is simply a third party plugin which has been added to your system.</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.f4mTester" version="2.2.5" name="f4mTester" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.2.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>f4mTester</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.gmanews"
+	name="GMA News Online" version="1.0.3" provider-name="NIELDC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">GMA News and Public Affairs online videos.</summary>
+    <description lang="en">The official YouTube Channel of GMA News and Public Affairs.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.live.streamspro"
+       name="LiveStreamsPro"
+       version="2.5.0"
+       provider-name="Shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
+    <description>
+        In addition to what livestreams allowed you to do, you can now,
+        1. call regex in regex,
+        2. multiple regex in page, regex in session, also htmlunescape responses
+        3. create session from one regex and pass onto next in line
+        4. save sessions to a file and open again later
+        5. write python code in .py file, put in the profile directory and then call from your regex.
+        6. use epoctime, guid and unpack as functions already defined.
+        7. Use it to post values to the pages to get the proper responses
+        8. support many headers, like origin, X-Requested-With
+        9. you can now append cookies in response and then read in regex using includeheaders
+        10. You can now link to another web url via your xml using externallink
+        11. support for google captcha, now you can show and then post the text
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.livemix" name="Live Mix" version="1.0.2" provider-name="MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0" />
+	<import addon="repository.metalkettle" version="1.7.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.my-live-tv"
+       name="My Live TV"
+       version="1.1.4"
+       provider-name="nieldc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Foreign Live TV Channels</summary>
+    <description>Live streaming of Foreign TV Channels</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.myplayer"
+	name="My Player"
+	version="1.0.0"
+	provider-name="nieldc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Simple Player</summary>
+    <description lang="en">Simple Player</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.navixxx"
+	name="Navi XXX"
+	version="1.0.4"
+	provider-name="nieldc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Pinoy Streams</summary>
+    <description lang="en">Pinoy Streams</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pinoystreams"
+	name="Pinoy Streams"
+	version="1.2.0"
+	provider-name="nieldc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Pinoy Streams</summary>
+    <description lang="en">Pinoy Streams</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pinoytv-live"
+       name="Pinoy TV Live!"
+       version="1.1.2"
+       provider-name="nieldc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Pinoy Live TV Channels</summary>
+    <description>Live streaming of Pinoy TV Channels</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.6" provider-name="Avigdor">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</summary>
+    <description lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<!--suppress ALL -->
+<addon id="plugin.video.salts" version="2.0.28" name="Stream All The Sources" provider-name="tknorris">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver" version="2.2.0"/>
+        <import addon="script.module.myconnpy" version="1.1.6" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+     <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Stream video from many difference sources</summary>
+        <description>This addon uses trakt.tv for most show and movie meta data and uses a variety of websites for hoster sources</description>
+        <platform>all</platform>
+        <website>http://tvaddons.ag/</website>
+		<forum>http://forums.tvaddons.ag/forums/180-TKNORRIS-RELEASE-REPOSITORY</forum>
+	</extension>
+</addon>
+
+<addon id="plugin.video.sambuhaytvmass"
+	name="Sambuhay TV Mass" version="1.0.5" provider-name="NIELDC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Sambuhay TV Mass</summary>
+    <description lang="en">SAMBUHAY TV MASS, a production of ST PAULS AUDIOVISUALS, is an apostolate of the priests and brothers of the SOCIETY OF ST PAUL (SSP) who proclaim the Gospel through the media of social communications.The Society of St Paul is an international religious congregation located in 35 countries, whose particular call and ministry is to live and give to the world Jesus Christ, the Way, the Truth, and the Life through the communications media.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.SportsDevil"
+  version="2016.7.20"
+  name="SportsDevil"
+  provider-name="SportsDevil">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
+   <import addon="script.module.requests" />
+   <import addon="script.module.livestreamer" />
+   <import addon="script.module.pydevd" version="4.4.0" optional="true"/>
+   <import addon="repository.unofficialsportsdevil" version="1.0.0" />
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos of different sports streaming sites</summary>
+    <description>Play videos of different sports streaming sites</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="3.2" provider-name="Blazetamer">
+<extension point="xbmc.addon.repository" name="Blaztamer's Addon Repository">
+    <dir>
+	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+	        <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+    </dir>
+    <dir>
+            <info compressed="false">https://offshoregit.com/Blazetamer/repo/raw/master/addons.xml</info>
+            <checksum>https://offshoregit.com/Blazetamer/repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://offshoregit.com/Blazetamer/repo/raw/master/zips</datadir>
+    </dir>
+
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>Install all of Blazetamer's Addons</summary>
+<description>Download and install addons from Blazetamer.......For Official Support Visit TVADDONS.AG</description>
+<platform>all</platform>
+</extension>
+</addon>
+
+<addon id="repository.dk-xbmc-repaddon" name="dk-xbmc-repaddon Add-on Repository" version="1.0.5" provider-name="dk-xbmc-repaddon">
+	<extension point="xbmc.addon.repository" name="dk-xbmc-repaddon Add-on Repository">
+		<info compressed="false">http://raw.githubusercontent.com/dknlght/dkodi/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/dknlght/dkodi/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/dknlght/dkodi/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from dk Add-on Repository</summary>
+		<description>Video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.eldorado" name="Eldorado's XBMC Addons" version="2.0.2" provider-name="eldorado">
+	<extension point="xbmc.addon.repository" name="Eldorado's XBMC Addon Repository">
+		<info compressed="false">http://raw.github.com/Eldorados/eldorado-xbmc-addons/master/addons.xml</info>
+		<checksum>http://raw.github.com/Eldorados/eldorado-xbmc-addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Eldorados/eldorado-xbmc-addons/master/repo/</datadir>
+		<dir>
+			<info compressed="false">https://offshoregit.com/Eldorado/xbmc-addons/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/Eldorado/xbmc-addons/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/Eldorado/xbmc-addons/raw/master/repo/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Eldorado's Addons</summary>
+		<forum>http://forums.tvaddons.ag/forums/23-ELDORADO-S-XBMC-ADDONS</forum>
+		<description>Download and install addons by Eldorado</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.exodus" version="1.0.1" name="Exodus repository" provider-name="Exodus">
+	<extension point="xbmc.addon.repository" name="Exodus repository">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://offshoregit.com/exodus/addons.xml</info>
+		<checksum>https://offshoregit.com/exodus/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/exodus/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Exodus repository</summary>
+		<description lang="en">Exodus repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.filmkodi.com" name="Filmkodi.com repository - MRKNOW" version="2.1.0" provider-name="Mrknow">
+	<extension point="xbmc.addon.repository" name="Filmkodi.com Kodi Add-on Repository">
+		<info compressed="false">http://kodi.filmkodi.com/addons.xml</info>
+		<checksum>http://kodi.filmkodi.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://kodi.filmkodi.com/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons  from filmkodi.com</summary>
+		<summary lang="pl">Zainstaluj wtyczki z filmkodi.com</summary>
+		<description lang="en">Add-ons from filmkodi.com (mrknow.pl) repository.</description>
+		<description lang="pl">Wtyczki z nieoficjalnego, repozytorium polskiego mrknow.pl..</description>
+		<disclaimer lang="en">Repository has non-comercial nature. Created by enthusiasts, acting in good faith.</disclaimer>
+		<disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny, wtyczki tworzone przez pasjonatów, .</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.FTV-Guide-Repo" name="FTV Guide Repo" version="1.1" provider-name="rayw1986, bluezed">
+	<extension point="xbmc.addon.repository" name="FTV Guide Repository">
+		<info compressed="false">http://raw.github.com/bluezed/FTV-Guide-Repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/bluezed/FTV-Guide-Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/bluezed/FTV-Guide-Repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>FTV Guide Repository</summary>
+		<description>Download and install the FTV Guide addon. For OFFICIAL Support Visit TVADDONS.AG</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="10.2" provider-name="iSTREAM">
+	<extension point="xbmc.addon.repository" name="iSTREAM">
+	<dir>
+		<info compressed="false">http://istreamrepo.me/istream/repo/addons.xml</info>
+		<checksum>http://istreamrepo.me/istream/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://istreamrepo.me/istream/repo/zips</datadir>
+	</dir>
+		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>iSTREAM XBMC Addons and Extensions</summary>
+		<description>iSTREAM XBMC Addons and Extensions</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.Kinkin" name="Kinkins REPO" version="1.4" provider-name="Kinkin">
+	<extension point="xbmc.addon.repository" name="Kinkin Addon Repository">
+		<info compressed="false">https://offshoregit.com/kinkin-xbmc-repository/addons.xml</info>
+		<checksum>https://offshoregit.com/kinkin-xbmc-repository/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/kinkin-xbmc-repository/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kinkins Addons</summary>
+		<description>Install addons by Kinkin</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.7.1" provider-name="MetalKettle">
+	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
+	<dir>
+		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	</dir>
+		<info compressed="false">http://offshoregit.com/metalkettle/addons.xml</info>
+		<checksum>http://offshoregit.com/metalkettle/addons.xml.md5</checksum>
+		<datadir zip="true">http://offshoregit.com/metalkettle/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from MetalKettle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.mykodirepos" name="NIELDC KODI Repos" version="1.0.2" provider-name="nieldc">
+	<extension point="xbmc.addon.repository" name="NIELDC KODI Repos">
+		<info compressed="false">https://drive.google.com/uc?export=download&id=0B-zKa-bNFvxeVmJ3dFlfTHZzVU0</info>
+		<checksum>https://drive.google.com/uc?export=download&id=0B-zKa-bNFvxeTGstNGZPdmlLTW8</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/rdctx11/myaddons/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>My KODI Setup Repositories</summary>
+		<description>My KODI Setup Repositories</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.noobsandnerds" name="noobsandnerds Repository" version="1.6" provider-name="noobsandnerds">
+	<extension point="xbmc.addon.repository" name="noobsandnerds Repository">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Home of The Community Portal</summary>
+		<description>Visit www.noobsandnerds.com and become a part of our great family, you get to choose what The Community Portal holds!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.podgod" name="podgod repo" version="1.7" provider-name="podgod">
+	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
+		<info compressed="false">http://offshoregit.com/podgod/repo/addons.xml</info>
+		<checksum>http://offshoregit.com/podgod/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://offshoregit.com/podgod/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from podgod!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.robwebset" name="robwebset's Repository" version="1.0.0" provider-name="robwebset">
+    <extension point="xbmc.addon.repository" name="robwebset's Repository">
+        <info compressed="false">http://raw.github.com/robwebset/repository.robwebset/master/addons.xml</info>
+        <checksum>http://raw.github.com/robwebset/repository.robwebset/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://raw.github.com/robwebset/repository.robwebset/master</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>robwebset's Repository</summary>
+        <description>Repository containing all of robwebset's addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <language></language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <forum></forum>
+        <website></website>
+        <source>https://github.com/robwebset/repository.robwebset</source>
+    </extension>
+</addon>
+
+<addon id="repository.shani" name="Shanis Addon Repository" version="2.8" provider-name="Shani">
+	<extension point="xbmc.addon.repository" name="Shanis Addon Repository">
+    <dir>
+            <info compressed="false">https://raw.github.com/Shani-08/ShaniXBMCWork2/master/addons.xml</info>
+            <checksum>https://raw.github.com/Shani-08/ShaniXBMCWork2/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/Shani-08/ShaniXBMCWork2/master/zips</datadir>
+    </dir>
+
+    <info compressed="false">https://offshoregit.com/Shani-08/main/addons.xml</info>
+    <checksum>https://offshoregit.com/Shani-08/main/addons.xml.md5</checksum>
+    <datadir zip="true">https://offshoregit.com/Shani-08/main/zips</datadir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Addons related to XBMC for Zemtv etc</summary>
+		<description>Go though the plugins and see what you like</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="1.0.5" provider-name="tknorris">
+    <extension point="xbmc.addon.repository" name="tknorris beta testing repository">
+	    <dir>
+	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+	        <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	    </dir>
+        <dir>
+            <info compressed="false">http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml</info>
+            <checksum>http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">http://github.com/norris-addons/tknorris-beta-repo/raw/master/zips/</datadir>
+        </dir>
+        <info compressed="false">http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</info>
+        <checksum>http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>This is used ONLY for beta testing</summary>
+        <description>Beta testing only!!!
+DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
+
+Addons Included
+    - 1Channel (Beta)
+    - 1Channel Thempak
+    - SALTS (Beta)
+    - SALTS Themepak
+    - Trakt (Beta)
+    - Trakt List Manager (Alpha)
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.tknorris.release" name="tknorris Release Repository" version="1.0.2" provider-name="tknorris">
+    <extension point="xbmc.addon.repository" name="tknorris release repository">
+        <dir>
+            <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+            <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+        </dir>
+        <info compressed="false">https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/addons.xml</info>
+        <checksum>https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>This is tknorris's release repository</summary>
+        <description>This repository contains official releases of my Kodi/XBMC addons
+
+Addons Included
+    - Stream All The Sources
+    - 1Channel
+    - 1Channel Themepaks
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.todits.xbmc.addons" name="todits.xbmc Add-ons" version="0.0.3" provider-name="todits.xbmc">
+    <extension point="xbmc.addon.repository" name="todits.xbmc Add-ons">
+        <info compressed="false">https://github.com/todits-xbmc/todits-xbmc-tv/raw/master/addons.xml</info>
+        <checksum>https://github.com/todits-xbmc/todits-xbmc-tv/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/todits-xbmc/todits-xbmc-tv/raw/master/downloads</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Plugins</summary>
+        <description>Install XBMC Plugins</description>
+        <disclaimer>No warranty here.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.unofficialsportsdevil" name="Unofficial SportsDevil Repository" version="1.0.0" provider-name="unofficialsportsdevil">
+ <extension point="xbmc.addon.repository" name="Unofficial SportsDevil Repository">
+  <dir>
+   <info compressed="false">
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml
+   </info>
+   <checksum>
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5
+   </checksum>
+   <datadir zip="true">
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/
+   </datadir>
+  </dir>
+  <info compressed="false">
+   https://offshoregit.com/unofficialsportsdevil/addons.xml
+  </info>
+  <checksum>
+   https://offshoregit.com/unofficialsportsdevil/addons.xml.md5
+  </checksum>
+  <datadir zip="true">https://offshoregit.com/unofficialsportsdevil/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>Unofficial SportsDevil Updates for Kodi</summary>
+  <description>Unofficial SportsDevil Updates for Kodi</description>
+  <platform>all</platform>
+  <forum>
+   https://forums.tvaddons.ag/sportsdevil-addon-for-kodi/
+  </forum>
+ </extension>
+</addon>
+
+<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="1.0.4" provider-name="cubicle-vdo">
+    <extension point="xbmc.addon.repository" name="XBMC Israeli streaming repo for streaming sites">
+        <info compressed="false">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Israeli Streaming Sites</summary>
+        <description>Download and install addons for XBMC Israeli streaming repo for streaming sites</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.xbmchub" name="TVADDONS.ag Addon Repository" version="1.0.6" provider-name="tvaddons.ag">
+	<extension point="xbmc.addon.repository" name="TVADDONS.ag Addon Repository">
+	<dir>
+		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	</dir>
+		<info compressed="false">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best Third Party Addons for Kodi, Brought to you by TVADDONS.ag</summary>
+		<description>The Best Third Party Addons for Kodi, Brought to you by TVADDONS.ag</description>
+		<platform>all</platform>
+                <forum>http://forums.tvaddons.ag/forums/113-TVADDONS-AG-ADDON-REPOSITORY</forum>
+                <website>http://www.tvaddons.ag/</website>
+	</extension>
+</addon>
+
+<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="1.1.1" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+	<extension point="xbmc.addon.repository" name="Mikey1234 Addon Repository">
+		<info compressed="false">http://xtyrepo.me/xunitytalk/addons/addons.xml</info>
+		<checksum>http://xtyrepo.me/xunitytalk/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://xtyrepo.me/xunitytalk/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</summary>
+		<description>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.ytplugin" name="Youtube Addon Repo" version="1.0" provider-name="Jeffrey Frasure">
+	<extension point="xbmc.addon.repository" name="Youtube Addon Repository">
+		<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
+		<checksum>https://github.com/jdf76/repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/jdf76/repository/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodis Youtube Addons</summary>
+                <description>Download and install addons from the Kodi Youtube group. This plugin is not official from Google.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.exodus.artwork" version="1.0.0" name="Exodus Artwork" provider-name="l*m*d*">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Exodus Addon</summary>
+		<description>Themes for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="4.0"
+       provider-name="Team Navi-X and TVADDONS.ag">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.urlresolver"  />
+    <import addon="script.module.t0mm0.common"  />
+    <import addon="script.module.addon.common" optional="false" />
+    <import addon="repository.xbmchub" optional="true" />
+    <import addon="plugin.video.youtube" optional="false" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" >
+    <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary>Media Browser Addon for Kodi</summary>
+    <description>Navi-X is the oldest and most trusted add-on for Kodi, used by millions of people worldwide. You'll find everything from live television to your favourite movies and television shows, easily accessible.</description>
+    <disclaimer>http://www.navixtreme.com/terms/</disclaimer>
+    <forum>http://forums.tvaddons.ag/forums/38-NAVI-X-MEDIA-BROWSER-FOR-KODI</forum>
+    <website>http://www.navixtreme.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="script.pinsentry" name="PinSentry" version="1.1.0" provider-name="robwebset">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="3.3.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="plugin.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="login">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="bg">Защитава съдържанието на Kodi с PIN код</summary>
+		<summary lang="de">Kodi-Inhalt mit einem PIN-Code sichern</summary>
+		<summary lang="el">Προστασία περιεχομένου Kodi με κωδικό PIN</summary>
+		<summary lang="en">Protect Kodi Content With A Pin Code</summary>
+		<summary lang="en_NZ">Protect Kodi Content With A PIN Code</summary>
+		<summary lang="en_US">Protect Kodi Content With A Pin Code</summary>
+		<summary lang="fr">Protéger le contenu de Kodi avec un code PIN</summary>
+		<summary lang="fr_CA">Protéger le contenu de Kodi avec un NIP</summary>
+		<summary lang="he">להגן על תוכן Kodi באמצעות קוד PIN</summary>
+		<summary lang="ko">PIN 코드로 Kodi 콘텐츠를 보호합니다</summary>
+		<summary lang="lt">Apsaugoti Kodi turinį PIN kodu</summary>
+		<summary lang="nl">Bescherm Kodi inhoud met een PINcode</summary>
+		<summary lang="pl">Umożliwia zabezpieczenie zawartości Kodi przy pomocy kodu PIN.</summary>
+		<summary lang="pt_BR">Proteger o Conteúdo do Kodi com um Código Pin</summary>
+		<description lang="bg">Принуждава потребителите да въвеждат определен PIN код за да им бъде предоставен достъп до посочено съдържание.</description>
+		<description lang="de">Von Anwendern die Eingabe der korrekten PIN für den angegebenen Inhalt erzwingen.</description>
+		<description lang="en">Force users to enter the correct pin code for given content.</description>
+		<description lang="en_US">Force users to enter the correct pin code for given content.</description>
+		<description lang="fr">Force les utilisateurs à saisir le bon code PIN pour un contenu donné.</description>
+		<description lang="fr_CA">Forcer les utilisateurs à saisir le bon NIP pour un contenu donné.</description>
+		<description lang="ko">특정 콘텐츠에서 PIN 코드 입력을 요구합니다.</description>
+		<description lang="lt">Reikalauti vartotojų įvesti teisingą PIN kodą pasirinktam turiniui.</description>
+		<description lang="nl">Forceer gebruikers een geldige PIN in te voeren voor gegeven content.</description>
+		<description lang="pl">Wymusza na użytkownikach wprowadzenie poprawnego kodu PIN, przez uzyskaniem dostępu do danej zawartości.</description>
+		<description lang="pt_BR">Força o usuário a entrar o código Pin correto para lhe dar acesso aos conteúdos.</description>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=228451</forum>
+		<source>https://github.com/robwebset/script.pinsentry</source>
+	</extension>
+</addon>
+
+<addon id="script.ptvguide" name="PTV Guide" version="1.2.3" provider-name="nieldc">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">EPG for your favourite Live TV Channels.</summary>
+		<summary lang="en_US">EPG for your favourite Live TV Channels.</summary>
+		<description lang="en">PTV Guide is an electronic program guide that allows you to combine some of your favourite plugins to use for the Live TV Channel links.</description>
+		<description lang="en_US">PTV Guide is an electronic program guide that allows you to combine some of your favourite plugins to use for the Live TV Channel links.</description>
+		<disclaimer lang="en">PTV Guide is based on the original FTV Guide addon by bluezed.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
+
+<addon id="script.video.F4mProxy"
+	     name="F4mProxy"
+	     version="2.1.2"
+	     provider-name="Shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Proxy for f4m</summary>
+    <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+  </extension>
+</addon>
+
+<addon id="xbmc.repo.ivueguide" name="iVue2 TV Guide Repo" version="0.0.1" provider-name="iVue">
+	<extension point="xbmc.addon.repository" name="iVue2 TV Guide Add-ons Repository">
+		<info compressed="false">https://raw.githubusercontent.com/totaltec2014/ivue2/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/totaltec2014/ivue2/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/totaltec2014/ivue2/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install iVue2 TV Guide </summary>
+		<description>Download and install for iVue2 Tv guide addons </description>
+		<disclaimer> Repo for iVue2 Tv guide addon </disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="xxtrucoxx-repo" name="XxTRUCOxX repository" version="0.0.1" provider-name="XxTRUCOxX">
+	<extension point="xbmc.addon.repository" name="XxTRUCOxX Add-on Repository">
+		<info compressed="false">http://raw.github.com/AiWABR/xxtrucoxx-repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/AiWABR/xxtrucoxx-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/AiWABR/xxtrucoxx-repo/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XxTRUCOxX Addon Repository</summary>
+		<description>Watch Porn Online</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
