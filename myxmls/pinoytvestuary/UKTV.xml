@@ -22,81 +22,48 @@
 <title>BBC Four</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbeebiesbbc-four&amp;mode=125&amp;name=CBEEBIES/BBC Four&amp;iconimage=http://static.filmon.com/couch/channels/103/extra_big_logo.png&amp;start=cbeebiesbbc-four&amp;ch_fanart=103</link>
 <thumbnail>http://static.filmon.com/couch/channels/103/extra_big_logo.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>BBC News</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/bbc-news&amp;mode=125&amp;name=BBC News&amp;iconimage=http://static.filmon.com/couch/channels/27/extra_big_logo.png&amp;start=bbc-news&amp;ch_fanart=27</link>
 <thumbnail>http://static.filmon.com/couch/channels/27/extra_big_logo.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>ITV</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv1&amp;mode=125&amp;name=ITV1 &amp;iconimage=http://static.filmon.com/couch/channels/11/extra_big_logo.png&amp;start=itv1&amp;ch_fanart=11</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV1.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>ITV 2</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv2&amp;mode=125&amp;name=ITV2&amp;iconimage=http://static.filmon.com/couch/channels/67/extra_big_logo.png&amp;start=itv2&amp;ch_fanart=67</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV2.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>ITV 3</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv3&amp;mode=125&amp;name=ITV3&amp;iconimage=http://static.filmon.com/couch/channels/26/extra_big_logo.png&amp;start=itv3&amp;ch_fanart=26</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV3.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>ITV 4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv4&amp;mode=125&amp;name=ITV4&amp;iconimage=http://static.filmon.com/couch/channels/101/extra_big_logo.png&amp;start=itv4&amp;ch_fanart=101</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV4.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
-
-<!-- <item>
-<title>ITV 4 Test</title>
-<ftv>101</ftv>
-<thumbnail>http://static.filmon.com/couch/channels/101/extra_big_logo.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
-</item> -->
 
 <item>
 <title>ITV Be</title>
 <link>plugin://plugin.video.F.T.V/?url=3211&amp;mode=125&amp;name=ITVBe&amp;iconimage=http://static.filmon.com/couch/channels/3211/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://static.filmon.com/couch/channels/3211/extra_big_logo.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
 <title>CBS Reality</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbs-reality&amp;mode=125&amp;name=CBS Reality&amp;iconimage=http://static.filmon.com/couch/channels/1808/extra_big_logo.png&amp;start=cbs-reality&amp;ch_fanart=1808</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/CBSReality1.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
@@ -324,5 +291,3 @@
 <info></info>
 <fanart></fanart>
 </item>
-
-</items>
