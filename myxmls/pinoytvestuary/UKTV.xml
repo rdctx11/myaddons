@@ -2,7 +2,7 @@
 
 <item>
 <title>BBC One</title>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/bbc-one&mode=125&name=BBC One&iconimage=http://static.filmon.com/couch/channels/14/extra_big_logo.png&start=bbc-one&ch_fanart=14</link>
+<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/bbc-one&amp;mode=125&amp;name=BBC One&amp;iconimage=http://static.filmon.com/couch/channels/14/extra_big_logo.png&amp;start=bbc-one&amp;ch_fanart=14</link>
 <thumbnail>http://static.filmon.com/couch/channels/14/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
