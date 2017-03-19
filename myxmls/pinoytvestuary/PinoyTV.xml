@@ -11,10 +11,8 @@
 
 <item>
 <title>TV 5</title>
-<link>
-<sublink>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</sublink>
-<sublink>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</sublink>
-</link>
+<link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link>
+<link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/tv5.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -28,15 +26,6 @@
 <genre>News</genre>
 <info></info>
 <fanart>http://cms.interaksyon.com/entertainment/assets/media/2013/01/21-Kapatid-stars-gather-onstage-for-fitting-finale-e1358345770549.jpg</fanart>
-</item>
-
-<item>
-<title>ANC</title>
-<link>plugin://plugin.video.f4mTester/?proxy_for_chunks=False&amp;maxbitrate=0&amp;name=ANC&amp;url=http://abscbnhdlive-f.akamaihd.net/z/anc_1@49740/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=STCNIKFSNLDP&amp;proxy=&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/anc.png</thumbnail>
-<genre>News</genre>
-<info>The ABS-CBN News Channel (or simply ANC) is a global subscription television news network targeted to Filipino audience. It is notable for being the country's first all-news cable network, the country's first 24-hour news network, and the country's first English language news network. The majority of its programs are produced and developed by ABS-CBN News. It is available globally in direct-to-home satellite, cable, IPTV, online video streaming, video on demand and other over-the-top content platforms.</info>
-<fanart>http://4.bp.blogspot.com/-jKcWypmqFIk/Vk8tR8VkRuI/AAAAAAAALWo/zOUwDPP5nGM/s1600/APEC%2BABS-CBN%2BNews%2BChannel%2BKaren%2BDavila%2BCes%2BDrilon%2BCathy%2BYang.jpg</fanart>
 </item>
 
 <item>
@@ -77,15 +66,6 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/untv_zpsbdbed4d5.jpg</fanart>
 </item>
 
-<item>
-<title>DZMM Teleradyo</title>
-<link>plugin://plugin.video.f4mTester/?name=Teleradyo&amp;url=http://abscbnhdlive-f.akamaihd.net/z/teleradyo_1@49742/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=YSPSIWCQOMWT&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/teleradyo.png</thumbnail>
-<genre>News</genre>
-<info>DZMM TeleRadyo (TeleRadyo is a stylised portmanteau of the Filipino words for "television" and "radio") is a 24-hour cable TV channel that broadcasts ABS-CBN's flagship AM radio station DZMM 630. The channel is owned by the ABS-CBN Corporation under the ABS-CBN News and Current Affairs brand, and is available on cable providers throughout the Philippines. DZMM Teleradyo is also included as an exclusive digital subchannel on digital terrestrial television via the ABS-CBN TVplus service. DZMM TeleRadyo is also simulcast via The Filipino Channel</info>
-<fanart>https://upload.wikimedia.org/wikipedia/en/1/16/DZMM_TeleRadyo_2014.jpeg</fanart>
-</item>
-
 
 <item>
 <title>TV Maria</title>
@@ -100,10 +80,8 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>INC TV</title>
-<link>
-<sublink>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</sublink>
-<sublink>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</sublink>
-</link>
+<link>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/inctv2_zpsd8fmcjmx.png</thumbnail>
 <genre>Religion</genre>
 <info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
@@ -141,10 +119,8 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>CLTV 36</title>
-<link>
-<sublink>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</sublink>
-<sublink>plugin://plugin.video.f4mTester/?name=CLTV+36&amp;url=http%3A%2F%2Fcltv36-lh.akamaihd.net%2Fz%2Fcltv36_1%40300961%2Fmanifest.f4m%3Fg%3DEQURJMOSLPIS%26hdcore%3D3.6.0%26plugin%3Djwplayer-3.6.0.0&amp;mode=play</sublink>
-</link>
+<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?name=CLTV+36&amp;url=http%3A%2F%2Fcltv36-lh.akamaihd.net%2Fz%2Fcltv36_1%40300961%2Fmanifest.f4m%3Fg%3DEQURJMOSLPIS%26hdcore%3D3.6.0%26plugin%3Djwplayer-3.6.0.0&amp;mode=play</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cltv36a_zpshzvn1yd5.png</thumbnail>
 <genre>Local News</genre>
 <info>Central Luzon Television is a regional free TV in the Philippines. It focusses on a centralized media coverage, starting off with Pampanga and the provinces of Central Luzon or Region III. These provinces include Nueva Ecija, Bulacan, Bataan, Tarlac, Zambales and Aurora. CLTV can also seen in some areas in Metro Manila, Rizal and Cavite via a weak signal. CLTV 36 can be seen from 8:00AM to 10:30PM (Mondays to Sundays)</info>
@@ -174,9 +150,38 @@ Slogan: "One Nation, One Station"</info>
 <fanart>https://i.ytimg.com/vi/i1m99Mc31k0/maxresdefault.jpg</fanart>
 </item>
 
+<!-- <item>
+<title>ANC</title>
+<link>plugin://plugin.video.f4mTester/?proxy_for_chunks=False&amp;maxbitrate=0&amp;name=ANC&amp;url=http://abscbnhdlive-f.akamaihd.net/z/anc_1@49740/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=STCNIKFSNLDP&amp;proxy=&amp;mode=play</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/anc.png</thumbnail>
+<genre>News</genre>
+<info>The ABS-CBN News Channel (or simply ANC) is a global subscription television news network targeted to Filipino audience. It is notable for being the country's first all-news cable network, the country's first 24-hour news network, and the country's first English language news network. The majority of its programs are produced and developed by ABS-CBN News. It is available globally in direct-to-home satellite, cable, IPTV, online video streaming, video on demand and other over-the-top content platforms.</info>
+<fanart>http://4.bp.blogspot.com/-jKcWypmqFIk/Vk8tR8VkRuI/AAAAAAAALWo/zOUwDPP5nGM/s1600/APEC%2BABS-CBN%2BNews%2BChannel%2BKaren%2BDavila%2BCes%2BDrilon%2BCathy%2BYang.jpg</fanart>
+</item> -->
+
+<!-- <item>
+<title>DZMM Teleradyo</title>
+<link>plugin://plugin.video.f4mTester/?name=Teleradyo&amp;url=http://abscbnhdlive-f.akamaihd.net/z/teleradyo_1@49742/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=YSPSIWCQOMWT&amp;mode=play</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/teleradyo.png</thumbnail>
+<genre>News</genre>
+<info>DZMM TeleRadyo (TeleRadyo is a stylised portmanteau of the Filipino words for "television" and "radio") is a 24-hour cable TV channel that broadcasts ABS-CBN's flagship AM radio station DZMM 630. The channel is owned by the ABS-CBN Corporation under the ABS-CBN News and Current Affairs brand, and is available on cable providers throughout the Philippines. DZMM Teleradyo is also included as an exclusive digital subchannel on digital terrestrial television via the ABS-CBN TVplus service. DZMM TeleRadyo is also simulcast via The Filipino Channel</info>
+<fanart>https://upload.wikimedia.org/wikipedia/en/1/16/DZMM_TeleRadyo_2014.jpeg</fanart>
+</item> -->
+
 <item>
 <title>GMA 7</title>
 <link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
+<genre>Entertainment, News, Public Service</genre>
+<info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
+
+Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
+</item>
+
+<item>
+<title>Test</title>
+<link>plugin://plugin.video.pinoytv/?channel=channels.abscbn&amp;id=tvpatrol&amp;name=TV%20Patrol&amp;play=0</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
