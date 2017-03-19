@@ -1,13 +1,6 @@
 ﻿<items>
 
 <item>
-<title>Test Channel</title>
-<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
-<thumbnail>http://png.clipart.me/graphics/thumbs/102/television-with-test-image-closeup_102203593.jpg</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
-</item>
-
-<item>
 <title>ABC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=ABC</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abc_zps2c41fa79.png</thumbnail>
@@ -65,6 +58,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>National Geographic</title>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dNational%2bGeographic%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fqzsfigd1y3bgbhs%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dNational%2bGeographic%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d68872%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzsfigd1y3bgbhs_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzsfigd1y3bgbhs_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fe08dd4627a3cf468a30d8a357956d6f8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe08dd4627a3cf468a30d8a357956d6f8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/natgeo_zps38692c0b.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
@@ -74,6 +69,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>Discovery HD</title>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dDiscovery%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fishyd3sopok3p27%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dDiscovery%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d69112%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discovery_zps3740a025.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
@@ -198,6 +195,13 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <genre></genre>
 <info></info>
 <fanart></fanart>
+</item>
+
+<item>
+<title>Test Channel</title>
+<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
+<thumbnail>http://png.clipart.me/graphics/thumbs/102/television-with-test-image-closeup_102203593.jpg</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
 </item>
 
 <item>
