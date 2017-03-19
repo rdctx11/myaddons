@@ -186,7 +186,7 @@
 
 <addon id="plugin.video.my-live-tv"
        name="My Live TV"
-       version="1.1.5"
+       version="1.1.6"
        provider-name="nieldc">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -263,7 +263,7 @@
 
 <addon id="plugin.video.pinoytv-live"
        name="Pinoy TV Live!"
-       version="1.1.2"
+       version="1.1.6"
        provider-name="nieldc">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
