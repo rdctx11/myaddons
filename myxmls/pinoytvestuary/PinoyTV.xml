@@ -56,7 +56,7 @@ Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Al
 
 <item>
 <title>UNTV 37</title>
-<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream  swfUrl=http://www.untvweb.com/players/player.swf live=true timeout=15 pageUrl=http://www.untvweb.com/live-stream/</link>
+<link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/untv_zpsefe47aec.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.
@@ -107,7 +107,12 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>RHTV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Pf6FraTjt4U</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A</page>
+</regex>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rhtv_zps3ad444e7.png</thumbnail>
 <genre>News</genre>
 <info>DZRH Television or RHTV is a 24-hour cable news channel of Manila Broadcasting Company in the Philippines. Its programs are primarily from MBC's flagship AM station DZRH. RHTV can be seen on Cablelink channel 3, and 54 cable TV affiliates nationwide, as well as live internet TV streaming on their official website.
@@ -169,6 +174,7 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>GMA 7</title>
+<link>http://iphone-streaming.ustream.tv/uhls/21475190/streams/live/iphone/playlist.m3u8</link>
 <link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
