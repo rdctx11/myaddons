@@ -30,13 +30,12 @@
 
 <item>
 <title>People's Television</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/user/PTVPhilippines/featured</page>
 </regex>
-</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ptv_zpsbd9ff817.png</thumbnail>
 <genre>News, Public Service</genre>
 <info>People's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.
@@ -138,12 +137,12 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>Radio Television Malacanang</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/user/RTVMalacanang/featured</page>
-</regex></link>
+</regex>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rtvm_zpsvlluannl.png</thumbnail>
 <genre>News, Public Service</genre>
 <info>PBS-RTVM is open and working 24 hours a day, 7 days a week, rain or shine. Its personnel are among the most dedicated workers in government, reporting for duty in the late hours of the night and the wee hours of the morning – packing heavy broadcast equipment, traveling to wherever duty calls in good roads and in bad. The main strength of the men and women of RTVM is their professionalism – working with minimum supervision and delivering the best product within the deadline required.</info>
@@ -179,7 +178,7 @@ Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>Test</title>
 <link>plugin://plugin.video.pinoytv/?channel=channels.abscbn&amp;id=tvpatrol&amp;name=TV%20Patrol&amp;play=0</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
@@ -188,6 +187,6 @@ Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
 
 Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
-</item>
+</item> -->
 
 </items>

@@ -2,7 +2,7 @@
 
 <item>
 <title>BBC One</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbbc-one&mode=125&name=BBC+One&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F14%2Fextra_big_logo.png&start=bbc-one&ch_fanart=14</link>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbbc-one&amp;mode=125&amp;name=BBC+One&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F14%2Fextra_big_logo.png&amp;start=bbc-one&amp;ch_fanart=14</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBBC%2bOne%26url%3dmpd%253A%252F%252Fa8f14a834d2d09054715803924e798b2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBBC%2bOne%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa8f14a834d2d09054715803924e798b2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://static.filmon.com/couch/channels/14/extra_big_logo.png</thumbnail>
 </item>
