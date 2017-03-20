@@ -2,7 +2,7 @@
 
 <item>
 <title>CNN Philippines</title>
-<link>rtmp://54.251.134.121/live playpath=15273.sdp swfUrl=http://cnnphilippines.com//static/flash/fl6/flowplayer.swf live=true timeout=15 pageUrl=http://cnnphilippines.com/</link>
+<link>rtmp://54.251.134.121/live/15273.sdp live=true timeout=15</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</thumbnail>
 <genre>News</genre>
 <info>CNN Philippines (abbreviated CNN PH) is an all-news and current affairs channel in the Philippines. It is owned and operated by Nine Media Corporation together with Radio Philippines Network (RPN) as the main content provider under the license of US-based media company Turner Broadcasting System (a division of Time Warner). Replacing 9TV, CNN Philippines is the local franchise of the Cable News Network (CNN).</info>
@@ -89,7 +89,7 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>Ang Dating Daan</title>
-<link>rtmp://ocatv.mcgi.me/vodtv playpath=247_tag swfUrl=http://angdatingdaan.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://angdatingdaan.org/100player_tag.html</link>
+<link>rtmp://ocatv.mcgi.me/vodtv/247_tag live=true timeout=15</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ADD.png</thumbnail>
 <genre>Religion</genre>
 <info>Ang Dating Daan (Tagalog for The Old Path) is a religious radio and television program in the Philippines produced by the Members of the Church of God International. It is primarily hosted by Eli Soriano.  The program can also be viewed on the Internet through the Members Church of God International websites and on YouTube (selected episodes). It has been recognized as one of the longest-running religious programs in the Philippines.</info>
@@ -98,7 +98,7 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>The Old Path</title>
-<link>rtmp://stream.mcgi.org.au/vodtv/247_en playpath=247_en swfUrl=http://www.theoldpath.tv/players/player.swf live=true timeout=15 pageUrl=http://www.theoldpath.tv/</link>
+<link>rtmp://stream.mcgi.org.au/vodtv/247_en live=true timeout=15</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/top_zpsjp9owqof.png</thumbnail>
 <genre>Religion</genre>
 <info>TheOldPath.TV is the English format website of the Ang Dating Daan, the award-winning religious program hosted by Bro. Eli Soriano. Like its companion the AngDatingDaan.org., this online resource provides users an accessible means to watch the 24-hour English broadcast of the program and video library of answered questions by Bro Eli from the question and answer segment of Bible Expositions.</info>
