@@ -38,28 +38,28 @@
 <title>ITV</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv1&amp;mode=125&amp;name=ITV1 &amp;iconimage=http://static.filmon.com/couch/channels/11/extra_big_logo.png&amp;start=itv1&amp;ch_fanart=11</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV1%26url%3dmpd%253A%252F%252Fcc0b763f7c5ce91a396c0ef4fa529df9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcc0b763f7c5ce91a396c0ef4fa529df9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV1.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV1_zpsf5kgqvmg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 2</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv2&amp;mode=125&amp;name=ITV2&amp;iconimage=http://static.filmon.com/couch/channels/67/extra_big_logo.png&amp;start=itv2&amp;ch_fanart=67</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV2%26url%3dmpd%253A%252F%252F28d16f04d9b55d2ea2f826735ddffb85.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F28d16f04d9b55d2ea2f826735ddffb85.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV2.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV2_zpsrsuyz1jv.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 3</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv3&amp;mode=125&amp;name=ITV3&amp;iconimage=http://static.filmon.com/couch/channels/26/extra_big_logo.png&amp;start=itv3&amp;ch_fanart=26</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV3%26url%3dmpd%253A%252F%252Fef4aa10e04cfa8191ff3253dc8184bc2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV3%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fef4aa10e04cfa8191ff3253dc8184bc2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV3.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV3_zpsrdef5kku.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv4&amp;mode=125&amp;name=ITV4&amp;iconimage=http://static.filmon.com/couch/channels/101/extra_big_logo.png&amp;start=itv4&amp;ch_fanart=101</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV4%26url%3dmpd%253A%252F%252F2a2714a7d955d8810a21bb3f195cc0d9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2a2714a7d955d8810a21bb3f195cc0d9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ITV4.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV4_zpsvv1nsedx.png</thumbnail>
 </item>
 
 <item>
@@ -71,14 +71,14 @@
 <item>
 <title>CBS Reality</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbs-reality&amp;mode=125&amp;name=CBS Reality&amp;iconimage=http://static.filmon.com/couch/channels/1808/extra_big_logo.png&amp;start=cbs-reality&amp;ch_fanart=1808</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/CBSReality1.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBSReality1_zpsaalkahdy.png</thumbnail>
 </item>
 
 <item>
 <title>CBS Drama</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbs-drama&amp;mode=125&amp;name=CBS Drama&amp;iconimage=http://static.filmon.com/couch/channels/1805/extra_big_logo.png&amp;start=cbs-drama&amp;ch_fanart=1805</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%2bDrama%26url%3dmpd%253A%252F%252Fb0f8f6e8535e082a1d0e8b9c7366e95f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%2bDrama%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb0f8f6e8535e082a1d0e8b9c7366e95f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/CBS-Drama.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Drama_zpsct1xalby.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -88,7 +88,7 @@
 <title>CBS Action</title>
 <link>plugin://plugin.video.F.T.V/?url=1952&amp;mode=125&amp;name=CBS Action (1952)&amp;iconimage=http://static.filmon.com/couch/channels/1952/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%2bAction%26url%3dmpd%253A%252F%252Faf742351710d35069d31eb91f646cf56.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%2bAction%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Faf742351710d35069d31eb91f646cf56.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/CBS-Action.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Action_zpshhrkhet9.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -98,7 +98,7 @@
 <title>Channel 4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/channel-4&amp;mode=125&amp;name=Channel 4 &amp;iconimage=http://static.filmon.com/couch/channels/2/extra_big_logo.png&amp;start=channel-4&amp;ch_fanart=2</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dChannel%2b4%26url%3dmpd%253A%252F%252Fe77d2afa4363dad35c713745802d7bee.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dChannel%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe77d2afa4363dad35c713745802d7bee.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Channel4.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel4_zps2b4wfcll.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -108,7 +108,7 @@
 <title>Channel 5</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/channel-5&amp;mode=125&amp;name=Channel 5&amp;iconimage=http://static.filmon.com/couch/channels/22/extra_big_logo.png&amp;start=channel-5&amp;ch_fanart=22</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dChannel%2b5%26url%3dmpd%253A%252F%252F5c2e49e212275e83ce788e1a6da3c438.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dChannel%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5c2e49e212275e83ce788e1a6da3c438.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Channel5.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel5_zpszzddrdqi.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -118,7 +118,7 @@
 <title>E4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/e4&amp;mode=125&amp;name=E4&amp;iconimage=http://static.filmon.com/couch/channels/65/extra_big_logo.png&amp;start=e4&amp;ch_fanart=65</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE4%26url%3dmpd%253A%252F%252F2157d56d6aff208ae90c869526290656.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2157d56d6aff208ae90c869526290656.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/E4.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E4_zpsscgqicsd.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -127,7 +127,7 @@
 <item>
 <title>More 4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/more4&amp;mode=125&amp;name=More4&amp;iconimage=http://static.filmon.com/couch/channels/97/extra_big_logo.png&amp;start=more4&amp;ch_fanart=97</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/More4.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/More4_zpsmmjlgdxo.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -136,7 +136,7 @@
 <item>
 <title>Dave</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/dave&amp;mode=125&amp;name=Dave&amp;iconimage=http://static.filmon.com/couch/channels/370/extra_big_logo.png&amp;start=dave&amp;ch_fanart=370</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Dave.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Dave_zpsacdyn91z.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -145,7 +145,7 @@
 <item>
 <title>Quest</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/quest&amp;mode=125&amp;name=QUEST&amp;iconimage=http://static.filmon.com/couch/channels/2707/extra_big_logo.png&amp;start=quest&amp;ch_fanart=2707</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/QUEST.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/QUEST_zpsmijnkfjy.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -155,7 +155,7 @@
 <title>Film 4</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/film-4&amp;mode=125&amp;name=Film 4&amp;iconimage=http://static.filmon.com/couch/channels/13/extra_big_logo.png&amp;start=film-4&amp;ch_fanart=13</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFilm%2b4%26url%3dmpd%253A%252F%252F0f2c179db3d0e356f8615dde513bc4aa.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dFilm%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0f2c179db3d0e356f8615dde513bc4aa.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Film4.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Film4_zps85mwokqu.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -218,7 +218,7 @@
 <item>
 <title>E! Entertainment</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DE%2521%2BEntertainment%26url%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DE%2521%2BEntertainment%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/E%21.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E_zpsropnjzl0.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -227,7 +227,7 @@
 <item>
 <title>National Geographic UK</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%2bUK%26url%3dmpd%253A%252F%252Ff3f75dee3b4ed4497dfa412079c3a6f9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff3f75dee3b4ed4497dfa412079c3a6f9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/natgeo_zps38692c0b.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoUK_zpszvanuivv.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/natgeo_fanart_zps805bd99c.jpg</fanart>
@@ -236,7 +236,7 @@
 <item>
 <title>Discovery Channel UK</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%2bUK%26url%3dmpd%253A%252F%252Fc283a671e1189d568500d494ff8cd77d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc283a671e1189d568500d494ff8cd77d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discovery_zps3740a025.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryChannelUK_zpsg8monkro.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discovery_fanart_zps6f793690.jpg</fanart>
@@ -246,7 +246,7 @@
 <item>
 <title>Discovery Science UK</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bScience%2b%2528version%2bin%2bEnglish%2529%26url%3dmpd%253A%252F%252F344fa3289867fdacd0f60047a790601b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bScience%2b%2528version%2bin%2bEnglish%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F344fa3289867fdacd0f60047a790601b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/DiscoveryScienceUK.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryScienceUK_zpsjbaj7ymm.png</thumbnail>
 <genre>Science, Documentary</genre>
 <info>Science is an American digital cable and satellite television network that is owned by Discovery Communications. The channel features programming focusing on the fields of wilderness survival, ufology, manufacturing, construction, technology, space, prehistory and animal science.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discoscience_fanart_zpszz6dkani.jpg</fanart>
@@ -255,7 +255,7 @@
 <item>
 <title>Animal Planet UK</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAnimal%2bPlanet%2bUK%26url%3dmpd%253A%252F%252Fb39899a4d7a8537a3fb9a4b36a364642.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAnimal%2bPlanet%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb39899a4d7a8537a3fb9a4b36a364642.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/animalplanet_zps83d95a68.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/AnimalPlanetUK_zps9sj0lcix.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Animal Planet is an American basic cable and satellite television channel owned by Discovery Communications. Originally focused on more educationally-based television shows, the network has featured more reality programming since the late 2000s. It is available throughout the United States, as well as in over 70 countries around the world. Country-specific versions of the channel have been created in Canada, India, Japan, Taiwan and other countries.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/animalplanet_fanart_zps0f89825d.jpg</fanart>
@@ -264,7 +264,7 @@
 <item>
 <title>Discovery History</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BHistory%2B%2528UK%2529%26url%3Dmpd%253A%252F%252F1e28a146727a9169053fe4759def0e47.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BHistory%2B%2528UK%2529%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F1e28a146727a9169053fe4759def0e47.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/DiscoveryHistory.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryHistory_zpsijgs0geb.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -273,7 +273,7 @@
 <item>
 <title>Discovery Shed</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BShed%26url%3Dmpd%253A%252F%252F5143132d4f880ee96e11f59f169f7770.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BShed%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F5143132d4f880ee96e11f59f169f7770.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/DiscoveryShed.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/discovery-shed_zpsyjmpkljy.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -282,7 +282,7 @@
 <item>
 <title>Discovery Turbo</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BTurbo%2BUK%26url%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BTurbo%2BUK%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/DiscoveryTurbo.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryTurbo_zpskzappd9x.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -316,63 +316,63 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Crime</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26url%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacrime_zpsg8yacrae.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Family</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bFamily%26url%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bFamily%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemafamily_zpsyt6hds18.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Drama</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26url%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadrama_zpsxz8jnqq5.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Premiere</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bPremiere%26url%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bPremiere%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemapremiere_zps318783ts.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema SciFi</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSci-fi%2bHorror%26url%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSci-fi%2bHorror%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemascifi_zps8usxofdu.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Showcase</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bShowcase%26url%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bShowcase%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemashowcase_zps2tlbf3bs.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sky Cinema Select</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSelect%26url%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSelect%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaselect_zpskodhwbiw.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
