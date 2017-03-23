@@ -3,27 +3,16 @@
 <item>
 <title>MOR 101.9 For Life</title>
 <link>rtmp://cp106256.live.edgefcs.net:443/live playpath=Tambayan1019@37120 swfUrl=http://admin.brightcove.com/viewer/us20130919.1302/federatedVideoUI/BrightcovePlayer.swf?uid=1379681106897 pageUrl=http://www.mor1019.com/home.aspx live=1 timeout=15</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/mor101_zps577d0089.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/mor101_zps577d0089.png</thumbnail>
 <genre>Radio / Music</genre>
 <info>DWRR-FM (101.9 FM) – branded as MOR 101.9 For Life! Manila – is the radio station of the ABS–CBN Corporation in the Philippines. MOR 101.9 Manila operates 24 hours a day that plays OPM, hip-hop, R&B, K-pop, J-pop, and foreign hit songs from the Philippines, USA, UK, Japan, South Korea, and around the world except on Sundays where it signs-off at midnight to 4:00 AM and except Holy Week of each year where it signs-off at midnight of Maundy Thursday until 4:00 AM of Easter Sunday.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/MOR101_zpseee3fe23.jpg</fanart>
 </item>
 
 <item>
-<title>RHTV</title>
-<link>rtsp://bayantel-ss.dagupan.com/dzrhvideo</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rhtv_zps3ad444e7.png</thumbnail>
-<genre>News</genre>
-<info>DZRH Television or RHTV is a 24-hour cable news channel of Manila Broadcasting Company in the Philippines. Its programs are primarily from MBC's flagship AM station DZRH. RHTV can be seen on Cablelink channel 3, and 54 cable TV affiliates nationwide, as well as live internet TV streaming on their official website.
-
-Slogan: "One Nation, One Station"</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/rhtv_zps92ede1c8.jpg</fanart>
-</item>
-
-<item>
 <title>Love Radio 90.7 Mhz</title>
 <link>http://icecast.eradioportal.com:8000/loveradio_manila</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/loveradio1_zpscd537761.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/loveradio1_zpscd537761.png</thumbnail>
 <genre>Love Songs, OPM Hits, Top Hits</genre>
 <info>Love Radio Manila DZMB 90.7 MHz likes to play Entertainment, Love Songs, OPM Hits, Top Hits and more! This station is the flagship FM station of Manila Broadcasting Company in the Philippines. The station’s studio is located at the Star City, CCP Complex, Pasay City. Love Radio was previously known by its call letters DZMB when it began broadcasts on the FM band in 1973 from its first broadcast days on the AM band. Back then, it played mainstream pop, later gravitating to easy listening music. As DZMB, it also introduced and institutionalized the deep-voiced radio announcer Dante Luzon, which later became its station manager up to the time that the station reformatted to this present programming.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/LoveRadio_zps6f9cd7cb.jpg</fanart>
@@ -32,7 +21,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>Yes FM 101.1</title>
 <link>http://icecast.eradioportal.com:8000/yesfm_manila</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/yesfm_zpsb171a787.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/yesfm_zpsb171a787.png</thumbnail>
 <genre>OPM, Pop music</genre>
 <info>DWYS (101.1 FM), currently operating as 101.1 YES! FM, is a commercial Hot AC, and OPM radio station in Metro Manila, licensed to Pasay City. It was owned by Pacific Broadcasting Systems (a wholly owned subsidiary of Manila Broadcasting Company) in the Philippines. The station's studio is located at the CCP Complex, Pasay City, and its transmitter is located atop the BSA Twin Tower in Mandaluyong City, sharing the same site with 90.7 Love Radio & 96.3 Easy Rock. YES! FM 101.1 operates 24-hours a day that plays Pop music, OPM, Asian Pop, and the "Philippines' Best Mix Of Music" from the 1990s till present-day.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/YesFM_zpsf5ce3e6c.jpg</fanart>
@@ -41,7 +30,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>CyberPinoy Radio</title>
 <link>http://cyberpinoyradio.net:8000</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cyberpinoy_zps490f0507.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/cyberpinoy_zps490f0507.png</thumbnail>
 <genre>Pure OPM</genre>
 <info>CyberPinoy Network is a Filipino Network site that connects other Pinoys around the world. Their goal is to unite all pinoy worldwide. Sharing thoughts, interests and gain friends. Playing Pure Filipino Music 24/7 promoting Pinoy Artists Around the Globe CyberPinoy Radio has certainly become a leader in radio world of Philippine. CyberPinoy Radio is one of the first choices in young generation. CyberPinoy Radio official web address is cyberpinoy.net Founded in 25th May, 2005.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/CyberPinoy_zps50bab0a9.jpg</fanart>
@@ -50,7 +39,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>Rakista Radio</title>
 <link>http://rakista.com:8000/listen128.mp3</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/rakistaradio_zps4cc7e256.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/rakistaradio_zps4cc7e256.png</thumbnail>
 <genre>Pinoy Rock Music</genre>
 <info>Rakista Radio is the one and only online radio station that plays 100% Pinoy Rock! Listen to thousands of music for free from underground and mainstream Filipino bands around the globe and enjoy 100% Pinoy Rock, 24/7!
 	Rakista Radio is brought to you by the no.1 and biggest Pinoy online community, Rakista.com.</info>
@@ -60,7 +49,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>DZMM 630kHz</title>
 <link>rtmp://cp106256.live.edgefcs.net:443/live playpath=LS_DZMMAudio@88953 swfUrl=http://admin.brightcove.com/viewer/us20130919.1302/federatedVideoUI/BrightcovePlayer.swf?uid=1379676291319 pageUrl=http://dzmm.abs-cbnnews.com/page/audiostreaming.html live=1 timeout=15</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/dzmm_zpsf7462296.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/dzmm_zpsf7462296.png</thumbnail>
 <genre>News</genre>
 <info>DZMM (630 AM) - operating as ABS-CBN DZMM Radyo Patrol 630 - is a 24-hour news/talk radio station in Mega Manila market. It is owned by ABS-CBN Corporation in the Philippines. The station's studio is located at the ABS-CBN Broadcast Center, Sgt. Esguerra Ave., cor. Mo. Ignacia St., Brgy. South Triangle, Diliman, Quezon City, while the transmitter is located at F. Navarette St., Brgy. Panghulo, Obando, Bulacan.
 	
@@ -71,7 +60,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>Radyo 5 News FM</title>
 <link>http://ferrari01.cignal.tv/radyo5/radyo5/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/radyo5_zpsfwrjhdl0.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/radyo5_zps19sehtcq.png</thumbnail>
 <genre>Radio / News</genre>
 <info>DWFM (92.3 FM) – branded Radyo5 92.3 News FM – is an news/talk radio station serving the Mega Manila market. The station is owned by the Nation Broadcasting Corporation, a subsidiary of PLDT Beneficial Trust Fund's broadcasting division MediaQuest Holdings. The station's all-news format is co-branded with News5, the news department of the television channel TV5.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/radyo5_zpsb3337766.jpg</fanart>
@@ -80,7 +69,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>Radyo Veritas</title>
 <link>http://phoenix-ss.dagupan.com/radyoveritas</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/veritas846_zpsdw4kic1e.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/veritas846_zpsycq7jv1d.png</thumbnail>
 <genre>Radio / Religion</genre>
 <info>Radio Veritas (DZRV 846 kHz Metro Manila) is a 24-hour Roman Catholic AM station owned and operated by the Archdiocese of Manila through the Global Broadcasting System in the Philippines.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/veritas_zps60f317df.jpg</fanart>
@@ -89,7 +78,7 @@ Slogan: "One Nation, One Station"</info>
 <item>
 <title>DWIZ 882</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/3834592/streams/live/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/dwiz_zpsbae0midj.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/dwiz_zpsbae0midj.png</thumbnail>
 <genre>Radio / News</genre>
 <info>DWIZ (882 kHz Metro Manila) is an AM station of Aliw Broadcasting Corporation in the Philippines. At present, DWIZ is considered as one of the top stations in the AM band in Metro Manila and is recognized as the best AM radio station in the Philippines by the Kapisanan ng mga Brodkaster ng Pilipinas or KBP.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/dwiz_zps48aa008a.jpg</fanart>
