@@ -3,7 +3,7 @@
 <item>
 <title>ABC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=ABC</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abc_zps2c41fa79.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/abc_zps2c41fa79.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>The American Broadcasting Company (abbreviated ABC, stylized in the logo as abc since 1962) is an American commercial broadcast television network. Throughout its history, ABC has supported its financial operations by diversifying into the press, the publishing industry, the operation of theaters, and filmmaking. Many of the company's assets in these fields have been sold to other entities, and since 2007, when ABC Radio (also known as "Cumulus Media Networks") was sold to Citadel Broadcasting, ABC has reduced its broadcasting operations almost exclusively to television. It is the world's fifth-oldest major broadcasting media network.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
@@ -12,7 +12,7 @@
 <item>
 <title>CBS</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CBS</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cbs_zpsf3065408.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/CBSnew_zpsn9biinpc.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>CBS is an American commercial broadcast television network, which started as a radio network; it continues to operate a radio network and a portfolio of television and radio stations in large and mid-sized markets. The name is derived from the initials of the network's former name, Columbia Broadcasting System. The company's headquarters is in New York City, with major production facilities and operations in New York City and Los Angeles.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/cbs_fanart_zpsd26a91a9.jpg</fanart>
@@ -21,7 +21,7 @@
 <item>
 <title>The CW</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CW</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cw1_zpse676005c.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/cw1_zpse676005c.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>The CW Television Network (The CW) is an American broadcast television network that is operated by The CW Network, LLC, a limited liability joint venture between CBS Corporation, the former owners of the United Paramount Network (UPN), and the Warner Bros. Entertainment subsidiary of Time Warner, former majority owner of The WB Television Network. The "CW" name is derived from the first letters of the names of these corporations (CBS and Warner Bros.).</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/cw_fanart_zps31a0356d.jpg</fanart>
@@ -30,7 +30,7 @@
 <item>
 <title>FOX</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=FOX</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/fox_zpse9e43207.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/fox_zpse9e43207.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The Fox Broadcasting Company is an American commercial broadcast television network that is owned by the Fox Entertainment Group division of 21st Century Fox. It is the third largest major television network in the world, based on total revenues, assets and international coverage.
 The network is named after sister company 20th Century Fox, and indirectly for producer William Fox, who founded one of the movie studio's predecessors, Fox Film. Fox is a member of the North American Broadcasters Association and the National Association of Broadcasters.</info>
@@ -40,7 +40,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>NBC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=NBC</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/nbc_zpse64a81fb.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/nbc_zpse64a81fb.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The National Broadcasting Company (NBC) is an American commercial broadcast television and radio network. It is headquartered in the GE Building in New York City's Rockefeller Center, with additional major offices near Los Angeles and in Chicago. NBC is sometimes referred to as the "Peacock Network", due to its stylized peacock logo, which was originally created for its color broadcasts.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/nbc_fanart1_zps2c1f8f60.jpg</fanart>
@@ -49,7 +49,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>My Network TV</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=MY9</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/mynetwork_zps786dc18c.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/mynetwork_zps786dc18c.png</thumbnail>
 <genre>News, Talk, Drama Series</genre>
 <info>MyNetworkTV (unofficially abbreviated as MyTV, MyNet, MNT or MNTV, and sometimes referred to as "My Network") is an American television network/syndication service that is owned by the Fox Entertainment Group division of 21st Century Fox, and operated by division subsidiaries Fox Television Stations and 20th Television. MyNetworkTV began operations on September 5, 2006 with an initial affiliate lineup covering about 96% of the country, most of which consisted of stations that were former affiliates of The WB and UPN that did not join the successor of those two networks, The CW.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/mytv_fanart_zpsd33c00dd.jpg</fanart>
@@ -60,7 +60,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dNational%2bGeographic%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fqzsfigd1y3bgbhs%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dNational%2bGeographic%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d68872%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzsfigd1y3bgbhs_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzsfigd1y3bgbhs_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fe08dd4627a3cf468a30d8a357956d6f8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe08dd4627a3cf468a30d8a357956d6f8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%26url%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fbe2fa358e4f1c9a0ee833aa15f829f81.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/natgeo_zps38692c0b.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/NationalGeographic_zpsx9kxutjm.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/natgeo_fanart_zps805bd99c.jpg</fanart>
@@ -71,7 +71,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dDiscovery%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fishyd3sopok3p27%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dDiscovery%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d69112%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discovery_zps3740a025.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/DiscoveryUSA_zpsklqfivlo.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discovery_fanart_zps6f793690.jpg</fanart>
@@ -81,7 +81,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>Science Channel</title>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dScience%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252F00t250wv1d4ltib%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dScience%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d68871%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/discoscience2_zpsgwcgoyum.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/discoscience2_zpsgwcgoyum.png</thumbnail>
 <genre>Science, Documentary</genre>
 <info>Science is an American digital cable and satellite television network that is owned by Discovery Communications. The channel features programming focusing on the fields of wilderness survival, ufology, manufacturing, construction, technology, space, prehistory and animal science.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discoscience_fanart_zpszz6dkani.jpg</fanart>
@@ -90,7 +90,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>Animal Planet</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DAnimal%2BPlanet%26url%3Dmpd%253A%252F%252Fa0f8ddb8c8251a68f136648b32c0f62d.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DAnimal%2BPlanet%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fa0f8ddb8c8251a68f136648b32c0f62d.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/animalplanet_zps83d95a68.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/animalplanet_zps83d95a68.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Animal Planet is an American basic cable and satellite television channel owned by Discovery Communications. Originally focused on more educationally-based television shows, the network has featured more reality programming since the late 2000s. It is available throughout the United States, as well as in over 70 countries around the world. Country-specific versions of the channel have been created in Canada, India, Japan, Taiwan and other countries.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/animalplanet_fanart_zps0f89825d.jpg</fanart>
@@ -100,7 +100,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>History</title>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dHistory%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fdhp0rpd116qyyj6%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dHistory%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d39949%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdhp0rpd116qyyj6_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdhp0rpd116qyyj6_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bChannel%2bUSA%26url%3dmpd%253A%252F%252Fb66373f0ab09000b1acd06576bc91eeb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHistory%2bChannel%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb66373f0ab09000b1acd06576bc91eeb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/history_zpszw43s0zr.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/history_zpszw43s0zr.png</thumbnail>
 <genre>Education, Historical Events</genre>
 <info>History is an American basic cable and satellite television channel that is owned by A+E Networks, a joint venture between the Hearst Corporation and the Disney–ABC Television Group division of The Walt Disney Company.[CR]Programming on History has covered a wide range of historical periods and topics, while similar themed topics are often organized into themed weeks or daily marathons. Subjects include warfare, inventions, aviation, mechanical and civil engineering, technology, mythical creatures, monsters, UFO, conspiracy theories, aliens, religious beliefs, disaster scenarios, apocalyptic "after man" scenarios, doomsday, and 2012 superstitions. Programming also includes mainstream reality television-style shows involving truck drivers, alligator hunters, pawn stores, antique and collectible "pickers", car restorers, and others. Occasionally some programs compare contemporary culture and technology with that of the past.</info>
 <fanart>https://i.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</fanart>
@@ -110,7 +110,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>HGTV</title>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dHGTV%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fgj65q2rg18tpmut%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dHGTV%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d52053%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fgj65q2rg18tpmut_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fgj65q2rg18tpmut_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHouse%2b%2526%2bGarden%2bTelevision%26url%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHouse%2b%2526%2bGarden%2bTelevision%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/HGTV_zpsmy5lpjqs.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HGTV_zpsmy5lpjqs.png</thumbnail>
 <genre>Education, Home Improvement, Gardening</genre>
 <info>HGTV (Home & Garden Television) is an American basic cable and satellite television channel that is owned by Scripps Networks Interactive. HGTV broadcasts a variety of how-to shows with a focus on home improvement, gardening, craft and remodeling.</info>
 <fanart>http://www.hgtv.com/content/dam/images/hgtv/editorial/tentpoles/hgtv-dream-home-2015/HGTV-showchip-hgtv-dream-home-2015.jpg</fanart>
@@ -119,7 +119,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>A & E</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DA%2526E%26url%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DA%2526E%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aampe_zpsyyzjszrr.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/aampe_zpsyyzjszrr.png</thumbnail>
 <genre>General</genre>
 <info></info>
 <fanart></fanart>
@@ -129,7 +129,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>Bravo TV</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/bravo_zpszb3kq5uw.jpg</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/bravo_zpszb3kq5uw.jpg</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -138,7 +138,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>Comedy Central</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DComedy%2BCentral%26url%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DComedy%2BCentral%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/ComdyCentral.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/ComdyCentral_zpsqvzsn4aw.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -147,7 +147,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>Spike TV</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSpike%2BTV%26url%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSpike%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Spike.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Spike_zps6jmxvtbw.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -156,7 +156,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>SyFy</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSyFy%26url%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSyFy%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/Syfy.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/syfy_zpsixjjq3yr.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -165,7 +165,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>TBS</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTBS%26url%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTBS%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TBS.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/tbs_zps4eewq32n.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -174,7 +174,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>TLC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTLC%26url%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTLC%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TLC.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/TLC_zpsfxysp7ji.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -183,7 +183,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>TNT</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTNT%2BUSA%26url%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTNT%2BUSA%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/TNT.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/tnt_zpshqaubmui.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -192,18 +192,18 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>USA Network</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DUSA%2BNetwork%26url%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DUSA%2BNetwork%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/USANetwork.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/usanetwork_zpsg8h2sfsc.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>Test Channel</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail>http://png.clipart.me/graphics/thumbs/102/television-with-test-image-closeup_102203593.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
-</item>
+</item> -->
 
 <item>
 <title></title>
