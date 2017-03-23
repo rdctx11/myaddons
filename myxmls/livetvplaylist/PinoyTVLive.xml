@@ -47,45 +47,6 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 <fanart>https://i.ytimg.com/vi/i1m99Mc31k0/maxresdefault.jpg</fanart>
 </item>
 
-<!-- <item>
-<title>ANC</title>
-<link>plugin://plugin.video.f4mTester/?name=ANC&amp;url=http://abscbnhdlive-f.akamaihd.net/z/anc_1@49740/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=STCNIKFSNLDP&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/anc.png</thumbnail>
-<genre>News</genre>
-<info>The ABS-CBN News Channel (or simply ANC) is a global subscription television news network targeted to Filipino audience. It is notable for being the country's first all-news cable network, the country's first 24-hour news network, and the country's first English language news network. The majority of its programs are produced and developed by ABS-CBN News. It is available globally in direct-to-home satellite, cable, IPTV, online video streaming, video on demand and other over-the-top content platforms.</info>
-<fanart>http://4.bp.blogspot.com/-jKcWypmqFIk/Vk8tR8VkRuI/AAAAAAAALWo/zOUwDPP5nGM/s1600/APEC%2BABS-CBN%2BNews%2BChannel%2BKaren%2BDavila%2BCes%2BDrilon%2BCathy%2BYang.jpg</fanart>
-</item> -->
-
-<!-- <itemxx>
-<title>ABS-CBN [COLOR red]Available only at 8:30pm Manila Time.[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/21420710/streams/live/playlist.m3u8</link>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>uhls","url":"(.*?)"</expres>                                           
-<page>http://$doregex[host]/1/ustream?connectionId=$doregex[cid]</page>
-<referer>http://www.ustream.tv</referer>
-</regex>
-<regex>
-<name>host</name>
-<expres>host":"(.*?)"</expres>                                           
-<page>http://r45917422-1-21420710-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=21420710&amp;application=channel</page>
-<referer>http://www.ustream.tv</referer>
-</regex>
-<regex>
-<name>cid</name>
-<expres>Id":"(.*?)"</expres>                                           
-<page>http://r45917422-1-21420710-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=21420710&amp;application=channel</page>
-<referer>http://www.ustream.tv</referer>
-</regex>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/abscbn_zps601491ef.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>ABS-CBN is a major commercial television network in the Philippines. It is the oldest and the leading television network in the country. Branded as The Kapamilya Network (Kapamilya is a Tagalog term for "a member of the family")
-
-Slogan:  "In the Service of the Filipino."</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abs-cbn_zps49357a5c.jpg</fanart>
-</itemxx> -->
-
 <item>
 <title>GMA 7</title>
 <link>http://iphone-streaming.ustream.tv/uhls/21475190/streams/live/iphone/playlist.m3u8</link>
@@ -152,18 +113,9 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/untv_zpsbdbed4d5.jpg</fanart>
 </item>
 
-<!-- <item>
-<title>DZMM Teleradyo</title>
-<link>plugin://plugin.video.f4mTester/?name=DZMM+Teleradyo&amp;url=http://abscbnhdlive-f.akamaihd.net/z/teleradyo_1@49742/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=YSPSIWCQOMWT&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/teleradyo.png</thumbnail>
-<genre>News</genre>
-<info>DZMM TeleRadyo (TeleRadyo is a stylised portmanteau of the Filipino words for "television" and "radio") is a 24-hour cable TV channel that broadcasts ABS-CBN's flagship AM radio station DZMM 630. The channel is owned by the ABS-CBN Corporation under the ABS-CBN News and Current Affairs brand, and is available on cable providers throughout the Philippines. DZMM Teleradyo is also included as an exclusive digital subchannel on digital terrestrial television via the ABS-CBN TVplus service. DZMM TeleRadyo is also simulcast via The Filipino Channel</info>
-<fanart>https://upload.wikimedia.org/wikipedia/en/1/16/DZMM_TeleRadyo_2014.jpeg</fanart>
-</item> -->
-
 <item>
 <title>TV Maria</title>
-<link>http://iphone-streaming.ustream.tv/uhls/10646391/streams/live/iphone/playlist.m3u8</link>
+<link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/TVMaria_zps3v94iiwj.png</thumbnail>
 <genre>Religion</genre>
 <info>TV Maria is the first Filipino Catholic Channel in the Philippines. Its goal is to evangelize and spread the WORD through television and the internet.
@@ -174,8 +126,8 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>INC TV</title>
-<link>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
+<link>http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2Fcoctesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/INCTV_zpsqbgiyxi8.png</thumbnail>
 <genre>Religion</genre>
 <info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
@@ -320,6 +272,54 @@ Slogan: "One Nation, One Station"</info>
 <info>DWIZ (882 kHz Metro Manila) is an AM station of Aliw Broadcasting Corporation in the Philippines. At present, DWIZ is considered as one of the top stations in the AM band in Metro Manila and is recognized as the best AM radio station in the Philippines by the Kapisanan ng mga Brodkaster ng Pilipinas or KBP.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/dwiz_zps48aa008a.jpg</fanart>
 </item>
+
+<!-- <item>
+<title>ANC</title>
+<link>plugin://plugin.video.f4mTester/?name=ANC&amp;url=http://abscbnhdlive-f.akamaihd.net/z/anc_1@49740/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=STCNIKFSNLDP&amp;mode=play</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/anc.png</thumbnail>
+<genre>News</genre>
+<info>The ABS-CBN News Channel (or simply ANC) is a global subscription television news network targeted to Filipino audience. It is notable for being the country's first all-news cable network, the country's first 24-hour news network, and the country's first English language news network. The majority of its programs are produced and developed by ABS-CBN News. It is available globally in direct-to-home satellite, cable, IPTV, online video streaming, video on demand and other over-the-top content platforms.</info>
+<fanart>http://4.bp.blogspot.com/-jKcWypmqFIk/Vk8tR8VkRuI/AAAAAAAALWo/zOUwDPP5nGM/s1600/APEC%2BABS-CBN%2BNews%2BChannel%2BKaren%2BDavila%2BCes%2BDrilon%2BCathy%2BYang.jpg</fanart>
+</item> -->
+
+<!-- <item>
+<title>DZMM Teleradyo</title>
+<link>plugin://plugin.video.f4mTester/?name=DZMM+Teleradyo&amp;url=http://abscbnhdlive-f.akamaihd.net/z/teleradyo_1@49742/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=YSPSIWCQOMWT&amp;mode=play</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/teleradyo.png</thumbnail>
+<genre>News</genre>
+<info>DZMM TeleRadyo (TeleRadyo is a stylised portmanteau of the Filipino words for "television" and "radio") is a 24-hour cable TV channel that broadcasts ABS-CBN's flagship AM radio station DZMM 630. The channel is owned by the ABS-CBN Corporation under the ABS-CBN News and Current Affairs brand, and is available on cable providers throughout the Philippines. DZMM Teleradyo is also included as an exclusive digital subchannel on digital terrestrial television via the ABS-CBN TVplus service. DZMM TeleRadyo is also simulcast via The Filipino Channel</info>
+<fanart>https://upload.wikimedia.org/wikipedia/en/1/16/DZMM_TeleRadyo_2014.jpeg</fanart>
+</item> -->
+
+<!-- <itemxx>
+<title>ABS-CBN [COLOR red]Available only at 8:30pm Manila Time.[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/21420710/streams/live/playlist.m3u8</link>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>uhls","url":"(.*?)"</expres>                                           
+<page>http://$doregex[host]/1/ustream?connectionId=$doregex[cid]</page>
+<referer>http://www.ustream.tv</referer>
+</regex>
+<regex>
+<name>host</name>
+<expres>host":"(.*?)"</expres>                                           
+<page>http://r45917422-1-21420710-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=21420710&amp;application=channel</page>
+<referer>http://www.ustream.tv</referer>
+</regex>
+<regex>
+<name>cid</name>
+<expres>Id":"(.*?)"</expres>                                           
+<page>http://r45917422-1-21420710-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=21420710&amp;application=channel</page>
+<referer>http://www.ustream.tv</referer>
+</regex>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/abscbn_zps601491ef.png</thumbnail>
+<genre>Entertainment, News, Public Service</genre>
+<info>ABS-CBN is a major commercial television network in the Philippines. It is the oldest and the leading television network in the country. Branded as The Kapamilya Network (Kapamilya is a Tagalog term for "a member of the family")
+
+Slogan:  "In the Service of the Filipino."</info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abs-cbn_zps49357a5c.jpg</fanart>
+</itemxx> -->
 
 <!-- <item>
 <title>Test Channel</title>

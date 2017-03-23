@@ -57,7 +57,7 @@ Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Al
 <item>
 <title>UNTV 37</title>
 <link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/untv_zpsefe47aec.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/UNTV37_zpsujd7qqui.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.
 
@@ -68,8 +68,8 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 
 <item>
 <title>TV Maria</title>
-<link>http://iphone-streaming.ustream.tv/uhls/10646391/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/tvmaria1_zps3n4lenil.png</thumbnail>
+<link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/TVMaria_zps3v94iiwj.png</thumbnail>
 <genre>Religion</genre>
 <info>TV Maria is the first Filipino Catholic Channel in the Philippines. Its goal is to evangelize and spread the WORD through television and the internet.
 
@@ -79,8 +79,8 @@ Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 
 <item>
 <title>INC TV</title>
-<link>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2FCOCTesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
+<link>http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2Fcoctesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/inctv2_zpsd8fmcjmx.png</thumbnail>
 <genre>Religion</genre>
 <info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
