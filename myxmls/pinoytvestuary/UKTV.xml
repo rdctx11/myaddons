@@ -145,6 +145,7 @@
 <item>
 <title>Quest</title>
 <link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/quest&amp;mode=125&amp;name=QUEST&amp;iconimage=http://static.filmon.com/couch/channels/2707/extra_big_logo.png&amp;start=quest&amp;ch_fanart=2707</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dQuest%26url%3dmpd%253A%252F%252F07bf513a88c3df282a30cb374f8a933d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dQuest%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F07bf513a88c3df282a30cb374f8a933d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/QUEST_zpsmijnkfjy.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -307,6 +308,42 @@
 </item>
 
 <item>
+<title>Investigation Discovery UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dInvestigation%2bDiscovery%2bUK%26url%3dmpd%253A%252F%252Fcf723f822ded11e60e6bb78f16c327c8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dInvestigation%2bDiscovery%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcf723f822ded11e60e6bb78f16c327c8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/investigationdiscovery_zpsyybv2bph.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lifetime UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%2bUK%26url%3dmpd%253A%252F%252Ff31ff373857e6b6e0bc44ae55da2e208.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff31ff373857e6b6e0bc44ae55da2e208.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/LifetimeUK_zpsmj8sdgbd.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DMax</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDMax%2bUK%26url%3dmpd%253A%252F%252F8371f16a5529228ac3dda62ea9ffb0e4.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDMax%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F8371f16a5529228ac3dda62ea9ffb0e4.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DMAX_zps60h9qixv.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Drama</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDrama%2bChannel%26url%3dmpd%253A%252F%252F24bdca7ce85d02fddf5992944b4960d1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDrama%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F24bdca7ce85d02fddf5992944b4960d1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Drama_zpsyvliczpz.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Arts</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bArts%2b2%26url%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bArts%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/SkyArts_zpsql0tscoy.png</thumbnail>
@@ -463,6 +500,69 @@
 <title>True Movies 2</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%2b2%26url%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies2_zpseqc5c8ke.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disney Channel UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bChannel%2bUK%26url%3dmpd%253A%252F%252F14b7d3edf41bba55aebd39254e3a0100.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F14b7d3edf41bba55aebd39254e3a0100.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyChUK_zpsgnrrrt8h.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disney Junior UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bJunior%2bUK%26url%3dmpd%253A%252F%252Fe6e17fbb85e77c0eabc0ed20d6b8799e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bJunior%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe6e17fbb85e77c0eabc0ed20d6b8799e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyJrUK_zpso5yxnbnv.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bXD%26url%3dmpd%253A%252F%252Fc8c584218a3b3036c001e7e440b63c28.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bXD%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc8c584218a3b3036c001e7e440b63c28.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyXdUK_zpsrjpfwnxw.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nat Geo Wild</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26url%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoWildUK_zpssqp5g1ho.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nick UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNickelodeon%26url%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNickelodeon%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Nick_zpsnmjdcpmr.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nick Junior</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNick%2bJunior%2bUK%26url%3dmpd%253A%252F%252F85fa8712793a2a6b1feda57b2395adbf.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNick%2bJunior%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F85fa8712793a2a6b1feda57b2395adbf.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NickJr_zpsdfmum9ng.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nicktoons TV</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNicktoons%2bTV%26url%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNicktoons%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa5c568b3ed1bce30903f6092519ef949.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/nickfanon/images/b/bd/Nicktoons_Channel_logo_2014.png/revision/latest?cb%5Cx3d20131128073711</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>

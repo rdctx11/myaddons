@@ -61,6 +61,16 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 </item>
 
 <item>
+<title>PBS</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/PBS_zpssnlefpub.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>AMC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bUSA%26url%3dmpd%253A%252F%252F5f65f194d2e2979b30636ab479675fb5.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAMC%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5f65f194d2e2979b30636ab479675fb5.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bUSA%26url%3dmpd%253A%252F%252Fc0371e35a2b3244f5edda7947172d954.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAMC%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc0371e35a2b3244f5edda7947172d954.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
@@ -100,7 +110,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>Spike TV</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSpike%2BTV%26url%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSpike%2BTV%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Spike_zps6jmxvtbw.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -109,7 +120,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>SyFy</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DSyFy%26url%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DSyFy%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyFy%26url%3dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSyFy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyFy%26url%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSyFy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/syfy_zpsixjjq3yr.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -118,7 +130,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>TBS</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTBS%26url%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTBS%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/tbs_zps4eewq32n.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -136,7 +149,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>TNT</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTNT%2BUSA%26url%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTNT%2BUSA%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%2bUSA%26url%3dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTNT%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%2bUSA%26url%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTNT%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/tnt_zpshqaubmui.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -145,8 +159,19 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>USA Network</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DUSA%2BNetwork%26url%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DUSA%2BNetwork%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/usanetwork_zpsg8h2sfsc.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lifetime</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%2bUSA%26url%3dmpd%253A%252F%252F426080503467f5a54a5f1354fc0d5714.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F426080503467f5a54a5f1354fc0d5714.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Lifetime_zpspxdjlw24.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -214,31 +239,89 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <fanart>https://i.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</fanart>
 </item>
 
+<item>
+<title>H2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dH2%26url%3dmpd%253A%252F%252Fca2bf3f6b7e18a508253e9521510a4b5.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dH2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fca2bf3f6b7e18a508253e9521510a4b5.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/H2_zpsyt3dhp9g.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hallmark</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHallmark%26url%3dmpd%253A%252F%252F1854321c4f4aff379019810ada9c6c4a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHallmark%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1854321c4f4aff379019810ada9c6c4a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Hallmark_zpszrqyazth.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%26url%3dmpd%253A%252F%252F509e5f41146e278f9eab1ddaceb34515.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F509e5f41146e278f9eab1ddaceb34515.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/hbo_zpsea03ace6.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO Comedy</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2bComedy%26url%3dmpd%253A%252F%252F359e2acdbc21e92a1ab8b8aabda7b758.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%2bComedy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F359e2acdbc21e92a1ab8b8aabda7b758.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HBOComedy_zpszbtbtlox.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>HBO Signature</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2bSignature%26url%3dmpd%253A%252F%252Fa42674dcc0ef7cae6e9c4916951aa1d3.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%2bSignature%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa42674dcc0ef7cae6e9c4916951aa1d3.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HBOSignature_zps6fsuw4ma.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/cn_zpss2tcjn75.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nick</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNick%2bUS%26url%3dmpd%253A%252F%252F06bea552377456206b10729449714df7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNick%2bUS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F06bea552377456206b10729449714df7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Nickelodeon_zpsksh7dnfs.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
 <!-- <item>
 <title>Test Channel</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail>http://png.clipart.me/graphics/thumbs/102/television-with-test-image-closeup_102203593.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abc_fanart_zps320a0a74.jpg</fanart>
 </item> -->
-
-<item>
-<title></title>
-<link></link>
-<link></link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<link></link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
-</item>
 
 </items>
