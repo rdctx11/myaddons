@@ -216,6 +216,24 @@
 </item>
 
 <item>
+<title>Travel Channel UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTravel%2bChannel%2bUK%26url%3dmpd%253A%252F%252F614452655bc157322106de2e209a2853.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTravel%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F614452655bc157322106de2e209a2853.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/TravelUK_zpspjvtodas.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTLC%2bUK%26url%3dmpd%253A%252F%252Fd7aa295db6f5a09cc47f862d7042dd64.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTLC%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd7aa295db6f5a09cc47f862d7042dd64.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/tlcuk_zpsvfzmzcbq.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>E! Entertainment</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DE%2521%2BEntertainment%26url%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DE%2521%2BEntertainment%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E_zpsropnjzl0.png</thumbnail>
@@ -284,6 +302,51 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BTurbo%2BUK%26url%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BTurbo%2BUK%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryTurbo_zpskzappd9x.png</thumbnail>
 <genre>Documentary</genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Arts</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bArts%2b2%26url%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bArts%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/SkyArts_zpsql0tscoy.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Atlantic</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bAtlantic%2bIreland%26url%3dmpd%253A%252F%252Feabd32acc39d4bd72a4ad687090aef8f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bAtlantic%2bIreland%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Feabd32acc39d4bd72a4ad687090aef8f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Atlantic_zpsvwaaen4b.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Living</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bLiving%26url%3dmpd%253A%252F%252F26cb04f6748172109489d18b64feca2e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bLiving%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F26cb04f6748172109489d18b64feca2e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Living_zpsgdh50tiz.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky One</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bOne%26url%3dmpd%253A%252F%252Febcd8ef93fa99c4834d0cc3275f3dcd7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bOne%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Febcd8ef93fa99c4834d0cc3275f3dcd7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-1_zpswxg3rgsj.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Two</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bTwo%26url%3dmpd%253A%252F%252F838d5a3429b075f8b9ab00c083d93989.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bTwo%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F838d5a3429b075f8b9ab00c083d93989.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-2_zpsj12gxnfm.png</thumbnail>
+<genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
@@ -361,6 +424,15 @@
 </item>
 
 <item>
+<title>Sky Cinema Modern Greats</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26url%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemagreats_zps5xbpt0oi.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Cinema Showcase</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bShowcase%26url%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bShowcase%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemashowcase_zps2tlbf3bs.png</thumbnail>
@@ -373,6 +445,42 @@
 <title>Sky Cinema Select</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSelect%26url%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSelect%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaselect_zpskodhwbiw.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>True Movies</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%26url%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies1_zpsgjxxgiiy.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>True Movies 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%2b2%26url%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies2_zpseqc5c8ke.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<genre></genre>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
