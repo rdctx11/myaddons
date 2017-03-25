@@ -1,0 +1,155 @@
+﻿<items>
+
+<item>
+<title>Sky Sports 1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b1%26url%3dmpd%253A%252F%252F3562f7795a18fc93d94ad2cb616c3d90.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3562f7795a18fc93d94ad2cb616c3d90.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports1_zps4y0zwrr2.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b2%26url%3dmpd%253A%252F%252Fc715e3cbca072810c4d5216b0827437b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc715e3cbca072810c4d5216b0827437b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports2_zps3dladzcw.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b3%26url%3dmpd%253A%252F%252F1b08968ed7063cf6d11c88e0c52cbb91.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b3%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1b08968ed7063cf6d11c88e0c52cbb91.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports3_zpszpsqnj1n.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b4%26url%3dmpd%253A%252F%252F1607ec4a5cdcb0acd48804076737f712.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1607ec4a5cdcb0acd48804076737f712.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports4_zps8glnt9s5.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 5</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b5%26url%3dmpd%253A%252F%252Fce89bce2a42f4d7df8854af633da1a86.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce89bce2a42f4d7df8854af633da1a86.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports5_zps0rlh0tpp.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2bF1%26url%3dmpd%253A%252F%252F343b4b2909705b5f5babe196c05c7895.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2bF1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F343b4b2909705b5f5babe196c05c7895.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysportsf1_zps0m3rpgqw.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Box Nation</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBox%2bNation%26url%3dmpd%253A%252F%252F96433d4a4b7fe9fdddcc23da704dce11.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBox%2bNation%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F96433d4a4b7fe9fdddcc23da704dce11.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BoxNation_zpsutlb8jog.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b1%26url%3dmpd%253A%252F%252F7adc3be6083aeecdcfd51f2cc92d3713.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBritish%2bEurosport%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7adc3be6083aeecdcfd51f2cc92d3713.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/eurosport_zpsyuilu6iu.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b2%26url%3dmpd%253A%252F%252Fb17a4be223d6d945f21785dc401a0429.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBritish%2bEurosport%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb17a4be223d6d945f21785dc401a0429.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/eurosport2_zpsfuz1bg9r.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSPORT%2b1%26url%3dmpd%253A%252F%252Ffeb9c19124327ffd2bae3c97249ea40e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBT%2bSPORT%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffeb9c19124327ffd2bae3c97249ea40e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BTSport1_zps6bhjup7t.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSPORT%2b2%26url%3dmpd%253A%252F%252Fa0baff4a9870ad57efd54f32cf8be880.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBT%2bSPORT%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa0baff4a9870ad57efd54f32cf8be880.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BTSport2_zpsynkonw1o.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport 3</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSPORT%2b3%26url%3dmpd%253A%252F%252Fba7c7bb9f1f2be48a9041f6a308eaa92.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBT%2bSPORT%2b3%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba7c7bb9f1f2be48a9041f6a308eaa92.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/btsport3_zpsrrtfm6hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>At the Races</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAt%2bthe%2bRaces%26url%3dmpd%253A%252F%252F770491f6a94a4901fb248d5f6659d88a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dAt%2bthe%2bRaces%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F770491f6a94a4901fb248d5f6659d88a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/attheraces_zpsjmgf9mqj.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Premier Sports</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPremier%2bSports%26url%3dmpd%253A%252F%252F2d18f483dbcf20bf0cc41b916f026d6b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dPremier%2bSports%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2d18f483dbcf20bf0cc41b916f026d6b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/premiersports_zpschdsnksj.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRacing%2bUK%26url%3dmpd%253A%252F%252F7e8c4145e3a4119dbe243813d877aca8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dRacing%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7e8c4145e3a4119dbe243813d877aca8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/racinguk_zpsez9hhzfk.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
