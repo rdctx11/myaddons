@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>ESPN U</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2bU%26url%3dmpd%253A%252F%252F5a04e5bb28a009ab9e705cd588a3a908.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dESPN%2bU%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5a04e5bb28a009ab9e705cd588a3a908.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/espnu_zpsygvt8b6s.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
+</item>
+
+<item>
 <title>ESPN News</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2bNews%26url%3dmpd%253A%252F%252F9d2247985e7b08766720fcb65864c49c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dESPN%2bNews%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F9d2247985e7b08766720fcb65864c49c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
@@ -37,6 +45,14 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%2bSport%2bNetwork%26url%3dmpd%253A%252F%252Fe4d6b46ca81b601fe8461b43f641488c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dNBC%2bSport%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe4d6b46ca81b601fe8461b43f641488c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/NBCSportNetwork_zpskeuet6ru.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
+</item>
+
+<item>
+<title>Golf Channel</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dGolf%2bChannel%26url%3dmpd%253A%252F%252F5eed0d397932b4241d4866728c3b7fcf.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dGolf%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5eed0d397932b4241d4866728c3b7fcf.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/GolfChannel2_zpsrcqqifnr.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
 </item>
 
