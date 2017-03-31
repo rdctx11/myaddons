@@ -81,6 +81,14 @@
 </item>
 
 <item>
+<title>WWE TV</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dWWE%2bTV%26url%3dmpd%253A%252F%252Fcd61f0ea3b560a665ea813dab2505a2f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dWWE%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcd61f0ea3b560a665ea813dab2505a2f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/wwetv_zpschrnocbj.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
+</item>
+
+<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTSN%2b1%26url%3dmpd%253A%252F%252F40beacf01f852160e0d3cf1d962449e6.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dTSN%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F40beacf01f852160e0d3cf1d962449e6.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
@@ -117,14 +125,6 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTSN%2b5%26url%3dmpd%253A%252F%252Ffeca97a90c0adc74a57a8a3c1e93a4df.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dTSN%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffeca97a90c0adc74a57a8a3c1e93a4df.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/tsn5_zpsdtk90dft.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
-</item>
-
-<item>
-<title>WWE TV</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dWWE%2bTV%26url%3dmpd%253A%252F%252Fcd61f0ea3b560a665ea813dab2505a2f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dWWE%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcd61f0ea3b560a665ea813dab2505a2f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/wwetv_zpsjm8qvemn.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/usasportbg_zpslo8ccovd.jpg</fanart>
 </item>
 
