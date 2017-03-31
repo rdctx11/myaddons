@@ -1,16 +1,8 @@
 ﻿
 <item>
 <title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
 <link>
 <sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -18,16 +10,8 @@
 
 <item>
 <title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
 <link>
 <sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -35,16 +19,8 @@
 
 <item>
 <title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
 <link>
 <sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -52,29 +28,40 @@
 
 <item>
 <title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
 <link>
 <sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>My Ex and Whys (2017)</title>
+<link>https://openload.co/embed/LSPsvLQ3Vdk/</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2FiOTcxMTQtNDllZi00NTk5LTgxMmEtMGU3NjM4Y2QzYTExXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://moviesinthephilippines.files.wordpress.com/2017/01/my-ex-and-whys-01.jpg</fanart>
 </item>
 
 <item>
 <title>Die Beautiful 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt6186430</imdb>
-<title>Die Beautiful</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/6eqy6yvlngmv.html</sublink>
 </link>
@@ -83,13 +70,14 @@
 </item>
 
 <item>
+<title>Seklusyon (2016)</title>
+<link>http://vidto.me/hpqsa054eplg.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/SeklusyonPoster.jpg</thumbnail>
+<fanart>https://i0.wp.com/jeepneypsychology.com/wp-content/uploads/Template_Large.jpg</fanart>
+</item>
+
+<item>
 <title>Working Beks 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt6214706</imdb>
-<title>Working Beks</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/xjxk608cdi7c.html</sublink>
 <sublink>https://openload.co/embed/Lvm80QJZwug</sublink>
@@ -100,12 +88,6 @@
 
 <item>
 <title>Kusina 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5335422</imdb>
-<title>Kusina</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/1sw70xlk8qop.html</sublink>
 </link>
@@ -115,12 +97,6 @@
 
 <item>
 <title>Vince & Kath & James (2016) CAMRIP</title>
-<meta>
-<content>movie</content>
-<imdb>tt6271264</imdb>
-<title>Vince & Kath & James</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>https://openload.co/embed/LcIRMZj3fvM</sublink>
 </link>
@@ -130,12 +106,6 @@
 
 <item>
 <title>Extra Service (2017) CAMRIP</title>
-<meta>
-<content>movie</content>
-<imdb>tt6413002</imdb>
-<title>Extra Service</title>
-<year>2017</year>
-</meta>
 <link>
 <sublink>https://openload.co/embed/DMWif-K5ZMo</sublink>
 </link>
@@ -145,12 +115,6 @@
 
 <item>
 <title>Foolish Love (2016) CAMRIP</title>
-<meta>
-<content>movie</content>
-<imdb>tt6461888</imdb>
-<title>Foolish Love</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>https://openload.co/embed/11xYe-laNFE</sublink>
 </link>
@@ -160,17 +124,10 @@
 
 <item>
 <title>My Rebound Girl</title>
-<meta>
-<content>movie</content>
-<imdb>tt6066948</imdb>
-<title>My Rebound Girl</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/iok8wiel2cvz.html</sublink>
 <sublink>http://watchers.to/vrodxpfmcnm4.html</sublink>
 <sublink>https://openload.co/embed/ZMlEP9U6qOQ/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzVkYjYwZTktZGYwNS00YzVmLWE5ZjAtYTEwMzE4NDBjMzJjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,689,1000_AL_.jpg</thumbnail>
 <fanart>http://www.starmometer.com/wp-content/uploads/2016/09/My-Rebound-Girl.jpg</fanart>
@@ -178,17 +135,10 @@
 
 <item>
 <title>The Escort 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt6153924</imdb>
-<title>The Escort</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/zz9bm68ow6js.html</sublink>
 <sublink>http://watchers.to/mkotfo8r8bzl.html</sublink>
 <sublink>https://openload.co/embed/LBVTCea1LT4/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDU2ZmZjMDAtMmMyYS00ZmUxLWE3ZjQtMTdlZDI5ZGNkMGU0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
 <fanart>http://contents.pep.ph/images2/guide/2016-06-06_14:40:18_Jean-Garcia-Derek-Ramsay.jpg</fanart>
@@ -196,16 +146,9 @@
 
 <item>
 <title>I, America 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5891396</imdb>
-<title>I America</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/czh3nq471rw4.html</sublink>
 <sublink>https://openload.co/embed/g3SoU2eahos/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w185/r1Q7OzwEmVcgia4uI0CBgxWmiTW.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/hBCvtEKfj30/maxresdefault.jpg</fanart>
@@ -213,17 +156,10 @@
 
 <item>
 <title>The Unmarried Wife 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5755796</imdb>
-<title>The Unmarried Wife</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/t2oebtpnh4fp.html</sublink>
 <sublink>http://watchers.to/zgfoumjtv0n6.html</sublink>
 <sublink>https://openload.co/embed/fYA4_faejVU/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w300/aUYjeVncM5GM633GGHjwpvtcQmt.jpg</thumbnail>
 <fanart>http://starcinemamedialibrary.blob.core.windows.net/home-carousel-625x410/TUW%20poster-625x410-carousel.jpg</fanart>
@@ -231,16 +167,8 @@
 
 <item>
 <title>Elemento 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5612560</imdb>
-<title>Elemento</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>https://openload.co/embed/Q_8ncCRy6vs/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://i64.tinypic.com/168whl3.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-2LmC8r-vFuM/VxtxlITbPyI/AAAAAAAAD0M/yhkF10osma0ylOXti1MfI2qI7Uj13E1cACLcB/w1200-h630-p-nu/Elemento%2B%25282016%2529%2BFilipino%2BMovie.jpg</fanart>
@@ -248,17 +176,10 @@
 
 <item>
 <title>Bakit Lahat Ng Gwapo May Boyfriend?! 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt6110708</imdb>
-<title>Bakit Lahat Ng Gwapo May Boyfriend?!</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/j9bdabzl4ubw.html</sublink>
 <sublink>http://watchers.to/46wwf5tymez5.html</sublink>
 <sublink>https://openload.co/embed/tSNLIX806Kw/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmVkYzA2MmQtYWU1NS00OTIyLWEyYmQtZWE1NDdlMzNkZmFjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>http://s2.dmcdn.net/dPK_A/1280x720-4aP.jpg</fanart>
@@ -266,17 +187,10 @@
 
 <item>
 <title>Imagine You & Me 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5830556</imdb>
-<title>Imagine You & Me</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/e62gpsr300fu.html</sublink>
 <sublink>http://watchers.to/m1zky65lv146.html</sublink>
 <sublink>https://openload.co/embed/pkyyyn6hhRI/</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGJhMDZjYWQtNmZjMi00MTIzLWJhZWUtNmY0ZGQ3ZDVjMTcwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>http://lambingan.ph/wp-content/uploads/2016/07/640_AlDubMovieImagine_2016_06_16_12_57_26.jpg</fanart>
@@ -284,17 +198,9 @@
 
 <item>
 <title>The Third Party 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt6088634</imdb>
-<title>The Third Party</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/m8zo4sbwlw38.html</sublink>
 <sublink>http://vidto.me/3n4nbn71ddzj.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/w500/go8UppF2jlMOnVAM6gjXwkzZNMG.jpg</thumbnail>
 <fanart>http://www.starmometer.com/wp-content/uploads/2016/09/The-Third-Party.jpg</fanart>
@@ -302,17 +208,9 @@
 
 <item>
 <title>I Love You to Death 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5857946</imdb>
-<title>I Love You to Death</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://watchers.to/id4ow33wreap.html</sublink>
 <sublink>http://vidto.me/h0m31tchbbas.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://3.bp.blogspot.com/-XsUUJUuUHpU/WAF7PxPgNBI/AAAAAAAAAZs/VJ7fF4l4kCkukkAiHau-luxQjTjgrsUkACLcB/s1600/13567286_1215699228463498_6575629865151087963_n.jpg</thumbnail>
 <fanart>http://assets.rappler.com/B688F2C81CBA4BEA9FDE249D2D06B55F/img/22B96BA298114D318BA56B40FA795122/Screen_Shot_2016-07-08_at_2.14.07_PM.png</fanart>
@@ -320,17 +218,9 @@
 
 <item>
 <title>My Candidate 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5563556</imdb>
-<title>My Candidate</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://watchers.to/0qrt4k1hhuhk.html</sublink>
 <sublink>http://vidto.me/uc8zr80lxjxg.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://2.bp.blogspot.com/-ZbLva_x8_6o/VxIjp4aIgbI/AAAAAAAAAKU/QQHV6yK3nKMguy0XQbq_F0ebDXCHLnR1QCLcB/s1600/My%2BCandidate.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-mKwBoQnLWfA/VyBPjGI997I/AAAAAAAAbPo/WvwHwLR5eMsQfgJsUmRGPKrXHi5vv8XaACKgB/s1600/My%2BCanditate%2B0a.jpg</fanart>
@@ -338,16 +228,9 @@
 
 <item>
 <title>Camp Sawi 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5990926</imdb>
-<title>Camp Sawi</title>
-<year>2016</year>
-</meta>
 <link>
+<sublink>http://vidto.me/6sblbzpzof38.html</sublink>
 <sublink>http://vidto.me/hgpsrkdqboag.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/12/CampSawi.jpg</thumbnail>
 <fanart>http://lambingan.ph/wp-content/uploads/2016/08/maxresdefault.jpg</fanart>
@@ -355,17 +238,9 @@
 
 <item>
 <title>Barcelona A Love Untold 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5755912</imdb>
-<title>Barcelona: A Love Untold</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://watchers.to/mdp7ibnuuqcb.html</sublink>
 <sublink>http://vidto.me/za7iq9egitz1.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/w500/nFc2EL8Cgw8a4xNZc1GYWxJ09Qs.jpg</thumbnail>
 <fanart>https://3.bp.blogspot.com/-x5ZHasTu8Ak/V_Eph1NxTII/AAAAAAAAADs/jwUgNRdOwJcLr3UAZBSlqW3xLY2VhL9dgCLcB/s640/Barcelona%2BA%2BLove%2BUntold%2B%25282016%2529%2BFull%2BMovie.jpg</fanart>
@@ -373,17 +248,9 @@
 
 <item>
 <title>That Thing Called Tanga Na 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5936370</imdb>
-<title>That Thing Called Tanga Na</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/bh4er9vxvj4j.html</sublink>
 <sublink>http://vidto.me/fjb3i5vfhx7a.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/w500/4o7vl2IxTYyqNf5C0IF1dLnJiRB.jpg</thumbnail>
 <fanart>https://moviesinthephilippines.files.wordpress.com/2016/08/group-main-1.jpg?w=1200</fanart>
@@ -391,17 +258,9 @@
 
 <item>
 <title>How to Be Yours 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5915304</imdb>
-<title>How to Be Yours</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/pjp4utoctwt6.html</sublink>
 <sublink>http://vidto.me/826o820srvm4.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/w500/cmqlD1H6neTZwZcJcPdceioXVPG.jpg</thumbnail>
 <fanart>http://sa.kapamilya.com/absnews/abscbnnews/media/news-special1/entertainment/7/24/072416-beagerald.jpg</fanart>
@@ -409,71 +268,12 @@
 
 <item>
 <title>Dukot 2016</title>
-<meta>
-<content>movie</content>
-<imdb>tt5575976</imdb>
-<title>Dukot</title>
-<year>2016</year>
-</meta>
 <link>
 <sublink>http://vidto.me/joe045a831er.html</sublink>
 <sublink>http://vidto.me/29eb8u82jqog.html</sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/w500/1gMwmJyrYNiEx975w1UjcptJrnq.jpg</thumbnail>
 <fanart>http://assets.rappler.com/F27A8ABF52484D1AA2FED12D25F92259/img/EC8987DDF0EF44099380FE2202FDB47D/Screen_Shot_2016-07-15_at_9.24.46_PM.png</fanart>
-</item>
-
-<item>
-<title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
-<link>
-<sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
-<link>
-<sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
-</meta>
-<link>
-<sublink></sublink>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
