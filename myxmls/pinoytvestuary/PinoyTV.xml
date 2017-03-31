@@ -11,8 +11,8 @@
 
 <item>
 <title>TV 5</title>
-<link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link>
-<link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
+<link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8?&amp;name=TV 5</link>
+<link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8?&amp;name=TV 5</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/TV5_zpsqhif8ywb.png</thumbnail>
 <genre>News</genre>
 <info></info>
