@@ -11,6 +11,16 @@
 </item>
 
 <item>
+<title>CNN Philippines</title>
+<link>rtmp://54.251.134.121/live/15273.sdp live=1 timeout=10</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</fanart>
+</item>
+
+<item>
 <title>CNN International</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
@@ -89,16 +99,6 @@
 <genre></genre>
 <info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ChannelNewsAsia_zpspybfkajx.png</fanart>
-</item>
-
-<item>
-<title>CNN Philippines</title>
-<link>rtmp://54.251.134.121/live/15273.sdp live=1 timeout=10</link>
-<link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</fanart>
 </item>
 
 <item>
