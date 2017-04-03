@@ -35,6 +35,7 @@
 <item>
 <title>FOX</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=FOX</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2b43%2bWMPT%26url%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2b43%2bWMPT%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/fox_zpse9e43207.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The Fox Broadcasting Company is an American commercial broadcast television network that is owned by the Fox Entertainment Group division of 21st Century Fox. It is the third largest major television network in the world, based on total revenues, assets and international coverage.
@@ -45,6 +46,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>NBC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=NBC</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/nbc_zpse64a81fb.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The National Broadcasting Company (NBC) is an American commercial broadcast television and radio network. It is headquartered in the GE Building in New York City's Rockefeller Center, with additional major offices near Los Angeles and in Chicago. NBC is sometimes referred to as the "Peacock Network", due to its stylized peacock logo, which was originally created for its color broadcasts.</info>
