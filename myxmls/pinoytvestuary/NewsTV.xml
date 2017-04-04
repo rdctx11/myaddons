@@ -77,7 +77,7 @@
 <title>Al Jazeera English</title>
 <link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8</link>
 <link>plugin://plugin.video.youtube/play/?video_id=UgJtWREOXHA</link>
-<link></link>
+<link>plugin://plugin.video.F.T.V/?url=4&amp;mode=125&amp;name=Al+Jazeera&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</fanart>
 </item>
@@ -123,6 +123,14 @@
 </item>
 
 <item>
+<title>Voice of America</title>
+<link>plugin://plugin.video.F.T.V/?url=2996&amp;mode=125&amp;name=VoA+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2996%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/voa_zpswqtql9ov.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/voa_zpswqtql9ov.png</fanart>
+</item>
+
+<item>
 <title>NASA TV</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 <link></link>
@@ -142,32 +150,24 @@
 <title>CCTV News</title>
 <link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CCTV+News&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1675%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://static.filmon.com/couch/channels/1675/extra_big_logo.png</thumbnail>
-<fanart></fanart>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cctvnews_zps9lq0r8ex.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cctvnews_zps9lq0r8ex.png</fanart>
 </item>
 
 <item>
 <title>Press TV</title>
 <link>plugin://plugin.video.F.T.V/?url=905&amp;mode=125&amp;name=Press+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F905%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://static.filmon.com/couch/channels/905/extra_big_logo.png</thumbnail>
-<fanart></fanart>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</fanart>
 </item>
 
 <item>
 <title>Russia Today</title>
 <link>plugin://plugin.video.F.T.V/?url=93&amp;mode=125&amp;name=Russia+Today&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F93%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://static.filmon.com/couch/channels/93/extra_big_logo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Voice of America</title>
-<link>plugin://plugin.video.F.T.V/?url=2996&amp;mode=125&amp;name=VoA+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2996%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<link></link>
-<thumbnail>http://static.filmon.com/couch/channels/2996/extra_big_logo.png</thumbnail>
-<fanart></fanart>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/russiatoday_zpsf2aydxxb.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/russiatoday_zpsf2aydxxb.png</fanart>
 </item>
 
 <item>
