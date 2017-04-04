@@ -5,8 +5,6 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%26url%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</fanart>
 </item>
 
@@ -15,8 +13,6 @@
 <link>rtmp://54.251.134.121/live/15273.sdp live=1 timeout=10</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</fanart>
 </item>
 
@@ -26,9 +22,13 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/bbc-news&amp;mode=125&amp;name=BBC News&amp;iconimage=http://static.filmon.com/couch/channels/27/extra_big_logo.png&amp;start=bbc-news&amp;ch_fanart=27</link>
+<thumbnail>http://static.filmon.com/couch/channels/27/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
@@ -36,8 +36,6 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNBC%26url%3dmpd%253A%252F%252F0fa1864db527d3de89020cb06a050b35.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0fa1864db527d3de89020cb06a050b35.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNBC%26url%3dmpd%253A%252F%252Faa11677d237b2c2b435fd7decac0d7ad.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Faa11677d237b2c2b435fd7decac0d7ad.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnbc_zpstqcwvdwc.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnbc_zpstqcwvdwc.png</fanart>
 </item>
 
@@ -47,8 +45,6 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBloomberg%26url%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dBloomberg%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</fanart>
 </item>
 
@@ -57,8 +53,6 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2bChannel%26url%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2bNews%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</fanart>
 </item>
 
@@ -67,8 +61,6 @@
 <link>plugin://plugin.video.youtube/play/?video_id=fzqQa5x7NLA</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</fanart>
 </item>
 
@@ -77,18 +69,15 @@
 <link>plugin://plugin.video.youtube/play/?video_id=y60wDzZt8yg</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bNews%26url%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dSky%2bNews%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/skynews_zpsmv8j95ar.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/skynews_zpsmv8j95ar.png</fanart>
 </item>
 
 <item>
 <title>Al Jazeera English</title>
 <link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8</link>
+<link>plugin://plugin.video.youtube/play/?video_id=UgJtWREOXHA</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</fanart>
 </item>
 
@@ -97,8 +86,6 @@
 <link>http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/NHKWorldTV_zpsytzs7fkp.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/NHKWorldTV_zpsytzs7fkp.png</fanart>
 </item>
 
@@ -107,8 +94,6 @@
 <link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ChannelNewsAsia_zpspybfkajx.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ChannelNewsAsia_zpspybfkajx.png</fanart>
 </item>
 
@@ -117,8 +102,6 @@
 <link>plugin://plugin.video.youtube/play/?video_id=1Ydto3Iyzic</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</fanart>
 </item>
 
@@ -127,8 +110,6 @@
 <link>plugin://plugin.video.youtube/play/?video_id=gNosnzCaS4I</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</fanart>
 </item>
 
@@ -137,8 +118,6 @@
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/nasatv_zps4z836v4m.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png</fanart>
 </item>
 
@@ -147,8 +126,6 @@
 <link>plugin://plugin.video.youtube/play/?video_id=JVr6yiZ9IMY</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
 </item>
 
@@ -157,8 +134,46 @@
 <link></link>
 <link></link>
 <thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
