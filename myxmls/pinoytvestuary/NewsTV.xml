@@ -98,6 +98,14 @@
 </item>
 
 <item>
+<title>Euro News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vQPShxlX7dM</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Euronews_zpsohmuwq4e.png</thumbnail>
+<fanart>https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/05/17175313/Euronews-All-Views_-roue-entiere_logo.jpg</fanart>
+</item>
+
+<item>
 <title>France 24</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1Ydto3Iyzic</link>
 <link></link>
@@ -127,14 +135,6 @@
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
