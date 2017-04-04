@@ -63,6 +63,16 @@
 </item>
 
 <item>
+<title>ABC News 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fzqQa5x7NLA</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</thumbnail>
+<genre></genre>
+<info></info>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</fanart>
+</item>
+
+<item>
 <title>Sky News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=y60wDzZt8yg</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bNews%26url%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dSky%2bNews%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
@@ -123,13 +133,13 @@
 </item>
 
 <item>
-<title>ABC News 24</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fzqQa5x7NLA</link>
+<title>NASA TV</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/nasatv_zps4z836v4m.png</thumbnail>
 <genre></genre>
 <info></info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png</fanart>
 </item>
 
 <item>
@@ -140,16 +150,6 @@
 <genre></genre>
 <info></info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<link></link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
 </item>
 
 <item>
