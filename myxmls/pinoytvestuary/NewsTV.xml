@@ -43,6 +43,7 @@
 
 <item>
 <title>Bloomberg</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ga3maNZ0x0w</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBloomberg%26url%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dBloomberg%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</thumbnail>
@@ -63,8 +64,8 @@
 
 <item>
 <title>Sky News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=y60wDzZt8yg</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bNews%26url%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dSky%2bNews%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/skynews_zpsmv8j95ar.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -102,43 +103,43 @@
 </item>
 
 <item>
-<title></title>
+<title>France 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1Ydto3Iyzic</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</thumbnail>
 <genre></genre>
 <info></info>
-<fanart></fanart>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</fanart>
 </item>
 
 <item>
-<title></title>
+<title>DW News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gNosnzCaS4I</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</thumbnail>
 <genre></genre>
 <info></info>
-<fanart></fanart>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</fanart>
 </item>
 
 <item>
-<title></title>
+<title>ABC News 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fzqQa5x7NLA</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</thumbnail>
 <genre></genre>
 <info></info>
-<fanart></fanart>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</fanart>
 </item>
 
 <item>
-<title></title>
+<title>Arirang TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JVr6yiZ9IMY</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</thumbnail>
 <genre></genre>
 <info></info>
-<fanart></fanart>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
 </item>
 
 <item>
