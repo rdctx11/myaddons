@@ -44,6 +44,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=Ga3maNZ0x0w</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBloomberg%26url%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dBloomberg%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+<link>plugin://plugin.video.F.T.V/?url=81&amp;mode=125&amp;name=Bloomberg&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F81%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</fanart>
 </item>
@@ -108,7 +109,7 @@
 <item>
 <title>France 24</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1Ydto3Iyzic</link>
-<link></link>
+<link>plugin://plugin.video.F.T.V/?url=298&amp;mode=125&amp;name=France24&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F298%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</fanart>
 </item>
@@ -116,7 +117,7 @@
 <item>
 <title>DW News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=gNosnzCaS4I</link>
-<link></link>
+<link>plugin://plugin.video.F.T.V/?url=2641&amp;mode=125&amp;name=DW+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2641%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</fanart>
 </item>
@@ -132,40 +133,40 @@
 <item>
 <title>Arirang TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=JVr6yiZ9IMY</link>
-<link></link>
+<link>plugin://plugin.video.F.T.V/?url=932&amp;mode=125&amp;name=Arirang+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F932%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
 </item>
 
 <item>
-<title></title>
+<title>CCTV News</title>
+<link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CCTV+News&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1675%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://static.filmon.com/couch/channels/1675/extra_big_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
+<title>Press TV</title>
+<link>plugin://plugin.video.F.T.V/?url=905&amp;mode=125&amp;name=Press+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F905%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://static.filmon.com/couch/channels/905/extra_big_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
+<title>Russia Today</title>
+<link>plugin://plugin.video.F.T.V/?url=93&amp;mode=125&amp;name=Russia+Today&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F93%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://static.filmon.com/couch/channels/93/extra_big_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
+<title>Voice of America</title>
+<link>plugin://plugin.video.F.T.V/?url=2996&amp;mode=125&amp;name=VoA+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2996%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://static.filmon.com/couch/channels/2996/extra_big_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
