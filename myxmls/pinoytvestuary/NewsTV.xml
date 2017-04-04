@@ -147,19 +147,19 @@
 </item>
 
 <item>
-<title>CCTV News</title>
-<link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CCTV+News&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1675%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cctvnews_zps9lq0r8ex.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cctvnews_zps9lq0r8ex.png</fanart>
-</item>
-
-<item>
 <title>Press TV</title>
 <link>plugin://plugin.video.F.T.V/?url=905&amp;mode=125&amp;name=Press+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F905%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</fanart>
+</item>
+
+<item>
+<title>CGTN News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2GedB9SKJ3k</link>
+<link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CCTV+News&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1675%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</fanart>
 </item>
 
 <item>
