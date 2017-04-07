@@ -1,6 +1,14 @@
 ﻿<items>
 
 <item>
+<title>Sky Sports News</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2bNews%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FSky-Sport-News.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSky%2bSport%2bNews%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fw%252F904%252Fssn-de__00706_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fw%252F904%252Fssn-de__00706_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2bNews%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FSky-Sports-News.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSky%2bSports%2bNews%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fj%252F929%252Fsky_uk_sports_news_hq__53705_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fj%252F929%252Fsky_uk_sports_news_hq__53705_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysportsnews_zps7gq2wvsw.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/uksportbg_zps7yodtw6x.jpg</fanart>
+</item>
+
+<item>
 <title>Sky Sports 1</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b1%26url%3dmpd%253A%252F%252F3562f7795a18fc93d94ad2cb616c3d90.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3562f7795a18fc93d94ad2cb616c3d90.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
@@ -34,6 +42,7 @@
 
 <item>
 <title>Sky Sports 5</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b5%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FSky-Sports-5.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSky%2bSports%2b5%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fk%252F949%252Fsky_uk_sports5__60555_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fk%252F949%252Fsky_uk_sports5__60555_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b5%26url%3dmpd%253A%252F%252Fce89bce2a42f4d7df8854af633da1a86.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fce89bce2a42f4d7df8854af633da1a86.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysports5_zps0rlh0tpp.png</thumbnail>
@@ -42,6 +51,7 @@
 
 <item>
 <title>Sky Sports F1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2bF1%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FSky-Sports-F1.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSky%2bSports%2bF1%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fm%252F296%252Fsky_uk_sports_f1__96235_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fm%252F296%252Fsky_uk_sports_f1__96235_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2bF1%26url%3dmpd%253A%252F%252F343b4b2909705b5f5babe196c05c7895.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dSky%2bSports%2bF1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F343b4b2909705b5f5babe196c05c7895.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/skysportsf1_zps0m3rpgqw.png</thumbnail>
@@ -50,6 +60,7 @@
 
 <item>
 <title>Box Nation</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBoxNation%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBoxNation.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBoxNation%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBoxNation.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fh%252F426%252Fbox_nation__84194_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fh%252F426%252Fbox_nation__84194_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBox%2bNation%26url%3dmpd%253A%252F%252F96433d4a4b7fe9fdddcc23da704dce11.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBox%2bNation%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F96433d4a4b7fe9fdddcc23da704dce11.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BoxNation_zpsutlb8jog.png</thumbnail>
@@ -58,6 +69,7 @@
 
 <item>
 <title>Eurosport 1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b1%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBritish-Eurosport-1.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBritish%2bEurosport%2b1%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBritish-Eurosport-1.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fg%252F814%252Fbritish_eurosport__44049_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fg%252F814%252Fbritish_eurosport__44049_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b1%26url%3dmpd%253A%252F%252F7adc3be6083aeecdcfd51f2cc92d3713.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBritish%2bEurosport%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7adc3be6083aeecdcfd51f2cc92d3713.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/eurosport_zpsyuilu6iu.png</thumbnail>
@@ -66,6 +78,7 @@
 
 <item>
 <title>Eurosport 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b2%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBritish-Eurosport-2.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBritish%2bEurosport%2b2%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBritish-Eurosport-2.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Ff%252F591%252Fbritish_eurosport2__58698_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Ff%252F591%252Fbritish_eurosport2__58698_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBritish%2bEurosport%2b2%26url%3dmpd%253A%252F%252Fb17a4be223d6d945f21785dc401a0429.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBritish%2bEurosport%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb17a4be223d6d945f21785dc401a0429.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/eurosport2_zpsfuz1bg9r.png</thumbnail>
@@ -74,6 +87,7 @@
 
 <item>
 <title>BT Sport 1</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSport%2b1%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBT-Sport-1.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b1%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBT-Sport-1.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fz%252F622%252Fbt_sport_1__18746_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fz%252F622%252Fbt_sport_1__18746_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSPORT%2b1%26url%3dmpd%253A%252F%252Ffeb9c19124327ffd2bae3c97249ea40e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBT%2bSPORT%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffeb9c19124327ffd2bae3c97249ea40e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BTSport1_zps6bhjup7t.png</thumbnail>
@@ -82,6 +96,7 @@
 
 <item>
 <title>BT Sport 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSport%2b2%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBT-Sport-2.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b2%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fy%252F951%252Fbt_sport_2__63983_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fy%252F951%252Fbt_sport_2__63983_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSPORT%2b2%26url%3dmpd%253A%252F%252Fa0baff4a9870ad57efd54f32cf8be880.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dBT%2bSPORT%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa0baff4a9870ad57efd54f32cf8be880.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/BTSport2_zpsynkonw1o.png</thumbnail>
@@ -97,7 +112,24 @@
 </item>
 
 <item>
+<title>BT Sport ESPN</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSport%2bESPN%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBT-Sport-ESPN.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBT%2bSport%2bESPN%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Ft%252F735%252FBT_Sport_ESPN_logo__79357_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Ft%252F735%252FBT_Sport_ESPN_logo__79357_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/btsportespn_zpshpxor552.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/uksportbg_zps7yodtw6x.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSport%2bEurope%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FBT-Sport-Europe.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBT%2bSport%2bEurope%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fb%252F335%252Fbt_sport_europe_uk__81016_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fb%252F335%252Fbt_sport_europe_uk__81016_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/btsporteurope_zpsjgybpgkx.png</thumbnail>
+<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/uksportbg_zps7yodtw6x.jpg</fanart>
+</item>
+
+<item>
 <title>At the Races</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAt%2bThe%2bRaces%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FAt-The-Races.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dAt%2bThe%2bRaces%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FAt-The-Races.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fs%252F772%252Fat_the_races_uk__25721_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fs%252F772%252Fat_the_races_uk__25721_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAt%2bthe%2bRaces%26url%3dmpd%253A%252F%252F770491f6a94a4901fb248d5f6659d88a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dAt%2bthe%2bRaces%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F770491f6a94a4901fb248d5f6659d88a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/attheraces_zpsjmgf9mqj.png</thumbnail>
@@ -106,6 +138,7 @@
 
 <item>
 <title>Premier Sports</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPremier%2bSports%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FPremier-Sports.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dPremier%2bSports%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fi%252F771%252FPremier_Sports_logo__59689_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fi%252F771%252FPremier_Sports_logo__59689_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPremier%2bSports%26url%3dmpd%253A%252F%252F2d18f483dbcf20bf0cc41b916f026d6b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dPremier%2bSports%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2d18f483dbcf20bf0cc41b916f026d6b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/premiersports_zpschdsnksj.png</thumbnail>
@@ -114,6 +147,7 @@
 
 <item>
 <title>Racing UK</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRacing%2bUK%26url%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fchannels%252FRacing-UK.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dRacing%2bUK%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fcategories%252FSPORTS-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fh%252F544%252Fracing_uk__87840_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.org%252Fproduct_images%252Fh%252F544%252Fracing_uk__87840_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRacing%2bUK%26url%3dmpd%253A%252F%252F7e8c4145e3a4119dbe243813d877aca8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dRacing%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7e8c4145e3a4119dbe243813d877aca8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/racinguk_zpsez9hhzfk.png</thumbnail>
