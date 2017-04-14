@@ -65,6 +65,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 
 <item>
 <title>PBS</title>
+<link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=PBS</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/PBS_zpssnlefpub.png</thumbnail>
