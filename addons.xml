@@ -225,7 +225,7 @@
 
 <addon id="plugin.video.navixxx"
 	name="Navi XXX"
-	version="1.0.4"
+	version="1.0.5"
 	provider-name="nieldc">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
