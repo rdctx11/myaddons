@@ -3,7 +3,7 @@
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%26url%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link></link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bUSA%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-USA.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCNN%2bUSA%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-USA.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F470%252Fcnn_usa__34139_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F470%252Fcnn_usa__34139_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</fanart>
 </item>
@@ -20,7 +20,7 @@
 <title>CNN International</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link>http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-International.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCNN%2bInternational%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-International.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fj%252F051%252Fcnn_international__19122_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fj%252F051%252Fcnn_international__19122_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</fanart>
 </item>

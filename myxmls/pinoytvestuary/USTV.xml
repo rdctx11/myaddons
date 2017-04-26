@@ -26,6 +26,7 @@
 <title>The CW</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CW</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dThe%2bCW%26url%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dThe%2bCW%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCW%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCW.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCW%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCW.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/cw1_zpse676005c.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>The CW Television Network (The CW) is an American broadcast television network that is operated by The CW Network, LLC, a limited liability joint venture between CBS Corporation, the former owners of the United Paramount Network (UPN), and the Warner Bros. Entertainment subsidiary of Time Warner, former majority owner of The WB Television Network. The "CW" name is derived from the first letters of the names of these corporations (CBS and Warner Bros.).</info>
@@ -36,6 +37,7 @@
 <title>FOX</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=FOX</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2b43%2bWMPT%26url%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2b43%2bWMPT%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/fox_zpse9e43207.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The Fox Broadcasting Company is an American commercial broadcast television network that is owned by the Fox Entertainment Group division of 21st Century Fox. It is the third largest major television network in the world, based on total revenues, assets and international coverage.
@@ -48,6 +50,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=NBC</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/nbc_zpse64a81fb.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The National Broadcasting Company (NBC) is an American commercial broadcast television and radio network. It is headquartered in the GE Building in New York City's Rockefeller Center, with additional major offices near Los Angeles and in Chicago. NBC is sometimes referred to as the "Peacock Network", due to its stylized peacock logo, which was originally created for its color broadcasts.</info>
@@ -68,9 +71,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=PBS</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffe22365235b496368609515523bfb971.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dPBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F66e9d91f0fa2b8bf79e42fae019ea4d8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPBS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FPBS.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dPBS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F766%252Fpbs_east__81153_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F766%252Fpbs_east__81153_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/PBS_zpssnlefpub.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -78,18 +80,16 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>AMC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bUSA%26url%3dmpd%253A%252F%252F5f65f194d2e2979b30636ab479675fb5.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAMC%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5f65f194d2e2979b30636ab479675fb5.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bUSA%26url%3dmpd%253A%252F%252Fc0371e35a2b3244f5edda7947172d954.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAMC%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc0371e35a2b3244f5edda7947172d954.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bEast%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FAMC-East.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dAMC%2bEast%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FAMC-East.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F604%252Famc__85163_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F604%252Famc__85163_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/amc_zpszstapevt.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>A & E</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DA%2526E%26url%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DA%2526E%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fce425ca32dea0f37b22717ae989bcffb.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FA%252526E.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dA%2526E%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FA%252526E.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fh%252F192%252Fae_tv__99609_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fh%252F192%252Fae_tv__99609_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/aampe_zpsyyzjszrr.png</thumbnail>
-<genre>General</genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -97,18 +97,17 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>Bravo TV</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F582b19f3ef5459a2f139ec69ee2053d0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%2bTV%26url%3dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBravo%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fafa880d42b94c19e5f644bdf24e76651.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBravo%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FBravo.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dBravo%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FBravo.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fg%252F338%252Fbravo_us__11790_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fg%252F338%252Fbravo_us__11790_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/bravo_zpszb3kq5uw.jpg</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Comedy Central</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DComedy%2BCentral%26url%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DComedy%2BCentral%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dComedy%2bCentral%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FComedy-Central.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dComedy%2bCentral%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FComedy-Central.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fo%252F226%252Fcomedy_central_us__62938_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fo%252F226%252Fcomedy_central_us__62938_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/ComdyCentral_zpsqvzsn4aw.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -116,9 +115,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>Spike TV</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa01d4a2d79052d6b1c2c63bf2d284202.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%2bTV%26url%3dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSpike%2bTV%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F744a2e6d638ef5996394717e9e871717.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FSpike.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSpike%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Spike_zps6jmxvtbw.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -126,9 +124,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>SyFy</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyFy%26url%3dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSyFy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyFy%26url%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSyFy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd8320fedb4a90fb06c9f7bff96a7e619.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyfy%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FSyfy.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSyfy%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Ff%252F954%252Fsyfy__52943_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Ff%252F954%252Fsyfy__52943_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/SyfyUS_zps9d6eevqv.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -136,18 +133,16 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>TBS</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc370dca571a8e9eeb48104236808fe8d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd377ff63e9e229343418ba065acb643f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FTBS.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTBS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Ff%252F523%252FTBS.svg__23453_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Ff%252F523%252FTBS.svg__23453_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/tbs_zps4eewq32n.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TLC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DTLC%26url%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DTLC%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fe12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/TLC_zpsfxysp7ji.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -155,9 +150,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>TNT</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%2bUSA%26url%3dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTNT%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe00dd9ccbf6cba8e47ca458993f307c1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%2bUSA%26url%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTNT%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb5e39fb359975ce6a68be8a6935d4d7e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FTNT.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTNT%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fe%252F600%252Ftnt__28275_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fe%252F600%252Ftnt__28275_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/TNT1_zpsqe7yasyj.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -165,26 +159,25 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>USA Network</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F6e41f30f946d9327c3322a05250735a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dUSA%2bNetwork%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FUSA-Network.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dUSA%2bNetwork%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fa%252F517%252Fusa_network__57030_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fa%252F517%252Fusa_network__57030_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/USANetwork1_zpsz85le7br.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Lifetime</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%2bUSA%26url%3dmpd%253A%252F%252F426080503467f5a54a5f1354fc0d5714.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%2bUSA%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F426080503467f5a54a5f1354fc0d5714.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FLifetime.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dLifetime%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fb%252F056%252FLifetime_logo_2013__32042_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fb%252F056%252FLifetime_logo_2013__32042_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/LifetimeUS_zpsmxjee1ad.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>HGTV</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHouse%2b%2526%2bGarden%2bTelevision%26url%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHome%2b%2526%2bGarden%2bTelevision%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHGTV%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FHGTV.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dHGTV%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fv%252F595%252FHGTV_logo_2015__20364_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fv%252F595%252FHGTV_logo_2015__20364_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dHGTV%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fgj65q2rg18tpmut%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dHGTV%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d52053%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fgj65q2rg18tpmut_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fgj65q2rg18tpmut_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHouse%2b%2526%2bGarden%2bTelevision%26url%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHouse%2b%2526%2bGarden%2bTelevision%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F7d9000c0967cc4919f07ecbe2736c95a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HGTV_zpsmy5lpjqs.png</thumbnail>
 <genre>Education, Home Improvement, Gardening</genre>
 <info>HGTV (Home & Garden Television) is an American basic cable and satellite television channel that is owned by Scripps Networks Interactive. HGTV broadcasts a variety of how-to shows with a focus on home improvement, gardening, craft and remodeling.</info>
@@ -207,6 +200,8 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to.cfg%26title%3dDiscovery%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.slplay.to%252Fishyd3sopok3p27%26cfg%3dilive.to.cfg%2540Streams%26videoTitle%3dDiscovery%2b%2528HD%2529%2b%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252FGeneral%253Fq%253D%26_url%3d69112%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fishyd3sopok3p27_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%26url%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F075d66993151c178df1ed9840202d983.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bUS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDiscovery-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDiscovery%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDiscovery-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fk%252F583%252Fdiscovery_us__51096_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fk%252F583%252Fdiscovery_us__51096_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/DiscoveryUSA_zpsklqfivlo.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
@@ -246,18 +241,26 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>H2</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dH2%26url%3dmpd%253A%252F%252Fca2bf3f6b7e18a508253e9521510a4b5.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dH2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fca2bf3f6b7e18a508253e9521510a4b5.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dH2%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FH2.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dH2%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fa%252F786%252FH2_TV_logo__18213_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fa%252F786%252FH2_TV_logo__18213_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/H2_zpsyt3dhp9g.png</thumbnail>
-<genre></genre>
-<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Investigation Discovery</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bInvestigation%2bUS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDiscovery-Investigation-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDiscovery%2bInvestigation%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDiscovery-Investigation-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fw%252F036%252Finvestigation_discovery__91066_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fw%252F036%252Finvestigation_discovery__91066_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/ID_zpswnefjjys.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Hallmark</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHallmark%26url%3dmpd%253A%252F%252F1854321c4f4aff379019810ada9c6c4a.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHallmark%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F1854321c4f4aff379019810ada9c6c4a.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHallmark%2bChannel%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FHallmark-Channel.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dHallmark%2bChannel%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fm%252F968%252FHallmark-Channel-The-Heart-of-TV-Logo__99555_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fm%252F968%252FHallmark-Channel-The-Heart-of-TV-Logo__99555_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Hallmark_zpszrqyazth.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -266,8 +269,6 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%26url%3dmpd%253A%252F%252F509e5f41146e278f9eab1ddaceb34515.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F509e5f41146e278f9eab1ddaceb34515.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/hbo_zpsea03ace6.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -276,8 +277,6 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2bComedy%26url%3dmpd%253A%252F%252F359e2acdbc21e92a1ab8b8aabda7b758.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%2bComedy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F359e2acdbc21e92a1ab8b8aabda7b758.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HBOComedy_zpszbtbtlox.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -286,8 +285,14 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2bSignature%26url%3dmpd%253A%252F%252Fa42674dcc0ef7cae6e9c4916951aa1d3.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dHBO%2bSignature%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa42674dcc0ef7cae6e9c4916951aa1d3.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/HBOSignature_zps6fsuw4ma.png</thumbnail>
-<genre></genre>
-<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bChannel%2bUS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDisney-Channel-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDisney%2bChannel%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FDisney-Channel-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link></link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/disney_zpsgakoob15.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -295,19 +300,16 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <title>Cartoon Network</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F720933e62452d65671c676a065c18192.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%26url%3dmpd%253A%252F%252F8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCartoon%2bNetwork%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCartoon%2bNetwork%2bUS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCartoon-Network-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCartoon%2bNetwork%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCartoon-Network-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fn%252F286%252Fcartoon_network__82102_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fn%252F286%252Fcartoon_network__82102_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/cn_zpss2tcjn75.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Nick</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNick%2bUS%26url%3dmpd%253A%252F%252F06bea552377456206b10729449714df7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNick%2bUS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F06bea552377456206b10729449714df7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link></link>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNickelodeon%2bUS%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FNickelodeon-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dNickelodeon%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fw%252F877%252FNickelodeon_logo_new__07923_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fw%252F877%252FNickelodeon_logo_new__07923_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/Nickelodeon_zpsksh7dnfs.png</thumbnail>
-<genre></genre>
-<info></info>
 <fanart></fanart>
 </item>
 
@@ -316,8 +318,22 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link></link>
 <link></link>
 <thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
