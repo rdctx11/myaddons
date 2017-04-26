@@ -52,13 +52,13 @@
 
 <item>
 <title>Fox News</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2bChannel%26url%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2bNews%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCZfrvk33MNPOb-XjwZ5I-UQ</page>
+<page>https://www.youtube.com/user/house10i/feed</page>
 </regex>
+<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2bChannel%26url%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2bNews%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</fanart>
