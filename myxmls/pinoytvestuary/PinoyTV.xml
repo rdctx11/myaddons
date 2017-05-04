@@ -174,8 +174,9 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>GMA 7</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GMA+Life+TV&amp;url=http://62.4.21.70:8000/live/morad4/morad4/5073.ts</link>
 <link>http://iphone-streaming.ustream.tv/uhls/21475190/streams/live/iphone/playlist.m3u8</link>
-<link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link>
+<!-- <link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/GMA7_zps4dfoxrzw.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
