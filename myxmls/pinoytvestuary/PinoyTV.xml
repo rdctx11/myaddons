@@ -11,7 +11,7 @@
 
 <item>
 <title>TV 5</title>
-<link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link>
+<!-- <link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link> -->
 <link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/TV5_zpsqhif8ywb.png</thumbnail>
 <genre>News</genre>
@@ -21,7 +21,7 @@
 
 <item>
 <title>Aksyon TV</title>
-<link>http://origin2.cignal.tv/aes/smil:aksyon.smil/playlist.m3u8</link>
+<!-- <link>http://origin2.cignal.tv/aes/smil:aksyon.smil/playlist.m3u8</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/aksyontv1_zpsw3h7wjnk.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -174,7 +174,7 @@ Slogan: "One Nation, One Station"</info>
 
 <item>
 <title>GMA 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GMA+Life+TV&amp;url=http://62.4.21.70:8000/live/morad4/morad4/5073.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GMA+Life+TV&amp;url=http://62.4.21.70:8000/live/morad4/morad4/5073.ts&amp;iconImage=http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/GMALifeTV_zps44awgouh.png</link>
 <link>http://iphone-streaming.ustream.tv/uhls/21475190/streams/live/iphone/playlist.m3u8</link>
 <!-- <link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link> -->
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/GMA7_zps4dfoxrzw.png</thumbnail>
