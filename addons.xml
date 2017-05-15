@@ -297,7 +297,7 @@
 
 <addon id="plugin.video.pinoystreams"
 	name="Pinoy Streams"
-	version="1.2.0"
+	version="1.2.1"
 	provider-name="nieldc">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
