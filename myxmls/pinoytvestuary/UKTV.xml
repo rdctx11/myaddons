@@ -277,7 +277,7 @@
 
 <item>
 <title>Discovery History</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BHistory%2B%2528UK%2529%26url%3Dmpd%253A%252F%252F1e28a146727a9169053fe4759def0e47.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BHistory%2B%2528UK%2529%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F1e28a146727a9169053fe4759def0e47.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+History</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryHistory_zpsijgs0geb.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
@@ -286,7 +286,7 @@
 
 <item>
 <title>Discovery Shed</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BShed%26url%3Dmpd%253A%252F%252F5143132d4f880ee96e11f59f169f7770.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BShed%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F5143132d4f880ee96e11f59f169f7770.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Shed</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/discovery-shed_zpsyjmpkljy.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
@@ -295,7 +295,7 @@
 
 <item>
 <title>Discovery Turbo</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DDiscovery%2BTurbo%2BUK%26url%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DDiscovery%2BTurbo%2BUK%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252F0f61fdde073409d41b534b38184fb9c9.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Turbo</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryTurbo_zpskzappd9x.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
@@ -304,7 +304,7 @@
 
 <item>
 <title>Investigation Discovery UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dInvestigation%2bDiscovery%2bUK%26url%3dmpd%253A%252F%252Fcf723f822ded11e60e6bb78f16c327c8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dInvestigation%2bDiscovery%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcf723f822ded11e60e6bb78f16c327c8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Investigation+Discovery+UK</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/investigationdiscovery_zpsyybv2bph.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -313,7 +313,7 @@
 
 <item>
 <title>Lifetime UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dLifetime%2bUK%26url%3dmpd%253A%252F%252Ff31ff373857e6b6e0bc44ae55da2e208.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dLifetime%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff31ff373857e6b6e0bc44ae55da2e208.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Lifetime</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/LifetimeUK_zpsmj8sdgbd.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -322,7 +322,7 @@
 
 <item>
 <title>DMax</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDMax%2bUK%26url%3dmpd%253A%252F%252F8371f16a5529228ac3dda62ea9ffb0e4.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDMax%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F8371f16a5529228ac3dda62ea9ffb0e4.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/DMax</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DMAX_zps60h9qixv.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -331,7 +331,7 @@
 
 <item>
 <title>Drama</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDrama%2bChannel%26url%3dmpd%253A%252F%252F24bdca7ce85d02fddf5992944b4960d1.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDrama%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F24bdca7ce85d02fddf5992944b4960d1.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Drama</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Drama_zpsyvliczpz.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -340,7 +340,7 @@
 
 <item>
 <title>Sky Arts</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bArts%2b2%26url%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bArts%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F19720b905499b5bc8ff1c34eeb6c6e91.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Arts</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/SkyArts_zpsql0tscoy.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -349,7 +349,7 @@
 
 <item>
 <title>Sky Atlantic</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bAtlantic%2bIreland%26url%3dmpd%253A%252F%252Feabd32acc39d4bd72a4ad687090aef8f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bAtlantic%2bIreland%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Feabd32acc39d4bd72a4ad687090aef8f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Atlantic</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Atlantic_zpsvwaaen4b.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -358,7 +358,7 @@
 
 <item>
 <title>Sky Living</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bLiving%26url%3dmpd%253A%252F%252F26cb04f6748172109489d18b64feca2e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bLiving%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F26cb04f6748172109489d18b64feca2e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Living</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Living_zpsgdh50tiz.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -367,7 +367,7 @@
 
 <item>
 <title>Sky One</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bOne%26url%3dmpd%253A%252F%252Febcd8ef93fa99c4834d0cc3275f3dcd7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bOne%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Febcd8ef93fa99c4834d0cc3275f3dcd7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+One</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-1_zpswxg3rgsj.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -376,7 +376,7 @@
 
 <item>
 <title>Sky Two</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bTwo%26url%3dmpd%253A%252F%252F838d5a3429b075f8b9ab00c083d93989.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bTwo%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F838d5a3429b075f8b9ab00c083d93989.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Two</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-2_zpsj12gxnfm.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -385,6 +385,7 @@
 
 <item>
 <title>Sky Cinema Action</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Action</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26url%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaaction_zpsgjmrejvy.png</thumbnail>
 <genre></genre>
@@ -394,6 +395,7 @@
 
 <item>
 <title>Sky Cinema Comedy</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Comedy</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bComedy%26url%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bComedy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacomedy_zpsac57vyhs.png</thumbnail>
 <genre></genre>
@@ -403,6 +405,7 @@
 
 <item>
 <title>Sky Cinema Disney</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Disney</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDisney%26url%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDisney%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadisney2_zps6lg9od1s.png</thumbnail>
 <genre></genre>
@@ -412,6 +415,7 @@
 
 <item>
 <title>Sky Cinema Crime</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Crime</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26url%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacrime_zpsg8yacrae.png</thumbnail>
 <genre></genre>
@@ -421,6 +425,7 @@
 
 <item>
 <title>Sky Cinema Family</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Family</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bFamily%26url%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bFamily%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemafamily_zpsyt6hds18.png</thumbnail>
 <genre></genre>
@@ -430,6 +435,7 @@
 
 <item>
 <title>Sky Cinema Drama</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Drama</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26url%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadrama_zpsxz8jnqq5.png</thumbnail>
 <genre></genre>
@@ -439,6 +445,7 @@
 
 <item>
 <title>Sky Cinema Premiere</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Premiere</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bPremiere%26url%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bPremiere%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemapremiere_zps318783ts.png</thumbnail>
 <genre></genre>
@@ -448,6 +455,7 @@
 
 <item>
 <title>Sky Cinema SciFi</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Sci-Fi</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSci-fi%2bHorror%26url%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSci-fi%2bHorror%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemascifi_zps8usxofdu.png</thumbnail>
 <genre></genre>
@@ -457,6 +465,7 @@
 
 <item>
 <title>Sky Cinema Modern Greats</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Greats</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26url%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemagreats_zps5xbpt0oi.png</thumbnail>
 <genre></genre>
@@ -466,6 +475,7 @@
 
 <item>
 <title>Sky Cinema Showcase</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Showcase</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bShowcase%26url%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bShowcase%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemashowcase_zps2tlbf3bs.png</thumbnail>
 <genre></genre>
@@ -475,6 +485,7 @@
 
 <item>
 <title>Sky Cinema Select</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Select</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSelect%26url%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSelect%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaselect_zpskodhwbiw.png</thumbnail>
 <genre></genre>
@@ -484,6 +495,7 @@
 
 <item>
 <title>True Movies</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/True+Movies</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%26url%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies1_zpsgjxxgiiy.png</thumbnail>
 <genre></genre>
@@ -493,6 +505,7 @@
 
 <item>
 <title>True Movies 2</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/True+Movies+2</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%2b2%26url%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies2_zpseqc5c8ke.png</thumbnail>
 <genre></genre>
@@ -502,7 +515,7 @@
 
 <item>
 <title>Disney Channel UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bChannel%2bUK%26url%3dmpd%253A%252F%252F14b7d3edf41bba55aebd39254e3a0100.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F14b7d3edf41bba55aebd39254e3a0100.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+Channel</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyChUK_zpsgnrrrt8h.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -511,7 +524,7 @@
 
 <item>
 <title>Disney Junior UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bJunior%2bUK%26url%3dmpd%253A%252F%252Fe6e17fbb85e77c0eabc0ed20d6b8799e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bJunior%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe6e17fbb85e77c0eabc0ed20d6b8799e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+Junior</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyJrUK_zpso5yxnbnv.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -520,7 +533,7 @@
 
 <item>
 <title>Disney XD</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bXD%26url%3dmpd%253A%252F%252Fc8c584218a3b3036c001e7e440b63c28.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDisney%2bXD%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc8c584218a3b3036c001e7e440b63c28.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+XD</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyXdUK_zpsrjpfwnxw.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -529,7 +542,7 @@
 
 <item>
 <title>Nick UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNickelodeon%26url%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNickelodeon%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Nickelodeon</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Nick_zpsnmjdcpmr.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -538,7 +551,7 @@
 
 <item>
 <title>Nick Junior</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNick%2bJunior%2bUK%26url%3dmpd%253A%252F%252F85fa8712793a2a6b1feda57b2395adbf.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNick%2bJunior%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F85fa8712793a2a6b1feda57b2395adbf.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Nick+Jr</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NickJr_zpsdfmum9ng.png</thumbnail>
 <genre></genre>
 <info></info>
