@@ -2,65 +2,49 @@
 
 <item>
 <title>BBC One</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=BBC+One&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F14%2Fbig_logo.png&amp;description=14</link>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbbc-one&amp;mode=125&amp;name=BBC+One&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F14%2Fextra_big_logo.png&amp;start=bbc-one&amp;ch_fanart=14</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBBC%2bOne%26url%3dmpd%253A%252F%252Fa8f14a834d2d09054715803924e798b2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBBC%2bOne%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa8f14a834d2d09054715803924e798b2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/BBC+One</link>
 <thumbnail>http://static.filmon.com/couch/channels/14/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
 <title>BBC Two</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=BBC+Two&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F25%2Fbig_logo.png&amp;description=25</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/bbc-two&amp;mode=125&amp;name=BBC Two&amp;iconimage=http://static.filmon.com/couch/channels/25/extra_big_logo.png&amp;start=bbc-two&amp;ch_fanart=25</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBBC%2bTwo%26url%3dmpd%253A%252F%252Fd6b64a19b548bf941f57cdd4c5d71904.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBBC%2bTwo%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd6b64a19b548bf941f57cdd4c5d71904.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/BBC+Two</link>
 <thumbnail>http://static.filmon.com/couch/channels/25/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
 <title>BBC Three</title>
-<link></link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbbcbbc-three&amp;mode=125&amp;name=CBBC/BBC Three&amp;iconimage=http://static.filmon.com/couch/channels/113/extra_big_logo.png&amp;start=cbbcbbc-three&amp;ch_fanart=113</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBBC%2bThree%26url%3dmpd%253A%252F%252Fb0cb790c33fec1d8babed26ff68ee629.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBBC%2bThree%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb0cb790c33fec1d8babed26ff68ee629.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/BBC+Three</link>
 <thumbnail>http://static.filmon.com/couch/channels/113/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
 <title>BBC Four</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=BBC+Four&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F103%2Fbig_logo.png&amp;description=103</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbeebiesbbc-four&amp;mode=125&amp;name=CBEEBIES/BBC Four&amp;iconimage=http://static.filmon.com/couch/channels/103/extra_big_logo.png&amp;start=cbeebiesbbc-four&amp;ch_fanart=103</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBBC%2bFour%26url%3dmpd%253A%252F%252F242b381a075fd20a0a73060c277e54a2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dBBC%2bFour%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F242b381a075fd20a0a73060c277e54a2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/BBC+Four</link>
 <thumbnail>http://static.filmon.com/couch/channels/103/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
 <title>ITV</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=ITV&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F11%2Fbig_logo.png&amp;description=11</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv1&amp;mode=125&amp;name=ITV1 &amp;iconimage=http://static.filmon.com/couch/channels/11/extra_big_logo.png&amp;start=itv1&amp;ch_fanart=11</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV1%26url%3dmpd%253A%252F%252Fcc0b763f7c5ce91a396c0ef4fa529df9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fcc0b763f7c5ce91a396c0ef4fa529df9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV1_zpsf5kgqvmg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 2</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=ITV+2&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F67%2Fbig_logo.png&amp;description=67</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv2&amp;mode=125&amp;name=ITV2&amp;iconimage=http://static.filmon.com/couch/channels/67/extra_big_logo.png&amp;start=itv2&amp;ch_fanart=67</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV2%26url%3dmpd%253A%252F%252F28d16f04d9b55d2ea2f826735ddffb85.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F28d16f04d9b55d2ea2f826735ddffb85.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV2</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV2_zpsrsuyz1jv.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 3</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=ITV+3&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F26%2Fbig_logo.png&amp;description=26</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv3&amp;mode=125&amp;name=ITV3&amp;iconimage=http://static.filmon.com/couch/channels/26/extra_big_logo.png&amp;start=itv3&amp;ch_fanart=26</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV3%26url%3dmpd%253A%252F%252Fef4aa10e04cfa8191ff3253dc8184bc2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV3%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fef4aa10e04cfa8191ff3253dc8184bc2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV3</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV3_zpsrdef5kku.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 4</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=ITV+4&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F101%2Fbig_logo.png&amp;description=101</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/itv4&amp;mode=125&amp;name=ITV4&amp;iconimage=http://static.filmon.com/couch/channels/101/extra_big_logo.png&amp;start=itv4&amp;ch_fanart=101</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dITV4%26url%3dmpd%253A%252F%252F2a2714a7d955d8810a21bb3f195cc0d9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dITV4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2a2714a7d955d8810a21bb3f195cc0d9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV4</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV4_zpsvv1nsedx.png</thumbnail>
 </item>
 
