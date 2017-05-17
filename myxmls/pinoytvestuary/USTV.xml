@@ -3,8 +3,7 @@
 <item>
 <title>ABC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=ABC</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252F900150983cd24fb0d6963f7d28e17f72.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F900150983cd24fb0d6963f7d28e17f72.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ABC</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/abc_zps2c41fa79.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>The American Broadcasting Company (abbreviated ABC, stylized in the logo as abc since 1962) is an American commercial broadcast television network. Throughout its history, ABC has supported its financial operations by diversifying into the press, the publishing industry, the operation of theaters, and filmmaking. Many of the company's assets in these fields have been sold to other entities, and since 2007, when ABC Radio (also known as "Cumulus Media Networks") was sold to Citadel Broadcasting, ABC has reduced its broadcasting operations almost exclusively to television. It is the world's fifth-oldest major broadcasting media network.</info>
@@ -14,8 +13,7 @@
 <item>
 <title>CBS</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CBS</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%26url%3dmpd%253A%252F%252F250c51527f347066847969f002be67a2.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F250c51527f347066847969f002be67a2.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%26url%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F4d0fadca2686a2cdd4a4a6623212449c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/CBSnew_zpsn9biinpc.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>CBS is an American commercial broadcast television network, which started as a radio network; it continues to operate a radio network and a portfolio of television and radio stations in large and mid-sized markets. The name is derived from the initials of the network's former name, Columbia Broadcasting System. The company's headquarters is in New York City, with major production facilities and operations in New York City and Los Angeles.</info>
@@ -25,8 +23,7 @@
 <item>
 <title>The CW</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=CW</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dThe%2bCW%26url%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dThe%2bCW%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F296e56c668bc8bd6b0044d3e4f034153.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCW%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCW.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCW%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCW.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/CW</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/cw1_zpse676005c.png</thumbnail>
 <genre>Entertainment, News</genre>
 <info>The CW Television Network (The CW) is an American broadcast television network that is operated by The CW Network, LLC, a limited liability joint venture between CBS Corporation, the former owners of the United Paramount Network (UPN), and the Warner Bros. Entertainment subsidiary of Time Warner, former majority owner of The WB Television Network. The "CW" name is derived from the first letters of the names of these corporations (CBS and Warner Bros.).</info>
@@ -36,8 +33,7 @@
 <item>
 <title>FOX</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=FOX</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2b43%2bWMPT%26url%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2b43%2bWMPT%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc2f52b70c2324ba134b2cba2962bedae.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link></link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/FOX</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/fox_zpse9e43207.png</thumbnail>
 <genre>News and Entertainment</genre>
 <info>The Fox Broadcasting Company is an American commercial broadcast television network that is owned by the Fox Entertainment Group division of 21st Century Fox. It is the third largest major television network in the world, based on total revenues, assets and international coverage.
@@ -48,8 +44,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <item>
 <title>NBC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=NBC</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3baf7db0d8f1d400816fb6166b297f46.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%26url%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F89b7abacbe0cefbadf6ad5c5ccb4ae15.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/NBC</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/USTV/nbc_zpse64a81fb.png</thumbnail>
 <genre>News and Entertainment</genre>
