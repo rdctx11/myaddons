@@ -50,23 +50,19 @@
 
 <item>
 <title>ITV Be</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=ITV+Be&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F3211%2Fbig_logo.png&amp;description=3211</link>
-<link>plugin://plugin.video.F.T.V/?url=3211&amp;mode=125&amp;name=ITVBe&amp;iconimage=http://static.filmon.com/couch/channels/3211/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/ITVBe</link>
 <thumbnail>http://static.filmon.com/couch/channels/3211/extra_big_logo.png</thumbnail>
 </item>
 
 <item>
 <title>CBS Reality</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=CBS+Reality&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1808%2Fbig_logo.png&amp;description=1808</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbs-reality&amp;mode=125&amp;name=CBS Reality&amp;iconimage=http://static.filmon.com/couch/channels/1808/extra_big_logo.png&amp;start=cbs-reality&amp;ch_fanart=1808</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Reality</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBSReality1_zpsaalkahdy.png</thumbnail>
 </item>
 
 <item>
 <title>CBS Drama</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=CBS+Drama&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1805%2Fbig_logo.png&amp;description=1805</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/cbs-drama&amp;mode=125&amp;name=CBS Drama&amp;iconimage=http://static.filmon.com/couch/channels/1805/extra_big_logo.png&amp;start=cbs-drama&amp;ch_fanart=1805</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%2bDrama%26url%3dmpd%253A%252F%252Fb0f8f6e8535e082a1d0e8b9c7366e95f.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%2bDrama%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb0f8f6e8535e082a1d0e8b9c7366e95f.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Drama</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Drama_zpsct1xalby.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -75,9 +71,7 @@
 
 <item>
 <title>CBS Action</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=CBS+Action&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1952%2Fbig_logo.png&amp;description=1952</link>
-<link>plugin://plugin.video.F.T.V/?url=1952&amp;mode=125&amp;name=CBS Action (1952)&amp;iconimage=http://static.filmon.com/couch/channels/1952/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%2bAction%26url%3dmpd%253A%252F%252Faf742351710d35069d31eb91f646cf56.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dCBS%2bAction%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Faf742351710d35069d31eb91f646cf56.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Action</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Action_zpshhrkhet9.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -86,9 +80,7 @@
 
 <item>
 <title>Channel 4</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Channel+4+&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F2%2Fbig_logo.png&amp;description=2</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/channel-4&amp;mode=125&amp;name=Channel 4 &amp;iconimage=http://static.filmon.com/couch/channels/2/extra_big_logo.png&amp;start=channel-4&amp;ch_fanart=2</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dChannel%2b4%26url%3dmpd%253A%252F%252Fe77d2afa4363dad35c713745802d7bee.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dChannel%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fe77d2afa4363dad35c713745802d7bee.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Channel+4</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel4_zps2b4wfcll.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -97,9 +89,7 @@
 
 <item>
 <title>Channel 5</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Channel+5&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F22%2Fbig_logo.png&amp;description=22</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/channel-5&amp;mode=125&amp;name=Channel 5&amp;iconimage=http://static.filmon.com/couch/channels/22/extra_big_logo.png&amp;start=channel-5&amp;ch_fanart=22</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dChannel%2b5%26url%3dmpd%253A%252F%252F5c2e49e212275e83ce788e1a6da3c438.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dChannel%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5c2e49e212275e83ce788e1a6da3c438.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Channel+5</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel5_zpszzddrdqi.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -108,9 +98,7 @@
 
 <item>
 <title>E4</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=E4&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F65%2Fbig_logo.png&amp;description=65</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/e4&amp;mode=125&amp;name=E4&amp;iconimage=http://static.filmon.com/couch/channels/65/extra_big_logo.png&amp;start=e4&amp;ch_fanart=65</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dE4%26url%3dmpd%253A%252F%252F2157d56d6aff208ae90c869526290656.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dE4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2157d56d6aff208ae90c869526290656.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/E4</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E4_zpsscgqicsd.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -119,8 +107,7 @@
 
 <item>
 <title>More 4</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=More4&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F97%2Fbig_logo.png&amp;description=97</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/more4&amp;mode=125&amp;name=More4&amp;iconimage=http://static.filmon.com/couch/channels/97/extra_big_logo.png&amp;start=more4&amp;ch_fanart=97</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/More+4</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/More4_zpsmmjlgdxo.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -129,8 +116,8 @@
 
 <item>
 <title>Dave</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Dave</link>
 <link></link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/dave&amp;mode=125&amp;name=Dave&amp;iconimage=http://static.filmon.com/couch/channels/370/extra_big_logo.png&amp;start=dave&amp;ch_fanart=370</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Dave_zpsacdyn91z.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -139,9 +126,8 @@
 
 <item>
 <title>Quest</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Quest</link>
 <link></link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/quest&amp;mode=125&amp;name=QUEST&amp;iconimage=http://static.filmon.com/couch/channels/2707/extra_big_logo.png&amp;start=quest&amp;ch_fanart=2707</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dQuest%26url%3dmpd%253A%252F%252F07bf513a88c3df282a30cb374f8a933d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dQuest%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F07bf513a88c3df282a30cb374f8a933d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/QUEST_zpsmijnkfjy.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -150,9 +136,8 @@
 
 <item>
 <title>Film 4</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Film+4</link>
 <link></link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/film-4&amp;mode=125&amp;name=Film 4&amp;iconimage=http://static.filmon.com/couch/channels/13/extra_big_logo.png&amp;start=film-4&amp;ch_fanart=13</link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFilm%2b4%26url%3dmpd%253A%252F%252F0f2c179db3d0e356f8615dde513bc4aa.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dFilm%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0f2c179db3d0e356f8615dde513bc4aa.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Film4_zps85mwokqu.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -161,8 +146,7 @@
 
 <item>
 <title>5USA</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=5USA&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F845%2Fbig_logo.png&amp;description=845</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/5usa&amp;mode=125&amp;name=5USA&amp;iconimage=http://static.filmon.com/couch/channels/845/extra_big_logo.png&amp;start=5usa&amp;ch_fanart=845</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/5USA</link>
 <thumbnail>http://static.filmon.com/couch/channels/845/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -171,29 +155,26 @@
 
 <item>
 <title>5STAR</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=5%2A&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F851%2Fbig_logo.png&amp;description=851</link>
-<link>plugin://plugin.video.F.T.V/?url=851&amp;mode=125&amp;name=5*&amp;iconimage=http://static.filmon.com/couch/channels/851/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/5STAR</link>
 <thumbnail>http://static.filmon.com/couch/channels/851/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>Pick TV</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Pick</link>
 <link></link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/pick-tv&amp;mode=125&amp;name=Pick TV&amp;iconimage=http://static.filmon.com/couch/channels/371/extra_big_logo.png&amp;start=pick-tv&amp;ch_fanart=371</link>
 <thumbnail>http://static.filmon.com/couch/channels/371/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>Really</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Reality+TV&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F2798%2Fbig_logo.png&amp;description=2798</link>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Really&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F372%2Fbig_logo.png&amp;description=372</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/really&amp;mode=125&amp;name=Really&amp;iconimage=http://static.filmon.com/couch/channels/372/extra_big_logo.png&amp;start=really&amp;ch_fanart=372</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Really</link>
 <thumbnail>http://static.filmon.com/couch/channels/372/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -202,8 +183,7 @@
 
 <item>
 <title>Tru TV</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=truTV&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F3707%2Fbig_logo.png&amp;description=3707</link>
-<link>plugin://plugin.video.F.T.V/?url=3707&amp;mode=125&amp;name=TruTV&amp;iconimage=http://static.filmon.com/couch/channels/3707/extra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/truTV</link>
 <thumbnail>http://static.filmon.com/couch/channels/3707/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -212,8 +192,7 @@
 
 <item>
 <title>Yesterday</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Yesterday&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F1039%2Fbig_logo.png&amp;description=1039</link>
-<link>plugin://plugin.video.F.T.V/?url=http://www.filmon.com/channel/yesterday&amp;mode=125&amp;name=Yesterday&amp;iconimage=http://static.filmon.com/couch/channels/1039/extra_big_logo.png&amp;start=yesterday&amp;ch_fanart=1039</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Yesterday</link>
 <thumbnail>http://static.filmon.com/couch/channels/1039/extra_big_logo.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -221,18 +200,9 @@
 </item>
 
 <item>
-<title>V Channel</title>
-<link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=V+Channel+&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F4307%2Fbig_logo.png&amp;description=4307</link>
-<thumbnail>https://static.filmon.com/assets/channels/4307/extra_big_logo.png</thumbnail>
-<genre></genre>
-<info></info>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Travel Channel UK</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Travel+Channel</link>
 <link></link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTravel%2bChannel%2bUK%26url%3dmpd%253A%252F%252F614452655bc157322106de2e209a2853.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTravel%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F614452655bc157322106de2e209a2853.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/TravelUK_zpspjvtodas.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -241,8 +211,8 @@
 
 <item>
 <title>TLC</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/TLC</link>
 <link></link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTLC%2bUK%26url%3dmpd%253A%252F%252Fd7aa295db6f5a09cc47f862d7042dd64.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTLC%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd7aa295db6f5a09cc47f862d7042dd64.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/tlcuk_zpsvfzmzcbq.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -251,8 +221,8 @@
 
 <item>
 <title>E! Entertainment</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/E!</link>
 <link></link>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3Dstreams%26title%3DE%2521%2BEntertainment%26url%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26cfg%3Dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3DE%2521%2BEntertainment%26director%3Dtvone1.tv%26genre%3DLive%2BTV%26referer%3Dmpd%253A%252F%252Fc73381d6543700790e949ee08157120f.m3u8%26definedIn%3Dtvone1.tv.cfg%26type%3Drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E_zpsropnjzl0.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -261,7 +231,7 @@
 
 <item>
 <title>National Geographic UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%2bUK%26url%3dmpd%253A%252F%252Ff3f75dee3b4ed4497dfa412079c3a6f9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNational%2bGeographic%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff3f75dee3b4ed4497dfa412079c3a6f9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/National+Geographic</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoUK_zpszvanuivv.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
@@ -270,7 +240,7 @@
 
 <item>
 <title>Nat Geo Wild</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26url%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dNat%2bGeo%2bWild%2b%2528version%2bin%2bEnglish%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Facf9249594df8395d62a4fee0dd484cb.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Nat+Geo+Wild</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoWildUK_zpssqp5g1ho.png</thumbnail>
 <genre></genre>
 <info></info>
@@ -279,7 +249,7 @@
 
 <item>
 <title>Discovery Channel UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bChannel%2bUK%26url%3dmpd%253A%252F%252Fc283a671e1189d568500d494ff8cd77d.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bChannel%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc283a671e1189d568500d494ff8cd77d.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Channel</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryChannelUK_zpsg8monkro.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
@@ -289,7 +259,7 @@
 
 <item>
 <title>Discovery Science UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bScience%2b%2528version%2bin%2bEnglish%2529%26url%3dmpd%253A%252F%252F344fa3289867fdacd0f60047a790601b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dDiscovery%2bScience%2b%2528version%2bin%2bEnglish%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F344fa3289867fdacd0f60047a790601b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Science</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryScienceUK_zpsjbaj7ymm.png</thumbnail>
 <genre>Science, Documentary</genre>
 <info>Science is an American digital cable and satellite television network that is owned by Discovery Communications. The channel features programming focusing on the fields of wilderness survival, ufology, manufacturing, construction, technology, space, prehistory and animal science.</info>
@@ -298,7 +268,7 @@
 
 <item>
 <title>Animal Planet UK</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAnimal%2bPlanet%2bUK%26url%3dmpd%253A%252F%252Fb39899a4d7a8537a3fb9a4b36a364642.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dAnimal%2bPlanet%2bUK%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb39899a4d7a8537a3fb9a4b36a364642.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Animal+Planet</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/AnimalPlanetUK_zps9sj0lcix.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Animal Planet is an American basic cable and satellite television channel owned by Discovery Communications. Originally focused on more educationally-based television shows, the network has featured more reality programming since the late 2000s. It is available throughout the United States, as well as in over 70 countries around the world. Country-specific versions of the channel have been created in Canada, India, Japan, Taiwan and other countries.</info>
