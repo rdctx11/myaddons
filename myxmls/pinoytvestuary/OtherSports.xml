@@ -2,6 +2,7 @@
 
 <item>
 <title>Arena Sport 1</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Arena+Sport+1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dArena%2b1%26url%3dmpd%253A%252F%252F06601e3489890afdb3bdcaf46e87747e.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dArena%2b1%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F06601e3489890afdb3bdcaf46e87747e.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/arenasport1_zpsscqxav5h.png</thumbnail>
@@ -12,6 +13,7 @@
 
 <item>
 <title>Arena Sport 2</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Arena+Sport+2</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dArena%2b2%26url%3dmpd%253A%252F%252F9fc113e3cb65d67185903645c5a7d77b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dArena%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F9fc113e3cb65d67185903645c5a7d77b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/arenasport2_zps19lf6vxr.png</thumbnail>
@@ -22,6 +24,7 @@
 
 <item>
 <title>Arena Sport 3</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Arena+Sport+3</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dArena%2b3%26url%3dmpd%253A%252F%252F205a864931b005cb983e67e717acc544.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dArena%2b3%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F205a864931b005cb983e67e717acc544.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/arenasport3_zpsl4pcjzvu.png</thumbnail>
@@ -32,6 +35,7 @@
 
 <item>
 <title>Arena Sport 4</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Arena+Sport+4</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dArena%2b4%26url%3dmpd%253A%252F%252F68b9d03354a24ea0cdcdf10413ccb635.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dArena%2b4%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F68b9d03354a24ea0cdcdf10413ccb635.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/arenasport4_zps70pixqb1.png</thumbnail>
@@ -42,6 +46,7 @@
 
 <item>
 <title>Arena Sport 5</title>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Arena+Sport+5</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dArena%2b5%26url%3dmpd%253A%252F%252Feb8a164d416cea8ff08bd7742337b52c.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Sports%26videoTitle%3dArena%2b5%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Feb8a164d416cea8ff08bd7742337b52c.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/SportsTV/arenasport5_zps3d3zjtua.png</thumbnail>
