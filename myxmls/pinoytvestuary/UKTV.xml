@@ -385,7 +385,7 @@
 
 <item>
 <title>Sky Cinema Action</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Action</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Action</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26url%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaaction_zpsgjmrejvy.png</thumbnail>
 <genre></genre>
@@ -395,7 +395,7 @@
 
 <item>
 <title>Sky Cinema Comedy</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Comedy</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Comedy</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bComedy%26url%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bComedy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacomedy_zpsac57vyhs.png</thumbnail>
 <genre></genre>
@@ -405,7 +405,7 @@
 
 <item>
 <title>Sky Cinema Disney</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Disney</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDisney%26url%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDisney%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadisney2_zps6lg9od1s.png</thumbnail>
 <genre></genre>
@@ -415,7 +415,7 @@
 
 <item>
 <title>Sky Cinema Crime</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Crime</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Crime</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26url%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacrime_zpsg8yacrae.png</thumbnail>
 <genre></genre>
@@ -425,7 +425,7 @@
 
 <item>
 <title>Sky Cinema Family</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Family</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Family</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bFamily%26url%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bFamily%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemafamily_zpsyt6hds18.png</thumbnail>
 <genre></genre>
@@ -435,7 +435,7 @@
 
 <item>
 <title>Sky Cinema Drama</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Drama</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Drama</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26url%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadrama_zpsxz8jnqq5.png</thumbnail>
 <genre></genre>
@@ -445,7 +445,7 @@
 
 <item>
 <title>Sky Cinema Premiere</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Premiere</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Premiere</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bPremiere%26url%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bPremiere%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemapremiere_zps318783ts.png</thumbnail>
 <genre></genre>
@@ -455,7 +455,7 @@
 
 <item>
 <title>Sky Cinema SciFi</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Sci-Fi</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sci-Fi</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSci-fi%2bHorror%26url%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSci-fi%2bHorror%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemascifi_zps8usxofdu.png</thumbnail>
 <genre></genre>
@@ -465,7 +465,7 @@
 
 <item>
 <title>Sky Cinema Modern Greats</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Greats</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Greats</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26url%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemagreats_zps5xbpt0oi.png</thumbnail>
 <genre></genre>
@@ -475,7 +475,7 @@
 
 <item>
 <title>Sky Cinema Showcase</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Showcase</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Showcase</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bShowcase%26url%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bShowcase%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemashowcase_zps2tlbf3bs.png</thumbnail>
 <genre></genre>
@@ -485,7 +485,7 @@
 
 <item>
 <title>Sky Cinema Select</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Cinema+Select</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Select</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSelect%26url%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSelect%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaselect_zpskodhwbiw.png</thumbnail>
 <genre></genre>
