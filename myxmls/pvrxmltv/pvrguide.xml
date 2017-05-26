@@ -24,9 +24,6 @@
     <display-name lang="zh">Channel News Asia</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170526200000 +0800" stop="20170526210000 +0800" channel="CNNPh">
-    <title lang="en">Stories</title>
-  </programme>
   <programme start="20170526210000 +0800" stop="20170526213000 +0800" channel="CNNPh">
     <title lang="en">Newsroom</title>
   </programme>
@@ -940,278 +937,365 @@
   <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="CGTN">
     <title lang="zh">Rediscovering China</title>
   </programme>
-  <programme start="20170526060000 +0800" stop="20170526070000 +0800" channel="Arirang">
-    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  <programme start="20170526060000 +0800" stop="20170526063000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170526070000 +0800" stop="20170526080000 +0800" channel="Arirang">
-    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  <programme start="20170526063000 +0800" stop="20170526070000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170526080000 +0800" stop="20170526085500 +0800" channel="Arirang">
-    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  <programme start="20170526070000 +0800" stop="20170526070500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170526085500 +0800" stop="20170526095000 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170526070500 +0800" stop="20170526080000 +0800" channel="Arirang">
+    <title lang="zh">PerformArts Reload</title>
   </programme>
-  <programme start="20170526095000 +0800" stop="20170526101500 +0800" channel="Arirang">
-    <title lang="zh">YOUNGER (SEASON 3)</title>
+  <programme start="20170526080000 +0800" stop="20170526080500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170526101500 +0800" stop="20170526104000 +0800" channel="Arirang">
-    <title lang="zh">YOUNGER (SEASON 3)</title>
+  <programme start="20170526080500 +0800" stop="20170526090000 +0800" channel="Arirang">
+    <title lang="zh">Simply K-pop</title>
   </programme>
-  <programme start="20170526104000 +0800" stop="20170526113000 +0800" channel="Arirang">
-    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  <programme start="20170526090000 +0800" stop="20170526093000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170526113000 +0800" stop="20170526122000 +0800" channel="Arirang">
-    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  <programme start="20170526093000 +0800" stop="20170526100000 +0800" channel="Arirang">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170526122000 +0800" stop="20170526131000 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170526100000 +0800" stop="20170526100500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170526131000 +0800" stop="20170526140000 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  <programme start="20170526100500 +0800" stop="20170526103000 +0800" channel="Arirang">
+    <title lang="zh">Im Live</title>
   </programme>
-  <programme start="20170526140000 +0800" stop="20170526145500 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170526103000 +0800" stop="20170526110000 +0800" channel="Arirang">
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170526145500 +0800" stop="20170526152000 +0800" channel="Arirang">
-    <title lang="zh">YOUNGER (SEASON 3)</title>
+  <programme start="20170526110000 +0800" stop="20170526113000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170526152000 +0800" stop="20170526154500 +0800" channel="Arirang">
-    <title lang="zh">YOUNGER (SEASON 3)</title>
+  <programme start="20170526113000 +0800" stop="20170526120000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170526154500 +0800" stop="20170526163500 +0800" channel="Arirang">
-    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  <programme start="20170526120000 +0800" stop="20170526120500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170526163500 +0800" stop="20170526172500 +0800" channel="Arirang">
-    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  <programme start="20170526120500 +0800" stop="20170526130000 +0800" channel="Arirang">
+    <title lang="zh">PerformArts Reload</title>
   </programme>
-  <programme start="20170526172500 +0800" stop="20170526181500 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  <programme start="20170526130000 +0800" stop="20170526133000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170526181500 +0800" stop="20170526190500 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170526133000 +0800" stop="20170526140000 +0800" channel="Arirang">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170526190500 +0800" stop="20170526200000 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170526140000 +0800" stop="20170526140500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170526200000 +0800" stop="20170526203000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  <programme start="20170526140500 +0800" stop="20170526143000 +0800" channel="Arirang">
+    <title lang="zh">Showbiz Korea</title>
   </programme>
-  <programme start="20170526203000 +0800" stop="20170526210000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  <programme start="20170526143000 +0800" stop="20170526150000 +0800" channel="Arirang">
+    <title lang="zh">Pops in Seoul</title>
   </programme>
-  <programme start="20170526210000 +0800" stop="20170526215000 +0800" channel="Arirang">
-    <title lang="zh">THE NIGHT SHIFT (SEASON 3)</title>
+  <programme start="20170526150000 +0800" stop="20170526153000 +0800" channel="Arirang">
+    <title lang="zh">Business Daily [L]</title>
   </programme>
-  <programme start="20170526215000 +0800" stop="20170526224000 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170526153000 +0800" stop="20170526160000 +0800" channel="Arirang">
+    <title lang="zh">Im Live</title>
   </programme>
-  <programme start="20170526224000 +0800" stop="20170526233000 +0800" channel="Arirang">
-    <title lang="zh">THE NIGHT SHIFT (SEASON 3)</title>
+  <programme start="20170526160000 +0800" stop="20170526160500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
+  </programme>
+  <programme start="20170526160500 +0800" stop="20170526170000 +0800" channel="Arirang">
+    <title lang="zh">Simply K-pop</title>
+  </programme>
+  <programme start="20170526170000 +0800" stop="20170526173000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
+  </programme>
+  <programme start="20170526173000 +0800" stop="20170526180000 +0800" channel="Arirang">
+    <title lang="zh">Globetrotters</title>
+  </programme>
+  <programme start="20170526180000 +0800" stop="20170526180500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
+  </programme>
+  <programme start="20170526180500 +0800" stop="20170526190000 +0800" channel="Arirang">
+    <title lang="zh">PerformArts Reload</title>
+  </programme>
+  <programme start="20170526190000 +0800" stop="20170526193000 +0800" channel="Arirang">
+    <title lang="zh">Newscenter [L]</title>
+  </programme>
+  <programme start="20170526193000 +0800" stop="20170526200000 +0800" channel="Arirang">
+    <title lang="zh">BizSmart</title>
+  </programme>
+  <programme start="20170526200000 +0800" stop="20170526200500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
+  </programme>
+  <programme start="20170526200500 +0800" stop="20170526210000 +0800" channel="Arirang">
+    <title lang="zh">Simply K-pop</title>
+  </programme>
+  <programme start="20170526210000 +0800" stop="20170526213000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
+  </programme>
+  <programme start="20170526213000 +0800" stop="20170526220000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
+  </programme>
+  <programme start="20170526220000 +0800" stop="20170526220500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
+  </programme>
+  <programme start="20170526220500 +0800" stop="20170526223000 +0800" channel="Arirang">
+    <title lang="zh">Showbiz Korea (M) ?</title>
+  </programme>
+  <programme start="20170526223000 +0800" stop="20170526230000 +0800" channel="Arirang">
+    <title lang="zh">POPS IN SEOUL (M) ?</title>
+  </programme>
+  <programme start="20170526230000 +0800" stop="20170526233000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS ?</title>
   </programme>
   <programme start="20170526233000 +0800" stop="20170527000000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170527000000 +0800" stop="20170527003000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  <programme start="20170527000000 +0800" stop="20170527000500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170527003000 +0800" stop="20170527012000 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  <programme start="20170527000500 +0800" stop="20170527010000 +0800" channel="Arirang">
+    <title lang="zh">Simply K-pop</title>
   </programme>
-  <programme start="20170527012000 +0800" stop="20170527021000 +0800" channel="Arirang">
-    <title lang="zh">GHOST WHISPERER (SEASON 4)</title>
+  <programme start="20170527010000 +0800" stop="20170527013000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS ?</title>
   </programme>
-  <programme start="20170527021000 +0800" stop="20170527030000 +0800" channel="Arirang">
-    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  <programme start="20170527013000 +0800" stop="20170527020000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170527030000 +0800" stop="20170527040000 +0800" channel="Arirang">
-    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  <programme start="20170527020000 +0800" stop="20170527020500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170527040000 +0800" stop="20170527050000 +0800" channel="Arirang">
-    <title lang="zh">GHOST WHISPERER (SEASON 4)</title>
+  <programme start="20170527020500 +0800" stop="20170527023000 +0800" channel="Arirang">
+    <title lang="zh">SHOWBIZ KOREA</title>
   </programme>
-  <programme start="20170527050000 +0800" stop="20170527060000 +0800" channel="Arirang">
-    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  <programme start="20170527023000 +0800" stop="20170527030000 +0800" channel="Arirang">
+    <title lang="zh">Pops in Seoul</title>
+  </programme>
+  <programme start="20170527030000 +0800" stop="20170527033000 +0800" channel="Arirang">
+    <title lang="zh">Newscenter ?</title>
+  </programme>
+  <programme start="20170527033000 +0800" stop="20170527040000 +0800" channel="Arirang">
+    <title lang="zh">Im Live</title>
+  </programme>
+  <programme start="20170527040000 +0800" stop="20170527040500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
+  </programme>
+  <programme start="20170527040500 +0800" stop="20170527050000 +0800" channel="Arirang">
+    <title lang="zh">PerformArts Reload</title>
+  </programme>
+  <programme start="20170527050000 +0800" stop="20170527053000 +0800" channel="Arirang">
+    <title lang="zh">The 3s</title>
+  </programme>
+  <programme start="20170527053000 +0800" stop="20170527060000 +0800" channel="Arirang">
+    <title lang="zh">Prosumer LAB 101</title>
   </programme>
   <programme start="20170527060000 +0800" stop="20170527063000 +0800" channel="Arirang">
-    <title lang="zh">STARS IN STYLE (SEASON 4)</title>
+    <title lang="zh">Korea In the Sky</title>
   </programme>
   <programme start="20170527063000 +0800" stop="20170527070000 +0800" channel="Arirang">
-    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170527070000 +0800" stop="20170527073000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
-  </programme>
-  <programme start="20170527073000 +0800" stop="20170527080000 +0800" channel="Arirang">
-    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  <programme start="20170527070000 +0800" stop="20170527080000 +0800" channel="Arirang">
+    <title lang="zh">Global Familes</title>
   </programme>
   <programme start="20170527080000 +0800" stop="20170527090000 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170527090000 +0800" stop="20170527095000 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170527090000 +0800" stop="20170527093000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170527095000 +0800" stop="20170527104000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  <programme start="20170527093000 +0800" stop="20170527100000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart (A)</title>
   </programme>
-  <programme start="20170527104000 +0800" stop="20170527113000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  <programme start="20170527100000 +0800" stop="20170527110000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Odyssey</title>
   </programme>
-  <programme start="20170527113000 +0800" stop="20170527122000 +0800" channel="Arirang">
-    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  <programme start="20170527110000 +0800" stop="20170527111500 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170527122000 +0800" stop="20170527124500 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170527111500 +0800" stop="20170527113000 +0800" channel="Arirang">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170527124500 +0800" stop="20170527131000 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170527113000 +0800" stop="20170527120000 +0800" channel="Arirang">
+    <title lang="zh">FOREIGN CORRESPONDENTS</title>
   </programme>
-  <programme start="20170527131000 +0800" stop="20170527140500 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170527120000 +0800" stop="20170527130000 +0800" channel="Arirang">
+    <title lang="zh">Quiz whiz Junior</title>
   </programme>
-  <programme start="20170527140500 +0800" stop="20170527145500 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170527130000 +0800" stop="20170527133000 +0800" channel="Arirang">
+    <title lang="zh">Arts Avenue</title>
   </programme>
-  <programme start="20170527145500 +0800" stop="20170527154500 +0800" channel="Arirang">
-    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  <programme start="20170527133000 +0800" stop="20170527140000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart (B)</title>
   </programme>
-  <programme start="20170527154500 +0800" stop="20170527163500 +0800" channel="Arirang">
-    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  <programme start="20170527140000 +0800" stop="20170527150000 +0800" channel="Arirang">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170527163500 +0800" stop="20170527173000 +0800" channel="Arirang">
-    <title lang="zh">TOP 20 FUNNIEST (SEASON 2)</title>
+  <programme start="20170527150000 +0800" stop="20170527153000 +0800" channel="Arirang">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170527173000 +0800" stop="20170527182000 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  <programme start="20170527153000 +0800" stop="20170527160000 +0800" channel="Arirang">
+    <title lang="zh">The 3s</title>
   </programme>
-  <programme start="20170527182000 +0800" stop="20170527191500 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170527160000 +0800" stop="20170527163000 +0800" channel="Arirang">
+    <title lang="zh">4 Angles</title>
   </programme>
-  <programme start="20170527191500 +0800" stop="20170527200500 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170527163000 +0800" stop="20170527170000 +0800" channel="Arirang">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170527200500 +0800" stop="20170527205500 +0800" channel="Arirang">
-    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  <programme start="20170527170000 +0800" stop="20170527171500 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170527205500 +0800" stop="20170527214500 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170527171500 +0800" stop="20170527173000 +0800" channel="Arirang">
+    <title lang="zh">Company Close Up</title>
   </programme>
-  <programme start="20170527214500 +0800" stop="20170527223500 +0800" channel="Arirang">
-    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  <programme start="20170527173000 +0800" stop="20170527180000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart ?</title>
   </programme>
-  <programme start="20170527223500 +0800" stop="20170527230000 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170527180000 +0800" stop="20170527190000 +0800" channel="Arirang">
+    <title lang="zh">After School Club</title>
   </programme>
-  <programme start="20170527230000 +0800" stop="20170527232500 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170527190000 +0800" stop="20170527193000 +0800" channel="Arirang">
+    <title lang="zh">Prosumer LAB 101</title>
   </programme>
-  <programme start="20170527232500 +0800" stop="20170528001500 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  <programme start="20170527193000 +0800" stop="20170527200000 +0800" channel="Arirang">
+    <title lang="zh">Global Business Report</title>
   </programme>
-  <programme start="20170528001500 +0800" stop="20170528004000 +0800" channel="Arirang">
-    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  <programme start="20170527200000 +0800" stop="20170527210000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170528004000 +0800" stop="20170528010500 +0800" channel="Arirang">
-    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  <programme start="20170527210000 +0800" stop="20170527213000 +0800" channel="Arirang">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170528010500 +0800" stop="20170528020000 +0800" channel="Arirang">
-    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  <programme start="20170527213000 +0800" stop="20170527220000 +0800" channel="Arirang">
+    <title lang="zh">Korea In the Sky</title>
+  </programme>
+  <programme start="20170527220000 +0800" stop="20170527230000 +0800" channel="Arirang">
+    <title lang="zh">Simply K-pop</title>
+  </programme>
+  <programme start="20170527230000 +0800" stop="20170527233000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart (A)</title>
+  </programme>
+  <programme start="20170527233000 +0800" stop="20170528000000 +0800" channel="Arirang">
+    <title lang="zh">Global Business Report</title>
+  </programme>
+  <programme start="20170528000000 +0800" stop="20170528003000 +0800" channel="Arirang">
+    <title lang="zh">Shaping the Ecomony</title>
+  </programme>
+  <programme start="20170528003000 +0800" stop="20170528010000 +0800" channel="Arirang">
+    <title lang="zh">Korea In the Sky</title>
+  </programme>
+  <programme start="20170528010000 +0800" stop="20170528013000 +0800" channel="Arirang">
+    <title lang="zh">Upfront</title>
+  </programme>
+  <programme start="20170528013000 +0800" stop="20170528020000 +0800" channel="Arirang">
+    <title lang="zh">FOREIGN CORRESPONDENTS</title>
   </programme>
   <programme start="20170528020000 +0800" stop="20170528030000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
   <programme start="20170528030000 +0800" stop="20170528040000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+    <title lang="zh">Masterpieces of All Time</title>
   </programme>
   <programme start="20170528040000 +0800" stop="20170528050000 +0800" channel="Arirang">
-    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+    <title lang="zh">Global Families</title>
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528060000 +0800" channel="Arirang">
-    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  <programme start="20170528050000 +0800" stop="20170528053000 +0800" channel="Arirang">
+    <title lang="zh">InsideBiz</title>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528065500 +0800" channel="Arirang">
-    <title lang="zh">GHOST WHISPERER (SEASON 2)</title>
+  <programme start="20170528053000 +0800" stop="20170528060000 +0800" channel="Arirang">
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170528065500 +0800" stop="20170528074500 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170528060000 +0800" stop="20170528063000 +0800" channel="Arirang">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170528074500 +0800" stop="20170528083500 +0800" channel="Arirang">
-    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  <programme start="20170528063000 +0800" stop="20170528070000 +0800" channel="Arirang">
+    <title lang="zh">Stylecast</title>
   </programme>
-  <programme start="20170528083500 +0800" stop="20170528090000 +0800" channel="Arirang">
-    <title lang="zh">STARS IN STYLE (SEASON 4)</title>
+  <programme start="20170528070000 +0800" stop="20170528080000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Odyssey</title>
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528092500 +0800" channel="Arirang">
-    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  <programme start="20170528080000 +0800" stop="20170528090000 +0800" channel="Arirang">
+    <title lang="zh">Premium Collection</title>
   </programme>
-  <programme start="20170528092500 +0800" stop="20170528095000 +0800" channel="Arirang">
-    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  <programme start="20170528090000 +0800" stop="20170528093000 +0800" channel="Arirang">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170528095000 +0800" stop="20170528104000 +0800" channel="Arirang">
-    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  <programme start="20170528093000 +0800" stop="20170528100000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart (B)</title>
   </programme>
-  <programme start="20170528104000 +0800" stop="20170528113000 +0800" channel="Arirang">
-    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  <programme start="20170528100000 +0800" stop="20170528110000 +0800" channel="Arirang">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170528113000 +0800" stop="20170528115500 +0800" channel="Arirang">
-    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  <programme start="20170528110000 +0800" stop="20170528111500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528115500 +0800" stop="20170528122000 +0800" channel="Arirang">
-    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  <programme start="20170528111500 +0800" stop="20170528113000 +0800" channel="Arirang">
+    <title lang="zh">Company Close Up</title>
   </programme>
-  <programme start="20170528122000 +0800" stop="20170528131000 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  <programme start="20170528113000 +0800" stop="20170528120000 +0800" channel="Arirang">
+    <title lang="zh">21st Century</title>
   </programme>
-  <programme start="20170528131000 +0800" stop="20170528140000 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170528120000 +0800" stop="20170528130000 +0800" channel="Arirang">
+    <title lang="zh">PerformArts Reload</title>
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528145000 +0800" channel="Arirang">
-    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  <programme start="20170528130000 +0800" stop="20170528133000 +0800" channel="Arirang">
+    <title lang="zh">Im Live</title>
   </programme>
-  <programme start="20170528145000 +0800" stop="20170528152000 +0800" channel="Arirang">
-    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  <programme start="20170528133000 +0800" stop="20170528140000 +0800" channel="Arirang">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170528152000 +0800" stop="20170528154500 +0800" channel="Arirang">
-    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  <programme start="20170528140000 +0800" stop="20170528150000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170528154500 +0800" stop="20170528161000 +0800" channel="Arirang">
-    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  <programme start="20170528150000 +0800" stop="20170528153000 +0800" channel="Arirang">
+    <title lang="zh">Arts Avenue</title>
   </programme>
-  <programme start="20170528161000 +0800" stop="20170528164000 +0800" channel="Arirang">
-    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  <programme start="20170528153000 +0800" stop="20170528160000 +0800" channel="Arirang">
+    <title lang="zh">Tour Avatar</title>
   </programme>
-  <programme start="20170528164000 +0800" stop="20170528173000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  <programme start="20170528160000 +0800" stop="20170528170000 +0800" channel="Arirang">
+    <title lang="zh">Masterpieces of All Time</title>
   </programme>
-  <programme start="20170528173000 +0800" stop="20170528182000 +0800" channel="Arirang">
-    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  <programme start="20170528170000 +0800" stop="20170528171500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528182000 +0800" stop="20170528184500 +0800" channel="Arirang">
-    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  <programme start="20170528171500 +0800" stop="20170528173000 +0800" channel="Arirang">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170528184500 +0800" stop="20170528191500 +0800" channel="Arirang">
-    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  <programme start="20170528173000 +0800" stop="20170528180000 +0800" channel="Arirang">
+    <title lang="zh">Shaping the Ecomony</title>
   </programme>
-  <programme start="20170528191500 +0800" stop="20170528194000 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170528180000 +0800" stop="20170528190000 +0800" channel="Arirang">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170528194000 +0800" stop="20170528200500 +0800" channel="Arirang">
-    <title lang="zh">DR. KEN (SEASON 2)</title>
+  <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="Arirang">
+    <title lang="zh">InsideBiz</title>
   </programme>
-  <programme start="20170528200500 +0800" stop="20170528205500 +0800" channel="Arirang">
-    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  <programme start="20170528193000 +0800" stop="20170528200000 +0800" channel="Arirang">
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170528205500 +0800" stop="20170528214500 +0800" channel="Arirang">
-    <title lang="zh">TOP 20 FUNNIEST (SEASON 2)</title>
+  <programme start="20170528200000 +0800" stop="20170528210000 +0800" channel="Arirang">
+    <title lang="zh">Premium Collection</title>
   </programme>
-  <programme start="20170528214500 +0800" stop="20170528223500 +0800" channel="Arirang">
-    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  <programme start="20170528210000 +0800" stop="20170528213000 +0800" channel="Arirang">
+    <title lang="zh">Youth Calls</title>
   </programme>
-  <programme start="20170528223500 +0800" stop="20170528232500 +0800" channel="Arirang">
-    <title lang="zh">CONVICTION</title>
+  <programme start="20170528213000 +0800" stop="20170528220000 +0800" channel="Arirang">
+    <title lang="zh">4 Angles</title>
   </programme>
-  <programme start="20170528232500 +0800" stop="20170529002000 +0800" channel="Arirang">
-    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  <programme start="20170528220000 +0800" stop="20170528230000 +0800" channel="Arirang">
+    <title lang="zh">After School Club [R]</title>
+  </programme>
+  <programme start="20170528230000 +0800" stop="20170528233000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart ?</title>
+  </programme>
+  <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="Arirang">
+    <title lang="zh">Tour Avatar</title>
   </programme>
   <programme start="20170526060000 +0800" stop="20170526063000 +0800" channel="NHK">
     <title lang="zh">NHK NEWSLINE</title>
