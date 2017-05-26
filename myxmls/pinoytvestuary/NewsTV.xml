@@ -168,12 +168,13 @@
 
 <item>
 <title>CGTN News</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<!-- <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCviqjOZN3ZvDEmZfHuUKCIQ</page>
-</regex>
+</regex> -->
+<link>plugin://plugin.video.youtube/play/?video_id=nQ3iylp5NRk</link>
 <link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CGTN+News&amp;iconimage=http%3A%2F%2Fi1297.photobucket.com%2Falbums%2Fag26%2Fnieldc%2FLiveTV%2Fcgtn_zpsufjeskrm.png&amp;start=na&amp;ch_fanart=na</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</fanart>
