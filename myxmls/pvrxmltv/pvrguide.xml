@@ -13,8 +13,8 @@
     <url>http://www.epg.i-cable.com</url>
   </channel>
   <channel id="Arirang">
-    <display-name lang="en">Arirang TV</display-name>
-    <url>http://www.tv.com</url>
+    <display-name lang="zh">Arirang TV</display-name>
+    <url>http://www.epg.i-cable.com</url>
   </channel>
   <channel id="NHK">
     <display-name lang="zh">NHK World TV</display-name>
@@ -24,105 +24,6 @@
     <display-name lang="zh">Channel News Asia</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170526000000 +0800" stop="20170526003000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170526003000 +0800" stop="20170526010000 +0800" channel="CNNPh">
-    <title lang="en">Medtalk</title>
-  </programme>
-  <programme start="20170526010000 +0800" stop="20170526020000 +0800" channel="CNNPh">
-    <title lang="en">At This Hour</title>
-  </programme>
-  <programme start="20170526020000 +0800" stop="20170526023000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
-  </programme>
-  <programme start="20170526023000 +0800" stop="20170526030000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
-  </programme>
-  <programme start="20170526030000 +0800" stop="20170526050000 +0800" channel="CNNPh">
-    <title lang="en">CNN Morning Express</title>
-  </programme>
-  <programme start="20170526050000 +0800" stop="20170526053000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
-  </programme>
-  <programme start="20170526053000 +0800" stop="20170526060000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170526060000 +0800" stop="20170526073000 +0800" channel="CNNPh">
-    <title lang="en">Newday</title>
-  </programme>
-  <programme start="20170526073000 +0800" stop="20170526080000 +0800" channel="CNNPh">
-    <title lang="en">Medtalk</title>
-  </programme>
-  <programme start="20170526080000 +0800" stop="20170526083000 +0800" channel="CNNPh">
-    <title lang="en">Newsroom</title>
-  </programme>
-  <programme start="20170526083000 +0800" stop="20170526090000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
-  </programme>
-  <programme start="20170526090000 +0800" stop="20170526093000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170526093000 +0800" stop="20170526100000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
-  </programme>
-  <programme start="20170526100000 +0800" stop="20170526103000 +0800" channel="CNNPh">
-    <title lang="en">Newsroom Ngayon</title>
-  </programme>
-  <programme start="20170526103000 +0800" stop="20170526110000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170526110000 +0800" stop="20170526113000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170526113000 +0800" stop="20170526120000 +0800" channel="CNNPh">
-    <title lang="en">Boardroom</title>
-  </programme>
-  <programme start="20170526120000 +0800" stop="20170526123000 +0800" channel="CNNPh">
-    <title lang="en">Balitaan</title>
-  </programme>
-  <programme start="20170526123000 +0800" stop="20170526130000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
-  </programme>
-  <programme start="20170526130000 +0800" stop="20170526131500 +0800" channel="CNNPh">
-    <title lang="en">Cebuano News</title>
-  </programme>
-  <programme start="20170526131500 +0800" stop="20170526133000 +0800" channel="CNNPh">
-    <title lang="en">Kapampangan News</title>
-  </programme>
-  <programme start="20170526133000 +0800" stop="20170526140000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
-  </programme>
-  <programme start="20170526140000 +0800" stop="20170526143000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170526143000 +0800" stop="20170526150000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170526150000 +0800" stop="20170526153000 +0800" channel="CNNPh">
-    <title lang="en">Global Newsroom</title>
-  </programme>
-  <programme start="20170526153000 +0800" stop="20170526160000 +0800" channel="CNNPh">
-    <title lang="en">Medtalk</title>
-  </programme>
-  <programme start="20170526160000 +0800" stop="20170526163000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S2</title>
-  </programme>
-  <programme start="20170526163000 +0800" stop="20170526170000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
-  </programme>
-  <programme start="20170526170000 +0800" stop="20170526180000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170526180000 +0800" stop="20170526190000 +0800" channel="CNNPh">
-    <title lang="en">Network News</title>
-  </programme>
-  <programme start="20170526190000 +0800" stop="20170526193000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170526193000 +0800" stop="20170526200000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
-  </programme>
   <programme start="20170526200000 +0800" stop="20170526210000 +0800" channel="CNNPh">
     <title lang="en">Stories</title>
   </programme>
@@ -241,10 +142,10 @@
     <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170527190000 +0800" stop="20170527193000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
+    <title lang="en">Harvest</title>
   </programme>
   <programme start="20170527193000 +0800" stop="20170527200000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+    <title lang="en">Culinary Journeys</title>
   </programme>
   <programme start="20170527200000 +0800" stop="20170527210000 +0800" channel="CNNPh">
     <title lang="en">Stories</title>
@@ -364,10 +265,10 @@
     <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="CNNPh">
-    <title lang="en">Sportsdesk</title>
+    <title lang="en">Harvest</title>
   </programme>
   <programme start="20170528193000 +0800" stop="20170528200000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+    <title lang="en">Culinary Journeys</title>
   </programme>
   <programme start="20170528200000 +0800" stop="20170528210000 +0800" channel="CNNPh">
     <title lang="en">Stories</title>
@@ -387,311 +288,305 @@
   <programme start="20170528230000 +0800" stop="20170528233000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
   </programme>
-  <programme start="20170526000000 -0400" stop="20170526010500 -0400" channel="TNT">
-    <title lang="en">Claws</title>
-    <sub-title lang="en">Sneak Peek</sub-title>
-    <desc lang="en">Sneak Peek. A series preview of "Claws," a dark comedy centering on five hardworking yet treacherous manicurists at a Florida nail salon</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/203530.jpg" />
-  </programme>
   <programme start="20170526010500 -0400" stop="20170526020500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">What Have You Done</sub-title>
-    <desc lang="en">What Have You Done. Baz is perplexed by Catherine's vanishing and tracks all leads in the Season 1 finale. Also: Authorities close in on the Codys, with J caught in the middle</desc>
+    <desc lang="en">What Have You Done. Baz is perplexed by Catherine's vanishing and tracks all leads in the Season 1 finale. Also: Authorities close in on the Codys, with J caught in the middle(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170526020500 -0400" stop="20170526030500 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Fixed</sub-title>
-    <desc lang="en">Fixed. A recently paroled criminal dies after being run down by a car. Detectives believe his former therapist had a hand in the murder when they discover that she had serious misgivings about his release</desc>
+    <desc lang="en">Fixed. A recently paroled criminal dies after being run down by a car. Detectives believe his former therapist had a hand in the murder when they discover that she had serious misgivings about his release(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170526030500 -0400" stop="20170526053500 -0400" channel="TNT">
     <title lang="en">NBA Playoff</title>
     <sub-title lang="en">Game 5: Cavaliers at Celtics</sub-title>
-    <desc lang="en">Game 5: Cavaliers at Celtics. Cleveland at Boston in Game 5 of the Eastern Conference finals</desc>
+    <desc lang="en">Game 5: Cavaliers at Celtics. Cleveland at Boston in Game 5 of the Eastern Conference finals(n)</desc>
   </programme>
   <programme start="20170526053500 -0400" stop="20170526060000 -0400" channel="TNT">
     <title lang="en">TNT Network Preview</title>
-    <desc lang="en">A backstage peek at TNT's original shows</desc>
+    <desc lang="en">A backstage peek at TNT's original shows(n)</desc>
   </programme>
   <programme start="20170526060000 -0400" stop="20170526070000 -0400" channel="TNT">
     <title lang="en">Arrow</title>
     <sub-title lang="en">Taken</sub-title>
-    <desc lang="en">Taken. Oliver enlists Vixen's help to battle Darhk. She uses her magical ability to summon animal powers and gets a lock on Darhk's location. Meanwhile, Thea has a heart-to-heart talk with Malcolm</desc>
+    <desc lang="en">Taken. Oliver enlists Vixen's help to battle Darhk. She uses her magical ability to summon animal powers and gets a lock on Darhk's location. Meanwhile, Thea has a heart-to-heart talk with Malcolm(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
   <programme start="20170526070000 -0400" stop="20170526080000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Animal Pragmatism</sub-title>
-    <desc lang="en">Animal Pragmatism. Phoebe discovers that her university study group has used a love spell to turn three animals into men on Valentine's Day. The men, however, have retained their animal instincts and begin attacking innocent students</desc>
+    <desc lang="en">Animal Pragmatism. Phoebe discovers that her university study group has used a love spell to turn three animals into men on Valentine's Day. The men, however, have retained their animal instincts and begin attacking innocent students(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170526080000 -0400" stop="20170526090000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Pardon My Past</sub-title>
-    <desc lang="en">Pardon My Past. Phoebe experiences flashes of a past life when she and her sisters were cousins in the 1930s. However, in this life, Phoebe was evil and power mad</desc>
+    <desc lang="en">Pardon My Past. Phoebe experiences flashes of a past life when she and her sisters were cousins in the 1930s. However, in this life, Phoebe was evil and power mad(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170526090000 -0400" stop="20170526100000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Give Me a Sign</sub-title>
-    <desc lang="en">Give Me a Sign. Phoebe helps Piper to choose between Dan and Leo by casting a spell that reveals which of them is her true love. Bane breaks out of jail and kidnaps Prue so that she can use her powers to save him from the powerful demons that are chasing him</desc>
+    <desc lang="en">Give Me a Sign. Phoebe helps Piper to choose between Dan and Leo by casting a spell that reveals which of them is her true love. Bane breaks out of jail and kidnaps Prue so that she can use her powers to save him from the powerful demons that are chasing him(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170526100000 -0400" stop="20170526110000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Brother's Keeper</sub-title>
-    <desc lang="en">Brother's Keeper. Season 10 ends with Dean making a shocking decision regarding the Mark of Cain that may change not only his life but Sam's too</desc>
+    <desc lang="en">Brother's Keeper. Season 10 ends with Dean making a shocking decision regarding the Mark of Cain that may change not only his life but Sam's too(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170526110000 -0400" stop="20170526120000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Out of the Darkness, Into the Fire</sub-title>
-    <desc lang="en">Out of the Darkness, Into the Fire. Sam and Dean face the Darkness that has been unleashed. Meanwhile, Castiel deals with the effects of Rowena's spell and recalls his brutal battle with Crowley</desc>
+    <desc lang="en">Out of the Darkness, Into the Fire. Sam and Dean face the Darkness that has been unleashed. Meanwhile, Castiel deals with the effects of Rowena's spell and recalls his brutal battle with Crowley(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170526120000 -0400" stop="20170526130000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Form and Void</sub-title>
-    <desc lang="en">Form and Void. Dean helps Jenna, the nurse he met after the Darkness fell, get back home safely, but she soon falls into dangerous hands. Meanwhile, Sam deals with a town infected by a mysterious and deadly gas that is turning the locals into monsters</desc>
+    <desc lang="en">Form and Void. Dean helps Jenna, the nurse he met after the Darkness fell, get back home safely, but she soon falls into dangerous hands. Meanwhile, Sam deals with a town infected by a mysterious and deadly gas that is turning the locals into monsters(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170526130000 -0400" stop="20170526140000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">The Bad Seed</sub-title>
-    <desc lang="en">The Bad Seed. Rowena tries to consolidate her power to protect herself from the Winchesters, while Sam and Dean search for a missing baby connected to the Darkness. Meanwhile, Castiel struggles to heal; and Crowley tries to find a way to use the Darkness for his own personal gain</desc>
+    <desc lang="en">The Bad Seed. Rowena tries to consolidate her power to protect herself from the Winchesters, while Sam and Dean search for a missing baby connected to the Darkness. Meanwhile, Castiel struggles to heal; and Crowley tries to find a way to use the Darkness for his own personal gain(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170526140000 -0400" stop="20170526150000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Baby</sub-title>
-    <desc lang="en">Baby. Seen entirely from the point of view of the Impala, Sam and Dean go on a road trip to fight monsters and demons</desc>
+    <desc lang="en">Baby. Seen entirely from the point of view of the Impala, Sam and Dean go on a road trip to fight monsters and demons(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170526150000 -0400" stop="20170526173000 -0400" channel="TNT">
     <title lang="en">Percy Jackson &amp; the Olympians: The Lightning Thief</title>
-    <desc lang="en">A modern-day teen (Logan Lerman) discovers he's descended from a Greek deity and must battle dangerous monsters and gods to save his mother and the world</desc>
+    <desc lang="en">A modern-day teen (Logan Lerman) discovers he's descended from a Greek deity and must battle dangerous monsters and gods to save his mother and the world(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/113061.jpg" />
   </programme>
   <programme start="20170526173000 -0400" stop="20170526200000 -0400" channel="TNT">
     <title lang="en">Jack the Giant Slayer</title>
-    <desc lang="en">A young farmhand comes into possession of some magic beans but, when planted, they open up a gateway to a land inhabited by angry giants</desc>
+    <desc lang="en">A young farmhand comes into possession of some magic beans but, when planted, they open up a gateway to a land inhabited by angry giants(n)</desc>
   </programme>
   <programme start="20170526200000 -0400" stop="20170526230000 -0400" channel="TNT">
     <title lang="en">Man of Steel</title>
-    <desc lang="en">After being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod</desc>
+    <desc lang="en">After being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/151392.jpg" />
   </programme>
   <programme start="20170526230000 -0400" stop="20170527000500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Pilot</sub-title>
-    <desc lang="en">Pilot. An upcoming heist is planned and Joshua "J" Cody discovers the intense nature of his estranged grandmother in the series premiere of this crime drama about a teen plunging into danger when he moves in with his wild relatives in a surf community</desc>
+    <desc lang="en">Pilot. An upcoming heist is planned and Joshua "J" Cody discovers the intense nature of his estranged grandmother in the series premiere of this crime drama about a teen plunging into danger when he moves in with his wild relatives in a surf community(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527000500 -0400" stop="20170527010500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">We Don't Hurt People</sub-title>
-    <desc lang="en">We Don't Hurt People. Fallout from a heist impacts the Codys when they discover not all went as planned. Smurf enlists the guys to tie up loose ends, but a deepening rivalry threatens the job. Meanwhile, Pope grows increasingly volatile</desc>
+    <desc lang="en">We Don't Hurt People. Fallout from a heist impacts the Codys when they discover not all went as planned. Smurf enlists the guys to tie up loose ends, but a deepening rivalry threatens the job. Meanwhile, Pope grows increasingly volatile(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527010500 -0400" stop="20170527020500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Stay Close, Stick Together</sub-title>
-    <desc lang="en">Stay Close, Stick Together. Craig recovers from a wound as Baz and Craig sharpen focus on old associates in Mexico. Meanwhile, Pope needs cash and draws Deran and J into a job without Smurf's knowledge, and Deran sends a terrifying message to J</desc>
+    <desc lang="en">Stay Close, Stick Together. Craig recovers from a wound as Baz and Craig sharpen focus on old associates in Mexico. Meanwhile, Pope needs cash and draws Deran and J into a job without Smurf's knowledge, and Deran sends a terrifying message to J(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527020500 -0400" stop="20170527030500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Dead to Me</sub-title>
-    <desc lang="en">Dead to Me. Pope's birthday approaches as Smurf probes whether the boys are playing by her rules. Meanwhile, J makes discoveries about his mother's estrangement from the family</desc>
+    <desc lang="en">Dead to Me. Pope's birthday approaches as Smurf probes whether the boys are playing by her rules. Meanwhile, J makes discoveries about his mother's estrangement from the family(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527030500 -0400" stop="20170527040500 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Flesh Is Weak</sub-title>
-    <desc lang="en">Flesh Is Weak. Pope goes to extreme measures when Deran won't return home. Meanwhile, Baz comes up with an idea for Cody's next job; J goes out with his teacher; and Smurf faces her past</desc>
+    <desc lang="en">Flesh Is Weak. Pope goes to extreme measures when Deran won't return home. Meanwhile, Baz comes up with an idea for Cody's next job; J goes out with his teacher; and Smurf faces her past(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527040500 -0400" stop="20170527050000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">A Losing Season</sub-title>
-    <desc lang="en">A Losing Season. After a pregnant woman is found wounded in the trunk of a car, the investigation leads to a case involving a basketball star (Kevin Daniels). Hanson: James Rebhorn. Henry Williams: Dorian Missick. Marcus Cole: Michael Kenneth Williams. Miles Hawthorne: Albert Jones. Briscoe: Jerry Orbach. Green: Jesse L. Martin. McCoy: Sam Waterston</desc>
+    <desc lang="en">A Losing Season. After a pregnant woman is found wounded in the trunk of a car, the investigation leads to a case involving a basketball star (Kevin Daniels). Hanson: James Rebhorn. Henry Williams: Dorian Missick. Marcus Cole: Michael Kenneth Williams. Miles Hawthorne: Albert Jones. Briscoe: Jerry Orbach. Green: Jesse L. Martin. McCoy: Sam Waterston(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527050000 -0400" stop="20170527060000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Swept Away - A Very Special Episode</sub-title>
-    <desc lang="en">Swept Away - A Very Special Episode. A cast member in a reality series is killed and the murder is captured on video tape</desc>
+    <desc lang="en">Swept Away - A Very Special Episode. A cast member in a reality series is killed and the murder is captured on video tape(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527060000 -0400" stop="20170527070000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Bronx Cheer</sub-title>
-    <desc lang="en">Bronx Cheer. The strangled body of a woman is found in the Bronx and the trail of clues leads the detectives to a ruthless drug dealer</desc>
+    <desc lang="en">Bronx Cheer. The strangled body of a woman is found in the Bronx and the trail of clues leads the detectives to a ruthless drug dealer(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527070000 -0400" stop="20170527080000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Ego</sub-title>
-    <desc lang="en">Ego. An investigator with the State Attorney General's Office is found dead in the Manhattan river, leading Detectives Briscoe and Green into a web of high level intrigue</desc>
+    <desc lang="en">Ego. An investigator with the State Attorney General's Office is found dead in the Manhattan river, leading Detectives Briscoe and Green into a web of high level intrigue(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527080000 -0400" stop="20170527090000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">White Lie</sub-title>
-    <desc lang="en">White Lie. Two people are found dead, and the subsequent investigation quickly segues from murder to drugs. At the center of the drama is Caryn Wyman (Charlotte D'amboise), the wife of a U.S. Army major heavily committed to an anti-drug campaign in Colombia. But Caryn refuses to cooperate with the D.A.'s office until McCoy (Sam Waterston) backs her into a potentially fatal corner</desc>
+    <desc lang="en">White Lie. Two people are found dead, and the subsequent investigation quickly segues from murder to drugs. At the center of the drama is Caryn Wyman (Charlotte D'amboise), the wife of a U.S. Army major heavily committed to an anti-drug campaign in Colombia. But Caryn refuses to cooperate with the D.A.'s office until McCoy (Sam Waterston) backs her into a potentially fatal corner(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527090000 -0400" stop="20170527100000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Whiplash</sub-title>
-    <desc lang="en">Whiplash. Two personal injury attorneys go on trial, accused of masterminding an insurance fraud scam involving staged rear-end automobile accidents</desc>
+    <desc lang="en">Whiplash. Two personal injury attorneys go on trial, accused of masterminding an insurance fraud scam involving staged rear-end automobile accidents(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527100000 -0400" stop="20170527110000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">All My Children</sub-title>
-    <desc lang="en">All My Children. After a pupil at an exclusive private school is murdered, the detectives uncover an extortion plot</desc>
+    <desc lang="en">All My Children. After a pupil at an exclusive private school is murdered, the detectives uncover an extortion plot(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527110000 -0400" stop="20170527120000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Brother's Keeper</sub-title>
-    <desc lang="en">Brother's Keeper. A criminal well known to detectives Briscoe (Jerry Orbach) and Green (Jesse L. Martin) may have been responsible for the murder of a businessman. Unfortunately, the investigation is impeded by the FBI, who insist upon shielding the prime suspect. Without giving away the outcome, it can be noted that one of the guest actors plays a dual role</desc>
+    <desc lang="en">Brother's Keeper. A criminal well known to detectives Briscoe (Jerry Orbach) and Green (Jesse L. Martin) may have been responsible for the murder of a businessman. Unfortunately, the investigation is impeded by the FBI, who insist upon shielding the prime suspect. Without giving away the outcome, it can be noted that one of the guest actors plays a dual role(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170527120000 -0400" stop="20170527130000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Child Care</sub-title>
-    <desc lang="en">Child Care. Smurf does what's needed to keep the family intact when Pope tests positive for drugs. Also, Baz assembles his brothers to rob a home as part of his larger scheme, and J faces a moral dilemma</desc>
+    <desc lang="en">Child Care. Smurf does what's needed to keep the family intact when Pope tests positive for drugs. Also, Baz assembles his brothers to rob a home as part of his larger scheme, and J faces a moral dilemma(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527130000 -0400" stop="20170527140000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">G**damn Animals</sub-title>
-    <desc lang="en">G**damn Animals. Craig and Deran throw a party as Smurf handles unfinished business. Meanwhile, Baz is forced to accelerate his timetable as he finalizes his big scheme, and J makes a perilous error</desc>
+    <desc lang="en">G**damn Animals. Craig and Deran throw a party as Smurf handles unfinished business. Meanwhile, Baz is forced to accelerate his timetable as he finalizes his big scheme, and J makes a perilous error(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527140000 -0400" stop="20170527150000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Man In</sub-title>
-    <desc lang="en">Man In. Tensions soar as the Codys prepare for their big heist. Also, Catherine gets a shock and must make a big family decision, and the police put pressure on J</desc>
+    <desc lang="en">Man In. Tensions soar as the Codys prepare for their big heist. Also, Catherine gets a shock and must make a big family decision, and the police put pressure on J(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527150000 -0400" stop="20170527160000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">Judas Kiss</sub-title>
-    <desc lang="en">Judas Kiss. The Codys aim for the biggest score of their lives as the cops put J in an impossible position. Meanwhile, Catherine arrives to make amends, raising Smurf's suspicions in the process, and Pope is enlisted to investigate</desc>
+    <desc lang="en">Judas Kiss. The Codys aim for the biggest score of their lives as the cops put J in an impossible position. Meanwhile, Catherine arrives to make amends, raising Smurf's suspicions in the process, and Pope is enlisted to investigate(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527160000 -0400" stop="20170527170000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
     <sub-title lang="en">What Have You Done</sub-title>
-    <desc lang="en">What Have You Done. Baz is perplexed by Catherine's vanishing and tracks all leads in the Season 1 finale. Also: Authorities close in on the Codys, with J caught in the middle</desc>
+    <desc lang="en">What Have You Done. Baz is perplexed by Catherine's vanishing and tracks all leads in the Season 1 finale. Also: Authorities close in on the Codys, with J caught in the middle(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
   <programme start="20170527170000 -0400" stop="20170527200000 -0400" channel="TNT">
     <title lang="en">Pacific Rim</title>
-    <desc lang="en">When humans look like losing the war against giant aliens from beneath the sea, Commander Stacker Pentecost sends two misfit fighters out to man the massive American robot that stands between life and total annihilation. Joining forces with bots from across the globe, Raleigh Becket and Mako Mori face the aliens head-on in a crushing fight to the death. Action</desc>
+    <desc lang="en">When humans look like losing the war against giant aliens from beneath the sea, Commander Stacker Pentecost sends two misfit fighters out to man the massive American robot that stands between life and total annihilation. Joining forces with bots from across the globe, Raleigh Becket and Mako Mori face the aliens head-on in a crushing fight to the death. Action(n)</desc>
   </programme>
   <programme start="20170527200000 -0400" stop="20170527203000 -0400" channel="TNT">
     <title lang="en">NBA Tip-Off</title>
-    <desc lang="en">NBA playoffs discussion, with pre-game analysis and features</desc>
+    <desc lang="en">NBA playoffs discussion, with pre-game analysis and features(n)</desc>
   </programme>
   <programme start="20170527203000 -0400" stop="20170527230000 -0400" channel="TNT">
     <title lang="en">NBA Playoff</title>
     <sub-title lang="en">Game 6: Celtics at Cavaliers</sub-title>
-    <desc lang="en">Game 6: Celtics at Cavaliers. Boston at Cleveland in Game 6 (if necessary) of the Eastern Conference finals</desc>
+    <desc lang="en">Game 6: Celtics at Cavaliers. Boston at Cleveland in Game 6 (if necessary) of the Eastern Conference finals(n)</desc>
   </programme>
   <programme start="20170527230000 -0400" stop="20170528000000 -0400" channel="TNT">
     <title lang="en">Inside the NBA</title>
-    <desc lang="en">Pro-basketball highlights and analysis, with spirited banter among the cast of former players</desc>
+    <desc lang="en">Pro-basketball highlights and analysis, with spirited banter among the cast of former players(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/33986.jpg" />
   </programme>
   <programme start="20170528000000 -0400" stop="20170528010000 -0400" channel="TNT">
     <title lang="en">American Race</title>
     <sub-title lang="en">Baltimore Rising</sub-title>
-    <desc lang="en">Baltimore Rising. Host Charles Barkley visits Baltimore to explore police and race relations in the premiere of this four-part series in which Barkley takes a journey across the country to examine race and division in America</desc>
+    <desc lang="en">Baltimore Rising. Host Charles Barkley visits Baltimore to explore police and race relations in the premiere of this four-part series in which Barkley takes a journey across the country to examine race and division in America(n)</desc>
   </programme>
   <programme start="20170528010000 -0400" stop="20170528020000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Mammon</sub-title>
-    <desc lang="en">Mammon. A crime of infidelity and greed is revealed by the detective duo Fontana and Green, when a rich husband is found murdered in his house. Was his young wife the culprit?</desc>
+    <desc lang="en">Mammon. A crime of infidelity and greed is revealed by the detective duo Fontana and Green, when a rich husband is found murdered in his house. Was his young wife the culprit?(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528020000 -0400" stop="20170528030000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Ain't No Love</sub-title>
-    <desc lang="en">Ain't No Love. The show follows a crime from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court</desc>
+    <desc lang="en">Ain't No Love. The show follows a crime from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528030000 -0400" stop="20170528053000 -0400" channel="TNT">
     <title lang="en">NBA Playoff</title>
     <sub-title lang="en">Game 6: Celtics at Cavaliers</sub-title>
-    <desc lang="en">Game 6: Celtics at Cavaliers. Boston at Cleveland in Game 6 (if necessary) of the Eastern Conference finals</desc>
+    <desc lang="en">Game 6: Celtics at Cavaliers. Boston at Cleveland in Game 6 (if necessary) of the Eastern Conference finals(n)</desc>
   </programme>
   <programme start="20170528053000 -0400" stop="20170528060000 -0400" channel="TNT">
     <title lang="en">TNT Network Preview</title>
-    <desc lang="en">A backstage peek at TNT's original shows</desc>
+    <desc lang="en">A backstage peek at TNT's original shows(n)</desc>
   </programme>
   <programme start="20170528060000 -0400" stop="20170528070000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">School Daze</sub-title>
-    <desc lang="en">School Daze. Carey Lowell returns as Jamie Ross to defend a student accused of killing four and wounding 12 others at a high school. Henry Semple: Timmy Reifsnyder. Bill Semple: Robert Emmet Lunney. Patricia Semple: Mia Dillon. Judge: Doris Belack. Briscoe: Jerry Orbach. Carmichael: Angie Harmon. McCoy: Sam Waterston</desc>
+    <desc lang="en">School Daze. Carey Lowell returns as Jamie Ross to defend a student accused of killing four and wounding 12 others at a high school. Henry Semple: Timmy Reifsnyder. Bill Semple: Robert Emmet Lunney. Patricia Semple: Mia Dillon. Judge: Doris Belack. Briscoe: Jerry Orbach. Carmichael: Angie Harmon. McCoy: Sam Waterston(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528070000 -0400" stop="20170528080000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Judge Dread</sub-title>
-    <desc lang="en">Judge Dread. An accountant goes on trial after being charged with ordering a hit on the hard-as-nails judge who imposed an unusually harsh prison sentence on him just to send a message</desc>
+    <desc lang="en">Judge Dread. An accountant goes on trial after being charged with ordering a hit on the hard-as-nails judge who imposed an unusually harsh prison sentence on him just to send a message(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528080000 -0400" stop="20170528090000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Deep Vote</sub-title>
-    <desc lang="en">Deep Vote. Jack tries to prove that a state senator and a mobster conspired to kill a journalist investigating voting irregularities. But connecting the dots is difficult without cooperation from the journalist's confidential source</desc>
+    <desc lang="en">Deep Vote. Jack tries to prove that a state senator and a mobster conspired to kill a journalist investigating voting irregularities. But connecting the dots is difficult without cooperation from the journalist's confidential source(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528090000 -0400" stop="20170528100000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Who Let the Dogs Out?</sub-title>
-    <desc lang="en">Who Let the Dogs Out?. In the season premiere, Police search for the owner of a vicious pit bull that killed a teacher and her terrier</desc>
+    <desc lang="en">Who Let the Dogs Out?. In the season premiere, Police search for the owner of a vicious pit bull that killed a teacher and her terrier(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528100000 -0400" stop="20170528110000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Armed Forces</sub-title>
-    <desc lang="en">Armed Forces. When a shoe-shine man is killed, he is revealed to be a Vietnam war veteran who was trying to return the Bronze Star he had been awarded</desc>
+    <desc lang="en">Armed Forces. When a shoe-shine man is killed, he is revealed to be a Vietnam war veteran who was trying to return the Bronze Star he had been awarded(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528110000 -0400" stop="20170528120000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">For Love or Money</sub-title>
-    <desc lang="en">For Love or Money. The death of a parolee, who was a hit man, leads to a wealthy widow and daughter who may have hired him to kill their rich relative</desc>
+    <desc lang="en">For Love or Money. The death of a parolee, who was a hit man, leads to a wealthy widow and daughter who may have hired him to kill their rich relative(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170528120000 -0400" stop="20170528140000 -0400" channel="TNT">
     <title lang="en">The Time Machine</title>
-    <desc lang="en">Sci-fi fantasy adventure, based on the novel of the same name by HG Wells, in which a 19th-century scientist builds a time machine in an attempt to prevent the murder of his fiancee. But when he is sent 800,000 years into the future, he finds the world a very different place</desc>
+    <desc lang="en">Sci-fi fantasy adventure, based on the novel of the same name by HG Wells, in which a 19th-century scientist builds a time machine in an attempt to prevent the murder of his fiancee. But when he is sent 800,000 years into the future, he finds the world a very different place(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/117967.jpg" />
   </programme>
   <programme start="20170528140000 -0400" stop="20170528163000 -0400" channel="TNT">
     <title lang="en">The Hulk</title>
-    <desc lang="en">Dr Bruce Banner suffers an accident in the middle of a genetic experiment that turns him into a giant green monster when he is angry</desc>
+    <desc lang="en">Dr Bruce Banner suffers an accident in the middle of a genetic experiment that turns him into a giant green monster when he is angry(n)</desc>
   </programme>
   <programme start="20170528163000 -0400" stop="20170528200000 -0400" channel="TNT">
     <title lang="en">Superman Returns</title>
-    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans</desc>
+    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/102153.jpg" />
   </programme>
   <programme start="20170528200000 -0400" stop="20170528230000 -0400" channel="TNT">
     <title lang="en">Man of Steel</title>
-    <desc lang="en">After being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod</desc>
+    <desc lang="en">After being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/151392.jpg" />
   </programme>
   <programme start="20170528230000 -0400" stop="20170529023000 -0400" channel="TNT">
     <title lang="en">Superman Returns</title>
-    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans</desc>
+    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/102153.jpg" />
   </programme>
   <programme start="20170526060000 +0800" stop="20170526061500 +0800" channel="CGTN">
@@ -1045,459 +940,278 @@
   <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="CGTN">
     <title lang="zh">Rediscovering China</title>
   </programme>
-  <programme start="20170526003000 -0400" stop="20170526010000 -0400" channel="Arirang">
-    <title lang="en">Global Tech</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526010000 -0400" stop="20170526012000 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170526012000 -0400" stop="20170526013000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170526013000 -0400" stop="20170526020000 -0400" channel="Arirang">
-    <title lang="en">On The Agenda</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526020000 -0400" stop="20170526022000 -0400" channel="Arirang">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">A round-up of the business news from around the world with in-depth reports and international interviews</desc>
-  </programme>
-  <programme start="20170526022000 -0400" stop="20170526023000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170526023000 -0400" stop="20170526030000 -0400" channel="Arirang">
-    <title lang="en">Arts Avenue</title>
-    <desc lang="en">Arts Avenue is a culture and arts magazine program, featuring the diverse and dynamic world of Korean Arts or 'K-Arts' from its past to present</desc>
-  </programme>
-  <programme start="20170526030000 -0400" stop="20170526040000 -0400" channel="Arirang">
-    <title lang="en">Upfront</title>
-    <desc lang="en">UPFRONT opens the floor up to experts for a heated debate on prominent issues surrounding Korea</desc>
-  </programme>
-  <programme start="20170526040000 -0400" stop="20170526050000 -0400" channel="Arirang">
-    <title lang="en">Bring It On</title>
-    <desc lang="en">Bring it on</desc>
-  </programme>
-  <programme start="20170526050000 -0400" stop="20170526053000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170526053000 -0400" stop="20170526060000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170526060000 -0400" stop="20170526063000 -0400" channel="Arirang">
-    <title lang="en">21st Century</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170526063000 -0400" stop="20170526070000 -0400" channel="Arirang">
-    <title lang="en">K-Populous</title>
-    <desc lang="en">Spreading the K-pop craze! K-Populous is an interview program that introduces exceptional artists and groups specializing in a wide range of music genres including rock, hip hop, ballad, electronic and jazz. We plan to break the stereotype that K-pop equals idol groups, and broaden the K-pop audience and listeners</desc>
-  </programme>
-  <programme start="20170526070000 -0400" stop="20170526072000 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170526072000 -0400" stop="20170526073000 -0400" channel="Arirang">
-    <title lang="en">Culture Trove</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526073000 -0400" stop="20170526080000 -0400" channel="Arirang">
-    <title lang="en">On The Agenda</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526080000 -0400" stop="20170526090000 -0400" channel="Arirang">
-    <title lang="en">Bring It On</title>
-    <desc lang="en">Bring it on</desc>
-  </programme>
-  <programme start="20170526090000 -0400" stop="20170526093000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170526093000 -0400" stop="20170526100000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170526100000 -0400" stop="20170526103000 -0400" channel="Arirang">
-    <title lang="en">21st Century</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170526103000 -0400" stop="20170526110000 -0400" channel="Arirang">
-    <title lang="en">Arts Avenue</title>
-    <desc lang="en">Arts Avenue is a culture and arts magazine program, featuring the diverse and dynamic world of Korean Arts or 'K-Arts' from its past to present</desc>
-  </programme>
-  <programme start="20170526110000 -0400" stop="20170526112000 -0400" channel="Arirang">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">A round-up of the business news from around the world with in-depth reports and international interviews</desc>
-  </programme>
-  <programme start="20170526112000 -0400" stop="20170526113000 -0400" channel="Arirang">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526113000 -0400" stop="20170526120000 -0400" channel="Arirang">
-    <title lang="en">K-Populous</title>
-    <desc lang="en">Spreading the K-pop craze! K-Populous is an interview program that introduces exceptional artists and groups specializing in a wide range of music genres including rock, hip hop, ballad, electronic and jazz. We plan to break the stereotype that K-pop equals idol groups, and broaden the K-pop audience and listeners</desc>
-  </programme>
-  <programme start="20170526120000 -0400" stop="20170526130000 -0400" channel="Arirang">
-    <title lang="en">Upfront</title>
-    <desc lang="en">UPFRONT opens the floor up to experts for a heated debate on prominent issues surrounding Korea</desc>
-  </programme>
-  <programme start="20170526130000 -0400" stop="20170526132000 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170526132000 -0400" stop="20170526133000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170526133000 -0400" stop="20170526143000 -0400" channel="Arirang">
-    <title lang="en">Bring It On</title>
-    <desc lang="en">Bring it on</desc>
-  </programme>
-  <programme start="20170526143000 -0400" stop="20170526150000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170526150000 -0400" stop="20170526153000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170526153000 -0400" stop="20170526154000 -0400" channel="Arirang">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526154000 -0400" stop="20170526160000 -0400" channel="Arirang">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">A round-up of the business news from around the world with in-depth reports and international interviews</desc>
-  </programme>
-  <programme start="20170526160000 -0400" stop="20170526170000 -0400" channel="Arirang">
-    <title lang="en">Arirang Prime</title>
-    <desc lang="en">Arirang Prime is about different social and cultural topics between Korea and the international community. It is a fun and informative documentary enjoyable to all viewers</desc>
-  </programme>
-  <programme start="20170526170000 -0400" stop="20170526174000 -0400" channel="Arirang">
-    <title lang="en">Newstellers</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170526174000 -0400" stop="20170526180000 -0400" channel="Arirang">
-    <title lang="en">Technologyze</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170526180000 -0400" stop="20170526183000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170526183000 -0400" stop="20170526190000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170526190000 -0400" stop="20170526192000 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170526192000 -0400" stop="20170526193000 -0400" channel="Arirang">
-    <title lang="en">Peninsula Inside</title>
-    <desc lang="en">Issues surrounding the reclusive North Korean regime are discussed</desc>
-  </programme>
-  <programme start="20170526193000 -0400" stop="20170526200000 -0400" channel="Arirang">
-    <title lang="en">Bizline</title>
-    <desc lang="en">Weekly magazine delivering the week's economic news</desc>
-  </programme>
-  <programme start="20170526200000 -0400" stop="20170526204500 -0400" channel="Arirang">
-    <title lang="en">News Inside</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526204500 -0400" stop="20170526210000 -0400" channel="Arirang">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526210000 -0400" stop="20170526212000 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170526212000 -0400" stop="20170526213000 -0400" channel="Arirang">
-    <title lang="en">The Grand Heritage</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170526213000 -0400" stop="20170526220000 -0400" channel="Arirang">
-    <title lang="en">K-Populous</title>
-    <desc lang="en">Spreading the K-pop craze! K-Populous is an interview program that introduces exceptional artists and groups specializing in a wide range of music genres including rock, hip hop, ballad, electronic and jazz. We plan to break the stereotype that K-pop equals idol groups, and broaden the K-pop audience and listeners</desc>
-  </programme>
-  <programme start="20170526220000 -0400" stop="20170526223000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170526223000 -0400" stop="20170526230000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170526230000 -0400" stop="20170526234000 -0400" channel="Arirang">
-    <title lang="en">Newstellers</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170526234000 -0400" stop="20170527000000 -0400" channel="Arirang">
-    <title lang="en">Technologyze</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170527000000 -0400" stop="20170527010000 -0400" channel="Arirang">
-    <title lang="en">Simply K-Pop</title>
-    <desc lang="en">Kpop fans around the world get up close with this unique music program! Watch Kpop stars as they perform on-stage and interact with the audience</desc>
-  </programme>
-  <programme start="20170527010000 -0400" stop="20170527013000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170527013000 -0400" stop="20170527020000 -0400" channel="Arirang">
-    <title lang="en">Global Business Report</title>
-    <desc lang="en">IT/Business content from broadcast stations from all around the world to analyze the stream of IT/Business</desc>
-  </programme>
-  <programme start="20170527020000 -0400" stop="20170527030000 -0400" channel="Arirang">
-    <title lang="en">After School Club</title>
-    <desc lang="en">After School Club is the Live Music Request show for K-Pop fans all around the world</desc>
-  </programme>
-  <programme start="20170527030000 -0400" stop="20170527040000 -0400" channel="Arirang">
-    <title lang="en">In Frame</title>
-    <desc lang="en">South Korea seen through the eyes of an outsider</desc>
-  </programme>
-  <programme start="20170527040000 -0400" stop="20170527050000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170527050000 -0400" stop="20170527060000 -0400" channel="Arirang">
-    <title lang="en">Cooking Possible</title>
-    <desc lang="en">The best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170527060000 -0400" stop="20170527070000 -0400" channel="Arirang">
-    <title lang="en">Arirang Special</title>
-    <desc lang="en">Featurin a variety of unique and special programs produced by Arirang TV</desc>
-  </programme>
-  <programme start="20170527070000 -0400" stop="20170527080000 -0400" channel="Arirang">
-    <title lang="en">Touch Q</title>
-    <desc lang="en">Stay tuned as we bring you this entertaining programme right here on Arirang!</desc>
-  </programme>
-  <programme start="20170527080000 -0400" stop="20170527090000 -0400" channel="Arirang">
-    <title lang="en">Bring It On</title>
-    <desc lang="en">Bring it on</desc>
-  </programme>
-  <programme start="20170527090000 -0400" stop="20170527100000 -0400" channel="Arirang">
-    <title lang="en">Arirang Prime</title>
-    <desc lang="en">Arirang Prime is about different social and cultural topics between Korea and the international community. It is a fun and informative documentary enjoyable to all viewers</desc>
-  </programme>
-  <programme start="20170527100000 -0400" stop="20170527110000 -0400" channel="Arirang">
-    <title lang="en">Upfront</title>
-    <desc lang="en">UPFRONT opens the floor up to experts for a heated debate on prominent issues surrounding Korea</desc>
-  </programme>
-  <programme start="20170527110000 -0400" stop="20170527120000 -0400" channel="Arirang">
-    <title lang="en">Arirang Special</title>
-    <desc lang="en">Featurin a variety of unique and special programs produced by Arirang TV</desc>
-  </programme>
-  <programme start="20170527120000 -0400" stop="20170527123000 -0400" channel="Arirang">
-    <title lang="en">Global Business Report</title>
-    <desc lang="en">IT/Business content from broadcast stations from all around the world to analyze the stream of IT/Business</desc>
-  </programme>
-  <programme start="20170527123000 -0400" stop="20170527130000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170527130000 -0400" stop="20170527131500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170527131500 -0400" stop="20170527140000 -0400" channel="Arirang">
-    <title lang="en">The INNERview</title>
-    <desc lang="en">Stories about celebrities and influential people</desc>
-  </programme>
-  <programme start="20170527140000 -0400" stop="20170527150000 -0400" channel="Arirang">
-    <title lang="en">After School Club</title>
-    <desc lang="en">After School Club is the Live Music Request show for K-Pop fans all around the world</desc>
-  </programme>
-  <programme start="20170527150000 -0400" stop="20170527160000 -0400" channel="Arirang">
-    <title lang="en">Simply K-Pop</title>
-    <desc lang="en">Kpop fans around the world get up close with this unique music program! Watch Kpop stars as they perform on-stage and interact with the audience</desc>
-  </programme>
-  <programme start="20170527160000 -0400" stop="20170527170000 -0400" channel="Arirang">
-    <title lang="en">Arirang Special</title>
-    <desc lang="en">Featurin a variety of unique and special programs produced by Arirang TV</desc>
-  </programme>
-  <programme start="20170527170000 -0400" stop="20170527171500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170527171500 -0400" stop="20170527180000 -0400" channel="Arirang">
-    <title lang="en">G Lounge</title>
-    <desc lang="en">Various discussions on global issues and culture!</desc>
-  </programme>
-  <programme start="20170527180000 -0400" stop="20170527190000 -0400" channel="Arirang">
-    <title lang="en">After School Club</title>
-    <desc lang="en">After School Club is the Live Music Request show for K-Pop fans all around the world</desc>
-  </programme>
-  <programme start="20170527190000 -0400" stop="20170527200000 -0400" channel="Arirang">
-    <title lang="en">K Culture Elite</title>
-    <desc lang="en">Who will become the lucky winners?</desc>
-  </programme>
-  <programme start="20170527200000 -0400" stop="20170527201500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170527201500 -0400" stop="20170527210000 -0400" channel="Arirang">
-    <title lang="en">The INNERview</title>
-    <desc lang="en">Stories about celebrities and influential people</desc>
-  </programme>
-  <programme start="20170527210000 -0400" stop="20170527211500 -0400" channel="Arirang">
-    <title lang="en">Peace Insight</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170527211500 -0400" stop="20170527220000 -0400" channel="Arirang">
-    <title lang="en">B Cruze</title>
-    <desc lang="en">A one-hour live talk show in a car</desc>
-  </programme>
-  <programme start="20170527220000 -0400" stop="20170527230000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170527230000 -0400" stop="20170528000000 -0400" channel="Arirang">
-    <title lang="en">Arirang Prime</title>
-    <desc lang="en">Arirang Prime is about different social and cultural topics between Korea and the international community. It is a fun and informative documentary enjoyable to all viewers</desc>
-  </programme>
-  <programme start="20170528000000 -0400" stop="20170528010000 -0400" channel="Arirang">
-    <title lang="en">Arirang Special</title>
-    <desc lang="en">Featurin a variety of unique and special programs produced by Arirang TV</desc>
-  </programme>
-  <programme start="20170528010000 -0400" stop="20170528013000 -0400" channel="Arirang">
-    <title lang="en">On Stage</title>
-    <desc lang="en">On stage</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/18147.jpg" />
-  </programme>
-  <programme start="20170528013000 -0400" stop="20170528023000 -0400" channel="Arirang">
-    <title lang="en">K-Phile</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528023000 -0400" stop="20170528030000 -0400" channel="Arirang">
-    <title lang="en">Arts Avenue</title>
-    <desc lang="en">Arts Avenue is a culture and arts magazine program, featuring the diverse and dynamic world of Korean Arts or 'K-Arts' from its past to present</desc>
-  </programme>
-  <programme start="20170528030000 -0400" stop="20170528033000 -0400" channel="Arirang">
-    <title lang="en">Foreign Correspondents</title>
-    <desc lang="en">Foreign Correspondents</desc>
-  </programme>
-  <programme start="20170528033000 -0400" stop="20170528043000 -0400" channel="Arirang">
-    <title lang="en">Hansik Of The Day</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528043000 -0400" stop="20170528050000 -0400" channel="Arirang">
-    <title lang="en">Arirang Odyssey</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528050000 -0400" stop="20170528060000 -0400" channel="Arirang">
-    <title lang="en">Simply K-Pop</title>
-    <desc lang="en">Kpop fans around the world get up close with this unique music program! Watch Kpop stars as they perform on-stage and interact with the audience</desc>
-  </programme>
-  <programme start="20170528060000 -0400" stop="20170528070000 -0400" channel="Arirang">
-    <title lang="en">Korea Top 10</title>
-    <desc lang="en">Explore a whole new way to enjoy Korea!</desc>
-  </programme>
-  <programme start="20170528070000 -0400" stop="20170528080000 -0400" channel="Arirang">
-    <title lang="en">After School Club</title>
-    <desc lang="en">After School Club is the Live Music Request show for K-Pop fans all around the world</desc>
-  </programme>
-  <programme start="20170528080000 -0400" stop="20170528090000 -0400" channel="Arirang">
-    <title lang="en">Arirang Special</title>
-    <desc lang="en">Featurin a variety of unique and special programs produced by Arirang TV</desc>
-  </programme>
-  <programme start="20170528090000 -0400" stop="20170528100000 -0400" channel="Arirang">
-    <title lang="en">Youth Calls</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528100000 -0400" stop="20170528110000 -0400" channel="Arirang">
-    <title lang="en">Quiz Whiz Junior</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528110000 -0400" stop="20170528120000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170528120000 -0400" stop="20170528123000 -0400" channel="Arirang">
-    <title lang="en">Arirang Odyssey</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528123000 -0400" stop="20170528130000 -0400" channel="Arirang">
-    <title lang="en">On Stage</title>
-    <desc lang="en">On stage</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/18147.jpg" />
-  </programme>
-  <programme start="20170528130000 -0400" stop="20170528131500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170528131500 -0400" stop="20170528140000 -0400" channel="Arirang">
-    <title lang="en">News Inside</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528140000 -0400" stop="20170528150000 -0400" channel="Arirang">
-    <title lang="en">K-Phile</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang</desc>
-  </programme>
-  <programme start="20170528150000 -0400" stop="20170528160000 -0400" channel="Arirang">
-    <title lang="en">Arirang Prime</title>
-    <desc lang="en">Arirang Prime is about different social and cultural topics between Korea and the international community. It is a fun and informative documentary enjoyable to all viewers</desc>
-  </programme>
-  <programme start="20170528160000 -0400" stop="20170528163000 -0400" channel="Arirang">
-    <title lang="en">Foreign Correspondents</title>
-    <desc lang="en">Foreign Correspondents</desc>
-  </programme>
-  <programme start="20170528163000 -0400" stop="20170528170000 -0400" channel="Arirang">
-    <title lang="en">4 Angles</title>
-    <desc lang="en">4 angles takes viewers to scenes where issues unfold, where multiple perspectives are overlaid, to present a snapshot of Korea in real time</desc>
-  </programme>
-  <programme start="20170528170000 -0400" stop="20170528171500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170528171500 -0400" stop="20170528180000 -0400" channel="Arirang">
-    <title lang="en">The INNERview</title>
-    <desc lang="en">Stories about celebrities and influential people</desc>
-  </programme>
-  <programme start="20170528180000 -0400" stop="20170528190000 -0400" channel="Arirang">
-    <title lang="en">After School Club</title>
-    <desc lang="en">After School Club is the Live Music Request show for K-Pop fans all around the world</desc>
-  </programme>
-  <programme start="20170528190000 -0400" stop="20170528193000 -0400" channel="Arirang">
-    <title lang="en">My Little Kitchen</title>
-    <desc lang="en">Arirang TV's "My Little Kitchen" offers tasty yet easy-to-follow Korean recipes that cater to foreign palates</desc>
-  </programme>
-  <programme start="20170528193000 -0400" stop="20170528200000 -0400" channel="Arirang">
-    <title lang="en">Global Business Report</title>
-    <desc lang="en">IT/Business content from broadcast stations from all around the world to analyze the stream of IT/Business</desc>
-  </programme>
-  <programme start="20170528200000 -0400" stop="20170528201500 -0400" channel="Arirang">
-    <title lang="en">Arirang News</title>
-    <desc lang="en">Korean news</desc>
-  </programme>
-  <programme start="20170528201500 -0400" stop="20170528210000 -0400" channel="Arirang">
-    <title lang="en">The INNERview</title>
-    <desc lang="en">Stories about celebrities and influential people</desc>
-  </programme>
-  <programme start="20170528210000 -0400" stop="20170528220000 -0400" channel="Arirang">
-    <title lang="en">In Frame</title>
-    <desc lang="en">South Korea seen through the eyes of an outsider</desc>
-  </programme>
-  <programme start="20170528220000 -0400" stop="20170528223000 -0400" channel="Arirang">
-    <title lang="en">Showbiz Korea</title>
-    <desc lang="en">Daily updates on the hottest and the latest issues in the Korean entertainment industry</desc>
-  </programme>
-  <programme start="20170528223000 -0400" stop="20170528230000 -0400" channel="Arirang">
-    <title lang="en">Pops in Seoul</title>
-    <desc lang="en">Pops in Seoul is the No.1 music program on Arirang TV, introducing the latest K-pop songs</desc>
-  </programme>
-  <programme start="20170528230000 -0400" stop="20170528234000 -0400" channel="Arirang">
-    <title lang="en">Newstellers</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
-  </programme>
-  <programme start="20170528234000 -0400" stop="20170529000000 -0400" channel="Arirang">
-    <title lang="en">Technologyze</title>
-    <desc lang="en">Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism</desc>
+  <programme start="20170526060000 +0800" stop="20170526070000 +0800" channel="Arirang">
+    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  </programme>
+  <programme start="20170526070000 +0800" stop="20170526080000 +0800" channel="Arirang">
+    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  </programme>
+  <programme start="20170526080000 +0800" stop="20170526085500 +0800" channel="Arirang">
+    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  </programme>
+  <programme start="20170526085500 +0800" stop="20170526095000 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170526095000 +0800" stop="20170526101500 +0800" channel="Arirang">
+    <title lang="zh">YOUNGER (SEASON 3)</title>
+  </programme>
+  <programme start="20170526101500 +0800" stop="20170526104000 +0800" channel="Arirang">
+    <title lang="zh">YOUNGER (SEASON 3)</title>
+  </programme>
+  <programme start="20170526104000 +0800" stop="20170526113000 +0800" channel="Arirang">
+    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  </programme>
+  <programme start="20170526113000 +0800" stop="20170526122000 +0800" channel="Arirang">
+    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  </programme>
+  <programme start="20170526122000 +0800" stop="20170526131000 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170526131000 +0800" stop="20170526140000 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  </programme>
+  <programme start="20170526140000 +0800" stop="20170526145500 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170526145500 +0800" stop="20170526152000 +0800" channel="Arirang">
+    <title lang="zh">YOUNGER (SEASON 3)</title>
+  </programme>
+  <programme start="20170526152000 +0800" stop="20170526154500 +0800" channel="Arirang">
+    <title lang="zh">YOUNGER (SEASON 3)</title>
+  </programme>
+  <programme start="20170526154500 +0800" stop="20170526163500 +0800" channel="Arirang">
+    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  </programme>
+  <programme start="20170526163500 +0800" stop="20170526172500 +0800" channel="Arirang">
+    <title lang="zh">DESPERATE HOUSEWIVES (SEASON 8)</title>
+  </programme>
+  <programme start="20170526172500 +0800" stop="20170526181500 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  </programme>
+  <programme start="20170526181500 +0800" stop="20170526190500 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170526190500 +0800" stop="20170526200000 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170526200000 +0800" stop="20170526203000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170526203000 +0800" stop="20170526210000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170526210000 +0800" stop="20170526215000 +0800" channel="Arirang">
+    <title lang="zh">THE NIGHT SHIFT (SEASON 3)</title>
+  </programme>
+  <programme start="20170526215000 +0800" stop="20170526224000 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170526224000 +0800" stop="20170526233000 +0800" channel="Arirang">
+    <title lang="zh">THE NIGHT SHIFT (SEASON 3)</title>
+  </programme>
+  <programme start="20170526233000 +0800" stop="20170527000000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170527000000 +0800" stop="20170527003000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170527003000 +0800" stop="20170527012000 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO JUSTICE (SEASON 1)</title>
+  </programme>
+  <programme start="20170527012000 +0800" stop="20170527021000 +0800" channel="Arirang">
+    <title lang="zh">GHOST WHISPERER (SEASON 4)</title>
+  </programme>
+  <programme start="20170527021000 +0800" stop="20170527030000 +0800" channel="Arirang">
+    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  </programme>
+  <programme start="20170527030000 +0800" stop="20170527040000 +0800" channel="Arirang">
+    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  </programme>
+  <programme start="20170527040000 +0800" stop="20170527050000 +0800" channel="Arirang">
+    <title lang="zh">GHOST WHISPERER (SEASON 4)</title>
+  </programme>
+  <programme start="20170527050000 +0800" stop="20170527060000 +0800" channel="Arirang">
+    <title lang="zh">STATE OF AFFAIRS (SEASON 1)</title>
+  </programme>
+  <programme start="20170527060000 +0800" stop="20170527063000 +0800" channel="Arirang">
+    <title lang="zh">STARS IN STYLE (SEASON 4)</title>
+  </programme>
+  <programme start="20170527063000 +0800" stop="20170527070000 +0800" channel="Arirang">
+    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  </programme>
+  <programme start="20170527070000 +0800" stop="20170527073000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170527073000 +0800" stop="20170527080000 +0800" channel="Arirang">
+    <title lang="zh">CASH CAB PHILIPPINES (SEASON 2)</title>
+  </programme>
+  <programme start="20170527080000 +0800" stop="20170527090000 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  </programme>
+  <programme start="20170527090000 +0800" stop="20170527095000 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170527095000 +0800" stop="20170527104000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170527104000 +0800" stop="20170527113000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170527113000 +0800" stop="20170527122000 +0800" channel="Arirang">
+    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  </programme>
+  <programme start="20170527122000 +0800" stop="20170527124500 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170527124500 +0800" stop="20170527131000 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170527131000 +0800" stop="20170527140500 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170527140500 +0800" stop="20170527145500 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170527145500 +0800" stop="20170527154500 +0800" channel="Arirang">
+    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  </programme>
+  <programme start="20170527154500 +0800" stop="20170527163500 +0800" channel="Arirang">
+    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  </programme>
+  <programme start="20170527163500 +0800" stop="20170527173000 +0800" channel="Arirang">
+    <title lang="zh">TOP 20 FUNNIEST (SEASON 2)</title>
+  </programme>
+  <programme start="20170527173000 +0800" stop="20170527182000 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  </programme>
+  <programme start="20170527182000 +0800" stop="20170527191500 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170527191500 +0800" stop="20170527200500 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
+  </programme>
+  <programme start="20170527200500 +0800" stop="20170527205500 +0800" channel="Arirang">
+    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  </programme>
+  <programme start="20170527205500 +0800" stop="20170527214500 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170527214500 +0800" stop="20170527223500 +0800" channel="Arirang">
+    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  </programme>
+  <programme start="20170527223500 +0800" stop="20170527230000 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170527230000 +0800" stop="20170527232500 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170527232500 +0800" stop="20170528001500 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  </programme>
+  <programme start="20170528001500 +0800" stop="20170528004000 +0800" channel="Arirang">
+    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  </programme>
+  <programme start="20170528004000 +0800" stop="20170528010500 +0800" channel="Arirang">
+    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  </programme>
+  <programme start="20170528010500 +0800" stop="20170528020000 +0800" channel="Arirang">
+    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  </programme>
+  <programme start="20170528020000 +0800" stop="20170528030000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170528030000 +0800" stop="20170528040000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170528040000 +0800" stop="20170528050000 +0800" channel="Arirang">
+    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  </programme>
+  <programme start="20170528050000 +0800" stop="20170528060000 +0800" channel="Arirang">
+    <title lang="zh">MINUTE TO WIN IT (SEASON 1) GSN</title>
+  </programme>
+  <programme start="20170528060000 +0800" stop="20170528065500 +0800" channel="Arirang">
+    <title lang="zh">GHOST WHISPERER (SEASON 2)</title>
+  </programme>
+  <programme start="20170528065500 +0800" stop="20170528074500 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170528074500 +0800" stop="20170528083500 +0800" channel="Arirang">
+    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  </programme>
+  <programme start="20170528083500 +0800" stop="20170528090000 +0800" channel="Arirang">
+    <title lang="zh">STARS IN STYLE (SEASON 4)</title>
+  </programme>
+  <programme start="20170528090000 +0800" stop="20170528092500 +0800" channel="Arirang">
+    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  </programme>
+  <programme start="20170528092500 +0800" stop="20170528095000 +0800" channel="Arirang">
+    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  </programme>
+  <programme start="20170528095000 +0800" stop="20170528104000 +0800" channel="Arirang">
+    <title lang="zh">TAKE IT ALL (SEASON 1)</title>
+  </programme>
+  <programme start="20170528104000 +0800" stop="20170528113000 +0800" channel="Arirang">
+    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  </programme>
+  <programme start="20170528113000 +0800" stop="20170528115500 +0800" channel="Arirang">
+    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  </programme>
+  <programme start="20170528115500 +0800" stop="20170528122000 +0800" channel="Arirang">
+    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  </programme>
+  <programme start="20170528122000 +0800" stop="20170528131000 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  </programme>
+  <programme start="20170528131000 +0800" stop="20170528140000 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170528140000 +0800" stop="20170528145000 +0800" channel="Arirang">
+    <title lang="zh">MADAM SECRETARY (SEASON 3)</title>
+  </programme>
+  <programme start="20170528145000 +0800" stop="20170528152000 +0800" channel="Arirang">
+    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  </programme>
+  <programme start="20170528152000 +0800" stop="20170528154500 +0800" channel="Arirang">
+    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  </programme>
+  <programme start="20170528154500 +0800" stop="20170528161000 +0800" channel="Arirang">
+    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  </programme>
+  <programme start="20170528161000 +0800" stop="20170528164000 +0800" channel="Arirang">
+    <title lang="zh">WORLDS FUNNIEST VIDEOS:TOP 10 COUNTDOWN</title>
+  </programme>
+  <programme start="20170528164000 +0800" stop="20170528173000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170528173000 +0800" stop="20170528182000 +0800" channel="Arirang">
+    <title lang="zh">GREYS ANATOMY (SEASON 10)</title>
+  </programme>
+  <programme start="20170528182000 +0800" stop="20170528184500 +0800" channel="Arirang">
+    <title lang="zh">SUPERSTORE (SEASON 2)</title>
+  </programme>
+  <programme start="20170528184500 +0800" stop="20170528191500 +0800" channel="Arirang">
+    <title lang="zh">THE CARMICHAEL SHOW 2</title>
+  </programme>
+  <programme start="20170528191500 +0800" stop="20170528194000 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170528194000 +0800" stop="20170528200500 +0800" channel="Arirang">
+    <title lang="zh">DR. KEN (SEASON 2)</title>
+  </programme>
+  <programme start="20170528200500 +0800" stop="20170528205500 +0800" channel="Arirang">
+    <title lang="zh">CHICAGO MED (SEASON 2)</title>
+  </programme>
+  <programme start="20170528205500 +0800" stop="20170528214500 +0800" channel="Arirang">
+    <title lang="zh">TOP 20 FUNNIEST (SEASON 2)</title>
+  </programme>
+  <programme start="20170528214500 +0800" stop="20170528223500 +0800" channel="Arirang">
+    <title lang="zh">JANE THE VIRGIN (SEASON 3)</title>
+  </programme>
+  <programme start="20170528223500 +0800" stop="20170528232500 +0800" channel="Arirang">
+    <title lang="zh">CONVICTION</title>
+  </programme>
+  <programme start="20170528232500 +0800" stop="20170529002000 +0800" channel="Arirang">
+    <title lang="zh">TOP CHEF (SEASON 13)</title>
   </programme>
   <programme start="20170526060000 +0800" stop="20170526063000 +0800" channel="NHK">
     <title lang="zh">NHK NEWSLINE</title>
