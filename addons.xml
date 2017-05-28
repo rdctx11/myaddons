@@ -278,7 +278,7 @@
 
 <addon id="plugin.video.navixxx"
 	name="Navi XXX"
-	version="1.0.5"
+	version="1.0.6"
 	provider-name="nieldc">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -289,8 +289,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Pinoy Streams</summary>
-    <description lang="en">Pinoy Streams</description>
+    <summary lang="en">Adult videos from Navi-X</summary>
+    <description lang="en">Adult videos from Navi-X</description>
     <platform>all</platform>
   </extension>
 </addon>

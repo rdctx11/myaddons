@@ -112,31 +112,31 @@
 <info> </info>
 </item>
 
-<!-- <item>
+<!-- <itemxxx>
 <title>SuperOne</title>
 <link>http://78.108.245.78:5555/udp/239.100.1.13:1234</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/mtadulttv_zpsa1fyajy4.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/AdultChannel_zpshza3sipo.jpg</fanart>
 <info> </info>
-</item> -->
+</itemxxx> -->
 
-<!-- <item>
+<!-- <itemxxx>
 <title>ERO XXX HD</title>
 <link>http://91.204.214.106:23371/stolen/025/duqu</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/eroxxx_zps1962132f.jpg</thumbnail>
 <fanart>http://www.kabel1.cz/wordpress/obrazky/fberox.jpg</fanart>
 <info>Adult channel, part of the Filmbox package, a joint venture between SPI International and Satellite BG. One of a group of eight channels launched by SPI in Bulgaria on the Satellite BG platform end 2011.</info>
-</item> -->
+</itemxxx> -->
 
-<!-- <item>
+<!-- <itemxxx>
 <title>XXX Babes</title>
 <link>http://TheAvengersTeam.ns0.it:8000/live/antonioo/antonioo/1878.ts</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/mtadulttv_zpsa1fyajy4.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/AdultChannel_zpshza3sipo.jpg</fanart>
 <info> </info>
-</item> -->
+</itemxxx> -->
 
-<!-- <item>
+<!-- <itemxxx>
 <title>Babe Station Xtreme</title>
 <link>http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/babestation1_zps4ce86f22.jpg</thumbnail>
@@ -182,7 +182,7 @@
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/hustlertv_zpsai3agzq3.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/AdultChannel_zpshza3sipo.jpg</fanart>
 <info> </info>
-</item> -->
+</itemxxx> -->
 
 <item>
 <title>SCT</title>
@@ -248,7 +248,7 @@
 <info> </info>
 </item>
 
-<!-- <item>
+<!-- <itemxxx>
 <title>Okadai XXX</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Okadai</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/okadai_zpsvi0xfiix.jpg</thumbnail>
@@ -256,15 +256,15 @@
 <info> </info>
 </item>
 
-<item>
+<itemxxx>
 <title>Olala</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Olala</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/olala_zpsy7tz0ezt.jpg</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Adult/AdultChannel_zpshza3sipo.jpg</fanart>
 <info> </info>
-</item> -->
+</itemxxx> -->
 
-<item>
+<itemxxx>
 <title>Test</title>
 <link></link>
 <thumbnail> </thumbnail>
