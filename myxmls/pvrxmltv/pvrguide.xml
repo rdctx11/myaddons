@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="HGTVCa">
-    <display-name lang="en">HGTV Canada</display-name>
-    <url>http://www.tvpassport.com</url>
-  </channel>
   <channel id="TFC">
     <display-name lang="en">TFC</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="GMAPTV">
+    <display-name lang="en">GMA Pinoy TV</display-name>
     <url>http://www.tv.com</url>
   </channel>
   <channel id="CNNPh">
@@ -32,431 +32,702 @@
     <display-name lang="zh">Channel News Asia</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170529002500 +0000" stop="20170529010000 +0000" channel="TFC">
+  <programme start="20170529002500 -0400" stop="20170529010000 -0400" channel="TFC">
     <title lang="en">I Can Do That</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529010000 +0000" stop="20170529015000 +0000" channel="TFC">
+  <programme start="20170529010000 -0400" stop="20170529015000 -0400" channel="TFC">
     <title lang="en">Gandang Gabi Vice</title>
     <desc lang="en">Talk show hosted by comedian, Vice Ganda features celebrity guests and performers</desc>
   </programme>
-  <programme start="20170529033500 +0000" stop="20170529044000 +0000" channel="TFC">
+  <programme start="20170529033500 -0400" stop="20170529044000 -0400" channel="TFC">
     <title lang="en">Rated K</title>
     <desc lang="en">Human-interest stories and interviews are featured</desc>
   </programme>
-  <programme start="20170529044000 +0000" stop="20170529051500 +0000" channel="TFC">
+  <programme start="20170529044000 -0400" stop="20170529051500 -0400" channel="TFC">
     <title lang="en">Goin' Bulilit</title>
     <desc lang="en">A sketch comedy show that features various gags and children in various comic situations</desc>
   </programme>
-  <programme start="20170529051500 +0000" stop="20170529054500 +0000" channel="TFC">
+  <programme start="20170529051500 -0400" stop="20170529054500 -0400" channel="TFC">
     <title lang="en">Home Sweetie Home</title>
     <desc lang="en">A situational comedy, about a newly married couple Julie and Romeo and their ways to address the needs of a growing household</desc>
   </programme>
-  <programme start="20170529054500 +0000" stop="20170529062500 +0000" channel="TFC">
+  <programme start="20170529054500 -0400" stop="20170529062500 -0400" channel="TFC">
     <title lang="en">I Can Do That</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529072500 +0000" stop="20170529075000 +0000" channel="TFC">
+  <programme start="20170529072500 -0400" stop="20170529075000 -0400" channel="TFC">
     <title lang="en">Mission Possible</title>
     <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
   </programme>
-  <programme start="20170529075000 +0000" stop="20170529094000 +0000" channel="TFC">
+  <programme start="20170529075000 -0400" stop="20170529094000 -0400" channel="TFC">
     <title lang="en">Umagang Kay Ganda</title>
     <desc lang="en">A morning news and lifestyle magazine</desc>
   </programme>
-  <programme start="20170529094000 +0000" stop="20170529100500 +0000" channel="TFC">
+  <programme start="20170529094000 -0400" stop="20170529100500 -0400" channel="TFC">
     <title lang="en">TNT: Tapatan ni Tunying</title>
     <desc lang="en">Hosted by Anthony Taberna, the show features interviews with politicians and personalities</desc>
   </programme>
-  <programme start="20170529100500 +0000" stop="20170529111500 +0000" channel="TFC">
+  <programme start="20170529100500 -0400" stop="20170529111500 -0400" channel="TFC">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529111500 +0000" stop="20170529112500 +0000" channel="TFC">
+  <programme start="20170529111500 -0400" stop="20170529112500 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170529112500 +0000" stop="20170529124500 +0000" channel="TFC">
+  <programme start="20170529112500 -0400" stop="20170529124500 -0400" channel="TFC">
     <title lang="en">TV Patrol</title>
     <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
-  <programme start="20170529124500 +0000" stop="20170529150500 +0000" channel="TFC">
+  <programme start="20170529124500 -0400" stop="20170529150500 -0400" channel="TFC">
     <title lang="en">It's Showtime</title>
     <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170529150500 +0000" stop="20170529153000 +0000" channel="TFC">
+  <programme start="20170529150500 -0400" stop="20170529153000 -0400" channel="TFC">
     <title lang="en">TNT: Tapatan ni Tunying</title>
     <desc lang="en">Hosted by Anthony Taberna, the show features interviews with politicians and personalities</desc>
   </programme>
-  <programme start="20170529153000 +0000" stop="20170529154000 +0000" channel="TFC">
+  <programme start="20170529153000 -0400" stop="20170529154000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170529154000 +0000" stop="20170529161500 +0000" channel="TFC">
+  <programme start="20170529154000 -0400" stop="20170529161500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529161500 +0000" stop="20170529165000 +0000" channel="TFC">
+  <programme start="20170529161500 -0400" stop="20170529165000 -0400" channel="TFC">
     <title lang="en">The Better Half</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529165000 +0000" stop="20170529172500 +0000" channel="TFC">
+  <programme start="20170529165000 -0400" stop="20170529172500 -0400" channel="TFC">
     <title lang="en">Wildflower</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529172500 +0000" stop="20170529180500 +0000" channel="TFC">
+  <programme start="20170529172500 -0400" stop="20170529180500 -0400" channel="TFC">
     <title lang="en">Pusong Ligaw</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529180500 +0000" stop="20170529185000 +0000" channel="TFC">
+  <programme start="20170529180500 -0400" stop="20170529185000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529185000 +0000" stop="20170529193000 +0000" channel="TFC">
+  <programme start="20170529185000 -0400" stop="20170529193000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529193000 +0000" stop="20170529201000 +0000" channel="TFC">
+  <programme start="20170529193000 -0400" stop="20170529201000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170529201000 +0000" stop="20170529202000 +0000" channel="TFC">
+  <programme start="20170529201000 -0400" stop="20170529202000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170529202000 +0000" stop="20170529214000 +0000" channel="TFC">
+  <programme start="20170529202000 -0400" stop="20170529214000 -0400" channel="TFC">
     <title lang="en">Tv Patrol Global Edition</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529214000 +0000" stop="20170529221000 +0000" channel="TFC">
+  <programme start="20170529214000 -0400" stop="20170529221000 -0400" channel="TFC">
     <title lang="en">Balitang America</title>
     <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170529221000 +0000" stop="20170529230000 +0000" channel="TFC">
+  <programme start="20170529221000 -0400" stop="20170529230000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529230000 +0000" stop="20170529234000 +0000" channel="TFC">
+  <programme start="20170529230000 -0400" stop="20170529234000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529234000 +0000" stop="20170530001500 +0000" channel="TFC">
+  <programme start="20170529234000 -0400" stop="20170530001500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530001500 +0000" stop="20170530005000 +0000" channel="TFC">
+  <programme start="20170530001500 -0400" stop="20170530005000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170530005000 +0000" stop="20170530012500 +0000" channel="TFC">
+  <programme start="20170530005000 -0400" stop="20170530012500 -0400" channel="TFC">
     <title lang="en">Pusong Ligaw</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530012500 +0000" stop="20170530020000 +0000" channel="TFC">
+  <programme start="20170530012500 -0400" stop="20170530020000 -0400" channel="TFC">
     <title lang="en">Wildflower</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530020000 +0000" stop="20170530023500 +0000" channel="TFC">
+  <programme start="20170530020000 -0400" stop="20170530023500 -0400" channel="TFC">
     <title lang="en">The Better Half</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530023500 +0000" stop="20170530025500 +0000" channel="TFC">
+  <programme start="20170530023500 -0400" stop="20170530025500 -0400" channel="TFC">
     <title lang="en">Tonight With Boy Abunda</title>
     <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
   </programme>
-  <programme start="20170530025500 +0000" stop="20170530032500 +0000" channel="TFC">
+  <programme start="20170530025500 -0400" stop="20170530032500 -0400" channel="TFC">
     <title lang="en">Bandila</title>
     <desc lang="en">A late-night news program</desc>
   </programme>
-  <programme start="20170530032500 +0000" stop="20170530035500 +0000" channel="TFC">
+  <programme start="20170530032500 -0400" stop="20170530035500 -0400" channel="TFC">
     <title lang="en">Balitang America</title>
     <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170530035500 +0000" stop="20170530050000 +0000" channel="TFC">
+  <programme start="20170530035500 -0400" stop="20170530050000 -0400" channel="TFC">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530050000 +0000" stop="20170530053500 +0000" channel="TFC">
+  <programme start="20170530050000 -0400" stop="20170530053500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530053500 +0000" stop="20170530075000 +0000" channel="TFC">
+  <programme start="20170530053500 -0400" stop="20170530075000 -0400" channel="TFC">
     <title lang="en">It's Showtime</title>
     <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170530075000 +0000" stop="20170530094000 +0000" channel="TFC">
+  <programme start="20170530075000 -0400" stop="20170530094000 -0400" channel="TFC">
     <title lang="en">Umagang Kay Ganda</title>
     <desc lang="en">A morning news and lifestyle magazine</desc>
   </programme>
-  <programme start="20170530094000 +0000" stop="20170530100500 +0000" channel="TFC">
+  <programme start="20170530094000 -0400" stop="20170530100500 -0400" channel="TFC">
     <title lang="en">Mission Possible</title>
     <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
   </programme>
-  <programme start="20170530100500 +0000" stop="20170530111500 +0000" channel="TFC">
+  <programme start="20170530100500 -0400" stop="20170530111500 -0400" channel="TFC">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530111500 +0000" stop="20170530112500 +0000" channel="TFC">
+  <programme start="20170530111500 -0400" stop="20170530112500 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170530112500 +0000" stop="20170530124500 +0000" channel="TFC">
+  <programme start="20170530112500 -0400" stop="20170530124500 -0400" channel="TFC">
     <title lang="en">TV Patrol</title>
     <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
-  <programme start="20170530124500 +0000" stop="20170530150500 +0000" channel="TFC">
+  <programme start="20170530124500 -0400" stop="20170530150500 -0400" channel="TFC">
     <title lang="en">It's Showtime</title>
     <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170530150500 +0000" stop="20170530153000 +0000" channel="TFC">
+  <programme start="20170530150500 -0400" stop="20170530153000 -0400" channel="TFC">
     <title lang="en">Mission Possible</title>
     <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
   </programme>
-  <programme start="20170530153000 +0000" stop="20170530154000 +0000" channel="TFC">
+  <programme start="20170530153000 -0400" stop="20170530154000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170530154000 +0000" stop="20170530161500 +0000" channel="TFC">
+  <programme start="20170530154000 -0400" stop="20170530161500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530161500 +0000" stop="20170530165000 +0000" channel="TFC">
+  <programme start="20170530161500 -0400" stop="20170530165000 -0400" channel="TFC">
     <title lang="en">The Better Half</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530165000 +0000" stop="20170530172500 +0000" channel="TFC">
+  <programme start="20170530165000 -0400" stop="20170530172500 -0400" channel="TFC">
     <title lang="en">Wildflower</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530172500 +0000" stop="20170530180500 +0000" channel="TFC">
+  <programme start="20170530172500 -0400" stop="20170530180500 -0400" channel="TFC">
     <title lang="en">Pusong Ligaw</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530180500 +0000" stop="20170530185000 +0000" channel="TFC">
+  <programme start="20170530180500 -0400" stop="20170530185000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530185000 +0000" stop="20170530193000 +0000" channel="TFC">
+  <programme start="20170530185000 -0400" stop="20170530193000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530193000 +0000" stop="20170530201000 +0000" channel="TFC">
+  <programme start="20170530193000 -0400" stop="20170530201000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170530201000 +0000" stop="20170530202000 +0000" channel="TFC">
+  <programme start="20170530201000 -0400" stop="20170530202000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170530202000 +0000" stop="20170530214000 +0000" channel="TFC">
+  <programme start="20170530202000 -0400" stop="20170530214000 -0400" channel="TFC">
     <title lang="en">Tv Patrol Global Edition</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530214000 +0000" stop="20170530221000 +0000" channel="TFC">
+  <programme start="20170530214000 -0400" stop="20170530221000 -0400" channel="TFC">
     <title lang="en">Balitang America</title>
     <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170530221000 +0000" stop="20170530230000 +0000" channel="TFC">
+  <programme start="20170530221000 -0400" stop="20170530230000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530230000 +0000" stop="20170530234000 +0000" channel="TFC">
+  <programme start="20170530230000 -0400" stop="20170530234000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170530234000 +0000" stop="20170531001500 +0000" channel="TFC">
+  <programme start="20170530234000 -0400" stop="20170531001500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531001500 +0000" stop="20170531005000 +0000" channel="TFC">
+  <programme start="20170531001500 -0400" stop="20170531005000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170531005000 +0000" stop="20170531012500 +0000" channel="TFC">
+  <programme start="20170531005000 -0400" stop="20170531012500 -0400" channel="TFC">
     <title lang="en">Pusong Ligaw</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531012500 +0000" stop="20170531020000 +0000" channel="TFC">
+  <programme start="20170531012500 -0400" stop="20170531020000 -0400" channel="TFC">
     <title lang="en">Wildflower</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531020000 +0000" stop="20170531023500 +0000" channel="TFC">
+  <programme start="20170531020000 -0400" stop="20170531023500 -0400" channel="TFC">
     <title lang="en">The Better Half</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531023500 +0000" stop="20170531025500 +0000" channel="TFC">
+  <programme start="20170531023500 -0400" stop="20170531025500 -0400" channel="TFC">
     <title lang="en">Tonight With Boy Abunda</title>
     <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
   </programme>
-  <programme start="20170531025500 +0000" stop="20170531032500 +0000" channel="TFC">
+  <programme start="20170531025500 -0400" stop="20170531032500 -0400" channel="TFC">
     <title lang="en">Bandila</title>
     <desc lang="en">A late-night news program</desc>
   </programme>
-  <programme start="20170531032500 +0000" stop="20170531035500 +0000" channel="TFC">
+  <programme start="20170531032500 -0400" stop="20170531035500 -0400" channel="TFC">
     <title lang="en">Balitang America</title>
     <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170531035500 +0000" stop="20170531050000 +0000" channel="TFC">
+  <programme start="20170531035500 -0400" stop="20170531050000 -0400" channel="TFC">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531050000 +0000" stop="20170531053500 +0000" channel="TFC">
+  <programme start="20170531050000 -0400" stop="20170531053500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531053500 +0000" stop="20170531075000 +0000" channel="TFC">
+  <programme start="20170531053500 -0400" stop="20170531075000 -0400" channel="TFC">
     <title lang="en">It's Showtime</title>
     <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170531075000 +0000" stop="20170531094000 +0000" channel="TFC">
+  <programme start="20170531075000 -0400" stop="20170531094000 -0400" channel="TFC">
     <title lang="en">Umagang Kay Ganda</title>
     <desc lang="en">A morning news and lifestyle magazine</desc>
   </programme>
-  <programme start="20170531094000 +0000" stop="20170531100500 +0000" channel="TFC">
+  <programme start="20170531094000 -0400" stop="20170531100500 -0400" channel="TFC">
     <title lang="en">My Puhunan</title>
     <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
   </programme>
-  <programme start="20170531100500 +0000" stop="20170531111500 +0000" channel="TFC">
+  <programme start="20170531100500 -0400" stop="20170531111500 -0400" channel="TFC">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531111500 +0000" stop="20170531112500 +0000" channel="TFC">
+  <programme start="20170531111500 -0400" stop="20170531112500 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170531112500 +0000" stop="20170531124500 +0000" channel="TFC">
+  <programme start="20170531112500 -0400" stop="20170531124500 -0400" channel="TFC">
     <title lang="en">TV Patrol</title>
     <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
-  <programme start="20170531124500 +0000" stop="20170531150500 +0000" channel="TFC">
+  <programme start="20170531124500 -0400" stop="20170531150500 -0400" channel="TFC">
     <title lang="en">It's Showtime</title>
     <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170531150500 +0000" stop="20170531153000 +0000" channel="TFC">
+  <programme start="20170531150500 -0400" stop="20170531153000 -0400" channel="TFC">
     <title lang="en">My Puhunan</title>
     <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
   </programme>
-  <programme start="20170531153000 +0000" stop="20170531154000 +0000" channel="TFC">
+  <programme start="20170531153000 -0400" stop="20170531154000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170531154000 +0000" stop="20170531161500 +0000" channel="TFC">
+  <programme start="20170531154000 -0400" stop="20170531161500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531161500 +0000" stop="20170531165000 +0000" channel="TFC">
+  <programme start="20170531161500 -0400" stop="20170531165000 -0400" channel="TFC">
     <title lang="en">The Better Half</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531165000 +0000" stop="20170531172500 +0000" channel="TFC">
+  <programme start="20170531165000 -0400" stop="20170531172500 -0400" channel="TFC">
     <title lang="en">Wildflower</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531172500 +0000" stop="20170531180500 +0000" channel="TFC">
+  <programme start="20170531172500 -0400" stop="20170531180500 -0400" channel="TFC">
     <title lang="en">Pusong Ligaw</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531180500 +0000" stop="20170531185000 +0000" channel="TFC">
+  <programme start="20170531180500 -0400" stop="20170531185000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531185000 +0000" stop="20170531193000 +0000" channel="TFC">
+  <programme start="20170531185000 -0400" stop="20170531193000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531193000 +0000" stop="20170531201000 +0000" channel="TFC">
+  <programme start="20170531193000 -0400" stop="20170531201000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170531201000 +0000" stop="20170531202000 +0000" channel="TFC">
+  <programme start="20170531201000 -0400" stop="20170531202000 -0400" channel="TFC">
     <title lang="en">TFC Connect</title>
     <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170531202000 +0000" stop="20170531214000 +0000" channel="TFC">
+  <programme start="20170531202000 -0400" stop="20170531214000 -0400" channel="TFC">
     <title lang="en">Tv Patrol Global Edition</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531214000 +0000" stop="20170531221000 +0000" channel="TFC">
+  <programme start="20170531214000 -0400" stop="20170531221000 -0400" channel="TFC">
     <title lang="en">Balitang America</title>
     <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170531221000 +0000" stop="20170531230000 +0000" channel="TFC">
+  <programme start="20170531221000 -0400" stop="20170531230000 -0400" channel="TFC">
     <title lang="en">Fpj Ang Probinsyano</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531230000 +0000" stop="20170531234000 +0000" channel="TFC">
+  <programme start="20170531230000 -0400" stop="20170531234000 -0400" channel="TFC">
     <title lang="en">My Dear Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170531234000 +0000" stop="20170601001500 +0000" channel="TFC">
+  <programme start="20170531234000 -0400" stop="20170601001500 -0400" channel="TFC">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170529000000 +0800" stop="20170529030000 +0800" channel="CNNPh">
-    <title lang="en">Weekend Express</title>
+  <programme start="20170529001500 -0400" stop="20170529010000 -0400" channel="GMAPTV">
+    <title lang="en">Full House Tonight</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529030000 +0800" stop="20170529033000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+  <programme start="20170529010000 -0400" stop="20170529013000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
   </programme>
-  <programme start="20170529033000 +0800" stop="20170529040000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170529013000 -0400" stop="20170529034500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
   </programme>
-  <programme start="20170529040000 +0800" stop="20170529043000 +0800" channel="CNNPh">
-    <title lang="en">Hollywood Express</title>
+  <programme start="20170529034500 -0400" stop="20170529054500 -0400" channel="GMAPTV">
+    <title lang="en">Temptation Island</title>
+    <desc lang="en">A group of beauty contest finalists from different social background are stranded in a desert Island without food, water and shelter(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/125722.jpg" />
   </programme>
-  <programme start="20170529043000 +0800" stop="20170529050000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529054500 -0400" stop="20170529063000 -0400" channel="GMAPTV">
+    <title lang="en">Dear Uge</title>
+    <desc lang="en">Variety store owner Esperanza hosts a web show where different funny love stories are featured(n)</desc>
   </programme>
-  <programme start="20170529050000 +0800" stop="20170529053000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529063000 -0400" stop="20170529071500 -0400" channel="GMAPTV">
+    <title lang="en">Follow Your Heart</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529053000 +0800" stop="20170529060000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170529071500 -0400" stop="20170529091500 -0400" channel="GMAPTV">
+    <title lang="en">Unang Hirit</title>
+    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning(n)</desc>
   </programme>
-  <programme start="20170529060000 +0800" stop="20170529073000 +0800" channel="CNNPh">
-    <title lang="en">Newday</title>
+  <programme start="20170529091500 -0400" stop="20170529103000 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
   </programme>
-  <programme start="20170529073000 +0800" stop="20170529080000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+  <programme start="20170529103000 -0400" stop="20170529113000 -0400" channel="GMAPTV">
+    <title lang="en">24 Oras</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170529080000 +0800" stop="20170529083000 +0800" channel="CNNPh">
-    <title lang="en">Newsroom</title>
+  <programme start="20170529113000 -0400" stop="20170529120000 -0400" channel="GMAPTV">
+    <title lang="en">D'originals</title>
+    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel(n)</desc>
   </programme>
-  <programme start="20170529083000 +0800" stop="20170529090000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170529120000 -0400" stop="20170529123000 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529090000 +0800" stop="20170529093000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529123000 -0400" stop="20170529130000 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529093000 +0800" stop="20170529100000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529130000 -0400" stop="20170529133000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
   </programme>
-  <programme start="20170529100000 +0800" stop="20170529103000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+  <programme start="20170529133000 -0400" stop="20170529140000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529103000 +0800" stop="20170529110000 +0800" channel="CNNPh">
-    <title lang="en">Story Of The Filipino</title>
+  <programme start="20170529140000 -0400" stop="20170529143000 -0400" channel="GMAPTV">
+    <title lang="en">Destined To Be Yours</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529110000 +0800" stop="20170529113000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+  <programme start="20170529143000 -0400" stop="20170529150000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
   </programme>
-  <programme start="20170529113000 +0800" stop="20170529120000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529150000 -0400" stop="20170529170000 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
   </programme>
-  <programme start="20170529120000 +0800" stop="20170529123000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529170000 -0400" stop="20170529174500 -0400" channel="GMAPTV">
+    <title lang="en">Destined To Be Yours</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529123000 +0800" stop="20170529130000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+  <programme start="20170529174500 -0400" stop="20170529181500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170529130000 +0800" stop="20170529131500 +0800" channel="CNNPh">
-    <title lang="en">Cebuano News</title>
+  <programme start="20170529181500 -0400" stop="20170529191500 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
   </programme>
-  <programme start="20170529131500 +0800" stop="20170529133000 +0800" channel="CNNPh">
-    <title lang="en">Kapampangan News</title>
+  <programme start="20170529191500 -0400" stop="20170529194500 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
   </programme>
-  <programme start="20170529133000 +0800" stop="20170529140000 +0800" channel="CNNPh">
-    <title lang="en">Drive</title>
+  <programme start="20170529194500 -0400" stop="20170529214500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170529214500 -0400" stop="20170529221500 -0400" channel="GMAPTV">
+    <title lang="en">Saksi</title>
+    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+  </programme>
+  <programme start="20170529221500 -0400" stop="20170529230000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170529230000 -0400" stop="20170529234500 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
+  </programme>
+  <programme start="20170529234500 -0400" stop="20170530003000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170530003000 -0400" stop="20170530010000 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530010000 -0400" stop="20170530013000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170530013000 -0400" stop="20170530034500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170530034500 -0400" stop="20170530041500 -0400" channel="GMAPTV">
+    <title lang="en">D'originals</title>
+    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel(n)</desc>
+  </programme>
+  <programme start="20170530041500 -0400" stop="20170530050000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170530050000 -0400" stop="20170530054500 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530054500 -0400" stop="20170530061500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530061500 -0400" stop="20170530064500 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530064500 -0400" stop="20170530071500 -0400" channel="GMAPTV">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530071500 -0400" stop="20170530091500 -0400" channel="GMAPTV">
+    <title lang="en">Unang Hirit</title>
+    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning(n)</desc>
+  </programme>
+  <programme start="20170530091500 -0400" stop="20170530103000 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+  </programme>
+  <programme start="20170530103000 -0400" stop="20170530113000 -0400" channel="GMAPTV">
+    <title lang="en">24 Oras</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+  </programme>
+  <programme start="20170530113000 -0400" stop="20170530120000 -0400" channel="GMAPTV">
+    <title lang="en">D'originals</title>
+    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel(n)</desc>
+  </programme>
+  <programme start="20170530120000 -0400" stop="20170530123000 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530123000 -0400" stop="20170530130000 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530130000 -0400" stop="20170530133000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170530133000 -0400" stop="20170530140000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530140000 -0400" stop="20170530143000 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
+  </programme>
+  <programme start="20170530143000 -0400" stop="20170530150000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170530150000 -0400" stop="20170530170000 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170530170000 -0400" stop="20170530174500 -0400" channel="GMAPTV">
+    <title lang="en">Hay Bahay!</title>
+    <desc lang="en">A newlywed couple, Yoyo and Batch, buys a lavish house, but, in order to pay off the loan, they rent out few rooms of the property. What will happen in a house full of conflicting characters? Who wins among the tenants? Will Yoyo and Batch achieve harmony and order in their house?(n)</desc>
+  </programme>
+  <programme start="20170530174500 -0400" stop="20170530181500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530181500 -0400" stop="20170530191500 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+  </programme>
+  <programme start="20170530191500 -0400" stop="20170530194500 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170530194500 -0400" stop="20170530214500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170530214500 -0400" stop="20170530221500 -0400" channel="GMAPTV">
+    <title lang="en">Saksi</title>
+    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+  </programme>
+  <programme start="20170530221500 -0400" stop="20170530230000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170530230000 -0400" stop="20170530234500 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
+  </programme>
+  <programme start="20170530234500 -0400" stop="20170531003000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170531003000 -0400" stop="20170531010000 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531010000 -0400" stop="20170531013000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170531013000 -0400" stop="20170531034500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170531034500 -0400" stop="20170531041500 -0400" channel="GMAPTV">
+    <title lang="en">D'originals</title>
+    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel(n)</desc>
+  </programme>
+  <programme start="20170531041500 -0400" stop="20170531050000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170531050000 -0400" stop="20170531054500 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531054500 -0400" stop="20170531061500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531061500 -0400" stop="20170531064500 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531064500 -0400" stop="20170531071500 -0400" channel="GMAPTV">
+    <title lang="en">Imbestigador</title>
+    <desc lang="en">Imbestigador is an investigative show that tackles the issues and inconsistencies in the Philippine government(n)</desc>
+  </programme>
+  <programme start="20170531071500 -0400" stop="20170531091500 -0400" channel="GMAPTV">
+    <title lang="en">Unang Hirit</title>
+    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning(n)</desc>
+  </programme>
+  <programme start="20170531091500 -0400" stop="20170531103000 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+  </programme>
+  <programme start="20170531103000 -0400" stop="20170531113000 -0400" channel="GMAPTV">
+    <title lang="en">24 Oras</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+  </programme>
+  <programme start="20170531113000 -0400" stop="20170531120000 -0400" channel="GMAPTV">
+    <title lang="en">D'originals</title>
+    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel(n)</desc>
+  </programme>
+  <programme start="20170531120000 -0400" stop="20170531123000 -0400" channel="GMAPTV">
+    <title lang="en">Legally Blind</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531123000 -0400" stop="20170531130000 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531130000 -0400" stop="20170531133000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
+  </programme>
+  <programme start="20170531133000 -0400" stop="20170531140000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531140000 -0400" stop="20170531143000 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
+  </programme>
+  <programme start="20170531143000 -0400" stop="20170531150000 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170531150000 -0400" stop="20170531170000 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170531170000 -0400" stop="20170531174500 -0400" channel="GMAPTV">
+    <title lang="en">Daig Kayo Ng Lola Ko</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531174500 -0400" stop="20170531181500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531181500 -0400" stop="20170531191500 -0400" channel="GMAPTV">
+    <title lang="en">Wowowin</title>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+  </programme>
+  <programme start="20170531191500 -0400" stop="20170531194500 -0400" channel="GMAPTV">
+    <title lang="en">Trops</title>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+  </programme>
+  <programme start="20170531194500 -0400" stop="20170531214500 -0400" channel="GMAPTV">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170531214500 -0400" stop="20170531221500 -0400" channel="GMAPTV">
+    <title lang="en">Saksi</title>
+    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+  </programme>
+  <programme start="20170531221500 -0400" stop="20170531230000 -0400" channel="GMAPTV">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20170531230000 -0400" stop="20170531234500 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
+  </programme>
+  <programme start="20170531234500 -0400" stop="20170601003000 -0400" channel="GMAPTV">
+    <title lang="en">Meant To Be</title>
+    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them(n)</desc>
   </programme>
   <programme start="20170529140000 +0800" stop="20170529143000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
@@ -478,12 +749,6 @@
   </programme>
   <programme start="20170529170000 +0800" stop="20170529180000 +0800" channel="CNNPh">
     <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170529180000 +0800" stop="20170529183000 +0800" channel="CNNPh">
-    <title lang="en">Network News Weekend</title>
-  </programme>
-  <programme start="20170529183000 +0800" stop="20170529190000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170529190000 +0800" stop="20170529193000 +0800" channel="CNNPh">
     <title lang="en">Sportsdesk</title>
@@ -598,9 +863,6 @@
   </programme>
   <programme start="20170530170000 +0800" stop="20170530180000 +0800" channel="CNNPh">
     <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170530180000 +0800" stop="20170530183000 +0800" channel="CNNPh">
-    <title lang="en">Network News Weekend</title>
   </programme>
   <programme start="20170530190000 +0800" stop="20170530193000 +0800" channel="CNNPh">
     <title lang="en">Sportsdesk</title>
@@ -740,309 +1002,227 @@
   <programme start="20170531230000 +0800" stop="20170531233000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
   </programme>
-  <programme start="20170529023000 +0000" stop="20170529050000 +0000" channel="TNT">
+  <programme start="20170529023000 -0400" stop="20170529050000 -0400" channel="TNT">
     <title lang="en">The Hulk</title>
     <desc lang="en">Dr Bruce Banner suffers an accident in the middle of a genetic experiment that turns him into a giant green monster when he is angry</desc>
   </programme>
-  <programme start="20170529050000 +0000" stop="20170529060000 +0000" channel="TNT">
+  <programme start="20170529050000 -0400" stop="20170529060000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Soldier of Fortune</sub-title>
     <desc lang="en">Soldier of Fortune. The daring daylight kidnapping of a diamond dealer which results in two murders at the scene uncovers an international dynasty of diamond sales and its links to a foreign civil war</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170529060000 +0000" stop="20170529070000 +0000" channel="TNT">
+  <programme start="20170529060000 -0400" stop="20170529070000 -0400" channel="TNT">
     <title lang="en">Arrow</title>
     <sub-title lang="en">Broken Hearts</sub-title>
     <desc lang="en">Broken Hearts. A heartbroken Cupid returns to Star City and begins killing couples on their wedding day, which prompts Oliver and Felicity to pose as bait</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170529070000 +0000" stop="20170529080000 +0000" channel="TNT">
+  <programme start="20170529070000 -0400" stop="20170529080000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Murphy's Luck</sub-title>
     <desc lang="en">Murphy's Luck. A Darklighter sabotages a woman's daily life, leading her to consider suicide</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529080000 +0000" stop="20170529090000 +0000" channel="TNT">
+  <programme start="20170529080000 -0400" stop="20170529090000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">How to Make a Quilt out of Americans</sub-title>
     <desc lang="en">How to Make a Quilt out of Americans. A group of elderly witches summon a demon to restore their youth but, in return, the demon wants to take the power of the Charmed Ones..</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529090000 +0000" stop="20170529100000 +0000" channel="TNT">
+  <programme start="20170529090000 -0400" stop="20170529100000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Chick Flick</sub-title>
     <desc lang="en">Chick Flick. A warlock brings characters to life from old B-grade horror movies in an attempt to kill the Charmed Ones</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529100000 +0000" stop="20170529130000 +0000" channel="TNT">
+  <programme start="20170529100000 -0400" stop="20170529130000 -0400" channel="TNT">
     <title lang="en">Transformers</title>
     <desc lang="en">Michael Bay's all-action adventure, based on the popular toy. Earth becomes the battleground between the good Transformers (Autobots) and the bad (Decepticons), who are searching for the all-powerful Allspark, which could destroy humanity. Caught up in the middle is Sam Witwicky, whose beaten-up old car turns out to be an Autobot called Bumblebee. The duo hold the key to the battle which rages between the Decepticons and the government forces, led by Sgt Lennox, but can they stop the evil Megatron? Also starring Megan Fox</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/99060.jpg" />
   </programme>
-  <programme start="20170529130000 +0000" stop="20170529163000 +0000" channel="TNT">
+  <programme start="20170529130000 -0400" stop="20170529163000 -0400" channel="TNT">
     <title lang="en">The Hobbit: An Unexpected Journey</title>
     <desc lang="en">Bilbo Baggins, the wizard Gandalf and a group of dwarves go in search of a dragon's treasure, and encounter a series of obstacles over the course of their journey</desc>
   </programme>
-  <programme start="20170529163000 +0000" stop="20170529200000 +0000" channel="TNT">
+  <programme start="20170529163000 -0400" stop="20170529200000 -0400" channel="TNT">
     <title lang="en">The Hobbit: The Desolation of Smaug</title>
     <desc lang="en">Thorin Oakenshield and his mighty band of dwarves, along with Bilbo Baggins and Gandalf, continue their crusade to reclaim Erebor from the dragon Smaug in this fantasy that picks up where the events of "The Hobbit: An Unexpected Journey" left off</desc>
   </programme>
-  <programme start="20170529200000 +0000" stop="20170529230000 +0000" channel="TNT">
+  <programme start="20170529200000 -0400" stop="20170529230000 -0400" channel="TNT">
     <title lang="en">The Hobbit: Battle Of The Five Armies</title>
     <desc lang="en">In the exciting final chapter of "The Hobbit" series, Bilbo Baggins and his traveling companions get caught up in a war that threatens to destroy all of Middle Earth</desc>
   </programme>
-  <programme start="20170529230000 +0000" stop="20170530020000 +0000" channel="TNT">
+  <programme start="20170529230000 -0400" stop="20170530020000 -0400" channel="TNT">
     <title lang="en">Transformers</title>
     <desc lang="en">Michael Bay's all-action adventure, based on the popular toy. Earth becomes the battleground between the good Transformers (Autobots) and the bad (Decepticons), who are searching for the all-powerful Allspark, which could destroy humanity. Caught up in the middle is Sam Witwicky, whose beaten-up old car turns out to be an Autobot called Bumblebee. The duo hold the key to the battle which rages between the Decepticons and the government forces, led by Sgt Lennox, but can they stop the evil Megatron? Also starring Megan Fox</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/99060.jpg" />
   </programme>
-  <programme start="20170530020000 +0000" stop="20170530030000 +0000" channel="TNT">
+  <programme start="20170530020000 -0400" stop="20170530030000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Fluency</sub-title>
     <desc lang="en">Fluency. Fontana and Green are baffled by a series of flu-related deaths until they discover the victims were given bogus vaccines</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170530030000 +0000" stop="20170530040000 +0000" channel="TNT">
+  <programme start="20170530030000 -0400" stop="20170530040000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Obsession</sub-title>
     <desc lang="en">Obsession. A radio-show host is killed and suspicion falls on his attractive widow, who's set to inherit $20 million, and two of the woman's lovers</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170530040000 +0000" stop="20170530050000 +0000" channel="TNT">
+  <programme start="20170530040000 -0400" stop="20170530050000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Possession</sub-title>
     <desc lang="en">Possession. When the lone remaining resident of an upper West Side apartment building is found murdered outside her door, Briscoe and Green attempt to sort through her longstanding battle with the landlord in the hopes of finding a credible suspect</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170530050000 +0000" stop="20170530060000 +0000" channel="TNT">
+  <programme start="20170530050000 -0400" stop="20170530060000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Formerly Famous</sub-title>
     <desc lang="en">Formerly Famous. Gary Busey plays a former singer whose wife is found shot to death blocks from the restaurant where they had just finished dinner. Arthur Cahill: Joe Piscopo. Brad Feldman: Bruce Altman. Peter Vega: David Allen Case. Jason Vega: Nathan J. Wetherington. Briscoe: Jerry Orbach. Green: Jesse L. Martin. McCoy: Sam Waterston</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170530060000 +0000" stop="20170530070000 +0000" channel="TNT">
+  <programme start="20170530060000 -0400" stop="20170530070000 -0400" channel="TNT">
     <title lang="en">Arrow</title>
     <sub-title lang="en">Beacon of Hope</sub-title>
     <desc lang="en">Beacon of Hope. Brie Larvan breaks out of jail and turns up at Palmer Tech threatening to kill everyone unless she gets the bio-chip that is implanted in Felicity's spine. Meanwhile, Oliver looks to a surprising ally to help rescue Felicity, Thea and Donna who are trapped in Palmer Tech with everyone else</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170530070000 +0000" stop="20170530080000 +0000" channel="TNT">
+  <programme start="20170530070000 -0400" stop="20170530080000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Ex Libris</sub-title>
     <desc lang="en">Ex Libris. College student Phoebe (Alyssa Milano) comes to the aid of the ghost of her fellow student Charlene (Rebecca Cross), who was killed because of her master's thesis, which exposed the demon Libris (Scott Lincoln). Elsewhere, Prue (Shannen Doherty) tries to help a grieving father track down his daughter's murderer. And while endeavoring to book the Goo Goo Dolls for the P3 club, Piper (Holly Marie Combs) is rudely informed by Dan (Greg Vaughan) that Leo (Brian Krause) may already be married</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170530080000 +0000" stop="20170530090000 +0000" channel="TNT">
+  <programme start="20170530080000 -0400" stop="20170530090000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Astral Monkey</sub-title>
     <desc lang="en">Astral Monkey. A doctor investigating the sisters' strange talents imbues three monkeys with their abilities, then accidentally receives all their powers at once, which threatens to drive him mad</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170530090000 +0000" stop="20170530100000 +0000" channel="TNT">
+  <programme start="20170530090000 -0400" stop="20170530100000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Apocalypse, Not</sub-title>
     <desc lang="en">Apocalypse, Not. The Charmed Ones find some unlikely allies when Prue gets stuck in a vortex with one of the Horsemen of the Apocalypse, causing the two groups to unite</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170530100000 +0000" stop="20170530110000 +0000" channel="TNT">
+  <programme start="20170530100000 -0400" stop="20170530110000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Thin Lizzie</sub-title>
     <desc lang="en">Thin Lizzie. Sam and Dean investigate a series of murders at a local B&amp;B that also happens to be Lizzie Borden's old home</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170530110000 +0000" stop="20170530120000 +0000" channel="TNT">
+  <programme start="20170530110000 -0400" stop="20170530120000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Our Little World</sub-title>
     <desc lang="en">Our Little World. Castiel seeks Metatron's help to stop the Darkness. However, Metatron is pretty happy with his new life as a freelance videographer for the local news and isn't inclined to help the Winchesters or Castiel. Meanwhile, Crowley loses his hold on Amara</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170530120000 +0000" stop="20170530130000 +0000" channel="TNT">
+  <programme start="20170530120000 -0400" stop="20170530130000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Plush</sub-title>
     <desc lang="en">Plush. Sheriff Donna calls Sam and Dean for help after a horrific murder with supernatural elements occurs in her town. Meanwhile, Sam continues to have visions and asks God for help, which frustrates Dean</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170530130000 +0000" stop="20170530151500 +0000" channel="TNT">
+  <programme start="20170530130000 -0400" stop="20170530151500 -0400" channel="TNT">
     <title lang="en">Jack the Giant Slayer</title>
     <desc lang="en">A young farmhand comes into possession of some magic beans but, when planted, they open up a gateway to a land inhabited by angry giants</desc>
   </programme>
-  <programme start="20170530151500 +0000" stop="20170530180000 +0000" channel="TNT">
+  <programme start="20170530151500 -0400" stop="20170530180000 -0400" channel="TNT">
     <title lang="en">Star Wars Episode V: The Empire Strikes Back</title>
     <desc lang="en">Luke Skywalker takes further Jedi lessons from the venerable Yoda, while Darth Vader continues to pursue his nemesis, in the ice world of Hoth and beyond. Terrific action sequences at the start and imaginative Oedipal encounters at the close make this movie perhaps the best of the Star Wars bunch, or so the real diehards will tell you. Luke comes of age but Han Solo and Princess Leia have their work cut out after Vader's forces, led by the sinister Boba Fett, pursue the Millennium Falcon</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/116352.jpg" />
   </programme>
-  <programme start="20170530180000 +0000" stop="20170530210000 +0000" channel="TNT">
+  <programme start="20170530180000 -0400" stop="20170530210000 -0400" channel="TNT">
     <title lang="en">Star Wars : Return of the Jedi</title>
-    <desc lang="en">The rebels attempt to destroy the second powerful Death Star and Luke Skywalker confronts his father, Darth Vader who demands that he joins the dark side, under orders of the Emperor</desc>
   </programme>
-  <programme start="20170530210000 +0000" stop="20170530220000 +0000" channel="TNT">
+  <programme start="20170530210000 -0400" stop="20170530220000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Eat What You Kill</sub-title>
-    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+    <desc lang="en">Eat What You Kill</desc>
   </programme>
-  <programme start="20170530220000 +0000" stop="20170530230000 +0000" channel="TNT">
+  <programme start="20170530220000 -0400" stop="20170530230000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Eat What You Kill</sub-title>
-    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+    <desc lang="en">Eat What You Kill</desc>
   </programme>
-  <programme start="20170530230000 +0000" stop="20170531000000 +0000" channel="TNT">
+  <programme start="20170530230000 -0400" stop="20170531000000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">The Sixth Man</sub-title>
-    <desc lang="en">The Sixth Man. McCoy and Borgia prosecute a famous basketball player accused of murdering a fan who had been harassing him for some time. They find the star's fingerprints in the victim's apartment, but the evidence linking him to the crime scene is dismissed as inadmissible because the detectives cut corners to find a match on the police database</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+    <desc lang="en">The Sixth Man</desc>
   </programme>
-  <programme start="20170531000000 +0000" stop="20170531010000 +0000" channel="TNT">
+  <programme start="20170531000000 -0400" stop="20170531010000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">License to Kill</sub-title>
-    <desc lang="en">License to Kill. A car chase through Manhattan leaves one man dead and a teenager injured; leading Fontana and Green to discover the victim was being followed after massacring a hunting party. As the man who led the chase is publicly lauded for his brave efforts, McCoy and Borgia make their case that his poor decisions only endangered other lives</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+    <desc lang="en">License to Kill</desc>
   </programme>
-  <programme start="20170531010000 +0000" stop="20170531020000 +0000" channel="TNT">
+  <programme start="20170531010000 -0400" stop="20170531020000 -0400" channel="TNT">
     <title lang="en">The Last Ship</title>
-    <sub-title lang="en">Pilot - Phase Six</sub-title>
-    <desc lang="en">Pilot - Phase Six. The fate of mankind rests on the crew of a lone naval ship when the world is gripped by a deadly virus</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+    <desc lang="en">Pilot - Phase Six</desc>
   </programme>
-  <programme start="20170531020000 +0000" stop="20170531030000 +0000" channel="TNT">
+  <programme start="20170531020000 -0400" stop="20170531030000 -0400" channel="TNT">
     <title lang="en">The Last Ship</title>
-    <sub-title lang="en">Welcome to Gitmo</sub-title>
-    <desc lang="en">Welcome to Gitmo. The crew members arrive at the Guantanamo Bay military base to collect food, fuel and medical supplies. When they come under attack by escaped Gitmo prisoners, they team up with a gruff private contractor to push back against the offensive</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+    <desc lang="en">Welcome to Gitmo</desc>
   </programme>
-  <programme start="20170531030000 +0000" stop="20170531040000 +0000" channel="TNT">
+  <programme start="20170531030000 -0400" stop="20170531040000 -0400" channel="TNT">
     <title lang="en">The Last Ship</title>
-    <sub-title lang="en">Dead Reckoning</sub-title>
-    <desc lang="en">Dead Reckoning. The crew faces a new foe targeting Rachel and her research, leading Chandler to engage in a series of dangerous strategic manoeuvres</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+    <desc lang="en">Dead Reckoning</desc>
   </programme>
-  <programme start="20170531040000 +0000" stop="20170531050000 +0000" channel="TNT">
+  <programme start="20170531040000 -0400" stop="20170531050000 -0400" channel="TNT">
     <title lang="en">The Last Ship</title>
-    <sub-title lang="en">We'll Get There</sub-title>
-    <desc lang="en">We'll Get There. Chandler's leadership is put to the test when the ship's propulsion system is in danger of breaking down, the crew becomes overworked and exhausted, and Dr. Scott could potentially lose all of her research on the virus</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+    <desc lang="en">We'll Get There</desc>
   </programme>
-  <programme start="20170531050000 +0000" stop="20170531060000 +0000" channel="TNT">
+  <programme start="20170531050000 -0400" stop="20170531060000 -0400" channel="TNT">
     <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Myth of Fingerprints</sub-title>
-    <desc lang="en">Myth of Fingerprints. A murder investigation uncovers deliberately faulty forensics in the wrongful conviction of two men 12 years earlier in the case that paved the way for Van Buren's promotion</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+    <desc lang="en">Myth of Fingerprints</desc>
   </programme>
-  <programme start="20170531060000 +0000" stop="20170531070000 +0000" channel="TNT">
+  <programme start="20170531060000 -0400" stop="20170531070000 -0400" channel="TNT">
     <title lang="en">Arrow</title>
-    <sub-title lang="en">Eleven-Fifty-Nine</sub-title>
-    <desc lang="en">Eleven-Fifty-Nine. Oliver and Diggle learn that Merlyn plans to break Darhk out of prison. Meanwhile, Laurel gets a surprising offer and Felicity has a heart to heart talk with Curtis</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
+    <desc lang="en">Eleven-Fifty-Nine</desc>
   </programme>
-  <programme start="20170531070000 +0000" stop="20170531080000 +0000" channel="TNT">
+  <programme start="20170531070000 -0400" stop="20170531080000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
-    <sub-title lang="en">Be Careful What You Witch For</sub-title>
-    <desc lang="en">Be Careful What You Witch For. In Charmed's second-season finale, French Stewart guest stars as a glib genie who offers to grant the most fondly held wishes of the three Halliwell girls. Alas, in each case there is a "catch." Wishing to relive her first love, Prue (Shannen Doherty) regresses into an obnoxious teenager (a sly comment on actress Doherty's prickly reputation on the set of Beverly Hills 90210). Phoebe (Alyssa Milano) wants to have the power of flight, but then can't deal with the consequences. And Piper (Holly Marie Combs) desires nothing more than for Dan (Greg Vaughan) to forget about her and move on with his life -- but in the process of "moving on," Dan rapidly grows older and older before her eyes. Worst of all, Prue is attacked by the Dragon Warlock (Marcus Graham), who is in cahoots with the duplicitous genie-- and the other Halliwell girls are powerless to save their sister from certain death!</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+    <desc lang="en">Be Careful What You Witch For</desc>
   </programme>
-  <programme start="20170531080000 +0000" stop="20170531090000 +0000" channel="TNT">
+  <programme start="20170531080000 -0400" stop="20170531090000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
-    <sub-title lang="en">Honeymoon's Over</sub-title>
-    <desc lang="en">Honeymoon's Over. Barenaked Ladies perform at the sisters' club; Prue and Phoebe capture a demonically possessed killer, only to watch him beat the murder charge in court, due in part to their inability to explain what happened to the murder weapon. Prue: Shannon Doherty. Phoebe: Alyssa Milano. Piper: Holly Marie Combs</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+    <desc lang="en">Honeymoon's Over</desc>
   </programme>
-  <programme start="20170531090000 +0000" stop="20170531100000 +0000" channel="TNT">
+  <programme start="20170531090000 -0400" stop="20170531100000 -0400" channel="TNT">
     <title lang="en">Charmed</title>
-    <sub-title lang="en">Magic Hour</sub-title>
-    <desc lang="en">Magic Hour. The Charmed Ones search for a way to let Piper and Leo marry without angering the whitelighter's celestial superiors, who have promised "unspeakable wrath" if the two wed. Meanwhile, the sisters try to aid a man who is cursed to be an owl for 12 hours a day</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+    <desc lang="en">Magic Hour</desc>
   </programme>
-  <programme start="20170531100000 +0000" stop="20170531110000 +0000" channel="TNT">
+  <programme start="20170531100000 -0400" stop="20170531110000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
-    <sub-title lang="en">Just My Imagination</sub-title>
-    <desc lang="en">Just My Imagination. Sam is shocked when his imaginary childhood friend, Sully, makes an unexpected appearance. Sam tries to understand why he is seeing Sully now. Even more surprising, Dean can see him too</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+    <desc lang="en">Just My Imagination</desc>
   </programme>
-  <programme start="20170531110000 +0000" stop="20170531120000 +0000" channel="TNT">
+  <programme start="20170531110000 -0400" stop="20170531120000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
-    <sub-title lang="en">O Brother Where Art Thou?</sub-title>
-    <desc lang="en">O Brother Where Art Thou?. Amara unleashes her power on local townspeople and issues a shocking challenge. Dean tries to better understand the hold Amara has on him, while Sam and Crowley come up with a plan that could have disastrous consequences</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+    <desc lang="en">O Brother Where Art Thou?</desc>
   </programme>
-  <programme start="20170531120000 +0000" stop="20170531130000 +0000" channel="TNT">
+  <programme start="20170531120000 -0400" stop="20170531130000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
-    <sub-title lang="en">The Devil in the Details</sub-title>
-    <desc lang="en">The Devil in the Details. Lucifer offers Sam a way out of the cage, but it comes with a steep price. Meanwhile, Dean and Castiel look into the angel smiting that could have killed Amara</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+    <desc lang="en">The Devil in the Details</desc>
   </programme>
-  <programme start="20170531130000 +0000" stop="20170531140000 +0000" channel="TNT">
+  <programme start="20170531130000 -0400" stop="20170531140000 -0400" channel="TNT">
     <title lang="en">Supernatural</title>
-    <sub-title lang="en">Into the Mystic</sub-title>
-    <desc lang="en">Into the Mystic. Sam and Dean investigate a case in which people suffer violent deaths after hearing a mysterious song</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+    <desc lang="en">Into the Mystic</desc>
   </programme>
-  <programme start="20170531140000 +0000" stop="20170531150000 +0000" channel="TNT">
+  <programme start="20170531140000 -0400" stop="20170531150000 -0400" channel="TNT">
     <title lang="en">Bones</title>
-    <sub-title lang="en">The Princess and the Pear</sub-title>
-    <desc lang="en">The Princess and the Pear. Agent Perotta (Marisa Coughlan) pitches in when the Jeffersonian team investigates the death of a female science-fiction fan, which leads to a visit to a convention for aficionados of comic books and video games</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
+    <desc lang="en">The Princess and the Pear</desc>
   </programme>
-  <programme start="20170531150000 +0000" stop="20170531173000 +0000" channel="TNT">
+  <programme start="20170531150000 -0400" stop="20170531173000 -0400" channel="TNT">
     <title lang="en">Die Hard With a Vengeance</title>
-    <desc lang="en">Cop John McClane teams with a shop owner to outwit a terrorist who is making him perform a series of dangerous tasks all around Manhattan</desc>
   </programme>
-  <programme start="20170531173000 +0000" stop="20170531200000 +0000" channel="TNT">
+  <programme start="20170531173000 -0400" stop="20170531200000 -0400" channel="TNT">
     <title lang="en">Eagle Eye</title>
-    <desc lang="en">Two strangers become pawns in a diabolical plot and must work together to discover what is really happening while trying to prove that they are not terrorists. Shia LaBeouf ("Disturbia") and Michelle Monaghan star in this taut suspense thriller. Michael Chiklis, Rosario Dawson, Billy Bob Thornton. Directed by D.J. Caruso</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/104704.jpg" />
   </programme>
-  <programme start="20170531200000 +0000" stop="20170531220000 +0000" channel="TNT">
+  <programme start="20170531200000 -0400" stop="20170531220000 -0400" channel="TNT">
     <title lang="en">Rush Hour 2</title>
-    <desc lang="en">Director Brett Ratner is reunited with stars Jackie Chan and Chris Tucker in this all-action sequel. This time, they're on Chan's turf, in China, for a well-earned rest but the murder of US Customs men by one of the most powerful Triad gangsters in Asia sees them back in the thick of things, in the company of femme fatale Zhang Ziyi and secret-service agent Roselyn Sanchez. Some Mandarin/Cantonese with English subtitles</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/101969.jpg" />
   </programme>
-  <programme start="20170531220000 +0000" stop="20170531230000 +0000" channel="TNT">
+  <programme start="20170531220000 -0400" stop="20170531230000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Eat What You Kill</sub-title>
-    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+    <desc lang="en">Eat What You Kill</desc>
   </programme>
-  <programme start="20170531230000 +0000" stop="20170601010000 +0000" channel="TNT">
+  <programme start="20170531230000 -0400" stop="20170601010000 -0400" channel="TNT">
     <title lang="en">Rush Hour</title>
-    <desc lang="en">The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's favourite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/116328.jpg" />
-  </programme>
-  <programme start="20170529000000 +0800" stop="20170529001500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170529001500 +0800" stop="20170529010000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170529010000 +0800" stop="20170529013000 +0800" channel="CGTN">
-    <title lang="zh">Africa Live</title>
-  </programme>
-  <programme start="20170529013000 +0800" stop="20170529020000 +0800" channel="CGTN">
-    <title lang="zh">Faces of Africa</title>
-  </programme>
-  <programme start="20170529020000 +0800" stop="20170529023000 +0800" channel="CGTN">
-    <title lang="zh">Travelogue</title>
-  </programme>
-  <programme start="20170529023000 +0800" stop="20170529030000 +0800" channel="CGTN">
-    <title lang="zh">Talk Africa</title>
-  </programme>
-  <programme start="20170529030000 +0800" stop="20170529033000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170529033000 +0800" stop="20170529040000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170529040000 +0800" stop="20170529041500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170529041500 +0800" stop="20170529050000 +0800" channel="CGTN">
-    <title lang="zh">Crossover</title>
-  </programme>
-  <programme start="20170529050000 +0800" stop="20170529053000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170529053000 +0800" stop="20170529060000 +0800" channel="CGTN">
-    <title lang="zh">New Money</title>
   </programme>
   <programme start="20170529060000 +0800" stop="20170529070000 +0800" channel="CGTN">
     <title lang="zh">Americas Now</title>
@@ -1391,36 +1571,6 @@
   </programme>
   <programme start="20170531233000 +0800" stop="20170601000000 +0800" channel="CGTN">
     <title lang="zh">Culture Express</title>
-  </programme>
-  <programme start="20170529000000 +0800" stop="20170529003000 +0800" channel="Arirang">
-    <title lang="zh">Stylecast</title>
-  </programme>
-  <programme start="20170529003000 +0800" stop="20170529010000 +0800" channel="Arirang">
-    <title lang="zh">Globetrotters</title>
-  </programme>
-  <programme start="20170529010000 +0800" stop="20170529020000 +0800" channel="Arirang">
-    <title lang="zh">Premium Collection</title>
-  </programme>
-  <programme start="20170529020000 +0800" stop="20170529030000 +0800" channel="Arirang">
-    <title lang="zh">Simply K-pop</title>
-  </programme>
-  <programme start="20170529030000 +0800" stop="20170529033000 +0800" channel="Arirang">
-    <title lang="zh">Korea In the Sky</title>
-  </programme>
-  <programme start="20170529033000 +0800" stop="20170529040000 +0800" channel="Arirang">
-    <title lang="zh">Im Live</title>
-  </programme>
-  <programme start="20170529040000 +0800" stop="20170529050000 +0800" channel="Arirang">
-    <title lang="zh">PerformArts Reload</title>
-  </programme>
-  <programme start="20170529050000 +0800" stop="20170529050500 +0800" channel="Arirang">
-    <title lang="zh">ARIRANG NEWS</title>
-  </programme>
-  <programme start="20170529050500 +0800" stop="20170529053000 +0800" channel="Arirang">
-    <title lang="zh">Tour Avatar</title>
-  </programme>
-  <programme start="20170529053000 +0800" stop="20170529060000 +0800" channel="Arirang">
-    <title lang="zh">GLOBAL BUSINESS REPORT</title>
   </programme>
   <programme start="20170529060000 +0800" stop="20170529063000 +0800" channel="Arirang">
     <title lang="zh">ARIRANG NEWS [L]</title>
@@ -1859,78 +2009,6 @@
   </programme>
   <programme start="20170531233000 +0800" stop="20170601000000 +0800" channel="Arirang">
     <title lang="zh">Shaping The Economy</title>
-  </programme>
-  <programme start="20170529000000 +0800" stop="20170529001000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529001000 +0800" stop="20170529002500 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
-  </programme>
-  <programme start="20170529002500 +0800" stop="20170529003000 +0800" channel="NHK">
-    <title lang="zh">Blends</title>
-  </programme>
-  <programme start="20170529003000 +0800" stop="20170529005500 +0800" channel="NHK">
-    <title lang="zh">GRAND SUMO Highlights</title>
-  </programme>
-  <programme start="20170529005500 +0800" stop="20170529010000 +0800" channel="NHK">
-    <title lang="zh">Sumopedia</title>
-  </programme>
-  <programme start="20170529010000 +0800" stop="20170529011000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529011000 +0800" stop="20170529020000 +0800" channel="NHK">
-    <title lang="zh">Relaying the Torch of Peace</title>
-  </programme>
-  <programme start="20170529020000 +0800" stop="20170529021000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529021000 +0800" stop="20170529024000 +0800" channel="NHK">
-    <title lang="zh">NHK WORLD TV Special program</title>
-  </programme>
-  <programme start="20170529024000 +0800" stop="20170529030000 +0800" channel="NHK">
-    <title lang="zh">Wild Hokkaido!</title>
-  </programme>
-  <programme start="20170529030000 +0800" stop="20170529031000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529031000 +0800" stop="20170529034000 +0800" channel="NHK">
-    <title lang="zh">Face To Face</title>
-  </programme>
-  <programme start="20170529034000 +0800" stop="20170529035000 +0800" channel="NHK">
-    <title lang="zh">Dive into UKIYO-E</title>
-  </programme>
-  <programme start="20170529035000 +0800" stop="20170529035500 +0800" channel="NHK">
-    <title lang="zh">Teach me Ninjya Sensei</title>
-  </programme>
-  <programme start="20170529035500 +0800" stop="20170529040000 +0800" channel="NHK">
-    <title lang="zh">BEGIN Japanology mini</title>
-  </programme>
-  <programme start="20170529040000 +0800" stop="20170529041000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529041000 +0800" stop="20170529042500 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
-  </programme>
-  <programme start="20170529042500 +0800" stop="20170529044000 +0800" channel="NHK">
-    <title lang="zh">Inspiring Landscapes</title>
-  </programme>
-  <programme start="20170529044000 +0800" stop="20170529045000 +0800" channel="NHK">
-    <title lang="zh">Satoyama</title>
-  </programme>
-  <programme start="20170529045000 +0800" stop="20170529050000 +0800" channel="NHK">
-    <title lang="zh">Doki Doki! WORLD TV</title>
-  </programme>
-  <programme start="20170529050000 +0800" stop="20170529051000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170529051000 +0800" stop="20170529054000 +0800" channel="NHK">
-    <title lang="zh">J-MELO</title>
-  </programme>
-  <programme start="20170529054000 +0800" stop="20170529054500 +0800" channel="NHK">
-    <title lang="zh">PythagoraSwitch mini</title>
-  </programme>
-  <programme start="20170529054500 +0800" stop="20170529060000 +0800" channel="NHK">
-    <title lang="zh">Japan-easy</title>
   </programme>
   <programme start="20170529060000 +0800" stop="20170529061000 +0800" channel="NHK">
     <title lang="zh">NHK NEWSLINE</title>
@@ -2372,45 +2450,6 @@
   </programme>
   <programme start="20170531232900 +0800" stop="20170601000000 +0800" channel="NHK">
     <title lang="zh">great gear</title>
-  </programme>
-  <programme start="20170529000000 +0800" stop="20170529003000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
-  </programme>
-  <programme start="20170529003000 +0800" stop="20170529003100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170529003100 +0800" stop="20170529010000 +0800" channel="CNA">
-    <title lang="zh">Correspondents Diary</title>
-  </programme>
-  <programme start="20170529010000 +0800" stop="20170529020000 +0800" channel="CNA">
-    <title lang="zh">Being A Child(HD)</title>
-  </programme>
-  <programme start="20170529020000 +0800" stop="20170529023000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
-  </programme>
-  <programme start="20170529023000 +0800" stop="20170529023100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170529023100 +0800" stop="20170529030000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
-  </programme>
-  <programme start="20170529030000 +0800" stop="20170529033000 +0800" channel="CNA">
-    <title lang="zh">SingaporeTonight</title>
-  </programme>
-  <programme start="20170529033000 +0800" stop="20170529040000 +0800" channel="CNA">
-    <title lang="zh">Expensive Eats</title>
-  </programme>
-  <programme start="20170529040000 +0800" stop="20170529043000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
-  </programme>
-  <programme start="20170529043000 +0800" stop="20170529043100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170529043100 +0800" stop="20170529050000 +0800" channel="CNA">
-    <title lang="zh">SportsWorld Weekend</title>
-  </programme>
-  <programme start="20170529050000 +0800" stop="20170529060000 +0800" channel="CNA">
-    <title lang="zh">My World, My Drawings (HD)</title>
   </programme>
   <programme start="20170529060000 +0800" stop="20170529063000 +0800" channel="CNA">
     <title lang="zh">News Now</title>
