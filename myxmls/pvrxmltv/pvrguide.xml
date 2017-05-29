@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HGTVCa">
+    <display-name lang="en">HGTV Canada</display-name>
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
   <channel id="CNNPh">
     <display-name lang="en">CNN Philippines</display-name>
     <url>http://www.cnnphilippines.com</url>
@@ -24,113 +32,365 @@
     <display-name lang="zh">Channel News Asia</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170528000000 +0800" stop="20170528030000 +0800" channel="CNNPh">
-    <title lang="en">Weekend Express</title>
+  <programme start="20170529002500 +0000" stop="20170529010000 +0000" channel="TFC">
+    <title lang="en">I Can Do That</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528030000 +0800" stop="20170528033000 +0800" channel="CNNPh">
-    <title lang="en">Hollywood Express</title>
+  <programme start="20170529010000 +0000" stop="20170529015000 +0000" channel="TFC">
+    <title lang="en">Gandang Gabi Vice</title>
+    <desc lang="en">Talk show hosted by comedian, Vice Ganda features celebrity guests and performers</desc>
   </programme>
-  <programme start="20170528033000 +0800" stop="20170528040000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170529033500 +0000" stop="20170529044000 +0000" channel="TFC">
+    <title lang="en">Rated K</title>
+    <desc lang="en">Human-interest stories and interviews are featured</desc>
   </programme>
-  <programme start="20170528040000 +0800" stop="20170528043000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+  <programme start="20170529044000 +0000" stop="20170529051500 +0000" channel="TFC">
+    <title lang="en">Goin' Bulilit</title>
+    <desc lang="en">A sketch comedy show that features various gags and children in various comic situations</desc>
   </programme>
-  <programme start="20170528043000 +0800" stop="20170528050000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529051500 +0000" stop="20170529054500 +0000" channel="TFC">
+    <title lang="en">Home Sweetie Home</title>
+    <desc lang="en">A situational comedy, about a newly married couple Julie and Romeo and their ways to address the needs of a growing household</desc>
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528053000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529054500 +0000" stop="20170529062500 +0000" channel="TFC">
+    <title lang="en">I Can Do That</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528053000 +0800" stop="20170528060000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170529072500 +0000" stop="20170529075000 +0000" channel="TFC">
+    <title lang="en">Mission Possible</title>
+    <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528063000 +0800" channel="CNNPh">
-    <title lang="en">Hollywood Express</title>
+  <programme start="20170529075000 +0000" stop="20170529094000 +0000" channel="TFC">
+    <title lang="en">Umagang Kay Ganda</title>
+    <desc lang="en">A morning news and lifestyle magazine</desc>
   </programme>
-  <programme start="20170528063000 +0800" stop="20170528070000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+  <programme start="20170529094000 +0000" stop="20170529100500 +0000" channel="TFC">
+    <title lang="en">TNT: Tapatan ni Tunying</title>
+    <desc lang="en">Hosted by Anthony Taberna, the show features interviews with politicians and personalities</desc>
   </programme>
-  <programme start="20170528070000 +0800" stop="20170528090000 +0800" channel="CNNPh">
-    <title lang="en">Weekend Express</title>
+  <programme start="20170529100500 +0000" stop="20170529111500 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528100000 +0800" channel="CNNPh">
-    <title lang="en">TV Healing Mass</title>
+  <programme start="20170529111500 +0000" stop="20170529112500 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170528100000 +0800" stop="20170528103000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+  <programme start="20170529112500 +0000" stop="20170529124500 +0000" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
-  <programme start="20170528103000 +0800" stop="20170528110000 +0800" channel="CNNPh">
-    <title lang="en">Story Of The Filipino</title>
+  <programme start="20170529124500 +0000" stop="20170529150500 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
-  <programme start="20170528110000 +0800" stop="20170528113000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+  <programme start="20170529150500 +0000" stop="20170529153000 +0000" channel="TFC">
+    <title lang="en">TNT: Tapatan ni Tunying</title>
+    <desc lang="en">Hosted by Anthony Taberna, the show features interviews with politicians and personalities</desc>
   </programme>
-  <programme start="20170528113000 +0800" stop="20170528120000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529153000 +0000" stop="20170529154000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170528120000 +0800" stop="20170528123000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529154000 +0000" stop="20170529161500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528123000 +0800" stop="20170528130000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+  <programme start="20170529161500 +0000" stop="20170529165000 +0000" channel="TFC">
+    <title lang="en">The Better Half</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528130000 +0800" stop="20170528133000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+  <programme start="20170529165000 +0000" stop="20170529172500 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528133000 +0800" stop="20170528140000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+  <programme start="20170529172500 +0000" stop="20170529180500 +0000" channel="TFC">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528143000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
+  <programme start="20170529180500 +0000" stop="20170529185000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528143000 +0800" stop="20170528150000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170529185000 +0000" stop="20170529193000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528150000 +0800" stop="20170528153000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170529193000 +0000" stop="20170529201000 +0000" channel="TFC">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170528153000 +0800" stop="20170528160000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+  <programme start="20170529201000 +0000" stop="20170529202000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
-  <programme start="20170528160000 +0800" stop="20170528163000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170529202000 +0000" stop="20170529214000 +0000" channel="TFC">
+    <title lang="en">Tv Patrol Global Edition</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528163000 +0800" stop="20170528170000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+  <programme start="20170529214000 +0000" stop="20170529221000 +0000" channel="TFC">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170528170000 +0800" stop="20170528180000 +0800" channel="CNNPh">
-    <title lang="en">Smerconish</title>
+  <programme start="20170529221000 +0000" stop="20170529230000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528180000 +0800" stop="20170528183000 +0800" channel="CNNPh">
-    <title lang="en">Network News Weekend</title>
+  <programme start="20170529230000 +0000" stop="20170529234000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528183000 +0800" stop="20170528190000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170529234000 +0000" stop="20170530001500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
+  <programme start="20170530001500 +0000" stop="20170530005000 +0000" channel="TFC">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
-  <programme start="20170528193000 +0800" stop="20170528200000 +0800" channel="CNNPh">
-    <title lang="en">Flavors</title>
+  <programme start="20170530005000 +0000" stop="20170530012500 +0000" channel="TFC">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528200000 +0800" stop="20170528210000 +0800" channel="CNNPh">
-    <title lang="en">Stories</title>
+  <programme start="20170530012500 +0000" stop="20170530020000 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528210000 +0800" stop="20170528213000 +0800" channel="CNNPh">
-    <title lang="en">Drive</title>
+  <programme start="20170530020000 +0000" stop="20170530023500 +0000" channel="TFC">
+    <title lang="en">The Better Half</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170528213000 +0800" stop="20170528220000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170530023500 +0000" stop="20170530025500 +0000" channel="TFC">
+    <title lang="en">Tonight With Boy Abunda</title>
+    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
   </programme>
-  <programme start="20170528220000 +0800" stop="20170528223000 +0800" channel="CNNPh">
-    <title lang="en">Political Insider</title>
+  <programme start="20170530025500 +0000" stop="20170530032500 +0000" channel="TFC">
+    <title lang="en">Bandila</title>
+    <desc lang="en">A late-night news program</desc>
   </programme>
-  <programme start="20170528223000 +0800" stop="20170528230000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170530032500 +0000" stop="20170530035500 +0000" channel="TFC">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast</desc>
   </programme>
-  <programme start="20170528230000 +0800" stop="20170528233000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+  <programme start="20170530035500 +0000" stop="20170530050000 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530050000 +0000" stop="20170530053500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530053500 +0000" stop="20170530075000 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
+  </programme>
+  <programme start="20170530075000 +0000" stop="20170530094000 +0000" channel="TFC">
+    <title lang="en">Umagang Kay Ganda</title>
+    <desc lang="en">A morning news and lifestyle magazine</desc>
+  </programme>
+  <programme start="20170530094000 +0000" stop="20170530100500 +0000" channel="TFC">
+    <title lang="en">Mission Possible</title>
+    <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
+  </programme>
+  <programme start="20170530100500 +0000" stop="20170530111500 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530111500 +0000" stop="20170530112500 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170530112500 +0000" stop="20170530124500 +0000" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
+  </programme>
+  <programme start="20170530124500 +0000" stop="20170530150500 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
+  </programme>
+  <programme start="20170530150500 +0000" stop="20170530153000 +0000" channel="TFC">
+    <title lang="en">Mission Possible</title>
+    <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
+  </programme>
+  <programme start="20170530153000 +0000" stop="20170530154000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170530154000 +0000" stop="20170530161500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530161500 +0000" stop="20170530165000 +0000" channel="TFC">
+    <title lang="en">The Better Half</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530165000 +0000" stop="20170530172500 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530172500 +0000" stop="20170530180500 +0000" channel="TFC">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530180500 +0000" stop="20170530185000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530185000 +0000" stop="20170530193000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530193000 +0000" stop="20170530201000 +0000" channel="TFC">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
+  </programme>
+  <programme start="20170530201000 +0000" stop="20170530202000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170530202000 +0000" stop="20170530214000 +0000" channel="TFC">
+    <title lang="en">Tv Patrol Global Edition</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530214000 +0000" stop="20170530221000 +0000" channel="TFC">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast</desc>
+  </programme>
+  <programme start="20170530221000 +0000" stop="20170530230000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530230000 +0000" stop="20170530234000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170530234000 +0000" stop="20170531001500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531001500 +0000" stop="20170531005000 +0000" channel="TFC">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
+  </programme>
+  <programme start="20170531005000 +0000" stop="20170531012500 +0000" channel="TFC">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531012500 +0000" stop="20170531020000 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531020000 +0000" stop="20170531023500 +0000" channel="TFC">
+    <title lang="en">The Better Half</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531023500 +0000" stop="20170531025500 +0000" channel="TFC">
+    <title lang="en">Tonight With Boy Abunda</title>
+    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
+  </programme>
+  <programme start="20170531025500 +0000" stop="20170531032500 +0000" channel="TFC">
+    <title lang="en">Bandila</title>
+    <desc lang="en">A late-night news program</desc>
+  </programme>
+  <programme start="20170531032500 +0000" stop="20170531035500 +0000" channel="TFC">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast</desc>
+  </programme>
+  <programme start="20170531035500 +0000" stop="20170531050000 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531050000 +0000" stop="20170531053500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531053500 +0000" stop="20170531075000 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
+  </programme>
+  <programme start="20170531075000 +0000" stop="20170531094000 +0000" channel="TFC">
+    <title lang="en">Umagang Kay Ganda</title>
+    <desc lang="en">A morning news and lifestyle magazine</desc>
+  </programme>
+  <programme start="20170531094000 +0000" stop="20170531100500 +0000" channel="TFC">
+    <title lang="en">My Puhunan</title>
+    <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
+  </programme>
+  <programme start="20170531100500 +0000" stop="20170531111500 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531111500 +0000" stop="20170531112500 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170531112500 +0000" stop="20170531124500 +0000" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
+  </programme>
+  <programme start="20170531124500 +0000" stop="20170531150500 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
+  </programme>
+  <programme start="20170531150500 +0000" stop="20170531153000 +0000" channel="TFC">
+    <title lang="en">My Puhunan</title>
+    <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
+  </programme>
+  <programme start="20170531153000 +0000" stop="20170531154000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170531154000 +0000" stop="20170531161500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531161500 +0000" stop="20170531165000 +0000" channel="TFC">
+    <title lang="en">The Better Half</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531165000 +0000" stop="20170531172500 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531172500 +0000" stop="20170531180500 +0000" channel="TFC">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531180500 +0000" stop="20170531185000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531185000 +0000" stop="20170531193000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531193000 +0000" stop="20170531201000 +0000" channel="TFC">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
+  </programme>
+  <programme start="20170531201000 +0000" stop="20170531202000 +0000" channel="TFC">
+    <title lang="en">TFC Connect</title>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
+  </programme>
+  <programme start="20170531202000 +0000" stop="20170531214000 +0000" channel="TFC">
+    <title lang="en">Tv Patrol Global Edition</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531214000 +0000" stop="20170531221000 +0000" channel="TFC">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast</desc>
+  </programme>
+  <programme start="20170531221000 +0000" stop="20170531230000 +0000" channel="TFC">
+    <title lang="en">Fpj Ang Probinsyano</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531230000 +0000" stop="20170531234000 +0000" channel="TFC">
+    <title lang="en">My Dear Heart</title>
+    <desc lang="en">No additional information is available</desc>
+  </programme>
+  <programme start="20170531234000 +0000" stop="20170601001500 +0000" channel="TFC">
+    <title lang="en">Ikaw Lang Ang Iibigin</title>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170529000000 +0800" stop="20170529030000 +0800" channel="CNNPh">
     <title lang="en">Weekend Express</title>
@@ -189,32 +449,35 @@
   <programme start="20170529123000 +0800" stop="20170529130000 +0800" channel="CNNPh">
     <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170529130000 +0800" stop="20170529133000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+  <programme start="20170529130000 +0800" stop="20170529131500 +0800" channel="CNNPh">
+    <title lang="en">Cebuano News</title>
+  </programme>
+  <programme start="20170529131500 +0800" stop="20170529133000 +0800" channel="CNNPh">
+    <title lang="en">Kapampangan News</title>
   </programme>
   <programme start="20170529133000 +0800" stop="20170529140000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+    <title lang="en">Drive</title>
   </programme>
   <programme start="20170529140000 +0800" stop="20170529143000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
-  </programme>
-  <programme start="20170529143000 +0800" stop="20170529150000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
-  </programme>
-  <programme start="20170529150000 +0800" stop="20170529153000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
   </programme>
+  <programme start="20170529143000 +0800" stop="20170529150000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170529150000 +0800" stop="20170529153000 +0800" channel="CNNPh">
+    <title lang="en">Global Newsroom</title>
+  </programme>
   <programme start="20170529153000 +0800" stop="20170529160000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+    <title lang="en">Political Insider</title>
   </programme>
   <programme start="20170529160000 +0800" stop="20170529163000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170529163000 +0800" stop="20170529170000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Hollywood Express</title>
   </programme>
   <programme start="20170529170000 +0800" stop="20170529180000 +0800" channel="CNNPh">
-    <title lang="en">Smerconish</title>
+    <title lang="en">The Service Road</title>
   </programme>
   <programme start="20170529180000 +0800" stop="20170529183000 +0800" channel="CNNPh">
     <title lang="en">Network News Weekend</title>
@@ -223,61 +486,64 @@
     <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170529190000 +0800" stop="20170529193000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
+    <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170529193000 +0800" stop="20170529200000 +0800" channel="CNNPh">
-    <title lang="en">Flavors</title>
+    <title lang="en">The Source</title>
   </programme>
   <programme start="20170529200000 +0800" stop="20170529210000 +0800" channel="CNNPh">
     <title lang="en">Stories</title>
   </programme>
   <programme start="20170529210000 +0800" stop="20170529213000 +0800" channel="CNNPh">
-    <title lang="en">Drive</title>
+    <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170529213000 +0800" stop="20170529220000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Boardroom</title>
   </programme>
   <programme start="20170529220000 +0800" stop="20170529223000 +0800" channel="CNNPh">
-    <title lang="en">Political Insider</title>
+    <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170529223000 +0800" stop="20170529230000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170529230000 +0800" stop="20170529233000 +0800" channel="CNNPh">
     <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170530000000 +0800" stop="20170530030000 +0800" channel="CNNPh">
-    <title lang="en">Weekend Express</title>
+  <programme start="20170529230000 +0800" stop="20170529233000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170530030000 +0800" stop="20170530033000 +0800" channel="CNNPh">
+  <programme start="20170530000000 +0800" stop="20170530003000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170530003000 +0800" stop="20170530010000 +0800" channel="CNNPh">
+    <title lang="en">Boardroom</title>
+  </programme>
+  <programme start="20170530010000 +0800" stop="20170530020000 +0800" channel="CNNPh">
+    <title lang="en">At This Hour</title>
+  </programme>
+  <programme start="20170530020000 +0800" stop="20170530023000 +0800" channel="CNNPh">
     <title lang="en">CNN Go</title>
   </programme>
-  <programme start="20170530033000 +0800" stop="20170530040000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170530023000 +0800" stop="20170530030000 +0800" channel="CNNPh">
+    <title lang="en">Business Traveller</title>
   </programme>
-  <programme start="20170530040000 +0800" stop="20170530043000 +0800" channel="CNNPh">
-    <title lang="en">Hollywood Express</title>
-  </programme>
-  <programme start="20170530043000 +0800" stop="20170530050000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+  <programme start="20170530030000 +0800" stop="20170530050000 +0800" channel="CNNPh">
+    <title lang="en">CNN Morning Express</title>
   </programme>
   <programme start="20170530050000 +0800" stop="20170530053000 +0800" channel="CNNPh">
     <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170530053000 +0800" stop="20170530060000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">The Service Road</title>
   </programme>
   <programme start="20170530060000 +0800" stop="20170530073000 +0800" channel="CNNPh">
     <title lang="en">Newday</title>
   </programme>
   <programme start="20170530073000 +0800" stop="20170530080000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+    <title lang="en">Boardroom</title>
   </programme>
   <programme start="20170530080000 +0800" stop="20170530083000 +0800" channel="CNNPh">
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170530083000 +0800" stop="20170530090000 +0800" channel="CNNPh">
-    <title lang="en">Vital Signs</title>
+    <title lang="en">Hollywood Express</title>
   </programme>
   <programme start="20170530090000 +0800" stop="20170530093000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
@@ -286,481 +552,461 @@
     <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170530100000 +0800" stop="20170530103000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+    <title lang="en">Newsroom Tagalog</title>
   </programme>
   <programme start="20170530103000 +0800" stop="20170530110000 +0800" channel="CNNPh">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">The Service Road</title>
   </programme>
   <programme start="20170530110000 +0800" stop="20170530113000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+    <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170530113000 +0800" stop="20170530120000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
+    <title lang="en">News.Ph</title>
   </programme>
   <programme start="20170530120000 +0800" stop="20170530123000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
+    <title lang="en">Balitaan</title>
   </programme>
   <programme start="20170530123000 +0800" stop="20170530130000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+    <title lang="en">Vital Signs</title>
   </programme>
-  <programme start="20170530130000 +0800" stop="20170530133000 +0800" channel="CNNPh">
-    <title lang="en">Harvest</title>
+  <programme start="20170530130000 +0800" stop="20170530131500 +0800" channel="CNNPh">
+    <title lang="en">Cebuano News</title>
+  </programme>
+  <programme start="20170530131500 +0800" stop="20170530133000 +0800" channel="CNNPh">
+    <title lang="en">Kapampangan News</title>
   </programme>
   <programme start="20170530133000 +0800" stop="20170530140000 +0800" channel="CNNPh">
-    <title lang="en">Profiles</title>
+    <title lang="en">Harvest</title>
   </programme>
   <programme start="20170530140000 +0800" stop="20170530143000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
-  </programme>
-  <programme start="20170530143000 +0800" stop="20170530150000 +0800" channel="CNNPh">
-    <title lang="en">Real Talk S3</title>
-  </programme>
-  <programme start="20170530150000 +0800" stop="20170530153000 +0800" channel="CNNPh">
     <title lang="en">The Source</title>
   </programme>
+  <programme start="20170530143000 +0800" stop="20170530150000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170530150000 +0800" stop="20170530153000 +0800" channel="CNNPh">
+    <title lang="en">Global Newsroom</title>
+  </programme>
   <programme start="20170530153000 +0800" stop="20170530160000 +0800" channel="CNNPh">
-    <title lang="en">The Service Road</title>
+    <title lang="en">Political Insider</title>
   </programme>
   <programme start="20170530160000 +0800" stop="20170530163000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170530163000 +0800" stop="20170530170000 +0800" channel="CNNPh">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Hollywood Express</title>
   </programme>
   <programme start="20170530170000 +0800" stop="20170530180000 +0800" channel="CNNPh">
-    <title lang="en">Smerconish</title>
+    <title lang="en">The Service Road</title>
   </programme>
   <programme start="20170530180000 +0800" stop="20170530183000 +0800" channel="CNNPh">
     <title lang="en">Network News Weekend</title>
   </programme>
   <programme start="20170530190000 +0800" stop="20170530193000 +0800" channel="CNNPh">
-    <title lang="en">Leading Women</title>
+    <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170530193000 +0800" stop="20170530200000 +0800" channel="CNNPh">
-    <title lang="en">Flavors</title>
+    <title lang="en">The Source</title>
   </programme>
   <programme start="20170530200000 +0800" stop="20170530210000 +0800" channel="CNNPh">
     <title lang="en">Stories</title>
   </programme>
   <programme start="20170530210000 +0800" stop="20170530213000 +0800" channel="CNNPh">
-    <title lang="en">Drive</title>
+    <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170530213000 +0800" stop="20170530220000 +0800" channel="CNNPh">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Boardroom</title>
   </programme>
   <programme start="20170530220000 +0800" stop="20170530223000 +0800" channel="CNNPh">
-    <title lang="en">Political Insider</title>
+    <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170530223000 +0800" stop="20170530230000 +0800" channel="CNNPh">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170530230000 +0800" stop="20170530233000 +0800" channel="CNNPh">
     <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170527000500 -0400" stop="20170527010500 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">We Don't Hurt People</sub-title>
-    <desc lang="en">We Don't Hurt People. Fallout from a heist impacts the Codys when they discover not all went as planned. Smurf enlists the guys to tie up loose ends, but a deepening rivalry threatens the job. Meanwhile, Pope grows increasingly volatile</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170530230000 +0800" stop="20170530233000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170527010500 -0400" stop="20170527020500 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Stay Close, Stick Together</sub-title>
-    <desc lang="en">Stay Close, Stick Together. Craig recovers from a wound as Baz and Craig sharpen focus on old associates in Mexico. Meanwhile, Pope needs cash and draws Deran and J into a job without Smurf's knowledge, and Deran sends a terrifying message to J</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531000000 +0800" stop="20170531003000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170527020500 -0400" stop="20170527030500 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Dead to Me</sub-title>
-    <desc lang="en">Dead to Me. Pope's birthday approaches as Smurf probes whether the boys are playing by her rules. Meanwhile, J makes discoveries about his mother's estrangement from the family</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531003000 +0800" stop="20170531010000 +0800" channel="CNNPh">
+    <title lang="en">Boardroom</title>
   </programme>
-  <programme start="20170527030500 -0400" stop="20170527040500 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Flesh Is Weak</sub-title>
-    <desc lang="en">Flesh Is Weak. Pope goes to extreme measures when Deran won't return home. Meanwhile, Baz comes up with an idea for Cody's next job; J goes out with his teacher; and Smurf faces her past</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531010000 +0800" stop="20170531020000 +0800" channel="CNNPh">
+    <title lang="en">At This Hour</title>
   </programme>
-  <programme start="20170527040500 -0400" stop="20170527050000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">A Losing Season</sub-title>
-    <desc lang="en">A Losing Season. After a pregnant woman is found wounded in the trunk of a car, the investigation leads to a case involving a basketball star (Kevin Daniels). Hanson: James Rebhorn. Henry Williams: Dorian Missick. Marcus Cole: Michael Kenneth Williams. Miles Hawthorne: Albert Jones. Briscoe: Jerry Orbach. Green: Jesse L. Martin. McCoy: Sam Waterston</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531020000 +0800" stop="20170531023000 +0800" channel="CNNPh">
+    <title lang="en">CNN Go</title>
   </programme>
-  <programme start="20170527050000 -0400" stop="20170527060000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Swept Away - A Very Special Episode</sub-title>
-    <desc lang="en">Swept Away - A Very Special Episode. A cast member in a reality series is killed and the murder is captured on video tape</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531023000 +0800" stop="20170531030000 +0800" channel="CNNPh">
+    <title lang="en">Business Traveller</title>
   </programme>
-  <programme start="20170527060000 -0400" stop="20170527070000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Bronx Cheer</sub-title>
-    <desc lang="en">Bronx Cheer. The strangled body of a woman is found in the Bronx and the trail of clues leads the detectives to a ruthless drug dealer</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531030000 +0800" stop="20170531050000 +0800" channel="CNNPh">
+    <title lang="en">CNN Morning Express</title>
   </programme>
-  <programme start="20170527070000 -0400" stop="20170527080000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Ego</sub-title>
-    <desc lang="en">Ego. An investigator with the State Attorney General's Office is found dead in the Manhattan river, leading Detectives Briscoe and Green into a web of high level intrigue</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531050000 +0800" stop="20170531053000 +0800" channel="CNNPh">
+    <title lang="en">Real Talk S3</title>
   </programme>
-  <programme start="20170527080000 -0400" stop="20170527090000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">White Lie</sub-title>
-    <desc lang="en">White Lie. Two people are found dead, and the subsequent investigation quickly segues from murder to drugs. At the center of the drama is Caryn Wyman (Charlotte D'amboise), the wife of a U.S. Army major heavily committed to an anti-drug campaign in Colombia. But Caryn refuses to cooperate with the D.A.'s office until McCoy (Sam Waterston) backs her into a potentially fatal corner</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531053000 +0800" stop="20170531060000 +0800" channel="CNNPh">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170527090000 -0400" stop="20170527100000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Whiplash</sub-title>
-    <desc lang="en">Whiplash. Two personal injury attorneys go on trial, accused of masterminding an insurance fraud scam involving staged rear-end automobile accidents</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531060000 +0800" stop="20170531073000 +0800" channel="CNNPh">
+    <title lang="en">Newday</title>
   </programme>
-  <programme start="20170527100000 -0400" stop="20170527110000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">All My Children</sub-title>
-    <desc lang="en">All My Children. After a pupil at an exclusive private school is murdered, the detectives uncover an extortion plot</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531073000 +0800" stop="20170531080000 +0800" channel="CNNPh">
+    <title lang="en">Boardroom</title>
   </programme>
-  <programme start="20170527110000 -0400" stop="20170527120000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Brother's Keeper</sub-title>
-    <desc lang="en">Brother's Keeper. A criminal well known to detectives Briscoe (Jerry Orbach) and Green (Jesse L. Martin) may have been responsible for the murder of a businessman. Unfortunately, the investigation is impeded by the FBI, who insist upon shielding the prime suspect. Without giving away the outcome, it can be noted that one of the guest actors plays a dual role</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531080000 +0800" stop="20170531083000 +0800" channel="CNNPh">
+    <title lang="en">Newsroom</title>
   </programme>
-  <programme start="20170527120000 -0400" stop="20170527130000 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Child Care</sub-title>
-    <desc lang="en">Child Care. Smurf does what's needed to keep the family intact when Pope tests positive for drugs. Also, Baz assembles his brothers to rob a home as part of his larger scheme, and J faces a moral dilemma</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531083000 +0800" stop="20170531090000 +0800" channel="CNNPh">
+    <title lang="en">Hollywood Express</title>
   </programme>
-  <programme start="20170527130000 -0400" stop="20170527140000 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">G**damn Animals</sub-title>
-    <desc lang="en">G**damn Animals. Craig and Deran throw a party as Smurf handles unfinished business. Meanwhile, Baz is forced to accelerate his timetable as he finalizes his big scheme, and J makes a perilous error</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531090000 +0800" stop="20170531093000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170527140000 -0400" stop="20170527150000 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Man In</sub-title>
-    <desc lang="en">Man In. Tensions soar as the Codys prepare for their big heist. Also, Catherine gets a shock and must make a big family decision, and the police put pressure on J</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531093000 +0800" stop="20170531100000 +0800" channel="CNNPh">
+    <title lang="en">Real Talk S3</title>
   </programme>
-  <programme start="20170527150000 -0400" stop="20170527160000 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">Judas Kiss</sub-title>
-    <desc lang="en">Judas Kiss. The Codys aim for the biggest score of their lives as the cops put J in an impossible position. Meanwhile, Catherine arrives to make amends, raising Smurf's suspicions in the process, and Pope is enlisted to investigate</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531100000 +0800" stop="20170531103000 +0800" channel="CNNPh">
+    <title lang="en">Newsroom Tagalog</title>
   </programme>
-  <programme start="20170527160000 -0400" stop="20170527170000 -0400" channel="TNT">
-    <title lang="en">Animal Kingdom</title>
-    <sub-title lang="en">What Have You Done</sub-title>
-    <desc lang="en">What Have You Done. Baz is perplexed by Catherine's vanishing and tracks all leads in the Season 1 finale. Also: Authorities close in on the Codys, with J caught in the middle</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
+  <programme start="20170531103000 +0800" stop="20170531110000 +0800" channel="CNNPh">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170527170000 -0400" stop="20170527200000 -0400" channel="TNT">
-    <title lang="en">Pacific Rim</title>
-    <desc lang="en">When humans look like losing the war against giant aliens from beneath the sea, Commander Stacker Pentecost sends two misfit fighters out to man the massive American robot that stands between life and total annihilation. Joining forces with bots from across the globe, Raleigh Becket and Mako Mori face the aliens head-on in a crushing fight to the death. Action</desc>
+  <programme start="20170531110000 +0800" stop="20170531113000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170527200000 -0400" stop="20170527200000 -0400" channel="TNT">
-    <title lang="en">Django Unchained</title>
-    <desc lang="en">A former slave-turned-hired gun teams up with a German bounty hunter in order to free his wife from a tyrannical plantation owner. However, their mission is complicated by the plantation's traitorous house slave</desc>
+  <programme start="20170531113000 +0800" stop="20170531120000 +0800" channel="CNNPh">
+    <title lang="en">News.Ph</title>
   </programme>
-  <programme start="20170527200000 -0400" stop="20170527203000 -0400" channel="TNT">
-    <title lang="en">NBA Tip-Off</title>
-    <desc lang="en">NBA playoffs discussion, with pre-game analysis and features</desc>
+  <programme start="20170531120000 +0800" stop="20170531123000 +0800" channel="CNNPh">
+    <title lang="en">Balitaan</title>
   </programme>
-  <programme start="20170527203000 -0400" stop="20170527203000 -0400" channel="TNT">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">To be announced</desc>
+  <programme start="20170531123000 +0800" stop="20170531130000 +0800" channel="CNNPh">
+    <title lang="en">Vital Signs</title>
   </programme>
-  <programme start="20170527203000 -0400" stop="20170527230000 -0400" channel="TNT">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 6: Celtics at Cavaliers</sub-title>
-    <desc lang="en">Game 6: Celtics at Cavaliers. Boston at Cleveland in Game 6 (if necessary) of the Eastern Conference finals</desc>
+  <programme start="20170531130000 +0800" stop="20170531131500 +0800" channel="CNNPh">
+    <title lang="en">Cebuano News</title>
   </programme>
-  <programme start="20170527230000 -0400" stop="20170528000000 -0400" channel="TNT">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Pro-basketball highlights and analysis, with spirited banter among the cast of former players</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/33986.jpg" />
+  <programme start="20170531131500 +0800" stop="20170531133000 +0800" channel="CNNPh">
+    <title lang="en">Kapampangan News</title>
   </programme>
-  <programme start="20170528000000 -0400" stop="20170528004500 -0400" channel="TNT">
-    <title lang="en">American Race</title>
-    <sub-title lang="en">Baltimore Rising</sub-title>
-    <desc lang="en">Baltimore Rising. Host Charles Barkley visits Baltimore to explore police and race relations in the premiere of this four-part series in which Barkley takes a journey across the country to examine race and division in America</desc>
+  <programme start="20170531133000 +0800" stop="20170531140000 +0800" channel="CNNPh">
+    <title lang="en">Harvest</title>
   </programme>
-  <programme start="20170528004500 -0400" stop="20170528024500 -0400" channel="TNT">
-    <title lang="en">Red Eye</title>
-    <desc lang="en">Terror rides the night skies in this thriller from horror auteur Wes Craven. Lisa Reisert (Rachel McAdams) is a young woman with more than her share of anxieties about flying. However, when circumstances demand she go to Miami, she gathers her nerves and books a seat on a late-night flight. Sitting next to her is a handsome and charming man named Jackson (Cillian Murphy), whom she already met in the airport, but once their jet is safely in the air, Lisa discovers he's not the pleasant traveling companion she imagined. Jackson is part of a terrorist cell plotting to kill the head of Homeland Security, and he's decided to draft Lisa into helping him. While Lisa has no interest in abetting Jackson's plan, he soon reveals he's holding a trump card -- his compatriots are holding Lisa's father hostage, and will kill him if she doesn't cooperate. Red Eye was the first feature film credit for screenwriter Carl Ellsworth, who previously scripted episodes of Buffy the Vampire Slayer and Xena: Warrior Princess(c)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/177859.jpg" />
+  <programme start="20170531140000 +0800" stop="20170531143000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170528024500 -0400" stop="20170528034500 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Ain't No Love</sub-title>
-    <desc lang="en">Ain't No Love. The show follows a crime from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court(c)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531143000 +0800" stop="20170531150000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170528034500 -0400" stop="20170528044500 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Immortal</sub-title>
-    <desc lang="en">Immortal. A stabbing victim dies after being left at a hospital, and the investigation exposes an exploited family(c)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531150000 +0800" stop="20170531153000 +0800" channel="CNNPh">
+    <title lang="en">Global Newsroom</title>
   </programme>
-  <programme start="20170528044500 -0400" stop="20170528054500 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Challenged</sub-title>
-    <desc lang="en">Challenged. In the first half of the show the detectives work to find the criminals. In the second half the district attorneys work to put them away(c)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531153000 +0800" stop="20170531160000 +0800" channel="CNNPh">
+    <title lang="en">Political Insider</title>
   </programme>
-  <programme start="20170528054500 -0400" stop="20170528060000 -0400" channel="TNT">
-    <title lang="en">TNT Network Preview</title>
-    <desc lang="en">A backstage peek at TNT's original shows(c)</desc>
+  <programme start="20170531160000 +0800" stop="20170531163000 +0800" channel="CNNPh">
+    <title lang="en">Real Talk S3</title>
   </programme>
-  <programme start="20170528060000 -0400" stop="20170528070000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">School Daze</sub-title>
-    <desc lang="en">School Daze. Carey Lowell returns as Jamie Ross to defend a student accused of killing four and wounding 12 others at a high school. Henry Semple: Timmy Reifsnyder. Bill Semple: Robert Emmet Lunney. Patricia Semple: Mia Dillon. Judge: Doris Belack. Briscoe: Jerry Orbach. Carmichael: Angie Harmon. McCoy: Sam Waterston</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531163000 +0800" stop="20170531170000 +0800" channel="CNNPh">
+    <title lang="en">Hollywood Express</title>
   </programme>
-  <programme start="20170528070000 -0400" stop="20170528080000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Judge Dread</sub-title>
-    <desc lang="en">Judge Dread. An accountant goes on trial after being charged with ordering a hit on the hard-as-nails judge who imposed an unusually harsh prison sentence on him just to send a message</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531170000 +0800" stop="20170531180000 +0800" channel="CNNPh">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170528080000 -0400" stop="20170528090000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Deep Vote</sub-title>
-    <desc lang="en">Deep Vote. Jack tries to prove that a state senator and a mobster conspired to kill a journalist investigating voting irregularities. But connecting the dots is difficult without cooperation from the journalist's confidential source</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531190000 +0800" stop="20170531193000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170528090000 -0400" stop="20170528100000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Who Let the Dogs Out?</sub-title>
-    <desc lang="en">Who Let the Dogs Out?. In the season premiere, Police search for the owner of a vicious pit bull that killed a teacher and her terrier</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531193000 +0800" stop="20170531200000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170528100000 -0400" stop="20170528110000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Armed Forces</sub-title>
-    <desc lang="en">Armed Forces. When a shoe-shine man is killed, he is revealed to be a Vietnam war veteran who was trying to return the Bronze Star he had been awarded</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531200000 +0800" stop="20170531210000 +0800" channel="CNNPh">
+    <title lang="en">Stories</title>
   </programme>
-  <programme start="20170528110000 -0400" stop="20170528120000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">For Love or Money</sub-title>
-    <desc lang="en">For Love or Money. The death of a parolee, who was a hit man, leads to a wealthy widow and daughter who may have hired him to kill their rich relative</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170531210000 +0800" stop="20170531213000 +0800" channel="CNNPh">
+    <title lang="en">Newsroom</title>
   </programme>
-  <programme start="20170528120000 -0400" stop="20170528140000 -0400" channel="TNT">
-    <title lang="en">The Time Machine</title>
-    <desc lang="en">Sci-fi fantasy adventure, based on the novel of the same name by HG Wells, in which a 19th-century scientist builds a time machine in an attempt to prevent the murder of his fiancee. But when he is sent 800,000 years into the future, he finds the world a very different place</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/117967.jpg" />
+  <programme start="20170531213000 +0800" stop="20170531220000 +0800" channel="CNNPh">
+    <title lang="en">Boardroom</title>
   </programme>
-  <programme start="20170528140000 -0400" stop="20170528163000 -0400" channel="TNT">
+  <programme start="20170531220000 +0800" stop="20170531223000 +0800" channel="CNNPh">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170531223000 +0800" stop="20170531230000 +0800" channel="CNNPh">
+    <title lang="en">The Service Road</title>
+  </programme>
+  <programme start="20170531230000 +0800" stop="20170531233000 +0800" channel="CNNPh">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20170529023000 +0000" stop="20170529050000 +0000" channel="TNT">
     <title lang="en">The Hulk</title>
     <desc lang="en">Dr Bruce Banner suffers an accident in the middle of a genetic experiment that turns him into a giant green monster when he is angry</desc>
   </programme>
-  <programme start="20170528163000 -0400" stop="20170528200000 -0400" channel="TNT">
-    <title lang="en">Superman Returns</title>
-    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/102153.jpg" />
-  </programme>
-  <programme start="20170528200000 -0400" stop="20170528230000 -0400" channel="TNT">
-    <title lang="en">Man of Steel</title>
-    <desc lang="en">After being sent to Earth from planet Krypton by his parents with a special object from his home planet in tow, Clark Kent grows up with the help of his earthly adopted parents and later assumes the identity of Superman and sets out to defend Earth from the villainous General Zod</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/151392.jpg" />
-  </programme>
-  <programme start="20170528230000 -0400" stop="20170529023000 -0400" channel="TNT">
-    <title lang="en">Superman Returns</title>
-    <desc lang="en">The Man of Steel has been missing in action for five years, but upon his reappearance in Metropolis he discovers that he is needed more than ever to battle villainous Lex Luthor and his world-domination plans</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/102153.jpg" />
-  </programme>
-  <programme start="20170529023000 -0400" stop="20170529050000 -0400" channel="TNT">
-    <title lang="en">The Hulk</title>
-    <desc lang="en">Dr Bruce Banner suffers an accident in the middle of a genetic experiment that turns him into a giant green monster when he is angry</desc>
-  </programme>
-  <programme start="20170529050000 -0400" stop="20170529060000 -0400" channel="TNT">
+  <programme start="20170529050000 +0000" stop="20170529060000 +0000" channel="TNT">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Soldier of Fortune</sub-title>
     <desc lang="en">Soldier of Fortune. The daring daylight kidnapping of a diamond dealer which results in two murders at the scene uncovers an international dynasty of diamond sales and its links to a foreign civil war</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170529060000 -0400" stop="20170529070000 -0400" channel="TNT">
+  <programme start="20170529060000 +0000" stop="20170529070000 +0000" channel="TNT">
     <title lang="en">Arrow</title>
     <sub-title lang="en">Broken Hearts</sub-title>
     <desc lang="en">Broken Hearts. A heartbroken Cupid returns to Star City and begins killing couples on their wedding day, which prompts Oliver and Felicity to pose as bait</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170529070000 -0400" stop="20170529080000 -0400" channel="TNT">
+  <programme start="20170529070000 +0000" stop="20170529080000 +0000" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Murphy's Luck</sub-title>
     <desc lang="en">Murphy's Luck. A Darklighter sabotages a woman's daily life, leading her to consider suicide</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529080000 -0400" stop="20170529090000 -0400" channel="TNT">
+  <programme start="20170529080000 +0000" stop="20170529090000 +0000" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">How to Make a Quilt out of Americans</sub-title>
     <desc lang="en">How to Make a Quilt out of Americans. A group of elderly witches summon a demon to restore their youth but, in return, the demon wants to take the power of the Charmed Ones..</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529090000 -0400" stop="20170529100000 -0400" channel="TNT">
+  <programme start="20170529090000 +0000" stop="20170529100000 +0000" channel="TNT">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Chick Flick</sub-title>
     <desc lang="en">Chick Flick. A warlock brings characters to life from old B-grade horror movies in an attempt to kill the Charmed Ones</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170529100000 -0400" stop="20170529130000 -0400" channel="TNT">
+  <programme start="20170529100000 +0000" stop="20170529130000 +0000" channel="TNT">
     <title lang="en">Transformers</title>
     <desc lang="en">Michael Bay's all-action adventure, based on the popular toy. Earth becomes the battleground between the good Transformers (Autobots) and the bad (Decepticons), who are searching for the all-powerful Allspark, which could destroy humanity. Caught up in the middle is Sam Witwicky, whose beaten-up old car turns out to be an Autobot called Bumblebee. The duo hold the key to the battle which rages between the Decepticons and the government forces, led by Sgt Lennox, but can they stop the evil Megatron? Also starring Megan Fox</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/99060.jpg" />
   </programme>
-  <programme start="20170529130000 -0400" stop="20170529163000 -0400" channel="TNT">
+  <programme start="20170529130000 +0000" stop="20170529163000 +0000" channel="TNT">
     <title lang="en">The Hobbit: An Unexpected Journey</title>
     <desc lang="en">Bilbo Baggins, the wizard Gandalf and a group of dwarves go in search of a dragon's treasure, and encounter a series of obstacles over the course of their journey</desc>
   </programme>
-  <programme start="20170529163000 -0400" stop="20170529200000 -0400" channel="TNT">
+  <programme start="20170529163000 +0000" stop="20170529200000 +0000" channel="TNT">
     <title lang="en">The Hobbit: The Desolation of Smaug</title>
     <desc lang="en">Thorin Oakenshield and his mighty band of dwarves, along with Bilbo Baggins and Gandalf, continue their crusade to reclaim Erebor from the dragon Smaug in this fantasy that picks up where the events of "The Hobbit: An Unexpected Journey" left off</desc>
   </programme>
-  <programme start="20170529200000 -0400" stop="20170529230000 -0400" channel="TNT">
+  <programme start="20170529200000 +0000" stop="20170529230000 +0000" channel="TNT">
     <title lang="en">The Hobbit: Battle Of The Five Armies</title>
-    <desc lang="en">In the exciting final chapter of "The Hobbit" series, Bilbo Baggins and his traveling companions get caught up in a war that threatens to destroy all of Middle Earth(c)</desc>
+    <desc lang="en">In the exciting final chapter of "The Hobbit" series, Bilbo Baggins and his traveling companions get caught up in a war that threatens to destroy all of Middle Earth</desc>
   </programme>
-  <programme start="20170529230000 -0400" stop="20170530020000 -0400" channel="TNT">
+  <programme start="20170529230000 +0000" stop="20170530020000 +0000" channel="TNT">
     <title lang="en">Transformers</title>
-    <desc lang="en">Michael Bay's all-action adventure, based on the popular toy. Earth becomes the battleground between the good Transformers (Autobots) and the bad (Decepticons), who are searching for the all-powerful Allspark, which could destroy humanity. Caught up in the middle is Sam Witwicky, whose beaten-up old car turns out to be an Autobot called Bumblebee. The duo hold the key to the battle which rages between the Decepticons and the government forces, led by Sgt Lennox, but can they stop the evil Megatron? Also starring Megan Fox(c)</desc>
+    <desc lang="en">Michael Bay's all-action adventure, based on the popular toy. Earth becomes the battleground between the good Transformers (Autobots) and the bad (Decepticons), who are searching for the all-powerful Allspark, which could destroy humanity. Caught up in the middle is Sam Witwicky, whose beaten-up old car turns out to be an Autobot called Bumblebee. The duo hold the key to the battle which rages between the Decepticons and the government forces, led by Sgt Lennox, but can they stop the evil Megatron? Also starring Megan Fox</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/99060.jpg" />
   </programme>
-  <programme start="20170528000000 +0800" stop="20170528001500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530020000 +0000" stop="20170530030000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Fluency</sub-title>
+    <desc lang="en">Fluency. Fontana and Green are baffled by a series of flu-related deaths until they discover the victims were given bogus vaccines</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528001500 +0800" stop="20170528010000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
+  <programme start="20170530030000 +0000" stop="20170530040000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Obsession</sub-title>
+    <desc lang="en">Obsession. A radio-show host is killed and suspicion falls on his attractive widow, who's set to inherit $20 million, and two of the woman's lovers</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528010000 +0800" stop="20170528013000 +0800" channel="CGTN">
-    <title lang="zh">Africa Live</title>
+  <programme start="20170530040000 +0000" stop="20170530050000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Possession</sub-title>
+    <desc lang="en">Possession. When the lone remaining resident of an upper West Side apartment building is found murdered outside her door, Briscoe and Green attempt to sort through her longstanding battle with the landlord in the hopes of finding a credible suspect</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528013000 +0800" stop="20170528020000 +0800" channel="CGTN">
-    <title lang="zh">Talk Africa</title>
+  <programme start="20170530050000 +0000" stop="20170530060000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Formerly Famous</sub-title>
+    <desc lang="en">Formerly Famous. Gary Busey plays a former singer whose wife is found shot to death blocks from the restaurant where they had just finished dinner. Arthur Cahill: Joe Piscopo. Brad Feldman: Bruce Altman. Peter Vega: David Allen Case. Jason Vega: Nathan J. Wetherington. Briscoe: Jerry Orbach. Green: Jesse L. Martin. McCoy: Sam Waterston</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528020000 +0800" stop="20170528023000 +0800" channel="CGTN">
-    <title lang="zh">Match Point</title>
+  <programme start="20170530060000 +0000" stop="20170530070000 +0000" channel="TNT">
+    <title lang="en">Arrow</title>
+    <sub-title lang="en">Beacon of Hope</sub-title>
+    <desc lang="en">Beacon of Hope. Brie Larvan breaks out of jail and turns up at Palmer Tech threatening to kill everyone unless she gets the bio-chip that is implanted in Felicity's spine. Meanwhile, Oliver looks to a surprising ally to help rescue Felicity, Thea and Donna who are trapped in Palmer Tech with everyone else</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170528023000 +0800" stop="20170528030000 +0800" channel="CGTN">
-    <title lang="zh">Icon</title>
+  <programme start="20170530070000 +0000" stop="20170530080000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Ex Libris</sub-title>
+    <desc lang="en">Ex Libris. College student Phoebe (Alyssa Milano) comes to the aid of the ghost of her fellow student Charlene (Rebecca Cross), who was killed because of her master's thesis, which exposed the demon Libris (Scott Lincoln). Elsewhere, Prue (Shannen Doherty) tries to help a grieving father track down his daughter's murderer. And while endeavoring to book the Goo Goo Dolls for the P3 club, Piper (Holly Marie Combs) is rudely informed by Dan (Greg Vaughan) that Leo (Brian Krause) may already be married</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528030000 +0800" stop="20170528033000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530080000 +0000" stop="20170530090000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Astral Monkey</sub-title>
+    <desc lang="en">Astral Monkey. A doctor investigating the sisters' strange talents imbues three monkeys with their abilities, then accidentally receives all their powers at once, which threatens to drive him mad</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528033000 +0800" stop="20170528040000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
+  <programme start="20170530090000 +0000" stop="20170530100000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Apocalypse, Not</sub-title>
+    <desc lang="en">Apocalypse, Not. The Charmed Ones find some unlikely allies when Prue gets stuck in a vortex with one of the Horsemen of the Apocalypse, causing the two groups to unite</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528040000 +0800" stop="20170528041500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530100000 +0000" stop="20170530110000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Thin Lizzie</sub-title>
+    <desc lang="en">Thin Lizzie. Sam and Dean investigate a series of murders at a local B&amp;B that also happens to be Lizzie Borden's old home</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528041500 +0800" stop="20170528050000 +0800" channel="CGTN">
-    <title lang="zh">Crossover</title>
+  <programme start="20170530110000 +0000" stop="20170530120000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Our Little World</sub-title>
+    <desc lang="en">Our Little World. Castiel seeks Metatron's help to stop the Darkness. However, Metatron is pretty happy with his new life as a freelance videographer for the local news and isn't inclined to help the Winchesters or Castiel. Meanwhile, Crowley loses his hold on Amara</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528053000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530120000 +0000" stop="20170530130000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Plush</sub-title>
+    <desc lang="en">Plush. Sheriff Donna calls Sam and Dean for help after a horrific murder with supernatural elements occurs in her town. Meanwhile, Sam continues to have visions and asks God for help, which frustrates Dean</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528053000 +0800" stop="20170528060000 +0800" channel="CGTN">
-    <title lang="zh">Assignment Asia</title>
+  <programme start="20170530130000 +0000" stop="20170530151500 +0000" channel="TNT">
+    <title lang="en">Jack the Giant Slayer</title>
+    <desc lang="en">A young farmhand comes into possession of some magic beans but, when planted, they open up a gateway to a land inhabited by angry giants</desc>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528070000 +0800" channel="CGTN">
-    <title lang="zh">Full Frame</title>
+  <programme start="20170530151500 +0000" stop="20170530180000 +0000" channel="TNT">
+    <title lang="en">Star Wars Episode V: The Empire Strikes Back</title>
+    <desc lang="en">Luke Skywalker takes further Jedi lessons from the venerable Yoda, while Darth Vader continues to pursue his nemesis, in the ice world of Hoth and beyond. Terrific action sequences at the start and imaginative Oedipal encounters at the close make this movie perhaps the best of the Star Wars bunch, or so the real diehards will tell you. Luke comes of age but Han Solo and Princess Leia have their work cut out after Vader's forces, led by the sinister Boba Fett, pursue the Millennium Falcon</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/116352.jpg" />
   </programme>
-  <programme start="20170528070000 +0800" stop="20170528073000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530180000 +0000" stop="20170530210000 +0000" channel="TNT">
+    <title lang="en">Star Wars : Return of the Jedi</title>
+    <desc lang="en">The rebels attempt to destroy the second powerful Death Star and Luke Skywalker confronts his father, Darth Vader who demands that he joins the dark side, under orders of the Emperor</desc>
   </programme>
-  <programme start="20170528073000 +0800" stop="20170528080000 +0800" channel="CGTN">
-    <title lang="zh">Travelogue</title>
+  <programme start="20170530210000 +0000" stop="20170530220000 +0000" channel="TNT">
+    <title lang="en">Animal Kingdom</title>
+    <sub-title lang="en">Eat What You Kill</sub-title>
+    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
-  <programme start="20170528080000 +0800" stop="20170528083000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170530220000 +0000" stop="20170530230000 +0000" channel="TNT">
+    <title lang="en">Animal Kingdom</title>
+    <sub-title lang="en">Eat What You Kill</sub-title>
+    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
-  <programme start="20170528083000 +0800" stop="20170528090000 +0800" channel="CGTN">
-    <title lang="zh">Closer to China with Robert Kuhn</title>
+  <programme start="20170530230000 +0000" stop="20170531000000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">The Sixth Man</sub-title>
+    <desc lang="en">The Sixth Man. McCoy and Borgia prosecute a famous basketball player accused of murdering a fan who had been harassing him for some time. They find the star's fingerprints in the victim's apartment, but the evidence linking him to the crime scene is dismissed as inadmissible because the detectives cut corners to find a match on the police database</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528100000 +0800" channel="CGTN">
-    <title lang="zh">Big Story</title>
+  <programme start="20170531000000 +0000" stop="20170531010000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">License to Kill</sub-title>
+    <desc lang="en">License to Kill. A car chase through Manhattan leaves one man dead and a teenager injured; leading Fontana and Green to discover the victim was being followed after massacring a hunting party. As the man who led the chase is publicly lauded for his brave efforts, McCoy and Borgia make their case that his poor decisions only endangered other lives</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528100000 +0800" stop="20170528103000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531010000 +0000" stop="20170531020000 +0000" channel="TNT">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Pilot - Phase Six</sub-title>
+    <desc lang="en">Pilot - Phase Six. The fate of mankind rests on the crew of a lone naval ship when the world is gripped by a deadly virus</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170528103000 +0800" stop="20170528110000 +0800" channel="CGTN">
-    <title lang="zh">Rediscovering China</title>
+  <programme start="20170531020000 +0000" stop="20170531030000 +0000" channel="TNT">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Welcome to Gitmo</sub-title>
+    <desc lang="en">Welcome to Gitmo. The crew members arrive at the Guantanamo Bay military base to collect food, fuel and medical supplies. When they come under attack by escaped Gitmo prisoners, they team up with a gruff private contractor to push back against the offensive</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170528110000 +0800" stop="20170528111500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531030000 +0000" stop="20170531040000 +0000" channel="TNT">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Dead Reckoning</sub-title>
+    <desc lang="en">Dead Reckoning. The crew faces a new foe targeting Rachel and her research, leading Chandler to engage in a series of dangerous strategic manoeuvres</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170528111500 +0800" stop="20170528113000 +0800" channel="CGTN">
-    <title lang="zh">Sports Scene</title>
+  <programme start="20170531040000 +0000" stop="20170531050000 +0000" channel="TNT">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">We'll Get There</sub-title>
+    <desc lang="en">We'll Get There. Chandler's leadership is put to the test when the ship's propulsion system is in danger of breaking down, the crew becomes overworked and exhausted, and Dr. Scott could potentially lose all of her research on the virus</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170528113000 +0800" stop="20170528120000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
+  <programme start="20170531050000 +0000" stop="20170531060000 +0000" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Myth of Fingerprints</sub-title>
+    <desc lang="en">Myth of Fingerprints. A murder investigation uncovers deliberately faulty forensics in the wrongful conviction of two men 12 years earlier in the case that paved the way for Van Buren's promotion</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170528120000 +0800" stop="20170528130000 +0800" channel="CGTN">
-    <title lang="zh">Global Watch</title>
+  <programme start="20170531060000 +0000" stop="20170531070000 +0000" channel="TNT">
+    <title lang="en">Arrow</title>
+    <sub-title lang="en">Eleven-Fifty-Nine</sub-title>
+    <desc lang="en">Eleven-Fifty-Nine. Oliver and Diggle learn that Merlyn plans to break Darhk out of prison. Meanwhile, Laurel gets a surprising offer and Felicity has a heart to heart talk with Curtis</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170528130000 +0800" stop="20170528140000 +0800" channel="CGTN">
-    <title lang="zh">Full Frame</title>
+  <programme start="20170531070000 +0000" stop="20170531080000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Be Careful What You Witch For</sub-title>
+    <desc lang="en">Be Careful What You Witch For. In Charmed's second-season finale, French Stewart guest stars as a glib genie who offers to grant the most fondly held wishes of the three Halliwell girls. Alas, in each case there is a "catch." Wishing to relive her first love, Prue (Shannen Doherty) regresses into an obnoxious teenager (a sly comment on actress Doherty's prickly reputation on the set of Beverly Hills 90210). Phoebe (Alyssa Milano) wants to have the power of flight, but then can't deal with the consequences. And Piper (Holly Marie Combs) desires nothing more than for Dan (Greg Vaughan) to forget about her and move on with his life -- but in the process of "moving on," Dan rapidly grows older and older before her eyes. Worst of all, Prue is attacked by the Dragon Warlock (Marcus Graham), who is in cahoots with the duplicitous genie-- and the other Halliwell girls are powerless to save their sister from certain death!</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528143000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531080000 +0000" stop="20170531090000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Honeymoon's Over</sub-title>
+    <desc lang="en">Honeymoon's Over. Barenaked Ladies perform at the sisters' club; Prue and Phoebe capture a demonically possessed killer, only to watch him beat the murder charge in court, due in part to their inability to explain what happened to the murder weapon. Prue: Shannon Doherty. Phoebe: Alyssa Milano. Piper: Holly Marie Combs</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528143000 +0800" stop="20170528150000 +0800" channel="CGTN">
-    <title lang="zh">Assignment Asia</title>
+  <programme start="20170531090000 +0000" stop="20170531100000 +0000" channel="TNT">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Magic Hour</sub-title>
+    <desc lang="en">Magic Hour. The Charmed Ones search for a way to let Piper and Leo marry without angering the whitelighter's celestial superiors, who have promised "unspeakable wrath" if the two wed. Meanwhile, the sisters try to aid a man who is cursed to be an owl for 12 hours a day</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
-  <programme start="20170528150000 +0800" stop="20170528153000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531100000 +0000" stop="20170531110000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Just My Imagination</sub-title>
+    <desc lang="en">Just My Imagination. Sam is shocked when his imaginary childhood friend, Sully, makes an unexpected appearance. Sam tries to understand why he is seeing Sully now. Even more surprising, Dean can see him too</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528153000 +0800" stop="20170528160000 +0800" channel="CGTN">
-    <title lang="zh">Sports Scene</title>
+  <programme start="20170531110000 +0000" stop="20170531120000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">O Brother Where Art Thou?</sub-title>
+    <desc lang="en">O Brother Where Art Thou?. Amara unleashes her power on local townspeople and issues a shocking challenge. Dean tries to better understand the hold Amara has on him, while Sam and Crowley come up with a plan that could have disastrous consequences</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528160000 +0800" stop="20170528163000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531120000 +0000" stop="20170531130000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">The Devil in the Details</sub-title>
+    <desc lang="en">The Devil in the Details. Lucifer offers Sam a way out of the cage, but it comes with a steep price. Meanwhile, Dean and Castiel look into the angel smiting that could have killed Amara</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528163000 +0800" stop="20170528170000 +0800" channel="CGTN">
-    <title lang="zh">Travelogue</title>
+  <programme start="20170531130000 +0000" stop="20170531140000 +0000" channel="TNT">
+    <title lang="en">Supernatural</title>
+    <sub-title lang="en">Into the Mystic</sub-title>
+    <desc lang="en">Into the Mystic. Sam and Dean investigate a case in which people suffer violent deaths after hearing a mysterious song</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
-  <programme start="20170528170000 +0800" stop="20170528173000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170531140000 +0000" stop="20170531150000 +0000" channel="TNT">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Princess and the Pear</sub-title>
+    <desc lang="en">The Princess and the Pear. Agent Perotta (Marisa Coughlan) pitches in when the Jeffersonian team investigates the death of a female science-fiction fan, which leads to a visit to a convention for aficionados of comic books and video games</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
   </programme>
-  <programme start="20170528173000 +0800" stop="20170528180000 +0800" channel="CGTN">
-    <title lang="zh">Faces of Africa</title>
+  <programme start="20170531150000 +0000" stop="20170531173000 +0000" channel="TNT">
+    <title lang="en">Die Hard With a Vengeance</title>
+    <desc lang="en">Cop John McClane teams with a shop owner to outwit a terrorist who is making him perform a series of dangerous tasks all around Manhattan</desc>
   </programme>
-  <programme start="20170528180000 +0800" stop="20170528190000 +0800" channel="CGTN">
-    <title lang="zh">Africa Live</title>
+  <programme start="20170531173000 +0000" stop="20170531200000 +0000" channel="TNT">
+    <title lang="en">Eagle Eye</title>
+    <desc lang="en">Two strangers become pawns in a diabolical plot and must work together to discover what is really happening while trying to prove that they are not terrorists. Shia LaBeouf ("Disturbia") and Michelle Monaghan star in this taut suspense thriller. Michael Chiklis, Rosario Dawson, Billy Bob Thornton. Directed by D.J. Caruso</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/104704.jpg" />
   </programme>
-  <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="CGTN">
-    <title lang="zh">Asia Today</title>
+  <programme start="20170531200000 +0000" stop="20170531220000 +0000" channel="TNT">
+    <title lang="en">Rush Hour 2</title>
+    <desc lang="en">Director Brett Ratner is reunited with stars Jackie Chan and Chris Tucker in this all-action sequel. This time, they're on Chan's turf, in China, for a well-earned rest but the murder of US Customs men by one of the most powerful Triad gangsters in Asia sees them back in the thick of things, in the company of femme fatale Zhang Ziyi and secret-service agent Roselyn Sanchez. Some Mandarin/Cantonese with English subtitles</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/101969.jpg" />
   </programme>
-  <programme start="20170528193000 +0800" stop="20170528200000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
+  <programme start="20170531220000 +0000" stop="20170531230000 +0000" channel="TNT">
+    <title lang="en">Animal Kingdom</title>
+    <sub-title lang="en">Eat What You Kill</sub-title>
+    <desc lang="en">Eat What You Kill. A risky heist misfires and the boys blame Smurf, sending shock waves through the family, in the Season 2 premiere. Also: Baz deals with being a single parent; and Deran plans for the future</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
-  <programme start="20170528200000 +0800" stop="20170528201500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170528201500 +0800" stop="20170528210000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170528210000 +0800" stop="20170528213000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170528213000 +0800" stop="20170528220000 +0800" channel="CGTN">
-    <title lang="zh">Closer to China with Robert Kuhn</title>
-  </programme>
-  <programme start="20170528220000 +0800" stop="20170528230000 +0800" channel="CGTN">
-    <title lang="zh">Big Story</title>
-  </programme>
-  <programme start="20170528230000 +0800" stop="20170528233000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="CGTN">
-    <title lang="zh">Rediscovering China</title>
+  <programme start="20170531230000 +0000" stop="20170601010000 +0000" channel="TNT">
+    <title lang="en">Rush Hour</title>
+    <desc lang="en">The fastest hands in the East meet the biggest mouth in the West when legendary martial arts daredevil Jackie Chan teams with comedic powerhouse Chris Tucker in Rush Hour. When Hong Kong police detective inspector Lee's favourite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her. Unhappy to have a meddling outsider, the FBI assigns reckless, arrogant and infuriating LAPD detective James Carter to baby-sit Lee--and keep him away from the investigation. But these two very different cops will stop at nothing to find the missing girl</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/116328.jpg" />
   </programme>
   <programme start="20170529000000 +0800" stop="20170529001500 +0800" channel="CGTN">
     <title lang="zh">The World Today</title>
@@ -1020,119 +1266,131 @@
   <programme start="20170530233000 +0800" stop="20170531000000 +0800" channel="CGTN">
     <title lang="zh">Culture Express</title>
   </programme>
-  <programme start="20170528000000 +0800" stop="20170528003000 +0800" channel="Arirang">
-    <title lang="zh">Shaping the Ecomony</title>
+  <programme start="20170531000000 +0800" stop="20170531001500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528003000 +0800" stop="20170528010000 +0800" channel="Arirang">
-    <title lang="zh">Korea In the Sky</title>
+  <programme start="20170531001500 +0800" stop="20170531010000 +0800" channel="CGTN">
+    <title lang="zh">China 24</title>
   </programme>
-  <programme start="20170528010000 +0800" stop="20170528013000 +0800" channel="Arirang">
-    <title lang="zh">Upfront</title>
+  <programme start="20170531010000 +0800" stop="20170531020000 +0800" channel="CGTN">
+    <title lang="zh">Africa Live</title>
   </programme>
-  <programme start="20170528013000 +0800" stop="20170528020000 +0800" channel="Arirang">
-    <title lang="zh">FOREIGN CORRESPONDENTS</title>
+  <programme start="20170531020000 +0800" stop="20170531030000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528020000 +0800" stop="20170528030000 +0800" channel="Arirang">
-    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
+  <programme start="20170531030000 +0800" stop="20170531033000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528030000 +0800" stop="20170528040000 +0800" channel="Arirang">
-    <title lang="zh">Masterpieces of All Time</title>
+  <programme start="20170531033000 +0800" stop="20170531040000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170528040000 +0800" stop="20170528050000 +0800" channel="Arirang">
-    <title lang="zh">Global Families</title>
+  <programme start="20170531040000 +0800" stop="20170531041500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528053000 +0800" channel="Arirang">
-    <title lang="zh">InsideBiz</title>
+  <programme start="20170531041500 +0800" stop="20170531050000 +0800" channel="CGTN">
+    <title lang="zh">World Insight with Tian Wei</title>
   </programme>
-  <programme start="20170528053000 +0800" stop="20170528060000 +0800" channel="Arirang">
-    <title lang="zh">BizSmart</title>
+  <programme start="20170531050000 +0800" stop="20170531053000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528063000 +0800" channel="Arirang">
-    <title lang="zh">Peninsula 24</title>
+  <programme start="20170531053000 +0800" stop="20170531060000 +0800" channel="CGTN">
+    <title lang="zh">The Point with Liu Xin</title>
   </programme>
-  <programme start="20170528063000 +0800" stop="20170528070000 +0800" channel="Arirang">
-    <title lang="zh">Stylecast</title>
+  <programme start="20170531060000 +0800" stop="20170531061500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528070000 +0800" stop="20170528080000 +0800" channel="Arirang">
-    <title lang="zh">Arirang Odyssey</title>
+  <programme start="20170531061500 +0800" stop="20170531070000 +0800" channel="CGTN">
+    <title lang="zh">Americas Now</title>
   </programme>
-  <programme start="20170528080000 +0800" stop="20170528090000 +0800" channel="Arirang">
-    <title lang="zh">Premium Collection</title>
+  <programme start="20170531070000 +0800" stop="20170531073000 +0800" channel="CGTN">
+    <title lang="zh">The Heat</title>
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528093000 +0800" channel="Arirang">
-    <title lang="zh">Globetrotters</title>
+  <programme start="20170531073000 +0800" stop="20170531080000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528093000 +0800" stop="20170528100000 +0800" channel="Arirang">
-    <title lang="zh">Heart to Heart (B)</title>
+  <programme start="20170531080000 +0800" stop="20170531090000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528100000 +0800" stop="20170528110000 +0800" channel="Arirang">
-    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
+  <programme start="20170531090000 +0800" stop="20170531093000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528110000 +0800" stop="20170528111500 +0800" channel="Arirang">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170531093000 +0800" stop="20170531100000 +0800" channel="CGTN">
+    <title lang="zh">China 24</title>
   </programme>
-  <programme start="20170528111500 +0800" stop="20170528113000 +0800" channel="Arirang">
-    <title lang="zh">Company Close Up</title>
+  <programme start="20170531100000 +0800" stop="20170531103000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528113000 +0800" stop="20170528120000 +0800" channel="Arirang">
-    <title lang="zh">21st Century</title>
+  <programme start="20170531103000 +0800" stop="20170531110000 +0800" channel="CGTN">
+    <title lang="zh">The Point with Liu Xin</title>
   </programme>
-  <programme start="20170528120000 +0800" stop="20170528130000 +0800" channel="Arirang">
-    <title lang="zh">PerformArts Reload</title>
+  <programme start="20170531110000 +0800" stop="20170531111500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528130000 +0800" stop="20170528133000 +0800" channel="Arirang">
-    <title lang="zh">Im Live</title>
+  <programme start="20170531111500 +0800" stop="20170531113000 +0800" channel="CGTN">
+    <title lang="zh">Sports Scene</title>
   </programme>
-  <programme start="20170528133000 +0800" stop="20170528140000 +0800" channel="Arirang">
-    <title lang="zh">Korea In the Sky</title>
+  <programme start="20170531113000 +0800" stop="20170531120000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528150000 +0800" channel="Arirang">
-    <title lang="zh">Arirang Prime</title>
+  <programme start="20170531120000 +0800" stop="20170531130000 +0800" channel="CGTN">
+    <title lang="zh">Global Watch</title>
   </programme>
-  <programme start="20170528150000 +0800" stop="20170528153000 +0800" channel="Arirang">
-    <title lang="zh">Arts Avenue</title>
+  <programme start="20170531130000 +0800" stop="20170531140000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528153000 +0800" stop="20170528160000 +0800" channel="Arirang">
-    <title lang="zh">Tour Avatar</title>
+  <programme start="20170531140000 +0800" stop="20170531143000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528160000 +0800" stop="20170528170000 +0800" channel="Arirang">
-    <title lang="zh">Masterpieces of All Time</title>
+  <programme start="20170531143000 +0800" stop="20170531150000 +0800" channel="CGTN">
+    <title lang="zh">The Heat</title>
   </programme>
-  <programme start="20170528170000 +0800" stop="20170528171500 +0800" channel="Arirang">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170531150000 +0800" stop="20170531153000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528171500 +0800" stop="20170528173000 +0800" channel="Arirang">
-    <title lang="zh">Peace Insight</title>
+  <programme start="20170531153000 +0800" stop="20170531160000 +0800" channel="CGTN">
+    <title lang="zh">Sports Scene</title>
   </programme>
-  <programme start="20170528173000 +0800" stop="20170528180000 +0800" channel="Arirang">
-    <title lang="zh">Shaping the Ecomony</title>
+  <programme start="20170531160000 +0800" stop="20170531170000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528180000 +0800" stop="20170528190000 +0800" channel="Arirang">
-    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
+  <programme start="20170531170000 +0800" stop="20170531173000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="Arirang">
-    <title lang="zh">InsideBiz</title>
+  <programme start="20170531173000 +0800" stop="20170531180000 +0800" channel="CGTN">
+    <title lang="zh">Culture Express</title>
   </programme>
-  <programme start="20170528193000 +0800" stop="20170528200000 +0800" channel="Arirang">
-    <title lang="zh">BizSmart</title>
+  <programme start="20170531180000 +0800" stop="20170531190000 +0800" channel="CGTN">
+    <title lang="zh">Africa Live</title>
   </programme>
-  <programme start="20170528200000 +0800" stop="20170528210000 +0800" channel="Arirang">
-    <title lang="zh">Premium Collection</title>
+  <programme start="20170531190000 +0800" stop="20170531193000 +0800" channel="CGTN">
+    <title lang="zh">Asia Today</title>
   </programme>
-  <programme start="20170528210000 +0800" stop="20170528213000 +0800" channel="Arirang">
-    <title lang="zh">Youth Calls</title>
+  <programme start="20170531193000 +0800" stop="20170531200000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170528213000 +0800" stop="20170528220000 +0800" channel="Arirang">
-    <title lang="zh">4 Angles</title>
+  <programme start="20170531200000 +0800" stop="20170531201500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170528220000 +0800" stop="20170528230000 +0800" channel="Arirang">
-    <title lang="zh">After School Club [R]</title>
+  <programme start="20170531201500 +0800" stop="20170531210000 +0800" channel="CGTN">
+    <title lang="zh">China 24</title>
   </programme>
-  <programme start="20170528230000 +0800" stop="20170528233000 +0800" channel="Arirang">
-    <title lang="zh">Heart to Heart ?</title>
+  <programme start="20170531210000 +0800" stop="20170531213000 +0800" channel="CGTN">
+    <title lang="zh">Global Business</title>
   </programme>
-  <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="Arirang">
-    <title lang="zh">Tour Avatar</title>
+  <programme start="20170531213000 +0800" stop="20170531220000 +0800" channel="CGTN">
+    <title lang="zh">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20170531220000 +0800" stop="20170531221500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170531221500 +0800" stop="20170531230000 +0800" channel="CGTN">
+    <title lang="zh">World Insight with Tian Wei</title>
+  </programme>
+  <programme start="20170531230000 +0800" stop="20170531233000 +0800" channel="CGTN">
+    <title lang="zh">The Link</title>
+  </programme>
+  <programme start="20170531233000 +0800" stop="20170601000000 +0800" channel="CGTN">
+    <title lang="zh">Culture Express</title>
   </programme>
   <programme start="20170529000000 +0800" stop="20170529003000 +0800" channel="Arirang">
     <title lang="zh">Stylecast</title>
@@ -1443,269 +1701,164 @@
   <programme start="20170530233000 +0800" stop="20170531000000 +0800" channel="Arirang">
     <title lang="zh">Prosumer LAB 101</title>
   </programme>
-  <programme start="20170528000000 +0800" stop="20170528001000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531000000 +0800" stop="20170531000500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528001000 +0800" stop="20170528002500 +0800" channel="NHK">
-    <title lang="zh">Ceramic Treasures</title>
+  <programme start="20170531000500 +0800" stop="20170531010000 +0800" channel="Arirang">
+    <title lang="zh">Premium Collection</title>
   </programme>
-  <programme start="20170528002500 +0800" stop="20170528003000 +0800" channel="NHK">
-    <title lang="zh">Hokkaido In Focus</title>
+  <programme start="20170531010000 +0800" stop="20170531013000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News ?</title>
   </programme>
-  <programme start="20170528003000 +0800" stop="20170528005500 +0800" channel="NHK">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170531013000 +0800" stop="20170531020000 +0800" channel="Arirang">
+    <title lang="zh">Foreign Correspondents</title>
   </programme>
-  <programme start="20170528005500 +0800" stop="20170528010000 +0800" channel="NHK">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170531020000 +0800" stop="20170531020500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528010000 +0800" stop="20170528011000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531020500 +0800" stop="20170531023000 +0800" channel="Arirang">
+    <title lang="zh">Showbiz Korea</title>
   </programme>
-  <programme start="20170528011000 +0800" stop="20170528020000 +0800" channel="NHK">
-    <title lang="zh">NHK WORLD TV Special program</title>
+  <programme start="20170531023000 +0800" stop="20170531030000 +0800" channel="Arirang">
+    <title lang="zh">Pops in Seoul</title>
   </programme>
-  <programme start="20170528020000 +0800" stop="20170528021000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531030000 +0800" stop="20170531033000 +0800" channel="Arirang">
+    <title lang="zh">Newscenter ?</title>
   </programme>
-  <programme start="20170528021000 +0800" stop="20170528022500 +0800" channel="NHK">
-    <title lang="zh">#TOKYO</title>
+  <programme start="20170531033000 +0800" stop="20170531040000 +0800" channel="Arirang">
+    <title lang="zh">The 3s</title>
   </programme>
-  <programme start="20170528022500 +0800" stop="20170528023500 +0800" channel="NHK">
-    <title lang="zh">Four Seasons in Japan</title>
+  <programme start="20170531040000 +0800" stop="20170531040500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528023500 +0800" stop="20170528024500 +0800" channel="NHK">
-    <title lang="zh">Satoyama</title>
+  <programme start="20170531040500 +0800" stop="20170531050000 +0800" channel="Arirang">
+    <title lang="zh">After School Club</title>
   </programme>
-  <programme start="20170528024500 +0800" stop="20170528025500 +0800" channel="NHK">
-    <title lang="zh">The Great Summits</title>
+  <programme start="20170531050000 +0800" stop="20170531050500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528025500 +0800" stop="20170528030000 +0800" channel="NHK">
-    <title lang="zh">Blends</title>
+  <programme start="20170531050500 +0800" stop="20170531053000 +0800" channel="Arirang">
+    <title lang="zh">Stylecast</title>
   </programme>
-  <programme start="20170528030000 +0800" stop="20170528031000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531053000 +0800" stop="20170531060000 +0800" channel="Arirang">
+    <title lang="zh">Shaping The Economy</title>
   </programme>
-  <programme start="20170528031000 +0800" stop="20170528040000 +0800" channel="NHK">
-    <title lang="zh">The Lost Hokusai</title>
+  <programme start="20170531060000 +0800" stop="20170531063000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528040000 +0800" stop="20170528041000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531063000 +0800" stop="20170531070000 +0800" channel="Arirang">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170528041000 +0800" stop="20170528044000 +0800" channel="NHK">
-    <title lang="zh">A Century on Film</title>
+  <programme start="20170531070000 +0800" stop="20170531070500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528044000 +0800" stop="20170528045500 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
+  <programme start="20170531070500 +0800" stop="20170531080000 +0800" channel="Arirang">
+    <title lang="zh">Global Families</title>
   </programme>
-  <programme start="20170528045500 +0800" stop="20170528050000 +0800" channel="NHK">
-    <title lang="zh">Fudoki</title>
+  <programme start="20170531080000 +0800" stop="20170531080500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528051000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531080500 +0800" stop="20170531090000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170528051000 +0800" stop="20170528060000 +0800" channel="NHK">
-    <title lang="zh">NHK Documentary</title>
+  <programme start="20170531090000 +0800" stop="20170531093000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528061000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531093000 +0800" stop="20170531100000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart</title>
   </programme>
-  <programme start="20170528061000 +0800" stop="20170528062500 +0800" channel="NHK">
-    <title lang="zh">Ceramic Treasures</title>
+  <programme start="20170531100000 +0800" stop="20170531100500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528062500 +0800" stop="20170528063000 +0800" channel="NHK">
-    <title lang="zh">Hokkaido In Focus</title>
+  <programme start="20170531100500 +0800" stop="20170531103000 +0800" channel="Arirang">
+    <title lang="zh">Stylecast</title>
   </programme>
-  <programme start="20170528063000 +0800" stop="20170528065500 +0800" channel="NHK">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170531103000 +0800" stop="20170531110000 +0800" channel="Arirang">
+    <title lang="zh">Shaping The Economy</title>
   </programme>
-  <programme start="20170528065500 +0800" stop="20170528070000 +0800" channel="NHK">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170531110000 +0800" stop="20170531113000 +0800" channel="Arirang">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170528070000 +0800" stop="20170528071000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531113000 +0800" stop="20170531120000 +0800" channel="Arirang">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170528071000 +0800" stop="20170528080000 +0800" channel="NHK">
-    <title lang="zh">Relaying the Torch of Peace</title>
+  <programme start="20170531120000 +0800" stop="20170531120500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528080000 +0800" stop="20170528081000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531120500 +0800" stop="20170531130000 +0800" channel="Arirang">
+    <title lang="zh">Global Families</title>
   </programme>
-  <programme start="20170528081000 +0800" stop="20170528084000 +0800" channel="NHK">
-    <title lang="zh">Spiritual Places in Nara</title>
+  <programme start="20170531130000 +0800" stop="20170531133000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528084000 +0800" stop="20170528090000 +0800" channel="NHK">
-    <title lang="zh">Wild Hokkaido!</title>
+  <programme start="20170531133000 +0800" stop="20170531140000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart</title>
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528091000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531140000 +0800" stop="20170531140500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528091000 +0800" stop="20170528094000 +0800" channel="NHK">
-    <title lang="zh">Face To Face</title>
+  <programme start="20170531140500 +0800" stop="20170531143000 +0800" channel="Arirang">
+    <title lang="zh">Showbiz Korea</title>
   </programme>
-  <programme start="20170528094000 +0800" stop="20170528095000 +0800" channel="NHK">
-    <title lang="zh">Dive into UKIYO-E</title>
+  <programme start="20170531143000 +0800" stop="20170531150000 +0800" channel="Arirang">
+    <title lang="zh">Pops in Seoul</title>
   </programme>
-  <programme start="20170528095000 +0800" stop="20170528095500 +0800" channel="NHK">
-    <title lang="zh">Teach me Ninjya Sensei</title>
+  <programme start="20170531150000 +0800" stop="20170531153000 +0800" channel="Arirang">
+    <title lang="zh">Business Daily [L]</title>
   </programme>
-  <programme start="20170528095500 +0800" stop="20170528100000 +0800" channel="NHK">
-    <title lang="zh">BEGIN Japanology mini</title>
+  <programme start="20170531153000 +0800" stop="20170531160000 +0800" channel="Arirang">
+    <title lang="zh">Stylecast</title>
   </programme>
-  <programme start="20170528100000 +0800" stop="20170528101000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531160000 +0800" stop="20170531160500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528101000 +0800" stop="20170528104000 +0800" channel="NHK">
-    <title lang="zh">A Century on Film</title>
+  <programme start="20170531160500 +0800" stop="20170531170000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170528104000 +0800" stop="20170528105500 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
+  <programme start="20170531170000 +0800" stop="20170531173000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528105500 +0800" stop="20170528110000 +0800" channel="NHK">
-    <title lang="zh">Fudoki</title>
+  <programme start="20170531173000 +0800" stop="20170531180000 +0800" channel="Arirang">
+    <title lang="zh">Heart to Heart</title>
   </programme>
-  <programme start="20170528110000 +0800" stop="20170528111000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531180000 +0800" stop="20170531180500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528111000 +0800" stop="20170528120000 +0800" channel="NHK">
-    <title lang="zh">NHK Documentary</title>
+  <programme start="20170531180500 +0800" stop="20170531190000 +0800" channel="Arirang">
+    <title lang="zh">Global Families</title>
   </programme>
-  <programme start="20170528120000 +0800" stop="20170528121000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531190000 +0800" stop="20170531193000 +0800" channel="Arirang">
+    <title lang="zh">Newscenter [L]</title>
   </programme>
-  <programme start="20170528121000 +0800" stop="20170528122000 +0800" channel="NHK">
-    <title lang="zh">Videos Gone Viral</title>
+  <programme start="20170531193000 +0800" stop="20170531200000 +0800" channel="Arirang">
+    <title lang="zh">Shaping The Economy</title>
   </programme>
-  <programme start="20170528122000 +0800" stop="20170528122500 +0800" channel="NHK">
-    <title lang="zh">World Heritage Wonders</title>
+  <programme start="20170531200000 +0800" stop="20170531200500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528122500 +0800" stop="20170528123000 +0800" channel="NHK">
-    <title lang="zh">Blends</title>
+  <programme start="20170531200500 +0800" stop="20170531210000 +0800" channel="Arirang">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170528123000 +0800" stop="20170528125500 +0800" channel="NHK">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170531210000 +0800" stop="20170531213000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170528125500 +0800" stop="20170528130000 +0800" channel="NHK">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170531213000 +0800" stop="20170531220000 +0800" channel="Arirang">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170528130000 +0800" stop="20170528131000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531220000 +0800" stop="20170531220500 +0800" channel="Arirang">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170528131000 +0800" stop="20170528140000 +0800" channel="NHK">
-    <title lang="zh">Relaying the Torch of Peace</title>
+  <programme start="20170531220500 +0800" stop="20170531223000 +0800" channel="Arirang">
+    <title lang="zh">Showbiz Korea (M) ?</title>
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528141000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170531223000 +0800" stop="20170531230000 +0800" channel="Arirang">
+    <title lang="zh">POPS IN SEOUL (M) ?</title>
   </programme>
-  <programme start="20170528141000 +0800" stop="20170528144000 +0800" channel="NHK">
-    <title lang="zh">Spiritual Places in Nara</title>
+  <programme start="20170531230000 +0800" stop="20170531233000 +0800" channel="Arirang">
+    <title lang="zh">Arirang News ?</title>
   </programme>
-  <programme start="20170528144000 +0800" stop="20170528150000 +0800" channel="NHK">
-    <title lang="zh">Wild Hokkaido!</title>
-  </programme>
-  <programme start="20170528150000 +0800" stop="20170528151000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528151000 +0800" stop="20170528154000 +0800" channel="NHK">
-    <title lang="zh">Face To Face</title>
-  </programme>
-  <programme start="20170528154000 +0800" stop="20170528155000 +0800" channel="NHK">
-    <title lang="zh">Dive into UKIYO-E</title>
-  </programme>
-  <programme start="20170528155000 +0800" stop="20170528155500 +0800" channel="NHK">
-    <title lang="zh">Teach me Ninjya Sensei</title>
-  </programme>
-  <programme start="20170528155500 +0800" stop="20170528160000 +0800" channel="NHK">
-    <title lang="zh">BEGIN Japanology mini</title>
-  </programme>
-  <programme start="20170528160000 +0800" stop="20170528161000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528161000 +0800" stop="20170528162000 +0800" channel="NHK">
-    <title lang="zh">Videos Gone Viral</title>
-  </programme>
-  <programme start="20170528162000 +0800" stop="20170528162500 +0800" channel="NHK">
-    <title lang="zh">World Heritage Wonders</title>
-  </programme>
-  <programme start="20170528162500 +0800" stop="20170528163000 +0800" channel="NHK">
-    <title lang="zh">Blends</title>
-  </programme>
-  <programme start="20170528163000 +0800" stop="20170528165500 +0800" channel="NHK">
-    <title lang="zh">GRAND SUMO Highlights</title>
-  </programme>
-  <programme start="20170528165500 +0800" stop="20170528170000 +0800" channel="NHK">
-    <title lang="zh">Sumopedia</title>
-  </programme>
-  <programme start="20170528170000 +0800" stop="20170528171000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528171000 +0800" stop="20170528180000 +0800" channel="NHK">
-    <title lang="zh">NHK Documentary</title>
-  </programme>
-  <programme start="20170528180000 +0800" stop="20170528181000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528181000 +0800" stop="20170528190000 +0800" channel="NHK">
-    <title lang="zh">Relaying the Torch of Peace</title>
-  </programme>
-  <programme start="20170528190000 +0800" stop="20170528191000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528191000 +0800" stop="20170528192500 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
-  </programme>
-  <programme start="20170528192500 +0800" stop="20170528194000 +0800" channel="NHK">
-    <title lang="zh">Japan-easy</title>
-  </programme>
-  <programme start="20170528194000 +0800" stop="20170528195000 +0800" channel="NHK">
-    <title lang="zh">Little Charo</title>
-  </programme>
-  <programme start="20170528195000 +0800" stop="20170528200000 +0800" channel="NHK">
-    <title lang="zh">Doki Doki! WORLD TV</title>
-  </programme>
-  <programme start="20170528200000 +0800" stop="20170528201000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528201000 +0800" stop="20170528204000 +0800" channel="NHK">
-    <title lang="zh">Spiritual Places in Nara</title>
-  </programme>
-  <programme start="20170528204000 +0800" stop="20170528210000 +0800" channel="NHK">
-    <title lang="zh">Wild Hokkaido!</title>
-  </programme>
-  <programme start="20170528210000 +0800" stop="20170528211000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528211000 +0800" stop="20170528214000 +0800" channel="NHK">
-    <title lang="zh">Face To Face</title>
-  </programme>
-  <programme start="20170528214000 +0800" stop="20170528215000 +0800" channel="NHK">
-    <title lang="zh">Dive into UKIYO-E</title>
-  </programme>
-  <programme start="20170528215000 +0800" stop="20170528215500 +0800" channel="NHK">
-    <title lang="zh">Teach me Ninjya Sensei</title>
-  </programme>
-  <programme start="20170528215500 +0800" stop="20170528220000 +0800" channel="NHK">
-    <title lang="zh">BEGIN Japanology mini</title>
-  </programme>
-  <programme start="20170528220000 +0800" stop="20170528221000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528221000 +0800" stop="20170528225400 +0800" channel="NHK">
-    <title lang="zh">Somewhere Street</title>
-  </programme>
-  <programme start="20170528225400 +0800" stop="20170528230000 +0800" channel="NHK">
-    <title lang="zh">Blends</title>
-  </programme>
-  <programme start="20170528230000 +0800" stop="20170528231000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170528231000 +0800" stop="20170528234000 +0800" channel="NHK">
-    <title lang="zh">J-MELO</title>
-  </programme>
-  <programme start="20170528234000 +0800" stop="20170528234500 +0800" channel="NHK">
-    <title lang="zh">PythagoraSwitch mini</title>
-  </programme>
-  <programme start="20170528234500 +0800" stop="20170529000000 +0800" channel="NHK">
-    <title lang="zh">Japan-easy</title>
+  <programme start="20170531233000 +0800" stop="20170601000000 +0800" channel="Arirang">
+    <title lang="zh">Shaping The Economy</title>
   </programme>
   <programme start="20170529000000 +0800" stop="20170529001000 +0800" channel="NHK">
     <title lang="zh">NHK NEWSLINE</title>
@@ -2064,194 +2217,161 @@
   <programme start="20170530232900 +0800" stop="20170531000000 +0800" channel="NHK">
     <title lang="zh">Science View</title>
   </programme>
-  <programme start="20170528000000 +0800" stop="20170528003000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531000000 +0800" stop="20170531003000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528003000 +0800" stop="20170528003100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531003000 +0800" stop="20170531010000 +0800" channel="NHK">
+    <title lang="zh">At Home with Venetia in Kyoto</title>
   </programme>
-  <programme start="20170528003100 +0800" stop="20170528013000 +0800" channel="CNA">
-    <title lang="zh">Japan Hour (HD)</title>
+  <programme start="20170531010000 +0800" stop="20170531013000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528013000 +0800" stop="20170528020000 +0800" channel="CNA">
-    <title lang="zh">Expensive Eats</title>
+  <programme start="20170531013000 +0800" stop="20170531020000 +0800" channel="NHK">
+    <title lang="zh">Journeys in Japan</title>
   </programme>
-  <programme start="20170528020000 +0800" stop="20170528023000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531020000 +0800" stop="20170531022900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528023000 +0800" stop="20170528023100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531022900 +0800" stop="20170531030000 +0800" channel="NHK">
+    <title lang="zh">imagine-nation</title>
   </programme>
-  <programme start="20170528023100 +0800" stop="20170528030000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170531030000 +0800" stop="20170531033000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528030000 +0800" stop="20170528033000 +0800" channel="CNA">
-    <title lang="zh">SingaporeTonight</title>
+  <programme start="20170531033000 +0800" stop="20170531035500 +0800" channel="NHK">
+    <title lang="zh">Document 72 Hours</title>
   </programme>
-  <programme start="20170528033000 +0800" stop="20170528040000 +0800" channel="CNA">
-    <title lang="zh">Luxe Asia 3 (HD)</title>
+  <programme start="20170531035500 +0800" stop="20170531040000 +0800" channel="NHK">
+    <title lang="zh">BEGIN Japanology mini</title>
   </programme>
-  <programme start="20170528040000 +0800" stop="20170528043000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531040000 +0800" stop="20170531043000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528043000 +0800" stop="20170528043100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531043000 +0800" stop="20170531050000 +0800" channel="NHK">
+    <title lang="zh">Japanology Plus</title>
   </programme>
-  <programme start="20170528043100 +0800" stop="20170528050000 +0800" channel="CNA">
-    <title lang="zh">Money Mind (HD)</title>
+  <programme start="20170531050000 +0800" stop="20170531052900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528050000 +0800" stop="20170528053000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531052900 +0800" stop="20170531060000 +0800" channel="NHK">
+    <title lang="zh">Science View</title>
   </programme>
-  <programme start="20170528053000 +0800" stop="20170528053100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531060000 +0800" stop="20170531063000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528053100 +0800" stop="20170528060000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170531063000 +0800" stop="20170531070000 +0800" channel="NHK">
+    <title lang="zh">At Home with Venetia in Kyoto</title>
   </programme>
-  <programme start="20170528060000 +0800" stop="20170528070000 +0800" channel="CNA">
-    <title lang="zh">Get Rea! (HD)</title>
+  <programme start="20170531070000 +0800" stop="20170531073000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528070000 +0800" stop="20170528073000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531073000 +0800" stop="20170531080000 +0800" channel="NHK">
+    <title lang="zh">TOKYO EYE 2020</title>
   </programme>
-  <programme start="20170528073000 +0800" stop="20170528073200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531080000 +0800" stop="20170531082900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528073200 +0800" stop="20170528080000 +0800" channel="CNA">
-    <title lang="zh">Correspondents Diary</title>
+  <programme start="20170531082900 +0800" stop="20170531090000 +0800" channel="NHK">
+    <title lang="zh">SAMURAI WHEELS</title>
   </programme>
-  <programme start="20170528080000 +0800" stop="20170528083000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531090000 +0800" stop="20170531093000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528083000 +0800" stop="20170528083200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531093000 +0800" stop="20170531095000 +0800" channel="NHK">
+    <title lang="zh">Her Story</title>
   </programme>
-  <programme start="20170528083200 +0800" stop="20170528090000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170531095000 +0800" stop="20170531100000 +0800" channel="NHK">
+    <title lang="zh">Four Seasons in Japan</title>
   </programme>
-  <programme start="20170528090000 +0800" stop="20170528093000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531100000 +0800" stop="20170531103000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528093000 +0800" stop="20170528093200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531103000 +0800" stop="20170531110000 +0800" channel="NHK">
+    <title lang="zh">Japanology Plus</title>
   </programme>
-  <programme start="20170528093200 +0800" stop="20170528100000 +0800" channel="CNA">
-    <title lang="zh">Conversation With (HD)</title>
+  <programme start="20170531110000 +0800" stop="20170531112900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528100000 +0800" stop="20170528103000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531112900 +0800" stop="20170531120000 +0800" channel="NHK">
+    <title lang="zh">Science View</title>
   </programme>
-  <programme start="20170528103000 +0800" stop="20170528103200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531120000 +0800" stop="20170531123000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528103200 +0800" stop="20170528110000 +0800" channel="CNA">
-    <title lang="zh">Money Mind (HD)</title>
+  <programme start="20170531123000 +0800" stop="20170531130000 +0800" channel="NHK">
+    <title lang="zh">KABUKI KOOL</title>
   </programme>
-  <programme start="20170528110000 +0800" stop="20170528113000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531130000 +0800" stop="20170531133000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528113000 +0800" stop="20170528113200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531133000 +0800" stop="20170531140000 +0800" channel="NHK">
+    <title lang="zh">TOKYO EYE 2020</title>
   </programme>
-  <programme start="20170528113200 +0800" stop="20170528120000 +0800" channel="CNA">
-    <title lang="zh">Conversation With (HD)</title>
+  <programme start="20170531140000 +0800" stop="20170531142900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528120000 +0800" stop="20170528123000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531142900 +0800" stop="20170531150000 +0800" channel="NHK">
+    <title lang="zh">SAMURAI WHEELS</title>
   </programme>
-  <programme start="20170528123000 +0800" stop="20170528123200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531150000 +0800" stop="20170531153000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528123200 +0800" stop="20170528130000 +0800" channel="CNA">
-    <title lang="zh">First Look Encore</title>
+  <programme start="20170531153000 +0800" stop="20170531155000 +0800" channel="NHK">
+    <title lang="zh">Her Story</title>
   </programme>
-  <programme start="20170528130000 +0800" stop="20170528130200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531155000 +0800" stop="20170531160000 +0800" channel="NHK">
+    <title lang="zh">Four Seasons in Japan</title>
   </programme>
-  <programme start="20170528130200 +0800" stop="20170528140000 +0800" channel="CNA">
-    <title lang="zh">Japan Hour (HD)</title>
+  <programme start="20170531160000 +0800" stop="20170531163000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528140000 +0800" stop="20170528143000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531163000 +0800" stop="20170531170000 +0800" channel="NHK">
+    <title lang="zh">KABUKI KOOL</title>
   </programme>
-  <programme start="20170528143000 +0800" stop="20170528143200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531170000 +0800" stop="20170531172900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528143200 +0800" stop="20170528150000 +0800" channel="CNA">
-    <title lang="zh">Insight (HD)</title>
+  <programme start="20170531172900 +0800" stop="20170531180000 +0800" channel="NHK">
+    <title lang="zh">Science View</title>
   </programme>
-  <programme start="20170528150000 +0800" stop="20170528153000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531180000 +0800" stop="20170531183000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528153000 +0800" stop="20170528153200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531183000 +0800" stop="20170531185000 +0800" channel="NHK">
+    <title lang="zh">Her Story</title>
   </programme>
-  <programme start="20170528153200 +0800" stop="20170528160000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170531185000 +0800" stop="20170531190000 +0800" channel="NHK">
+    <title lang="zh">Four Seasons in Japan</title>
   </programme>
-  <programme start="20170528160000 +0800" stop="20170528163000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531190000 +0800" stop="20170531194400 +0800" channel="NHK">
+    <title lang="zh">NEWSROOM TOKYO</title>
   </programme>
-  <programme start="20170528163000 +0800" stop="20170528163200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531194400 +0800" stop="20170531200000 +0800" channel="NHK">
+    <title lang="zh">Direct Talk</title>
   </programme>
-  <programme start="20170528163200 +0800" stop="20170528170000 +0800" channel="CNA">
-    <title lang="zh">Correspondents Diary</title>
+  <programme start="20170531200000 +0800" stop="20170531202900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528170000 +0800" stop="20170528173000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170531202900 +0800" stop="20170531210000 +0800" channel="NHK">
+    <title lang="zh">TOKYO EYE 2020</title>
   </programme>
-  <programme start="20170528173000 +0800" stop="20170528173200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531210000 +0800" stop="20170531213000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528173200 +0800" stop="20170528180000 +0800" channel="CNA">
-    <title lang="zh">First Look Encore</title>
+  <programme start="20170531213000 +0800" stop="20170531220000 +0800" channel="NHK">
+    <title lang="zh">SAMURAI WHEELS</title>
   </programme>
-  <programme start="20170528180000 +0800" stop="20170528180200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170531220000 +0800" stop="20170531223000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528180200 +0800" stop="20170528183000 +0800" channel="CNA">
-    <title lang="zh">Luxe Asia 3 (HD)</title>
+  <programme start="20170531223000 +0800" stop="20170531230000 +0800" channel="NHK">
+    <title lang="zh">Trails to Tsukiji</title>
   </programme>
-  <programme start="20170528183000 +0800" stop="20170528190000 +0800" channel="CNA">
-    <title lang="zh">Conversation With (HD)</title>
+  <programme start="20170531230000 +0800" stop="20170531232900 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170528190000 +0800" stop="20170528193000 +0800" channel="CNA">
-    <title lang="zh">Primetime Asia</title>
-  </programme>
-  <programme start="20170528193000 +0800" stop="20170528193200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170528193200 +0800" stop="20170528200000 +0800" channel="CNA">
-    <title lang="zh">Welcome 2 Taiwan (HD)</title>
-  </programme>
-  <programme start="20170528200000 +0800" stop="20170528210000 +0800" channel="CNA">
-    <title lang="zh">Being A Child(HD)</title>
-  </programme>
-  <programme start="20170528210000 +0800" stop="20170528213000 +0800" channel="CNA">
-    <title lang="zh">Primetime World</title>
-  </programme>
-  <programme start="20170528213000 +0800" stop="20170528213100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170528213100 +0800" stop="20170528220000 +0800" channel="CNA">
-    <title lang="zh">Correspondents Diary</title>
-  </programme>
-  <programme start="20170528220000 +0800" stop="20170528223000 +0800" channel="CNA">
-    <title lang="zh">SingaporeTonight</title>
-  </programme>
-  <programme start="20170528223000 +0800" stop="20170528230000 +0800" channel="CNA">
-    <title lang="zh">SportsWorld Weekend</title>
-  </programme>
-  <programme start="20170528230000 +0800" stop="20170528230100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
-  </programme>
-  <programme start="20170528230100 +0800" stop="20170528233000 +0800" channel="CNA">
-    <title lang="zh">It Figures 5 (HD)</title>
-  </programme>
-  <programme start="20170528233000 +0800" stop="20170529000000 +0800" channel="CNA">
-    <title lang="zh">Welcome 2 Taiwan (HD)</title>
+  <programme start="20170531232900 +0800" stop="20170601000000 +0800" channel="NHK">
+    <title lang="zh">great gear</title>
   </programme>
   <programme start="20170529000000 +0800" stop="20170529003000 +0800" channel="CNA">
     <title lang="zh">News Now</title>
@@ -2573,5 +2693,164 @@
   </programme>
   <programme start="20170530230100 +0800" stop="20170531000000 +0800" channel="CNA">
     <title lang="zh">The Maritime Silk Road (HD)</title>
+  </programme>
+  <programme start="20170531000000 +0800" stop="20170531003000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531003000 +0800" stop="20170531003100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531003100 +0800" stop="20170531010000 +0800" channel="CNA">
+    <title lang="zh">Millionaire Minds (HD)</title>
+  </programme>
+  <programme start="20170531010000 +0800" stop="20170531010100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531010100 +0800" stop="20170531020000 +0800" channel="CNA">
+    <title lang="zh">KBG84 -Okinawas Dancing Grannies (HD)</title>
+  </programme>
+  <programme start="20170531020000 +0800" stop="20170531023000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531023000 +0800" stop="20170531023100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531023100 +0800" stop="20170531030000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170531030000 +0800" stop="20170531040000 +0800" channel="CNA">
+    <title lang="zh">Singapore Tonight</title>
+  </programme>
+  <programme start="20170531040000 +0800" stop="20170531043000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531043000 +0800" stop="20170531043100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531043100 +0800" stop="20170531050000 +0800" channel="CNA">
+    <title lang="zh">Millionaire Minds (HD)</title>
+  </programme>
+  <programme start="20170531050000 +0800" stop="20170531060000 +0800" channel="CNA">
+    <title lang="zh">Behind the Sirens (HD)</title>
+  </programme>
+  <programme start="20170531060000 +0800" stop="20170531063000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531063000 +0800" stop="20170531070000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531070000 +0800" stop="20170531090000 +0800" channel="CNA">
+    <title lang="zh">First Look Asia</title>
+  </programme>
+  <programme start="20170531090000 +0800" stop="20170531093000 +0800" channel="CNA">
+    <title lang="zh">Asia Business First</title>
+  </programme>
+  <programme start="20170531093000 +0800" stop="20170531093200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531093200 +0800" stop="20170531100000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170531100000 +0800" stop="20170531103000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531103000 +0800" stop="20170531103200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531103200 +0800" stop="20170531110000 +0800" channel="CNA">
+    <title lang="zh">Millionaire Minds (HD)</title>
+  </programme>
+  <programme start="20170531110000 +0800" stop="20170531113000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531113000 +0800" stop="20170531113200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531113200 +0800" stop="20170531120000 +0800" channel="CNA">
+    <title lang="zh">It Figures 5 (HD)</title>
+  </programme>
+  <programme start="20170531120000 +0800" stop="20170531123000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531123000 +0800" stop="20170531123200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531123200 +0800" stop="20170531130000 +0800" channel="CNA">
+    <title lang="zh">First Look Encore</title>
+  </programme>
+  <programme start="20170531130000 +0800" stop="20170531130200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531130200 +0800" stop="20170531140000 +0800" channel="CNA">
+    <title lang="zh">Behind the Sirens (HD)</title>
+  </programme>
+  <programme start="20170531140000 +0800" stop="20170531143000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531143000 +0800" stop="20170531143200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531143200 +0800" stop="20170531150000 +0800" channel="CNA">
+    <title lang="zh">Millionaire Minds (HD)</title>
+  </programme>
+  <programme start="20170531150000 +0800" stop="20170531153000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531153000 +0800" stop="20170531153200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531153200 +0800" stop="20170531160000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170531160000 +0800" stop="20170531163000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531163000 +0800" stop="20170531163200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531163200 +0800" stop="20170531170000 +0800" channel="CNA">
+    <title lang="zh">Money Mind (HD)</title>
+  </programme>
+  <programme start="20170531170000 +0800" stop="20170531173000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170531173000 +0800" stop="20170531173200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531173200 +0800" stop="20170531180000 +0800" channel="CNA">
+    <title lang="zh">First Look Encore</title>
+  </programme>
+  <programme start="20170531180000 +0800" stop="20170531180200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531180200 +0800" stop="20170531190000 +0800" channel="CNA">
+    <title lang="zh">Inventing Southeast Asia with Dr. Farish Noor (HD)</title>
+  </programme>
+  <programme start="20170531190000 +0800" stop="20170531200000 +0800" channel="CNA">
+    <title lang="zh">Primetime Asia</title>
+  </programme>
+  <programme start="20170531200000 +0800" stop="20170531200100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531200100 +0800" stop="20170531210000 +0800" channel="CNA">
+    <title lang="zh">Perspectives 6 (HD)</title>
+  </programme>
+  <programme start="20170531210000 +0800" stop="20170531213000 +0800" channel="CNA">
+    <title lang="zh">Primetime World</title>
+  </programme>
+  <programme start="20170531213000 +0800" stop="20170531213100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531213100 +0800" stop="20170531220000 +0800" channel="CNA">
+    <title lang="zh">Indias Game Changers (HD)</title>
+  </programme>
+  <programme start="20170531220000 +0800" stop="20170531230000 +0800" channel="CNA">
+    <title lang="zh">Singapore Tonight</title>
+  </programme>
+  <programme start="20170531230000 +0800" stop="20170531230100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170531230100 +0800" stop="20170601000000 +0800" channel="CNA">
+    <title lang="zh">Power and Piety (HD)</title>
   </programme>
 </tv>
