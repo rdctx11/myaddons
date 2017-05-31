@@ -452,6 +452,24 @@ provider-name="primaeval">
   </extension>
 </addon>
 
+<addon id="plugin.video.stream.searcher"
+version="0.0.6A"
+name="Stream Searcher"
+provider-name="primaeval">
+<requires>
+  <import addon="xbmc.python" version="2.20.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Stream Searcher</summary>
+  <description lang="en">Use Context Menus[CR]Add Folders with Live TV Streams[CR]Add Channels to match Streams[CR]Add Channels folder into TV Guide Fullscreen[CR]Channel matches are lowercase ignoring spaces</description>
+</extension>
+</addon>
+
 <addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="3.2" provider-name="Blazetamer">
 <extension point="xbmc.addon.repository" name="Blaztamer's Addon Repository">
     <dir>
