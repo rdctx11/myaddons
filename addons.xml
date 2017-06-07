@@ -369,7 +369,7 @@ http://www.hometheater.co.il</description>
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="0.0.8"
+version="0.0.10"
 name="PVR Plugin Player"
 provider-name="primaeval">
 <requires>
@@ -468,6 +468,39 @@ provider-name="primaeval">
   <summary lang="en">Stream Searcher</summary>
   <description lang="en">Use Context Menus[CR]Add Folders with Live TV Streams[CR]Add Channels to match Streams[CR]Add Channels folder into TV Guide Fullscreen[CR]Channel matches are lowercase ignoring spaces</description>
 </extension>
+</addon>
+
+<addon id="plugin.video.ZemTV-shani"
+       name="Zem"
+       version="6.7.2"
+       provider-name="shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="1.0.0"/>
+	<import addon="plugin.video.youtube" version="2.9.2" optional="true"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+       	<import addon="script.module.elementtree" version="1.2.8"/>
+
+
+    <import addon="plugin.video.f4mTester" version="2.2.3" optional="true" />
+
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Zem Addon for sports and desi contents. Visit TVADDONS.ag for support</summary>
+    <description>Watch Sports and Desi contents on your XBMC. This plugin fetches the video sources from various platforms and locations</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with any of the content provider.</disclaimer>
+    <forum>https://forums.tvaddons.ag/shanis-addon-repository/</forum>
+    <email>@shani_08_kodi</email>
+    <platform>all</platform>
+
+
+  </extension>
 </addon>
 
 <addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="3.2" provider-name="Blazetamer">
