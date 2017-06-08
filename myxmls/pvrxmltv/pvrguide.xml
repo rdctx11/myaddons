@@ -44,130 +44,6 @@
     <display-name lang="zh">Channel News Asia</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170607001500 -0400" stop="20170607005000 -0400" channel="TFC">
-    <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu</desc>
-  </programme>
-  <programme start="20170607005000 -0400" stop="20170607012500 -0400" channel="TFC">
-    <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607012500 -0400" stop="20170607020000 -0400" channel="TFC">
-    <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607020000 -0400" stop="20170607023500 -0400" channel="TFC">
-    <title lang="en">The Better Half</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607023500 -0400" stop="20170607025500 -0400" channel="TFC">
-    <title lang="en">Tonight With Boy Abunda</title>
-    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
-  </programme>
-  <programme start="20170607025500 -0400" stop="20170607032500 -0400" channel="TFC">
-    <title lang="en">Bandila</title>
-    <desc lang="en">A late-night news program</desc>
-  </programme>
-  <programme start="20170607032500 -0400" stop="20170607035500 -0400" channel="TFC">
-    <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast</desc>
-  </programme>
-  <programme start="20170607035500 -0400" stop="20170607050000 -0400" channel="TFC">
-    <title lang="en">Magandang Buhay</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607050000 -0400" stop="20170607053500 -0400" channel="TFC">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607053500 -0400" stop="20170607075000 -0400" channel="TFC">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent</desc>
-  </programme>
-  <programme start="20170607075000 -0400" stop="20170607094000 -0400" channel="TFC">
-    <title lang="en">Umagang Kay Ganda</title>
-    <desc lang="en">A morning news and lifestyle magazine</desc>
-  </programme>
-  <programme start="20170607094000 -0400" stop="20170607100500 -0400" channel="TFC">
-    <title lang="en">My Puhunan</title>
-    <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
-  </programme>
-  <programme start="20170607100500 -0400" stop="20170607111500 -0400" channel="TFC">
-    <title lang="en">Magandang Buhay</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607111500 -0400" stop="20170607112500 -0400" channel="TFC">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170607112500 -0400" stop="20170607124500 -0400" channel="TFC">
-    <title lang="en">TV Patrol</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
-  </programme>
-  <programme start="20170607124500 -0400" stop="20170607150500 -0400" channel="TFC">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent</desc>
-  </programme>
-  <programme start="20170607150500 -0400" stop="20170607153000 -0400" channel="TFC">
-    <title lang="en">My Puhunan</title>
-    <desc lang="en">My Puhunan features tips and advice to help people jumpstart their entrepreneurial career</desc>
-  </programme>
-  <programme start="20170607153000 -0400" stop="20170607154000 -0400" channel="TFC">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170607154000 -0400" stop="20170607161500 -0400" channel="TFC">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607161500 -0400" stop="20170607165000 -0400" channel="TFC">
-    <title lang="en">The Better Half</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607165000 -0400" stop="20170607172500 -0400" channel="TFC">
-    <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607172500 -0400" stop="20170607180500 -0400" channel="TFC">
-    <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607180500 -0400" stop="20170607185000 -0400" channel="TFC">
-    <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607185000 -0400" stop="20170607193000 -0400" channel="TFC">
-    <title lang="en">My Dear Heart</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607193000 -0400" stop="20170607201000 -0400" channel="TFC">
-    <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu</desc>
-  </programme>
-  <programme start="20170607201000 -0400" stop="20170607202000 -0400" channel="TFC">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170607202000 -0400" stop="20170607214000 -0400" channel="TFC">
-    <title lang="en">Tv Patrol Global Edition</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607214000 -0400" stop="20170607221000 -0400" channel="TFC">
-    <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast</desc>
-  </programme>
-  <programme start="20170607221000 -0400" stop="20170607230000 -0400" channel="TFC">
-    <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607230000 -0400" stop="20170607234000 -0400" channel="TFC">
-    <title lang="en">My Dear Heart</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170607234000 -0400" stop="20170608001500 -0400" channel="TFC">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
   <programme start="20170608001500 -0400" stop="20170608005000 -0400" channel="TFC">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
@@ -534,121 +410,129 @@
     <title lang="en">Ipaglaban Mo</title>
     <desc lang="en">The show features enactments of real life cases brought and settled by the Supreme Court and Court of Appeals in Philippines. Its aim is to educate viewers on legal matters</desc>
   </programme>
-  <programme start="20170607003000 -0400" stop="20170607010000 -0400" channel="GMAPTV">
-    <title lang="en">Legally Blind</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611003500 -0400" stop="20170611014000 -0400" channel="TFC">
+    <title lang="en">Maalaala Mo Kaya</title>
+    <desc lang="en">A drama anthology, features weekly real life stories or anecdotes of common people or even famous celebrities and personalities(n)</desc>
   </programme>
-  <programme start="20170607010000 -0400" stop="20170607013000 -0400" channel="GMAPTV">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170611014000 -0400" stop="20170611025000 -0400" channel="TFC">
+    <title lang="en">We Love Opm The Celebrity Sing Offs Sat</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607013000 -0400" stop="20170607034500 -0400" channel="GMAPTV">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170611025000 -0400" stop="20170611031000 -0400" channel="TFC">
+    <title lang="en">Mga Kwento Ni Marc Logan</title>
+    <desc lang="en">The show features funny local and international viral videos for viewers. It is a compilation of clips ranging from song covers to pranks pulled on people(n)</desc>
   </programme>
-  <programme start="20170607034500 -0400" stop="20170607041500 -0400" channel="GMAPTV">
-    <title lang="en">D'originals</title>
-    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel</desc>
+  <programme start="20170611031000 -0400" stop="20170611035500 -0400" channel="TFC">
+    <title lang="en">Bottomline</title>
+    <desc lang="en">Boy Abunda interviews guests on a variety of topics(n)</desc>
   </programme>
-  <programme start="20170607041500 -0400" stop="20170607050000 -0400" channel="GMAPTV">
-    <title lang="en">Meant To Be</title>
-    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them</desc>
+  <programme start="20170611035500 -0400" stop="20170611043000 -0400" channel="TFC">
+    <title lang="en">Failon Ngayon</title>
+    <desc lang="en">News updates, interviews and feature stories of Filipino interest(n)</desc>
   </programme>
-  <programme start="20170607050000 -0400" stop="20170607054500 -0400" channel="GMAPTV">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611043000 -0400" stop="20170611051000 -0400" channel="TFC">
+    <title lang="en">SOCO</title>
+    <desc lang="en">The reality series aims to solve the mystery behind heinous and malicious crimes, with the help of local police and forensic investigators(n)</desc>
   </programme>
-  <programme start="20170607054500 -0400" stop="20170607061500 -0400" channel="GMAPTV">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611051000 -0400" stop="20170611060000 -0400" channel="TFC">
+    <title lang="en">Salamat Dok</title>
+    <desc lang="en">An interactive health show where viewers can address their queries to a panel of physicians. The program also offers health tips and useful information about various ailments(n)</desc>
   </programme>
-  <programme start="20170607061500 -0400" stop="20170607064500 -0400" channel="GMAPTV">
-    <title lang="en">Legally Blind</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611060000 -0400" stop="20170611062500 -0400" channel="TFC">
+    <title lang="en">Mission Possible</title>
+    <desc lang="en">Talk show hosted by Julius Babao features human interest stories(n)</desc>
   </programme>
-  <programme start="20170607064500 -0400" stop="20170607071500 -0400" channel="GMAPTV">
-    <title lang="en">Imbestigador</title>
-    <desc lang="en">Imbestigador is an investigative show that tackles the issues and inconsistencies in the Philippine government</desc>
+  <programme start="20170611062500 -0400" stop="20170611065500 -0400" channel="TFC">
+    <title lang="en">Citizen Pinoy Your Tanong, My Sagot</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607071500 -0400" stop="20170607091500 -0400" channel="GMAPTV">
-    <title lang="en">Unang Hirit</title>
-    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning</desc>
+  <programme start="20170611065500 -0400" stop="20170611073500 -0400" channel="TFC">
+    <title lang="en">Bottomline</title>
+    <desc lang="en">Boy Abunda interviews guests on a variety of topics(n)</desc>
   </programme>
-  <programme start="20170607091500 -0400" stop="20170607103000 -0400" channel="GMAPTV">
-    <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
+  <programme start="20170611073500 -0400" stop="20170611080500 -0400" channel="TFC">
+    <title lang="en">Failon Ngayon</title>
+    <desc lang="en">News updates, interviews and feature stories of Filipino interest(n)</desc>
   </programme>
-  <programme start="20170607103000 -0400" stop="20170607113000 -0400" channel="GMAPTV">
-    <title lang="en">24 Oras</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
+  <programme start="20170611080500 -0400" stop="20170611085500 -0400" channel="TFC">
+    <title lang="en">Salamat Dok</title>
+    <desc lang="en">An interactive health show where viewers can address their queries to a panel of physicians. The program also offers health tips and useful information about various ailments(n)</desc>
   </programme>
-  <programme start="20170607113000 -0400" stop="20170607120000 -0400" channel="GMAPTV">
-    <title lang="en">D'originals</title>
-    <desc lang="en">A spin-off of "The Vampire Diaries" focuses on the world's original vampire family who return to New Orleans to reclaim the city they helped build that is now under the control of a diabolical vampire named Marcel</desc>
+  <programme start="20170611085500 -0400" stop="20170611093000 -0400" channel="TFC">
+    <title lang="en">Pluma</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607120000 -0400" stop="20170607123000 -0400" channel="GMAPTV">
-    <title lang="en">Legally Blind</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611093000 -0400" stop="20170611103500 -0400" channel="TFC">
+    <title lang="en">The Healing Eucharist</title>
+    <desc lang="en">A Sunday Mass is broadcast(n)</desc>
   </programme>
-  <programme start="20170607123000 -0400" stop="20170607130000 -0400" channel="GMAPTV">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611103500 -0400" stop="20170611111500 -0400" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170607130000 -0400" stop="20170607133000 -0400" channel="GMAPTV">
-    <title lang="en">Meant To Be</title>
-    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them</desc>
+  <programme start="20170611111500 -0400" stop="20170611122000 -0400" channel="TFC">
+    <title lang="en">El Shaddai</title>
+    <desc lang="en">Inspirational messages are shared(n)</desc>
   </programme>
-  <programme start="20170607133000 -0400" stop="20170607140000 -0400" channel="GMAPTV">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611122000 -0400" stop="20170611125000 -0400" channel="TFC">
+    <title lang="en">Swak Na Swak Sun Ed</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607140000 -0400" stop="20170607143000 -0400" channel="GMAPTV">
-    <title lang="en">My Love From The Star</title>
-    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress</desc>
+  <programme start="20170611125000 -0400" stop="20170611132500 -0400" channel="TFC">
+    <title lang="en">Belo 101</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607143000 -0400" stop="20170607150000 -0400" channel="GMAPTV">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170611132500 -0400" stop="20170611150000 -0400" channel="TFC">
+    <title lang="en">ASAP</title>
+    <desc lang="en">A weekly concert party(n)</desc>
   </programme>
-  <programme start="20170607150000 -0400" stop="20170607170000 -0400" channel="GMAPTV">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170611150000 -0400" stop="20170611154500 -0400" channel="TFC">
+    <title lang="en">Ipaglaban Mo</title>
+    <desc lang="en">The show features enactments of real life cases brought and settled by the Supreme Court and Court of Appeals in Philippines. Its aim is to educate viewers on legal matters(n)</desc>
   </programme>
-  <programme start="20170607170000 -0400" stop="20170607174500 -0400" channel="GMAPTV">
-    <title lang="en">Daig Kayo Ng Lola Ko</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611154500 -0400" stop="20170611162500 -0400" channel="TFC">
+    <title lang="en">Home Sweetie Home</title>
+    <desc lang="en">A situational comedy, about a newly married couple Julie and Romeo and their ways to address the needs of a growing household(n)</desc>
   </programme>
-  <programme start="20170607174500 -0400" stop="20170607181500 -0400" channel="GMAPTV">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611162500 -0400" stop="20170611170000 -0400" channel="TFC">
+    <title lang="en">Goin' Bulilit</title>
+    <desc lang="en">A sketch comedy show that features various gags and children in various comic situations(n)</desc>
   </programme>
-  <programme start="20170607181500 -0400" stop="20170607191500 -0400" channel="GMAPTV">
-    <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
+  <programme start="20170611170000 -0400" stop="20170611175000 -0400" channel="TFC">
+    <title lang="en">Gandang Gabi Vice</title>
+    <desc lang="en">Talk show hosted by comedian, Vice Ganda features celebrity guests and performers(n)</desc>
   </programme>
-  <programme start="20170607191500 -0400" stop="20170607194500 -0400" channel="GMAPTV">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170611175000 -0400" stop="20170611184000 -0400" channel="TFC">
+    <title lang="en">Banana Sundae</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607194500 -0400" stop="20170607214500 -0400" channel="GMAPTV">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170611184000 -0400" stop="20170611195500 -0400" channel="TFC">
+    <title lang="en">We Love Opm The Celebrity Sing Offs Sat</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607214500 -0400" stop="20170607221500 -0400" channel="GMAPTV">
-    <title lang="en">Saksi</title>
-    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world</desc>
+  <programme start="20170611195500 -0400" stop="20170611203500 -0400" channel="TFC">
+    <title lang="en">Family Feud Sun</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607221500 -0400" stop="20170607230000 -0400" channel="GMAPTV">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170611203500 -0400" stop="20170611211500 -0400" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170607230000 -0400" stop="20170607234500 -0400" channel="GMAPTV">
-    <title lang="en">My Love From The Star</title>
-    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress</desc>
+  <programme start="20170611211500 -0400" stop="20170611214500 -0400" channel="TFC">
+    <title lang="en">Citizen Pinoy Your Tanong, My Sagot</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607234500 -0400" stop="20170608003000 -0400" channel="GMAPTV">
-    <title lang="en">Meant To Be</title>
-    <desc lang="en">The romcom revolves around a young woman Barbie, her family, career and her romances. She meets four prospective suitors – Jak, Addy, Ivan, and Ken - all belonging to different nationalities and she has to choose between them</desc>
+  <programme start="20170611214500 -0400" stop="20170611224500 -0400" channel="TFC">
+    <title lang="en">Adobo Nation</title>
+    <desc lang="en">News and lifestyle topics relevant to Filipino-Americans living in the U.S. are the focus(n)</desc>
+  </programme>
+  <programme start="20170611224500 -0400" stop="20170611234000 -0400" channel="TFC">
+    <title lang="en">Rated K</title>
+    <desc lang="en">Human-interest stories and interviews are featured(n)</desc>
+  </programme>
+  <programme start="20170611234000 -0400" stop="20170612005500 -0400" channel="TFC">
+    <title lang="en">We Love Opm The Celebrity Sing Offs Sun</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
   <programme start="20170608003000 -0400" stop="20170608010000 -0400" channel="GMAPTV">
     <title lang="en">Legally Blind</title>
@@ -971,122 +855,106 @@
     <title lang="en">Follow Your Heart</title>
     <desc lang="en">No additional information is available</desc>
   </programme>
-  <programme start="20170607000000 +0800" stop="20170607003000 +0800" channel="CNNPH">
-    <title lang="en">Sportsdesk</title>
+  <programme start="20170611000000 -0400" stop="20170611003000 -0400" channel="GMAPTV">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607003000 +0800" stop="20170607010000 +0800" channel="CNNPH">
-    <title lang="en">Story Of The Filipino</title>
+  <programme start="20170611003000 -0400" stop="20170611010000 -0400" channel="GMAPTV">
+    <title lang="en">Wish Ko Lang</title>
+    <desc lang="en">Wish Ko Lang is a wish granting program featuring stories of people who struggle to overcome extraordinary situations(n)</desc>
   </programme>
-  <programme start="20170607010000 +0800" stop="20170607020000 +0800" channel="CNNPH">
-    <title lang="en">At This Hour</title>
+  <programme start="20170611010000 -0400" stop="20170611013000 -0400" channel="GMAPTV">
+    <title lang="en">Reporter's Notebook</title>
+    <desc lang="en">An investigative newsmagazine show that analyses and discusses important issues(n)</desc>
   </programme>
-  <programme start="20170607020000 +0800" stop="20170607023000 +0800" channel="CNNPH">
-    <title lang="en">Hollywood Express</title>
+  <programme start="20170611013000 -0400" stop="20170611020000 -0400" channel="GMAPTV">
+    <title lang="en">Imbestigador</title>
+    <desc lang="en">Imbestigador is an investigative show that tackles the issues and inconsistencies in the Philippine government(n)</desc>
   </programme>
-  <programme start="20170607023000 +0800" stop="20170607030000 +0800" channel="CNNPH">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170611020000 -0400" stop="20170611040000 -0400" channel="GMAPTV">
+    <title lang="en">Sunday Pinasaya</title>
+    <desc lang="en">A sunday afternoon comedy and variety show(n)</desc>
   </programme>
-  <programme start="20170607030000 +0800" stop="20170607050000 +0800" channel="CNNPH">
-    <title lang="en">CNN Morning Express</title>
+  <programme start="20170611040000 -0400" stop="20170611050000 -0400" channel="GMAPTV">
+    <title lang="en">Bubble Gang</title>
+    <desc lang="en">A sketch comedy show that features hilarious takes on television commercials, politicians and news stories(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/74023.jpg" />
   </programme>
-  <programme start="20170607050000 +0800" stop="20170607053000 +0800" channel="CNNPH">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170611050000 -0400" stop="20170611054500 -0400" channel="GMAPTV">
+    <title lang="en">Daig Kayo Ng Lola Ko</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607053000 +0800" stop="20170607060000 +0800" channel="CNNPH">
-    <title lang="en">The Service Road</title>
+  <programme start="20170611054500 -0400" stop="20170611061500 -0400" channel="GMAPTV">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607060000 +0800" stop="20170607073000 +0800" channel="CNNPH">
-    <title lang="en">Newday</title>
+  <programme start="20170611061500 -0400" stop="20170611070000 -0400" channel="GMAPTV">
+    <title lang="en">Pepito Manaloto</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607073000 +0800" stop="20170607080000 +0800" channel="CNNPH">
-    <title lang="en">Story Of The Filipino</title>
+  <programme start="20170611070000 -0400" stop="20170611080000 -0400" channel="GMAPTV">
+    <title lang="en">Wagas</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607080000 +0800" stop="20170607083000 +0800" channel="CNNPH">
-    <title lang="en">Newsroom</title>
+  <programme start="20170611080000 -0400" stop="20170611090000 -0400" channel="GMAPTV">
+    <title lang="en">Family TV Mass</title>
+    <desc lang="en">A religious program that is produced by the Mission Communications Foundation Inc. under the SVD Secretariat for Social Communications, Philippine Central Province(n)</desc>
   </programme>
-  <programme start="20170607083000 +0800" stop="20170607090000 +0800" channel="CNNPH">
-    <title lang="en">Flavors</title>
+  <programme start="20170611090000 -0400" stop="20170611100000 -0400" channel="GMAPTV">
+    <title lang="en">Jesus the Healer</title>
+    <desc lang="en">Jesus the healer is a religious show from the flagship TV program, Jesus is Lord Church Worldwide(n)</desc>
   </programme>
-  <programme start="20170607090000 +0800" stop="20170607093000 +0800" channel="CNNPH">
-    <title lang="en">The Source</title>
+  <programme start="20170611100000 -0400" stop="20170611123000 -0400" channel="GMAPTV">
+    <title lang="en">My Love From The Star</title>
+    <desc lang="en">The show revolves around an alien who had landed on earth 400 years ago and is now in love with a rich and famous actress(n)</desc>
   </programme>
-  <programme start="20170607093000 +0800" stop="20170607100000 +0800" channel="CNNPH">
-    <title lang="en">Real Talk S3</title>
+  <programme start="20170611123000 -0400" stop="20170611143000 -0400" channel="GMAPTV">
+    <title lang="en">My Househusband</title>
   </programme>
-  <programme start="20170607100000 +0800" stop="20170607103000 +0800" channel="CNNPH">
-    <title lang="en">Newsroom Ngayon</title>
+  <programme start="20170611143000 -0400" stop="20170611163000 -0400" channel="GMAPTV">
+    <title lang="en">Sunday Pinasaya</title>
+    <desc lang="en">A sunday afternoon comedy and variety show(n)</desc>
   </programme>
-  <programme start="20170607103000 +0800" stop="20170607110000 +0800" channel="CNNPH">
-    <title lang="en">The Service Road</title>
+  <programme start="20170611163000 -0400" stop="20170611173000 -0400" channel="GMAPTV">
+    <title lang="en">Bubble Gang</title>
+    <desc lang="en">A sketch comedy show that features hilarious takes on television commercials, politicians and news stories(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/74023.jpg" />
   </programme>
-  <programme start="20170607110000 +0800" stop="20170607113000 +0800" channel="CNNPH">
-    <title lang="en">Sportsdesk</title>
+  <programme start="20170611173000 -0400" stop="20170611181500 -0400" channel="GMAPTV">
+    <title lang="en">Follow Your Heart</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607113000 +0800" stop="20170607120000 +0800" channel="CNNPH">
-    <title lang="en">Medtalk</title>
+  <programme start="20170611181500 -0400" stop="20170611190000 -0400" channel="GMAPTV">
+    <title lang="en">Celebrity Bluff</title>
+    <desc lang="en">Celebrity Bluff is a game show(n)</desc>
   </programme>
-  <programme start="20170607120000 +0800" stop="20170607123000 +0800" channel="CNNPH">
-    <title lang="en">Balitaan</title>
+  <programme start="20170611190000 -0400" stop="20170611193000 -0400" channel="GMAPTV">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607123000 +0800" stop="20170607130000 +0800" channel="CNNPH">
-    <title lang="en">Hollywood Express</title>
+  <programme start="20170611193000 -0400" stop="20170611200000 -0400" channel="GMAPTV">
+    <title lang="en">24 Oras</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170607130000 +0800" stop="20170607131500 +0800" channel="CNNPH">
-    <title lang="en">Cebuano News</title>
+  <programme start="20170611200000 -0400" stop="20170611203000 -0400" channel="GMAPTV">
+    <title lang="en">Pusong Pinoy Sa Amerika</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607131500 +0800" stop="20170607133000 +0800" channel="CNNPH">
-    <title lang="en">Kapampangan News</title>
+  <programme start="20170611203000 -0400" stop="20170611214500 -0400" channel="GMAPTV">
+    <title lang="en">Kapuso Mo Jessica Soho</title>
+    <desc lang="en">A newsmagazine covering a wide range of topics(n)</desc>
   </programme>
-  <programme start="20170607133000 +0800" stop="20170607140000 +0800" channel="CNNPH">
-    <title lang="en">Culinary Journeys</title>
+  <programme start="20170611214500 -0400" stop="20170611230000 -0400" channel="GMAPTV">
+    <title lang="en">Magpakailanman</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170607140000 +0800" stop="20170607143000 +0800" channel="CNNPH">
-    <title lang="en">The Source</title>
+  <programme start="20170611230000 -0400" stop="20170611233000 -0400" channel="GMAPTV">
+    <title lang="en">I-Witness</title>
+    <desc lang="en">A documentary news and public affairs television show(n)</desc>
   </programme>
-  <programme start="20170607143000 +0800" stop="20170607150000 +0800" channel="CNNPH">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170607150000 +0800" stop="20170607153000 +0800" channel="CNNPH">
-    <title lang="en">Global Newsroom</title>
-  </programme>
-  <programme start="20170607153000 +0800" stop="20170607160000 +0800" channel="CNNPH">
-    <title lang="en">Story Of The Filipino</title>
-  </programme>
-  <programme start="20170607160000 +0800" stop="20170607163000 +0800" channel="CNNPH">
-    <title lang="en">Real Talk S3</title>
-  </programme>
-  <programme start="20170607163000 +0800" stop="20170607170000 +0800" channel="CNNPH">
-    <title lang="en">Art Of Movement</title>
-  </programme>
-  <programme start="20170607170000 +0800" stop="20170607180000 +0800" channel="CNNPH">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170607180000 +0800" stop="20170607183000 +0800" channel="CNNPH">
-    <title lang="en">Network News Weekend</title>
-  </programme>
-  <programme start="20170607190000 +0800" stop="20170607193000 +0800" channel="CNNPH">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170607193000 +0800" stop="20170607200000 +0800" channel="CNNPH">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170607200000 +0800" stop="20170607210000 +0800" channel="CNNPH">
-    <title lang="en">Stories</title>
-  </programme>
-  <programme start="20170607210000 +0800" stop="20170607213000 +0800" channel="CNNPH">
-    <title lang="en">Newsroom</title>
-  </programme>
-  <programme start="20170607213000 +0800" stop="20170607220000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
-  </programme>
-  <programme start="20170607220000 +0800" stop="20170607223000 +0800" channel="CNNPH">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170607223000 +0800" stop="20170607230000 +0800" channel="CNNPH">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170607230000 +0800" stop="20170607233000 +0800" channel="CNNPH">
-    <title lang="en">The Source</title>
+  <programme start="20170611233000 -0400" stop="20170612001500 -0400" channel="GMAPTV">
+    <title lang="en">Dear Uge</title>
+    <desc lang="en">Variety store owner Esperanza hosts a web show where different funny love stories are featured(n)</desc>
   </programme>
   <programme start="20170608000000 +0800" stop="20170608003000 +0800" channel="CNNPH">
     <title lang="en">Sportsdesk</title>
@@ -1206,16 +1074,16 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170609003000 +0800" stop="20170609010000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170609010000 +0800" stop="20170609020000 +0800" channel="CNNPH">
     <title lang="en">At This Hour</title>
   </programme>
   <programme start="20170609020000 +0800" stop="20170609023000 +0800" channel="CNNPH">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170609023000 +0800" stop="20170609030000 +0800" channel="CNNPH">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170609030000 +0800" stop="20170609050000 +0800" channel="CNNPH">
     <title lang="en">CNN Morning Express</title>
@@ -1230,13 +1098,13 @@
     <title lang="en">Newday</title>
   </programme>
   <programme start="20170609073000 +0800" stop="20170609080000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170609080000 +0800" stop="20170609083000 +0800" channel="CNNPH">
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170609083000 +0800" stop="20170609090000 +0800" channel="CNNPH">
-    <title lang="en">Culinary Journeys</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170609090000 +0800" stop="20170609093000 +0800" channel="CNNPH">
     <title lang="en">The Source</title>
@@ -1254,13 +1122,13 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170609113000 +0800" stop="20170609120000 +0800" channel="CNNPH">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Boardroom</title>
   </programme>
   <programme start="20170609120000 +0800" stop="20170609123000 +0800" channel="CNNPH">
     <title lang="en">Balitaan</title>
   </programme>
   <programme start="20170609123000 +0800" stop="20170609130000 +0800" channel="CNNPH">
-    <title lang="en">Art Of Movement</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170609130000 +0800" stop="20170609131500 +0800" channel="CNNPH">
     <title lang="en">Cebuano News</title>
@@ -1269,7 +1137,7 @@
     <title lang="en">Kapampangan News</title>
   </programme>
   <programme start="20170609133000 +0800" stop="20170609140000 +0800" channel="CNNPH">
-    <title lang="en">Flavors</title>
+    <title lang="en">Leading Women</title>
   </programme>
   <programme start="20170609140000 +0800" stop="20170609143000 +0800" channel="CNNPH">
     <title lang="en">The Source</title>
@@ -1281,16 +1149,19 @@
     <title lang="en">Global Newsroom</title>
   </programme>
   <programme start="20170609153000 +0800" stop="20170609160000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170609160000 +0800" stop="20170609163000 +0800" channel="CNNPH">
     <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170609163000 +0800" stop="20170609170000 +0800" channel="CNNPH">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170609170000 +0800" stop="20170609180000 +0800" channel="CNNPH">
     <title lang="en">The Service Road</title>
+  </programme>
+  <programme start="20170609180000 +0800" stop="20170609190000 +0800" channel="CNNPH">
+    <title lang="en">Network News</title>
   </programme>
   <programme start="20170609190000 +0800" stop="20170609193000 +0800" channel="CNNPH">
     <title lang="en">Sportsdesk</title>
@@ -1305,7 +1176,7 @@
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170609213000 +0800" stop="20170609220000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Political Insider</title>
   </programme>
   <programme start="20170609220000 +0800" stop="20170609223000 +0800" channel="CNNPH">
     <title lang="en">Sportsdesk</title>
@@ -1320,16 +1191,16 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170610003000 +0800" stop="20170610010000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170610010000 +0800" stop="20170610020000 +0800" channel="CNNPH">
     <title lang="en">At This Hour</title>
   </programme>
   <programme start="20170610020000 +0800" stop="20170610023000 +0800" channel="CNNPH">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170610023000 +0800" stop="20170610030000 +0800" channel="CNNPH">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170610030000 +0800" stop="20170610050000 +0800" channel="CNNPH">
     <title lang="en">CNN Morning Express</title>
@@ -1344,13 +1215,13 @@
     <title lang="en">Newday</title>
   </programme>
   <programme start="20170610073000 +0800" stop="20170610080000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170610080000 +0800" stop="20170610083000 +0800" channel="CNNPH">
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170610083000 +0800" stop="20170610090000 +0800" channel="CNNPH">
-    <title lang="en">Culinary Journeys</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170610090000 +0800" stop="20170610093000 +0800" channel="CNNPH">
     <title lang="en">The Source</title>
@@ -1368,13 +1239,13 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170610113000 +0800" stop="20170610120000 +0800" channel="CNNPH">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Boardroom</title>
   </programme>
   <programme start="20170610120000 +0800" stop="20170610123000 +0800" channel="CNNPH">
     <title lang="en">Balitaan</title>
   </programme>
   <programme start="20170610123000 +0800" stop="20170610130000 +0800" channel="CNNPH">
-    <title lang="en">Art Of Movement</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170610130000 +0800" stop="20170610131500 +0800" channel="CNNPH">
     <title lang="en">Cebuano News</title>
@@ -1383,7 +1254,7 @@
     <title lang="en">Kapampangan News</title>
   </programme>
   <programme start="20170610133000 +0800" stop="20170610140000 +0800" channel="CNNPH">
-    <title lang="en">Flavors</title>
+    <title lang="en">Leading Women</title>
   </programme>
   <programme start="20170610140000 +0800" stop="20170610143000 +0800" channel="CNNPH">
     <title lang="en">The Source</title>
@@ -1395,16 +1266,19 @@
     <title lang="en">Global Newsroom</title>
   </programme>
   <programme start="20170610153000 +0800" stop="20170610160000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170610160000 +0800" stop="20170610163000 +0800" channel="CNNPH">
     <title lang="en">Real Talk S3</title>
   </programme>
   <programme start="20170610163000 +0800" stop="20170610170000 +0800" channel="CNNPH">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170610170000 +0800" stop="20170610180000 +0800" channel="CNNPH">
     <title lang="en">The Service Road</title>
+  </programme>
+  <programme start="20170610180000 +0800" stop="20170610190000 +0800" channel="CNNPH">
+    <title lang="en">Network News</title>
   </programme>
   <programme start="20170610190000 +0800" stop="20170610193000 +0800" channel="CNNPH">
     <title lang="en">Sportsdesk</title>
@@ -1419,7 +1293,7 @@
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170610213000 +0800" stop="20170610220000 +0800" channel="CNNPH">
-    <title lang="en">Profiles</title>
+    <title lang="en">Political Insider</title>
   </programme>
   <programme start="20170610220000 +0800" stop="20170610223000 +0800" channel="CNNPH">
     <title lang="en">Sportsdesk</title>
@@ -1430,120 +1304,122 @@
   <programme start="20170610230000 +0800" stop="20170610233000 +0800" channel="CNNPH">
     <title lang="en">The Source</title>
   </programme>
-  <programme start="20170607000000 -0400" stop="20170607010000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Age of Innocence</sub-title>
-    <desc lang="en">Age of Innocence. The show follows a crime, ususally adapted from current headlines, from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170611000000 +0800" stop="20170611003000 +0800" channel="CNNPH">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170607010000 -0400" stop="20170607020000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Life Line</sub-title>
-    <desc lang="en">Life Line. The show follows a crime, ususally adapted from current headlines, from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170611003000 +0800" stop="20170611010000 +0800" channel="CNNPH">
+    <title lang="en">Medtalk</title>
   </programme>
-  <programme start="20170607020000 -0400" stop="20170607030000 -0400" channel="TNT">
-    <title lang="en">The Last Ship</title>
-    <sub-title lang="en">El Toro</sub-title>
-    <desc lang="en">El Toro. A mission to help Rachel with her vaccine trials leads Chandler and a small team into the jungles of Nicaragua, where they tangle with a former drug kingpin who will stop at nothing to maintain his power over his oppressed society</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+  <programme start="20170611010000 +0800" stop="20170611020000 +0800" channel="CNNPH">
+    <title lang="en">At This Hour</title>
   </programme>
-  <programme start="20170607030000 -0400" stop="20170607040000 -0400" channel="TNT">
-    <title lang="en">The Last Ship</title>
-    <sub-title lang="en">Lockdown</sub-title>
-    <desc lang="en">Lockdown. Panic spreads like wildfire when Lt Danny Green comes down with a mysterious illness. Chandler, meanwhile, starts to have doubts about Rachel</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+  <programme start="20170611020000 +0800" stop="20170611023000 +0800" channel="CNNPH">
+    <title lang="en">Vital Signs</title>
   </programme>
-  <programme start="20170607040000 -0400" stop="20170607050000 -0400" channel="TNT">
-    <title lang="en">The Last Ship</title>
-    <sub-title lang="en">SOS</sub-title>
-    <desc lang="en">SOS. Chandler and Tex launch a rescue attempt after picking up a distress call, but good intentions backfire when a surprise attack leaves them stranded at sea</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
+  <programme start="20170611023000 +0800" stop="20170611030000 +0800" channel="CNNPH">
+    <title lang="en">Business Traveller</title>
   </programme>
-  <programme start="20170607050000 -0400" stop="20170607060000 -0400" channel="TNT">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Open Season</sub-title>
-    <desc lang="en">Open Season. After his client is acquitted for the attempted murder of a cop, a high-profile defense lawyer is killed. Danielle Melnick: Tovah Feldshuh. Julian Preuss: Garret Dillahunt. Matthew Clemens: Michael Louis Wells. Judge Barbara Lusky: Iris Little Thomas. Harrison Taylor: Michael Mulheren. Briscoe: Jerry Orbach. Southerlyn: Elisabeth Rohm. McCoy: Sam Waterston</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170611030000 +0800" stop="20170611050000 +0800" channel="CNNPH">
+    <title lang="en">CNN Morning Express</title>
   </programme>
-  <programme start="20170607060000 -0400" stop="20170607070000 -0400" channel="TNT">
-    <title lang="en">Arrow</title>
-    <sub-title lang="en">Schism</sub-title>
-    <desc lang="en">Schism. Series 4 ends with Oliver teaming up with a surprising force in an attempt to stop Damien Darhk and his magic once and for all</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
+  <programme start="20170611050000 +0800" stop="20170611053000 +0800" channel="CNNPH">
+    <title lang="en">Real Talk S3</title>
   </programme>
-  <programme start="20170607070000 -0400" stop="20170607080000 -0400" channel="TNT">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Just Harried</sub-title>
-    <desc lang="en">Just Harried. As the sisters prepare for Leo and Piper's wedding, Prue is running on empty. She can't seem to get any rest because every time she goes to sleep she has vivid dreams of being in a seedy bar and flirting with a cutie biker guy. In her most recent dream, a guys tries to rip her off outside the bar and she hits him with spare log. Leo and Victor bond before the wedding and work out their differences. Grams is sent by Them as a high priestess to perform the ceremony, the girls' mother is allowed to attend, and Cole and Darryl attend the small ceremony as well. Darryl informs Prue that she's wanted for murder. As the ceremony begins, the cutie biker guy bursts into the house, on his bike, and sweeps astral Prue away, leaving regular Prue collapsed and unconscious. Piper, fed up with one more thing going wrong, gives up on getting married. Phoebe uses a spell to bring astral Prue back and convinces her, Prue's ego and inner and supressed urges, to go back with the real Prue so they can mend Piper's wedding. As soon as Phoebe puts her eldest sister back together, Prue is arrested for murder. Darryl, Leo and Cole work together to bring the real murderer to justice, and wedding finally happens just before the stroke of midnight when the girls' mother is being recalled to heaven</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170611053000 +0800" stop="20170611060000 +0800" channel="CNNPH">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170607080000 -0400" stop="20170607090000 -0400" channel="TNT">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Death Takes a Halliwell</sub-title>
-    <desc lang="en">Death Takes a Halliwell. Prue sees the Angel of Death as he takes a murdered woman's soul---and the specter warns that he will return. Also, Phoebe and Cole hunt for two demons that are pursuing Belthazor after Phoebe learns that Cole's former landlady was murdered. Cole: Julian McMahon. Prue: Shannen Doherty. Phoebe: Alyssa Milano. Leo: Brian Krause</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170611060000 +0800" stop="20170611073000 +0800" channel="CNNPH">
+    <title lang="en">Newday</title>
   </programme>
-  <programme start="20170607090000 -0400" stop="20170607100000 -0400" channel="TNT">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Pre-Witched</sub-title>
-    <desc lang="en">Pre-Witched. A witch's familiar turns evil, and tries to transform himself into a powerful warlock</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170611073000 +0800" stop="20170611080000 +0800" channel="CNNPH">
+    <title lang="en">Medtalk</title>
   </programme>
-  <programme start="20170607100000 -0400" stop="20170607110000 -0400" channel="TNT">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Bloody Mary</sub-title>
-    <desc lang="en">Bloody Mary. When a man dies of a stroke in front of a mirror, the boys investigate a link with a chilling urban legend</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170611080000 +0800" stop="20170611083000 +0800" channel="CNNPH">
+    <title lang="en">Newsroom</title>
   </programme>
-  <programme start="20170607110000 -0400" stop="20170607120000 -0400" channel="TNT">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Skin</sub-title>
-    <desc lang="en">Skin. A faith healer is dealing with forces beyond his control, and Sam and Dean must find a way to destroy a Reaper that is doing the healer's dirty work</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170611083000 +0800" stop="20170611090000 +0800" channel="CNNPH">
+    <title lang="en">CNN Go</title>
   </programme>
-  <programme start="20170607120000 -0400" stop="20170607130000 -0400" channel="TNT">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Hook Man</sub-title>
-    <desc lang="en">Hook Man. The brothers hunt a spirit with a hook for a hand after the creature kills a frat boy while he's in a car with his date</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170611090000 +0800" stop="20170611093000 +0800" channel="CNNPH">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170607130000 -0400" stop="20170607140000 -0400" channel="TNT">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Bugs</sub-title>
-    <desc lang="en">Bugs. Sam and Dean investigate a town that's plagued by killer insects and discover that the area's new housing development is being built on sacred Native American land</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170611093000 +0800" stop="20170611100000 +0800" channel="CNNPH">
+    <title lang="en">Real Talk S3</title>
   </programme>
-  <programme start="20170607140000 -0400" stop="20170607150000 -0400" channel="TNT">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The End in the Beginning</sub-title>
-    <desc lang="en">The End in the Beginning. A familiar face returns to the Jeffersonian and Brennan and Booth's relationship develops further in Bones' season finale. Motley Crue guest star</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
+  <programme start="20170611100000 +0800" stop="20170611103000 +0800" channel="CNNPH">
+    <title lang="en">Newsroom Ngayon</title>
   </programme>
-  <programme start="20170607150000 -0400" stop="20170607160000 -0400" channel="TNT">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">Harbingers in a Fountain</sub-title>
-    <desc lang="en">Harbingers in a Fountain. In the fifth-season premiere, work resumes for Brennan, who's back from a dig in Guatemala, and Booth, anxious to return to duty six weeks after his brain surgery, when Angela's psychic suggests there are bodies buried under a fountain in Washington, DC</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
+  <programme start="20170611103000 +0800" stop="20170611110000 +0800" channel="CNNPH">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170607160000 -0400" stop="20170607180000 -0400" channel="TNT">
-    <title lang="en">Daddy's Little Girls</title>
-    <desc lang="en">Tyler Perry wrote and directed this romantic and heartwarming comedy-drama about a divorcé (Idris Elba) who falls for the lawyer (Gabrielle Union) helping him to win custody of his three young daughters after his ex-wife moves in with a drug dealer. Louis Gossett Jr., Tasha Smith, Tracee Ellis Ross, Malinda Williams</desc>
+  <programme start="20170611110000 +0800" stop="20170611113000 +0800" channel="CNNPH">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170607180000 -0400" stop="20170607200000 -0400" channel="TNT">
-    <title lang="en">Tyler Perry's Madea Goes to Jail</title>
-    <desc lang="en">Tyler Perry transitions another one of his hit plays to the big screen with this adaptation of +Madea Goes to Jail. The successful filmmaker stars once again as the mischief-prone older woman whose exploits this time lead her to jail, where she befriends and reforms a prostitute named Candy (The Cosby Show's Keshia Knight Pulliam)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/103992.jpg" />
+  <programme start="20170611113000 +0800" stop="20170611120000 +0800" channel="CNNPH">
+    <title lang="en">Boardroom</title>
   </programme>
-  <programme start="20170607200000 -0400" stop="20170607220000 -0400" channel="TNT">
-    <title lang="en">Tyler Perry's I Can Do Bad All by Myself</title>
-    <desc lang="en">Tyler Perry continues his stage-to-screen adaptations with this new entry in his roster, starring Taraji P. Henson and singer Mary J. Blige</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/107193.jpg" />
+  <programme start="20170611120000 +0800" stop="20170611123000 +0800" channel="CNNPH">
+    <title lang="en">Balitaan</title>
   </programme>
-  <programme start="20170607220000 -0400" stop="20170608000000 -0400" channel="TNT">
-    <title lang="en">Tyler Perry's Madea's Big Happy Family</title>
-    <desc lang="en">Adapted from the multi-talented playwright/filmmaker's hit stage play of the same name, Tyler Perry's Madea's Big Happy Family finds the cantankerous family matriarch using her unique brand of tough love to help her family weather some particularly rough waters. Madea's niece Shirley has received a frightening medical diagnosis, and she's having a hard time figuring out how to break the news to the rest of the family. Unfortunately she's not the only one in the midst of a crisis, either: Kimberly is suffering from anger issues that are threatening to destroy her marriage; Tammy's marital problems are being compounded by her disobedient children; and Byron is struggling to stay out of the drug trade after spending two years behind bars. Later, as a skeleton in the family closet pops into the picture, Madea and Aunt Bam show that love and laugher can help to overcome even the biggest obstacles</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/153978.jpg" />
+  <programme start="20170611123000 +0800" stop="20170611130000 +0800" channel="CNNPH">
+    <title lang="en">Business Traveller</title>
+  </programme>
+  <programme start="20170611130000 +0800" stop="20170611131500 +0800" channel="CNNPH">
+    <title lang="en">Cebuano News</title>
+  </programme>
+  <programme start="20170611131500 +0800" stop="20170611133000 +0800" channel="CNNPH">
+    <title lang="en">Kapampangan News</title>
+  </programme>
+  <programme start="20170611133000 +0800" stop="20170611140000 +0800" channel="CNNPH">
+    <title lang="en">Leading Women</title>
+  </programme>
+  <programme start="20170611140000 +0800" stop="20170611143000 +0800" channel="CNNPH">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20170611143000 +0800" stop="20170611150000 +0800" channel="CNNPH">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170611150000 +0800" stop="20170611153000 +0800" channel="CNNPH">
+    <title lang="en">Global Newsroom</title>
+  </programme>
+  <programme start="20170611153000 +0800" stop="20170611160000 +0800" channel="CNNPH">
+    <title lang="en">Medtalk</title>
+  </programme>
+  <programme start="20170611160000 +0800" stop="20170611163000 +0800" channel="CNNPH">
+    <title lang="en">Real Talk S2</title>
+  </programme>
+  <programme start="20170611163000 +0800" stop="20170611170000 +0800" channel="CNNPH">
+    <title lang="en">Vital Signs</title>
+  </programme>
+  <programme start="20170611170000 +0800" stop="20170611180000 +0800" channel="CNNPH">
+    <title lang="en">The Service Road</title>
+  </programme>
+  <programme start="20170611180000 +0800" stop="20170611190000 +0800" channel="CNNPH">
+    <title lang="en">Network News</title>
+  </programme>
+  <programme start="20170611190000 +0800" stop="20170611193000 +0800" channel="CNNPH">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170611193000 +0800" stop="20170611200000 +0800" channel="CNNPH">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20170611200000 +0800" stop="20170611210000 +0800" channel="CNNPH">
+    <title lang="en">Stories</title>
+  </programme>
+  <programme start="20170611210000 +0800" stop="20170611213000 +0800" channel="CNNPH">
+    <title lang="en">Newsroom</title>
+  </programme>
+  <programme start="20170611213000 +0800" stop="20170611220000 +0800" channel="CNNPH">
+    <title lang="en">Political Insider</title>
+  </programme>
+  <programme start="20170611220000 +0800" stop="20170611223000 +0800" channel="CNNPH">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20170611223000 +0800" stop="20170611230000 +0800" channel="CNNPH">
+    <title lang="en">The Service Road</title>
+  </programme>
+  <programme start="20170611230000 +0800" stop="20170611233000 +0800" channel="CNNPH">
+    <title lang="en">The Source</title>
   </programme>
   <programme start="20170608000000 -0400" stop="20170608010000 -0400" channel="TNT">
     <title lang="en">Animal Kingdom</title>
@@ -1857,70 +1733,73 @@
     <desc lang="en">Karma. Smurf adjusts to being sidelined as the guys scope out their next job. Meanwhile, Deran needs quick cash, with Pope and Craig lending him a hand, and Baz snoops into Catherine's vanishing</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/198171.jpg" />
   </programme>
-  <programme start="20170607010000 +0300" stop="20170607023000 +0300" channel="MBC2">
-    <title lang="ar">Cloverfield</title>
-    <desc lang="ar">ينقلب احتفال يقيمه جاسون لوداع شقيقه روب المهاجر إلى طوكيو إلى حالة عامة من الرعب والفزع عندما يهاجم وحش ضخم غامض المدينة ويدمرها</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/CLOVERFIELD_1024/original/6e6edcaafc240bee93b1893a728d7f62bfeb34a9/CLOVERFIELD_1024.jpg" />
+  <programme start="20170611003000 -0400" stop="20170611041500 -0400" channel="TNT">
+    <title lang="en">Django Unchained</title>
+    <desc lang="en">A former slave-turned-hired gun teams up with a German bounty hunter in order to free his wife from a tyrannical plantation owner. However, their mission is complicated by the plantation's traitorous house slave(n)</desc>
   </programme>
-  <programme start="20170607023000 +0300" stop="20170607043000 +0300" channel="MBC2">
-    <title lang="ar">The Boondock Saints II: All Saints Day</title>
-    <desc lang="ar">عندما يعلم الشقيقان ماكمانوس أن صديقهما الكاهن الطيب قد لقي مصرعه على أيدي رجال العصابات، يقرران العودة لبوسطن وبدء القتال من جديد انتقاما له</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/04/THE-BOONDOCK-SAINTS-II-ALL-SAINTS-DAY_1024/original/1dc7d963fae0d7a62dc3d5d025150bb3558fb5a8/THE-BOONDOCK-SAINTS-II-ALL-SAINTS-DAY_1024.jpg" />
+  <programme start="20170611041500 -0400" stop="20170611060000 -0400" channel="TNT">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">A woman is kidnapped by a stranger on a routine flight. Threatened by the potential murder of her father, she is pulled into a plot to assist her captor in offing a politician(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/177859.jpg" />
   </programme>
-  <programme start="20170607043000 +0300" stop="20170607063000 +0300" channel="MBC2">
-    <title lang="ar">Snitch</title>
-    <desc lang="ar">يحاول أب أن ينقذ سمعة ابنه ويثبت براءته من التهم التي وجهت إليه، بعد أن يعتقل في جريمة مخدرات، ليبدأ رحلة من المخاطرة في عالم عصابات المخدرات</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week03/18-10-2016/001/Snitch/original/d59ec5a3fcf7d8daa885405b71a723df35218867/Snitch.jpg" />
+  <programme start="20170611060000 -0400" stop="20170611070000 -0400" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Seer</sub-title>
+    <desc lang="en">Seer. A young woman is murdered outside a club and her neighbour claims to have psychic knowledge of the crime. But the case against the neighbour grows stronger when the cops learn that he was stalking the victim(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170607063000 +0300" stop="20170607083000 +0300" channel="MBC2">
-    <title lang="ar">The Death and Life of Bobby Z</title>
-    <desc lang="ar">تعرض السلطات على السجين تيم كيرني أن يخرج من السجن مقابل الاندساس وسط عصابات المخدرات، مجسدا شخصية تاجر المخدرات المتوفى بوبي زد(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/THE-DEATH-AND-LIFE-OF-BOBBY-Z_1024/original/3d98f3aa548fdbcf499d4a2d5034ec0ac79e24f9/THE-DEATH-AND-LIFE-OF-BOBBY-Z_1024.jpg" />
+  <programme start="20170611070000 -0400" stop="20170611080000 -0400" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Kid Pro Quo</sub-title>
+    <desc lang="en">Kid Pro Quo. A private school's director of admissions is found murdered on a park bench and police find threats from parents on her cellphone. Wyatt Scofield: Roger Rees. Marvin Waters: Curtis McClarin. Harvey Anchin: Josh Mostel. Merrill Rush: Daniel Oreskes(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170607083000 +0300" stop="20170607100000 +0300" channel="MBC2">
-    <title lang="ar">Lottery Ticket</title>
-    <desc lang="ar">يفوز الشاب كيفن كارسون بتذكرة يانصيب تبلغ قيمتها 370 مليون دولارا، لكن سرعان مايسبب له هذا الفوز توترا فيحاول البعض انتزاعها منه بالقوة، ويصبح محط أنظار الجميلات(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/march/week-02/11-3-2015/LOTTERY-TICKET/original/074a078edcdcaf026b1100d1e4d65e1fda4497bc/LOTTERY-TICKET.jpg" />
+  <programme start="20170611080000 -0400" stop="20170611090000 -0400" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">House Calls</sub-title>
+    <desc lang="en">House Calls. A model's sudden death leads to a case involving a doctor (Jonathan Hogan) and prescription drugs. Marion Seaver: Michael Boatman. Yolanda Parkova: Lisa Bostnar. Serg Parkova: Misha Kuznetsov. Anthony Matteo: Louis Vanaria. Dr. Abrams: Rosalie Tenseth(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170607100000 +0300" stop="20170607141500 +0300" channel="MBC2">
-    <title lang="ar">The X Files: I Want to Believe</title>
-    <desc lang="ar">يترك الزوجان مولدر ودانا عملهما في مكتب التحقيقات الفيدرالية ليعيشا حياة هادئة، لكن الإدارة تستدعيهما مجددًا من أجل أخطر عملية(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2014/August/week-03/18-8-2014/THE X-FILES I WANT TO BELIEVE/original/488c31afe937af4d5e84dc8be5f602b06bd63f1a/THE X-FILES I WANT TO BELIEVE.jpg" />
+  <programme start="20170611090000 -0400" stop="20170611100000 -0400" channel="TNT">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Sheltered</sub-title>
+    <desc lang="en">Sheltered. Briscoe and Green try to find the person responsible for a series of seemingly random shootings(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170607141500 +0300" stop="20170607160000 +0300" channel="MBC2">
-    <title lang="ar">Mission to Mars</title>
-    <desc lang="ar">عندما تُجهز البعثة المتوجهة الى المريخ تواجه كارثة غامضة، ويتم ارسال فريق للإنقاذ والتحقيق في المأساة وإعادة أي ناجين</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/march/19-3-2017/00/Mission to Mars/original/68e1a3742799ff385238921a71acbc34885b4e96/Mission to Mars.jpg" />
+  <programme start="20170611100000 -0400" stop="20170611123000 -0400" channel="TNT">
+    <title lang="en">Percy Jackson &amp; the Olympians: The Lightning Thief</title>
+    <desc lang="en">(2010) This family adventure from Chris Columbus (who directed the first two Harry Potter films) is adapted from the first of Rick Riordan's series of fantasy novels, and stars Logan Lerman as Percy Jackson, an American teen who finds that Greek myth is much closer to home than he imagined. It turns out that while his mum Sally (Catherine Keener) is human, his father (Kevin McKidd) is the Greek god of the sea and earthquakes, Poseidon; which makes our hero a demigod. At first it's all a bit much to take in, as he learns the modern world is teeming with deities and their offspring. And things take a turn for the worse when Zeus (Sean Bean) suspects Percy of theft after the lightning bolt that confers supreme, terrifying power goes missing. With his mother kidnapped and the errant super weapon threatening to cause a catastrophic clash of the gods, Percy sets off to recover the artefact. As he does so, he discovers the many creatures and monsters of legend are also alive today, and are as fierce as ever. Also starring Pierce Brosnan (as a centaur), Uma Thurman (as Medusa) and Steve Coogan (as Hades)(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/113061.jpg" />
   </programme>
-  <programme start="20170607160000 +0300" stop="20170607163000 +0300" channel="MBC2">
-    <title lang="ar">The Insider</title>
-    <desc lang="ar">برنامج بديل لاخبار المشاهير يسلط الضوء على أخر قصصهم الجديدة وخاصة الصادمة منها من خلال تتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-04/31-8-2015/The_Insider_september-2015/original/7604de527a2f77ddff484ee13ec316e71c5f7f19/The_Insider_september-2015.jpg" />
+  <programme start="20170611123000 -0400" stop="20170611153000 -0400" channel="TNT">
+    <title lang="en">The Hunger Games</title>
+    <desc lang="en">Sixteen-year-old Katniss Everdeen is selected to compete in a cruel televised tournament in which 24 teenagers from a postapocalyptic society fight to the death for the entertainment of the masses(n)</desc>
   </programme>
-  <programme start="20170607163000 +0300" stop="20170607170000 +0300" channel="MBC2">
-    <title lang="ar">Entertainment Tonight</title>
-    <desc lang="ar">برنامج يسلط الضوء على أخبار مشاهير الغرب وكل ما هو جديد في عالم الموسيقى والافلام والموضة من خلال اجراء مقابلات حصرية مع المع المشاهير وتتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/may/5-5-2016/Entertainment-tonight/original/885358258630fb4b3ad62fc6db22b1421608992a/Entertainment-tonight.jpg" />
+  <programme start="20170611153000 -0400" stop="20170611183000 -0400" channel="TNT">
+    <title lang="en">The Hunger Games: Catching Fire</title>
+    <desc lang="en">Katniss and Peeta are forced to participate in the 75th Hunger Games shortly after they go on a tour of the country of Panem and discover that a revolution is brewing(n)</desc>
   </programme>
-  <programme start="20170607170000 +0300" stop="20170607190000 +0300" channel="MBC2">
-    <title lang="ar">City of Ember</title>
-    <desc lang="ar">تقرر مجموعة من العلماء إنشاء مدينة سكنية تحت الأرض لحماية الجنس البشري، لكن ظروف الحياة في المدينة تتدهور بسرعة فيحاول سكانها العثور على طريقة للمغادرة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/october/week-3/18-10-2013/mbc2/CITY-OF-EMBER_1024/original/b96e8e5974cdf3a352019fcecce03d2956e8d97f/CITY-OF-EMBER_1024.jpg" />
+  <programme start="20170611183000 -0400" stop="20170611210000 -0400" channel="TNT">
+    <title lang="en">The Hunger Games: Mockingjay, Part 1</title>
+    <desc lang="en">Katniss ends up in District 13 following the Quarter Quell, and sets out to save Peeta while forging a fragile alliance with President Coin. Meanwhile, Katniss's courage becomes a source of inspiration to the downtrodden masses(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/194703.jpg" />
   </programme>
-  <programme start="20170607190000 +0300" stop="20170607210000 +0300" channel="MBC2">
-    <title lang="ar">Addams Family Values</title>
-    <desc lang="ar">تدخل المربية الحسناء ديبي في حياة عائلة ديبي، لتتظاهر بالبراءة أمام الجميع، ما عدا الطفلين وينسداي وبوجسلي اللذان يعلمان طمعها في العم العجوز</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/December/week-3/19-12-2013/max/ADDAMS-FAMILY-VALUES_1024/original/5de69e7c0f329cf79e945d4c4690e18633cabe2f/ADDAMS-FAMILY-VALUES_1024.jpg" />
+  <programme start="20170611210000 -0400" stop="20170611220000 -0400" channel="TNT">
+    <title lang="en">Claws</title>
+    <sub-title lang="en">Tirana</sub-title>
+    <desc lang="en">Tirana. Desna (Niecy Nash) gets entangled in a money-laundering scheme in the series premiere of this dark comedy centering on five hardworking yet treacherous manicurists at a Florida nail salon(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/203530.jpg" />
   </programme>
-  <programme start="20170607210000 +0300" stop="20170607230000 +0300" channel="MBC2">
-    <title lang="ar">Alice in Wonderland</title>
-    <desc lang="ar">تعود أليس الجميلة الى بلاد العجائب ، لتعيش مغامرة جديدة وتحيي ذكرياتها السابقة، لتجد كل شئ قد تغير، وتعلم دورها في انهاء مملكة الأشرار</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/December/week-4/19-12-2015/Alice-in-Wonderland/original/c3d7644e3a1e7876375d94934280efe47299f481/Alice-in-Wonderland.jpg" />
+  <programme start="20170611220000 -0400" stop="20170611230000 -0400" channel="TNT">
+    <title lang="en">Claws</title>
+    <sub-title lang="en">Tirana</sub-title>
+    <desc lang="en">Tirana. Desna (Niecy Nash) gets entangled in a money-laundering scheme in the series premiere of this dark comedy centering on five hardworking yet treacherous manicurists at a Florida nail salon(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/203530.jpg" />
   </programme>
-  <programme start="20170607230000 +0300" stop="20170608010000 +0300" channel="MBC2">
-    <title lang="ar">Sweeney Todd: The Demon Barber of Fleet Street</title>
-    <desc lang="ar">يقوم قاضي فاسد بتلفيق جريمة لحلاق حتى يستولي على زوجته الجميلة، لكن الحلاق يعود بعد 15 عام ليكتشف إن زوجته إنتحرت فيقرر الإنتقام من أعدائه</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/september/20-9-2013/mbc2/SWEENEY-TODD-THE-DEMON-BARBER-OF-FLEET-STREET_1024/original/cb6beb859286bf24ed32758ad6d1b758ba26577d/SWEENEY-TODD-THE-DEMON-BARBER-OF-FLEET-STREET_1024.jpg" />
+  <programme start="20170611230000 -0400" stop="20170612010000 -0400" channel="TNT">
+    <title lang="en">Tyler Perry's Madea's Big Happy Family</title>
+    <desc lang="en">Adapted from the multi-talented playwright/filmmaker's hit stage play of the same name, Tyler Perry's Madea's Big Happy Family finds the cantankerous family matriarch using her unique brand of tough love to help her family weather some particularly rough waters. Madea's niece Shirley has received a frightening medical diagnosis, and she's having a hard time figuring out how to break the news to the rest of the family. Unfortunately she's not the only one in the midst of a crisis, either: Kimberly is suffering from anger issues that are threatening to destroy her marriage; Tammy's marital problems are being compounded by her disobedient children; and Byron is struggling to stay out of the drug trade after spending two years behind bars. Later, as a skeleton in the family closet pops into the picture, Madea and Aunt Bam show that love and laugher can help to overcome even the biggest obstacles(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/153978.jpg" />
   </programme>
   <programme start="20170608010000 +0300" stop="20170608030000 +0300" channel="MBC2">
     <title lang="ar">Sleepy Hollow</title>
@@ -1967,15 +1846,10 @@
     <desc lang="ar">برنامج بديل لاخبار المشاهير يسلط الضوء على أخر قصصهم الجديدة وخاصة الصادمة منها من خلال تتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-04/31-8-2015/The_Insider_september-2015/original/7604de527a2f77ddff484ee13ec316e71c5f7f19/The_Insider_september-2015.jpg" />
   </programme>
-  <programme start="20170608163000 +0300" stop="20170608170000 +0300" channel="MBC2">
+  <programme start="20170608163000 +0300" stop="20170608190000 +0300" channel="MBC2">
     <title lang="ar">Entertainment Tonight</title>
-    <desc lang="ar">برنامج يسلط الضوء على أخبار مشاهير الغرب وكل ما هو جديد في عالم الموسيقى والافلام والموضة من خلال اجراء مقابلات حصرية مع المع المشاهير وتتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
+    <desc lang="ar">برنامج يسلط الضوء على أخبار مشاهير الغرب وكل ما هو جديد في عالم الموسيقى والافلام والموضة من خلال اجراء مقابلات حصرية مع المع المشاهير وتتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين(c)</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/may/5-5-2016/Entertainment-tonight/original/885358258630fb4b3ad62fc6db22b1421608992a/Entertainment-tonight.jpg" />
-  </programme>
-  <programme start="20170608170000 +0300" stop="20170608190000 +0300" channel="MBC2">
-    <title lang="ar">Back To The Future</title>
-    <desc lang="ar">يسافر مارتي إلى الماضي مستخدما آلة اخترعها العالم إيميت براون، إلا أنه يمنع بطريق الخطأ والديه من الاجتماع، ما يضع وجوده في المستقبل على المحك</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/Action/BACK-TO-THE-FUTURE/original/fa0a3cf9d5cdf79bcc3de791ed8033c98fb98864/BACK-TO-THE-FUTURE.jpg" />
   </programme>
   <programme start="20170608190000 +0300" stop="20170608210000 +0300" channel="MBC2">
     <title lang="ar">After Earth</title>
@@ -2132,125 +2006,70 @@
     <desc lang="ar">تختلق الفتاتان رومي وميشيل قصة نجاح وهمية حتى لا تشعران بالخجل خلال حضور حفل الخريجين الخاص بمدرستهما الثانوية، فما الذي ستسفر عنه الكذبة</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/MAX/6276044a-1e5c-47a2-afe8-d008fc7be780/original/dbad6c89c302390653ff45039e74294e6bb1ce81/Romy-and-Michele's-High-School-Reunion_XL.jpg" />
   </programme>
-  <programme start="20170607000000 +0300" stop="20170607010000 +0300" channel="MBCAction">
-    <title lang="ar">Illusions of Grandeur</title>
-    <desc lang="ar">يتتبع البرنامج مغامرات ساحر الشوارع زاك مبرزا؛ والألعاب السحرية المبتكرة التي يقدمها، حيث يركز في كل حلقة على نوع معين من السحر لإبهار الجمهور</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/Illusions-of-Grandeur/original/324e5f2963074f18a638cdd2de38ef1bb50d0a04/Illusions-of-Grandeur.jpg" />
+  <programme start="20170611010000 +0300" stop="20170611023000 +0300" channel="MBC2">
+    <title lang="ar">Scott Pilgrim vs. the World</title>
+    <desc lang="ar">يحاول شاب يهوى عزف الجيتار التقرب من فتاة حسناء حضرت مؤخرا إلى تورنتو وتحاول نسيان ماضيها فيقرر تحدي كل أصدقائها السابقين ليبدأ في مواعدتها(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2014/May/week-03/15-05-2014/002/ss4/original/25cd2e6a70f6f97980e07f00dd3e4f6bd64598da/ss1.jpg" />
   </programme>
-  <programme start="20170607010000 +0300" stop="20170607014500 +0300" channel="MBCAction">
-    <title lang="ar">Two and a Half Men-الموسم 10</title>
-    <desc lang="ar">جاك يستعد لمرحلة جديدة فى حياته، وذلك بعد إعاده تعينيه ليقضى سنة فى خدمته العسكرية باليابان، وعليه يقرر والده ويلدون أن يذهبا معًا فى رحلة للجراند كانيون حيث يستعيدان ذكرياتهما ويقتربا من بعضهاالبعض أكثر، فى حين يبقى الآن فى حالة إكتئاب نتيجة إنفصاله العاطفى الذى يدفعه لإرتكاب حماقات أكثر تضعه فى مواقف صعبة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/29-8-2016/Two-and-a-Half-men/original/dc14bf7603cc46db8a37045cbaddd5442442240b/Two-and-a-Half-men.jpg" />
+  <programme start="20170611023000 +0300" stop="20170611040000 +0300" channel="MBC2">
+    <title lang="ar">Shoot 'Em Up</title>
+    <desc lang="ar">أثناء إنتظار رجل في محطة حافلات بوقت متأخر من الليل، تستنجد به إمرأة حامل فيساعدها في ولادة رضيعها ويحاول إنقاذه من عصابة تسعى لقتلهم(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2014/february/week-3/22-2-2014/MBC2/SHOOT-EM-UP_1024/original/6dd688e926d993e4c41ba640fcc63ff293e706ba/SHOOT-EM-UP_1024.jpg" />
   </programme>
-  <programme start="20170607014500 +0300" stop="20170607023000 +0300" channel="MBCAction">
-    <title lang="ar">Revolution</title>
-    <desc lang="ar">مسلسل تلفزيوني أمريكي،يروي قصةأشخاص يعيشون في العام 2027 بعد حدوث دمار هائل للأرض،وبعد 15 عام على انقطاع شامل للتيارالكهربائي في العالم،و تعيش الدول تحت سيطرة الجيوش وبعض قادتها ومنهم الجنرال مونرو " ديفيد لايونس"،الذي يقوم بمهمة هجوم على قرية تشارلي ماثيسون</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2017/march/week1/27-3-2017/MBCA_REVOLUTION-S1_grid-imageRida/original/87f0ae9977928e7f27479bab7e99f60db3b88407/MBCA_REVOLUTION-S1_grid-imageRida.jpg" />
+  <programme start="20170611040000 +0300" stop="20170611063000 +0300" channel="MBC2">
+    <title lang="ar">Rogue Assassin</title>
+    <desc lang="ar">يقرر المحقق جاك كراوفورد أن ينتقم من المجرم الشهير روج بسبب قتله لزميله، فيجد نفسه وسط الصراع المحتدم بين العصابات الصينية واليابانية(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/03/ROGUE ASSASSIN/original/cd5ce20fc98dc3a5f34c1fd0a96e2300bae888d9/ROGUE ASSASSIN.jpg" />
   </programme>
-  <programme start="20170607023000 +0300" stop="20170607043000 +0300" channel="MBCAction">
-    <title lang="ar">12 Rounds</title>
-    <desc lang="ar">يقوم أحد المجرمين الخطرين بالهروب من السجن ويخطف زوجة ضابط الشرطة الذي قبض عليه ويأمره بتنفيذ إثنى عشرة مهمة شبه مستحيلة حتى لا يقتل زوجته</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/wwe-website/2013/august/12-8-2013/12-Rounds_1024/original/bfffdf2dad0f0643af115d56d4d125058e713a55/12 Rounds_1024.jpg" />
+  <programme start="20170611063000 +0300" stop="20170611090000 +0300" channel="MBC2">
+    <title lang="ar">November Man</title>
+    <desc lang="ar">يُدعى عميل سابق لوكالة المخابرات المركزية الأمريكية الى مهمة شخصية للغاية، ليجد نفسه في صراع عنيف مع كبارالضباط في الوكالة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/march/19-3-2017/00/The November Man/original/809fb993a718e36c8eae272ebd31591616332abc/The November Man.jpg" />
   </programme>
-  <programme start="20170607043000 +0300" stop="20170607051500 +0300" channel="MBCAction">
-    <title lang="ar">الممالك الثلاث - الموسم 1</title>
-    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
+  <programme start="20170611090000 +0300" stop="20170611110000 +0300" channel="MBC2">
+    <title lang="ar">Back to the Future Part III</title>
+    <desc lang="ar">بينما يستمتع دكتور إيميت براون بالحياة الهادئة في عام 1885، يعلم مارتي مكفلي أن حياته في خطر. فيسافر إلى الماضي لإنقاذ صديقه في الوقت المناسب(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/Action/BACK-TO-THE-FUTURE-PART-III/original/0f8eeb43a6530582c271c2c5fd2ff9590ba63383/BACK-TO-THE-FUTURE-PART-III.jpg" />
   </programme>
-  <programme start="20170607051500 +0300" stop="20170607060000 +0300" channel="MBCAction">
-    <title lang="ar">The Blacklist- الموسم 2</title>
-    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
+  <programme start="20170611110000 +0300" stop="20170611123000 +0300" channel="MBC2">
+    <title lang="ar">Romy and Michele's High School Reunion</title>
+    <desc lang="ar">تختلق الفتاتان رومي وميشيل قصة نجاح وهمية حتى لا تشعران بالخجل خلال حضور حفل الخريجين الخاص بمدرستهما الثانوية، فما الذي ستسفر عنه الكذبة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/MAX/6276044a-1e5c-47a2-afe8-d008fc7be780/original/dbad6c89c302390653ff45039e74294e6bb1ce81/Romy-and-Michele's-High-School-Reunion_XL.jpg" />
   </programme>
-  <programme start="20170607060000 +0300" stop="20170607064500 +0300" channel="MBCAction">
-    <title lang="ar">What Went Down</title>
-    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
+  <programme start="20170611123000 +0300" stop="20170611141500 +0300" channel="MBC2">
+    <title lang="ar">Ferris Bueller's Day Off</title>
+    <desc lang="ar">يقرر فيريس أن يدّعي المرض ويحصل على إجازة من المدرسة ليأخذ صديقه وحبيبته في رحلة أخيرة إلى شيكاغو قبل أن يذهب كل منهم لجامعة مختلفة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/December/week-3/22-12-2013/Ferris-Buellers-Day-Off_1024/original/5f24ed80744f8dd6235e406fed23f5cc040d48a4/Ferris Buellers Day Off_1024.jpg" />
   </programme>
-  <programme start="20170607064500 +0300" stop="20170607081500 +0300" channel="MBCAction">
-    <title lang="ar">All Things Fall Apart</title>
-    <desc lang="ar">قصة حياة لاعب كرة القدم الشهير ديون خلال سنتة الدراسية النهائية، فنشاهد مجموعة من الإخفقات والنجاحات والتحديات المثيرة، فهل يستمر البطل في طريقه</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/April/week-02/12-4-2017/00/All-Things-Fall-Apart/original/91ae8465f6dd7a4b8d00c8cee35f2e3e5477013d/All Things Fall Apart.jpg" />
+  <programme start="20170611141500 +0300" stop="20170611160000 +0300" channel="MBC2">
+    <title lang="ar">White Chicks</title>
+    <desc lang="ar">يضطر المحققان الفيدراليان إلى التنكر في صورة فتاتين ثريتين يقومان بحمايتهما، وذلك ليحافظا على وظيفتهما في المباحث(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week3/25-7-2013/35/GRID-mbc2-1024/WHITE-CHICKS_1024/original/8400cde7fcf62dc1449c0bb6bb98b85edce4d27b/WHITE-CHICKS_1024.jpg" />
   </programme>
-  <programme start="20170607081500 +0300" stop="20170607090000 +0300" channel="MBCAction">
-    <title lang="ar">Two and a Half Men-الموسم 10</title>
-    <desc lang="ar">جاك يستعد لمرحلة جديدة فى حياته، وذلك بعد إعاده تعينيه ليقضى سنة فى خدمته العسكرية باليابان، وعليه يقرر والده ويلدون أن يذهبا معًا فى رحلة للجراند كانيون حيث يستعيدان ذكرياتهما ويقتربا من بعضهاالبعض أكثر، فى حين يبقى الآن فى حالة إكتئاب نتيجة إنفصاله العاطفى الذى يدفعه لإرتكاب حماقات أكثر تضعه فى مواقف صعبة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/29-8-2016/Two-and-a-Half-men/original/dc14bf7603cc46db8a37045cbaddd5442442240b/Two-and-a-Half-men.jpg" />
+  <programme start="20170611160000 +0300" stop="20170611173000 +0300" channel="MBC2">
+    <title lang="ar">Clueless</title>
+    <desc lang="ar">كوميديا حول شير الفتاة ذات الشعبية العالية في مدرستها الثانوية، التي تقضي حياتها في مساعدة قليلي الحظ من أصدقائها إلى جانب البحث عن حبيب(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/December/week-3/19-12-2013/max/CLUELESS_1024/original/258aa7365a832d134e565c4b88d7378e02b76023/CLUELESS_1024.jpg" />
   </programme>
-  <programme start="20170607090000 +0300" stop="20170607103000 +0300" channel="MBCAction">
-    <title lang="ar">Driven - الموسم 7</title>
-    <desc lang="ar">يأخذنا مجموعة من المحترفين في مغامرة مثيرة في كل مرة يختبرون فيها أحدث السيارات، و من خلال هذه التجربة يسلطون الضوء على كل ما هو جديد في عالم السيارات حيث يعرضون مهارات المشاهير في الدريفت ويقدمون بذلك لهم النصائح اثناء القيادة لتحقيق أفضل النتائج</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/MBC_Action_DrivenS7--grid-image/original/de9d1b9230a7dab2ed4d2d47fd343bb3deb1490f/MBC_Action_DrivenS7--grid-image.jpg" />
+  <programme start="20170611173000 +0300" stop="20170611193000 +0300" channel="MBC2">
+    <title lang="ar">The Words</title>
+    <desc lang="ar">يكتشف كاتب طموح الثمن الباهظ الذي يجب عليه أن يدفعه لسرقة عمل كاتب آخر، وهو في أوج نجاحه التجاري والأدبي(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/february/12-2-2017/The-Words/original/f3c8fb54ab64f5e0020dbeb486e80c7a7fc94ce6/The-Words.jpg" />
   </programme>
-  <programme start="20170607103000 +0300" stop="20170607111500 +0300" channel="MBCAction">
-    <title lang="ar">الممالك الثلاث - الموسم 1</title>
-    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
+  <programme start="20170611193000 +0300" stop="20170611210000 +0300" channel="MBC2">
+    <title lang="ar">Red Eye</title>
+    <desc lang="ar">ليزا مديرة فندق تخشى ركوب الطائرات، تُهدَّد أثناء رحلة جوية بقتل والدها المحتجز لدى الإرهابيين إذا لم تساعد في عملية قتل مستشار الأمن القومي(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/MAX/2013/june/26-6-2013/RED-EYE/original/90015f4a83917d86b0b3f757b0259b855f06f96e/RED-EYE.jpg" />
   </programme>
-  <programme start="20170607111500 +0300" stop="20170607120000 +0300" channel="MBCAction">
-    <title lang="ar">The Blacklist- الموسم 2</title>
-    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
+  <programme start="20170611210000 +0300" stop="20170611213000 +0300" channel="MBC2">
+    <title lang="ar">Scoop with Raya</title>
+    <desc lang="ar">تعود الإعلامية اللبنانية ريا أبي راشد مرة أخرى لشاشة MBC ببرنامج سكووب ولكن هذه المرة ستقدمه على MBC2، حيث تستضيف فيه نجوم هوليوود لتعرض آخر أخبارهم والأفلام الجديدة التي يشاركون بها، بالإضافة للكشف عن أسرارهم الصغيرة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/February/week1/3-2-2015/MBC-2---Scoop-with-Raya--grid-1024/original/01a10abc7ce7b7b58c9fd2c4273f82dfb75693e8/MBC-2---Scoop-with-Raya--grid-1024.jpg" />
   </programme>
-  <programme start="20170607120000 +0300" stop="20170607133000 +0300" channel="MBCAction">
-    <title lang="ar">What Went Down</title>
-    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
-  </programme>
-  <programme start="20170607133000 +0300" stop="20170607141500 +0300" channel="MBCAction">
-    <title lang="ar">Revolution</title>
-    <desc lang="ar">مسلسل تلفزيوني أمريكي،يروي قصةأشخاص يعيشون في العام 2027 بعد حدوث دمار هائل للأرض،وبعد 15 عام على انقطاع شامل للتيارالكهربائي في العالم،و تعيش الدول تحت سيطرة الجيوش وبعض قادتها ومنهم الجنرال مونرو " ديفيد لايونس"،الذي يقوم بمهمة هجوم على قرية تشارلي ماثيسون</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2017/march/week1/27-3-2017/MBCA_REVOLUTION-S1_grid-imageRida/original/87f0ae9977928e7f27479bab7e99f60db3b88407/MBCA_REVOLUTION-S1_grid-imageRida.jpg" />
-  </programme>
-  <programme start="20170607141500 +0300" stop="20170607150000 +0300" channel="MBCAction">
-    <title lang="ar">The Blacklist- الموسم 2</title>
-    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
-  </programme>
-  <programme start="20170607150000 +0300" stop="20170607154500 +0300" channel="MBCAction">
-    <title lang="ar">WWE Main Event - الموسم 5</title>
-    <desc lang="ar">مجموعة من اللقطات الحصرية من عروض المصارعة الحرة الشهيرة، "الروو" و "السماكداون"، بالإضافة إلى مواجهتين من العيار الثقيل وتقارير خاصة عن مصارعين الدابليو دابليو إي</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-02/9-8-2015/WWEMainEvent_1024x576/original/14635730135c9c8165bc10571b68702aee779616/WWEMainEvent_1024x576.jpg" />
-  </programme>
-  <programme start="20170607154500 +0300" stop="20170607163000 +0300" channel="MBCAction">
-    <title lang="ar">WWE AfterBurn-الموسم 7</title>
-    <desc lang="ar">لعشاق المصارعة الحرة، تابع أهم أخبار عالم المصارعة الحرة بالإضافة إلى المنافسات الدامية التي تدور داخل الحلبة حيث يشارك في البرنامج أشهر المصارعين القدماء والجدد ويقوم البرنامج بعرض أهم اللحظات التي حدثت أثناء جولة مصارعة معينة بالاضافة الى تحليلها</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-02/9-8-2015/WWEAfterburn_1024x576/original/30292778344eda8e7f2b60f3407be4415ff4e4bc/WWEAfterburn_1024x576.jpg" />
-  </programme>
-  <programme start="20170607163000 +0300" stop="20170607173000 +0300" channel="MBCAction">
-    <title lang="ar">الممالك الثلاث - الموسم 1</title>
-    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
-  </programme>
-  <programme start="20170607173000 +0300" stop="20170607181500 +0300" channel="MBCAction">
-    <title lang="ar">The Blacklist- الموسم 2</title>
-    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
-  </programme>
-  <programme start="20170607181500 +0300" stop="20170607190000 +0300" channel="MBCAction">
-    <title lang="ar">What Went Down</title>
-    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
-  </programme>
-  <programme start="20170607190000 +0300" stop="20170607200000 +0300" channel="MBCAction">
-    <title lang="ar">Two and a Half Men-الموسم 10</title>
-    <desc lang="ar">جاك يستعد لمرحلة جديدة فى حياته، وذلك بعد إعاده تعينيه ليقضى سنة فى خدمته العسكرية باليابان، وعليه يقرر والده ويلدون أن يذهبا معًا فى رحلة للجراند كانيون حيث يستعيدان ذكرياتهما ويقتربا من بعضهاالبعض أكثر، فى حين يبقى الآن فى حالة إكتئاب نتيجة إنفصاله العاطفى الذى يدفعه لإرتكاب حماقات أكثر تضعه فى مواقف صعبة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/29-8-2016/Two-and-a-Half-men/original/dc14bf7603cc46db8a37045cbaddd5442442240b/Two-and-a-Half-men.jpg" />
-  </programme>
-  <programme start="20170607200000 +0300" stop="20170607210000 +0300" channel="MBCAction">
-    <title lang="ar">Revolution</title>
-    <desc lang="ar">مسلسل تلفزيوني أمريكي،يروي قصةأشخاص يعيشون في العام 2027 بعد حدوث دمار هائل للأرض،وبعد 15 عام على انقطاع شامل للتيارالكهربائي في العالم،و تعيش الدول تحت سيطرة الجيوش وبعض قادتها ومنهم الجنرال مونرو " ديفيد لايونس"،الذي يقوم بمهمة هجوم على قرية تشارلي ماثيسون</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2017/march/week1/27-3-2017/MBCA_REVOLUTION-S1_grid-imageRida/original/87f0ae9977928e7f27479bab7e99f60db3b88407/MBCA_REVOLUTION-S1_grid-imageRida.jpg" />
-  </programme>
-  <programme start="20170607210000 +0300" stop="20170607230000 +0300" channel="MBCAction">
-    <title lang="ar">Never Back Down</title>
-    <desc lang="ar">يتسبب شجار رياضي في الإطاحة بسمعة الرياضي الشاب جيك تايلر والإساءة لشقيقه، فيبدأ في تعلم الألعاب القتالية التي تغير الطريقة التي يرى بها الحياة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/September/week-2/6-9-2015/Never-Back-Down/original/e078314458824ffad31a6955c961133568bb90a8/Never-Back-Down.jpg" />
-  </programme>
-  <programme start="20170607230000 +0300" stop="20170608010000 +0300" channel="MBCAction">
-    <title lang="ar">Killjoys</title>
-    <desc lang="ar">تدور قصة المسلسل حول إحدى الفرق التي تصطاد الجوائز لكن بطرق نزيهة، إلا أنهم يتورطون في أمور خطيرة في الوقت الذي يتوقع فيه الجميع أن هناك حربًا فضائية ستشتعل في أي لحظة بين الكواكب، في أجواء مثيرة تجمع بين الخيال العلمي والدراما</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/february/8-2-2017/Killjoys/original/4c46711a76ff0e2d553f4dc9cdf30b04bd20876d/Killjoys.jpg" />
+  <programme start="20170611213000 +0300" stop="20170612000000 +0300" channel="MBC2">
+    <title lang="ar">The Interpreter</title>
+    <desc lang="ar">تسمع المترجمة برووم تهديدًا بالقتل داخل أروقة الأمم المتحدة بلغة نادرة لم يفهمها أحد سواها، فتتحول إلى هدف جميع أجهزة المخابرات والدول المتصارعة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2012/junuary/2nd-week/THE-INTERPRETER/original/52219a80a212cf2eba6cb8ca025d73f5a1eb6b6e/THE-INTERPRETER.jpg" />
   </programme>
   <programme start="20170608010000 +0300" stop="20170608014500 +0300" channel="MBCAction">
     <title lang="ar">Two and a Half Men-الموسم 10</title>
@@ -2308,9 +2127,9 @@
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
   </programme>
   <programme start="20170608120000 +0300" stop="20170608124500 +0300" channel="MBCAction">
-    <title lang="ar">What Went Down</title>
-    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
+    <title lang="ar">Driven - الموسم 7</title>
+    <desc lang="ar">يأخذنا مجموعة من المحترفين في مغامرة مثيرة في كل مرة يختبرون فيها أحدث السيارات، و من خلال هذه التجربة يسلطون الضوء على كل ما هو جديد في عالم السيارات حيث يعرضون مهارات المشاهير في الدريفت ويقدمون بذلك لهم النصائح اثناء القيادة لتحقيق أفضل النتائج(c)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/MBC_Action_DrivenS7--grid-image/original/de9d1b9230a7dab2ed4d2d47fd343bb3deb1490f/MBC_Action_DrivenS7--grid-image.jpg" />
   </programme>
   <programme start="20170608124500 +0300" stop="20170608133000 +0300" channel="MBCAction">
     <title lang="ar">Two and a Half Men-الموسم 10</title>
@@ -2332,15 +2151,10 @@
     <desc lang="ar">برنامج يستعرض مباريات بين أشهر نجوم المصارعة في اطار قصصي تشويقي حيث ان المباريات لا تقتصر على المصارعة فحسب وانما تصور لنا العلاقة بين المصارعين وأعضاء اللجنة والقائمين على البرنامج بما فيها من مشاحنات وغدر وتحدي لا ينتهي، لإضفاء مزيدا من الاثارة</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/july/week-03/26-07-2016/WWE-RAW/original/a7689d81944b56da408b40e57cd1a3852a9041ec/WWE-RAW.jpg" />
   </programme>
-  <programme start="20170608163000 +0300" stop="20170608173000 +0300" channel="MBCAction">
+  <programme start="20170608163000 +0300" stop="20170608181500 +0300" channel="MBCAction">
     <title lang="ar">الممالك الثلاث - الموسم 1</title>
-    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة</desc>
+    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة(c)</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
-  </programme>
-  <programme start="20170608173000 +0300" stop="20170608181500 +0300" channel="MBCAction">
-    <title lang="ar">The Blacklist- الموسم 2</title>
-    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
   </programme>
   <programme start="20170608181500 +0300" stop="20170608190000 +0300" channel="MBCAction">
     <title lang="ar">What Went Down</title>
@@ -2532,70 +2346,110 @@
     <desc lang="ar">النسخة الأمريكية من برنامج سباق السيارات البريطاني الأشهر، والذي يتناول بدوره كل ما هو جديد وغريب في عالم السيارات وصناعتها,عُرض الموسم الخامس من البرنامج للمرة الأولى في الفترة ما بين يونيو 2014 وحتى أكتوبر من نفس العام،البرنامج من تقديم كل من الممثل الكوميدي آدم فيرارا ومحلل وخبير سباقات السيارات رتليدج وود وسائق السيارات المحترف تانر فاوست</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/week-1/1-9-2016/TOPGEAR-USA-s5/original/77e40b0815ed6c1604fe57ffc01f54bc8231172f/TOPGEAR-USA-s5.jpg" />
   </programme>
-  <programme start="20170607013000 +0300" stop="20170607031500 +0300" channel="MBCMax">
-    <title lang="ar">Last Holiday</title>
-    <desc lang="ar">مغامرة امرأة خجولة تقرر الاستمتاع بحياتها بعدما تكتشف مرضها الخطير</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2014/march/week3/19-3-2014/LAST HOLIDAY/original/2b119def93a68f67e90ad8d97a8e959852ceff42/LAST HOLIDAY.jpg" />
+  <programme start="20170611010000 +0300" stop="20170611023000 +0300" channel="MBCAction">
+    <title lang="ar">Driven - الموسم 7</title>
+    <desc lang="ar">يأخذنا مجموعة من المحترفين في مغامرة مثيرة في كل مرة يختبرون فيها أحدث السيارات، و من خلال هذه التجربة يسلطون الضوء على كل ما هو جديد في عالم السيارات حيث يعرضون مهارات المشاهير في الدريفت ويقدمون بذلك لهم النصائح اثناء القيادة لتحقيق أفضل النتائج(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/MBC_Action_DrivenS7--grid-image/original/de9d1b9230a7dab2ed4d2d47fd343bb3deb1490f/MBC_Action_DrivenS7--grid-image.jpg" />
   </programme>
-  <programme start="20170607031500 +0300" stop="20170607051500 +0300" channel="MBCMax">
-    <title lang="ar">The Five-Year Engagement</title>
-    <desc lang="ar">بعد عام من لقاء توم وفيوليت، يتقدم توم لطلب يدها، تظهرعقبات وعراقيل غير متوقعة تقف أمام اكمال المسيرة الرومانسية، هل يستطيع الحبيبان اجتيازها</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/December/week-3/12-12-2015/The-Five-Year-Engagement/original/1d7833fcfa97b904c3c3ca0ea46ff44186b7a7af/The Five Year Engagement.jpg" />
+  <programme start="20170611023000 +0300" stop="20170611043000 +0300" channel="MBCAction">
+    <title lang="ar">Eagle Eye</title>
+    <desc lang="ar">تنقلب حياة الشاب المسالم جيري شو رأسا على عقب عندما يموت شقيقه التوأم الخارج عن القانون، ليبدأ مطاردة عنيفة مع سيدة لا يعرفها لسبب مجهول(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week3/25-7-2013/35/GRID-mbc2-1024/EAGLE-EYE_1024/original/80f9a43aa9baed2cb0c21da790dbae62e1245045/EAGLE-EYE_1024.jpg" />
   </programme>
-  <programme start="20170607051500 +0300" stop="20170607070000 +0300" channel="MBCMax">
-    <title lang="ar">At Any Price</title>
-    <desc lang="ar">يدخل ثري ريفي في صراع مع ابنه الذي يتمنى أن يصبح قائد سيارات سباق، في حين يرغب الوالد أن يتجه ابنه لتحقيق حلمه بتوسيع أملاك العائلة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week03/18-10-2016/001/At-Any-Price/original/e414e17de289195214228c3fca92a37ab0159eee/At-Any-Price.jpg" />
+  <programme start="20170611043000 +0300" stop="20170611060000 +0300" channel="MBCAction">
+    <title lang="ar">Boardwalk Empire</title>
+    <desc lang="ar">سياسي من مدينة اتلانتيك سيتي يلعب على كلا الجانبين مع القانون وضده، يتآمر مع بعض رجال العصابات في عهد الحظر "The Prohibition Era" في بداية عشرينيات القرن الماضي(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/May/3-5-2017/Boardwalk-Empire-s5/original/1133a41d09b2566bfeb325433b15da88f169a2ba/Boardwalk Empire-s5.jpg" />
   </programme>
-  <programme start="20170607070000 +0300" stop="20170607083000 +0300" channel="MBCMax">
-    <title lang="ar">Main Street</title>
-    <desc lang="ar">شخص غريب وافد الى نورث كارولاينا، يغير حياة أهل البلدة ويطمح الجميع الى تحسين علاقاتهم ببعضهم البعض وكذا علاقتهم ببلدتهم(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/march/week-04/27-3-2015/Main-Street_1024/original/247b547c69bbbb1bb1698e9272656f2694fb4b7d/Main-Street_1024.jpg" />
+  <programme start="20170611060000 +0300" stop="20170611064500 +0300" channel="MBCAction">
+    <title lang="ar">Illusions of Grandeur</title>
+    <desc lang="ar">يتتبع البرنامج مغامرات ساحر الشوارع زاك مبرزا؛ والألعاب السحرية المبتكرة التي يقدمها، حيث يركز في كل حلقة على نوع معين من السحر لإبهار الجمهور(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/Illusions-of-Grandeur/original/324e5f2963074f18a638cdd2de38ef1bb50d0a04/Illusions-of-Grandeur.jpg" />
   </programme>
-  <programme start="20170607083000 +0300" stop="20170607101500 +0300" channel="MBCMax">
-    <title lang="ar">Monster-in-Law</title>
-    <desc lang="ar">تعثر الفتاة تشارلوت على الزوج المثالي لها، ولكن الأزمة تتمثل في والدة حبيبها المتسلطة التي تفعل كل ما في وسعها من أجل إفشال العلاقة(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week-4/29-7-2013/Monster-in-Law_1024/original/ef0f1670f23ce51635fcccda5d82c9a3b13e3311/Monster-in-Law_1024.jpg" />
+  <programme start="20170611064500 +0300" stop="20170611081500 +0300" channel="MBCAction">
+    <title lang="ar">Showtime</title>
+    <desc lang="ar">خوفا من السجن والغرامة يوافق محقق الشرطة العنيف ميتش بريستون على أن يصور برنامجا لتلفزيون الواقع يرصد كل مهامه الخطيرة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/03/SHOWTIME/original/7f1b87dbee964512c7446a5da2afc1ba254ca14b/SHOWTIME.jpg" />
   </programme>
-  <programme start="20170607101500 +0300" stop="20170607133000 +0300" channel="MBCMax">
-    <title lang="ar">Something to Talk About</title>
-    <desc lang="ar">تكتشف جريس بيشون أن زوجها يقيم علاقة مع امرأة أخرى، فيكون عليها أن تواجه الموقف وحدها في ظل نصيحة كل من حولها بتجاوز الأمر(c)</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/03/something-to-talk-about/original/e070e53d6ca9e5027bd0baf90f8c12842c648faa/something-to-talk-about.jpg" />
+  <programme start="20170611081500 +0300" stop="20170611090000 +0300" channel="MBCAction">
+    <title lang="ar">WWE AfterBurn-الموسم 7</title>
+    <desc lang="ar">لعشاق المصارعة الحرة، تابع أهم أخبار عالم المصارعة الحرة بالإضافة إلى المنافسات الدامية التي تدور داخل الحلبة حيث يشارك في البرنامج أشهر المصارعين القدماء والجدد ويقوم البرنامج بعرض أهم اللحظات التي حدثت أثناء جولة مصارعة معينة بالاضافة الى تحليلها(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-02/9-8-2015/WWEAfterburn_1024x576/original/30292778344eda8e7f2b60f3407be4415ff4e4bc/WWEAfterburn_1024x576.jpg" />
   </programme>
-  <programme start="20170607133000 +0300" stop="20170607153000 +0300" channel="MBCMax">
-    <title lang="ar">Madea's Big Happy Family</title>
-    <desc lang="ar">تضطر العمة ماديا إلى مساعدة أفراد عائلتها على تخطي مشاكلهم ليتجمعوا مثل الأيام الخوالي، وأثناء ذلك يكتشف الجميع سر العائلة الدفين منذ عقود طويلة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2014/february/week-2/13-2-2014/Madeas-Big-Happy-Family_1024/original/408270b11176e13402ac5eabee03fb8b3f47428b/Madeas-Big-Happy-Family_1024.jpg" />
+  <programme start="20170611090000 +0300" stop="20170611103000 +0300" channel="MBCAction">
+    <title lang="ar">WWE Raw-الموسم 8</title>
+    <desc lang="ar">برنامج يستعرض مباريات بين أشهر نجوم المصارعة في اطار قصصي تشويقي حيث ان المباريات لا تقتصر على المصارعة فحسب وانما تصور لنا العلاقة بين المصارعين وأعضاء اللجنة والقائمين على البرنامج بما فيها من مشاحنات وغدر وتحدي لا ينتهي، لإضفاء مزيدا من الاثارة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/july/week-03/26-07-2016/WWE-RAW/original/a7689d81944b56da408b40e57cd1a3852a9041ec/WWE-RAW.jpg" />
   </programme>
-  <programme start="20170607153000 +0300" stop="20170607173000 +0300" channel="MBCMax">
-    <title lang="ar">Madea's Witness Protection</title>
-    <desc lang="ar">يكتشف مدير مالي لبنك مرموق بعد سنوات طويلة من عمله به أن هناك مجموعة من الموظفين الأشرار ينتوون التخطيط لأمر ما ليكون هو كبش فداء</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/february/1-2-2017/mad/original/ecc851ad99e38b424e85d6c50c5aa016bb2c31d4/mad.jpg" />
+  <programme start="20170611103000 +0300" stop="20170611111500 +0300" channel="MBCAction">
+    <title lang="ar">الممالك الثلاث - الموسم 1</title>
+    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
   </programme>
-  <programme start="20170607173000 +0300" stop="20170607180000 +0300" channel="MBCMax">
-    <title lang="ar">The Insider</title>
-    <desc lang="ar">برنامج بديل لاخبار المشاهير يسلط الضوء على أخر قصصهم الجديدة وخاصة الصادمة منها من خلال تتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-04/31-8-2015/The_Insider_september-2015/original/7604de527a2f77ddff484ee13ec316e71c5f7f19/The_Insider_september-2015.jpg" />
+  <programme start="20170611111500 +0300" stop="20170611120000 +0300" channel="MBCAction">
+    <title lang="ar">The Blacklist- الموسم 2</title>
+    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
   </programme>
-  <programme start="20170607180000 +0300" stop="20170607200000 +0300" channel="MBCMax">
-    <title lang="ar">Barbershop</title>
-    <desc lang="ar">يستعرض الفيلم يوم في حياة رواد وعمال صالون حلاقة في الجانب الجنوبي في شيكاغو، حكايات حب ومحن ومنح، بطريقة كوميدية شيقة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/20-4-2016/barbershop/original/2dbb1b650f5b30d8f538fce78f34eb240ca3eaef/barbershop.jpg" />
+  <programme start="20170611120000 +0300" stop="20170611124500 +0300" channel="MBCAction">
+    <title lang="ar">What Went Down</title>
+    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
   </programme>
-  <programme start="20170607200000 +0300" stop="20170607220000 +0300" channel="MBCMax">
-    <title lang="ar">Beauty Shop</title>
-    <desc lang="ar">تحلم جينا مصففة الشعر بإنشاء صالون التجميل الخاص بها، وبالفعل تنجح في ذلك لتعطي كل نساء مجتمعها الفرصة في الحديث عن الحب والحياة والقضايا اليومية</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/20-4-2016/Beauty-Shop/original/5450409ded7b64a0ca716cf56d6f1485c5defc43/Beauty-Shop.jpg" />
+  <programme start="20170611124500 +0300" stop="20170611133000 +0300" channel="MBCAction">
+    <title lang="ar">Two and a Half Men-الموسم 10</title>
+    <desc lang="ar">جاك يستعد لمرحلة جديدة فى حياته، وذلك بعد إعاده تعينيه ليقضى سنة فى خدمته العسكرية باليابان، وعليه يقرر والده ويلدون أن يذهبا معًا فى رحلة للجراند كانيون حيث يستعيدان ذكرياتهما ويقتربا من بعضهاالبعض أكثر، فى حين يبقى الآن فى حالة إكتئاب نتيجة إنفصاله العاطفى الذى يدفعه لإرتكاب حماقات أكثر تضعه فى مواقف صعبة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/29-8-2016/Two-and-a-Half-men/original/dc14bf7603cc46db8a37045cbaddd5442442240b/Two-and-a-Half-men.jpg" />
   </programme>
-  <programme start="20170607220000 +0300" stop="20170607234500 +0300" channel="MBCMax">
-    <title lang="ar">Mad Money</title>
-    <desc lang="ar">ثلاث سيدات يعملن موظفات في مقر مخزون النقد الأمريكي يقررن سرقة أموال من المقرر أن يتم إعدامها</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/February/week3/18-2-2015/max3/32/original/292fe9e12551727ac37f2386eba5cf148a291c2d/32.jpg" />
+  <programme start="20170611133000 +0300" stop="20170611141500 +0300" channel="MBCAction">
+    <title lang="ar">Revolution</title>
+    <desc lang="ar">مسلسل تلفزيوني أمريكي،يروي قصةأشخاص يعيشون في العام 2027 بعد حدوث دمار هائل للأرض،وبعد 15 عام على انقطاع شامل للتيارالكهربائي في العالم،و تعيش الدول تحت سيطرة الجيوش وبعض قادتها ومنهم الجنرال مونرو " ديفيد لايونس"،الذي يقوم بمهمة هجوم على قرية تشارلي ماثيسون(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2017/march/week1/27-3-2017/MBCA_REVOLUTION-S1_grid-imageRida/original/87f0ae9977928e7f27479bab7e99f60db3b88407/MBCA_REVOLUTION-S1_grid-imageRida.jpg" />
   </programme>
-  <programme start="20170607234500 +0300" stop="20170608013000 +0300" channel="MBCMax">
-    <title lang="ar">Monster-in-Law</title>
-    <desc lang="ar">تعثر الفتاة تشارلوت على الزوج المثالي لها، ولكن الأزمة تتمثل في والدة حبيبها المتسلطة التي تفعل كل ما في وسعها من أجل إفشال العلاقة</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week-4/29-7-2013/Monster-in-Law_1024/original/ef0f1670f23ce51635fcccda5d82c9a3b13e3311/Monster-in-Law_1024.jpg" />
+  <programme start="20170611141500 +0300" stop="20170611150000 +0300" channel="MBCAction">
+    <title lang="ar">The Blacklist- الموسم 2</title>
+    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
+  </programme>
+  <programme start="20170611150000 +0300" stop="20170611163000 +0300" channel="MBCAction">
+    <title lang="ar">Driven - الموسم 7</title>
+    <desc lang="ar">يأخذنا مجموعة من المحترفين في مغامرة مثيرة في كل مرة يختبرون فيها أحدث السيارات، و من خلال هذه التجربة يسلطون الضوء على كل ما هو جديد في عالم السيارات حيث يعرضون مهارات المشاهير في الدريفت ويقدمون بذلك لهم النصائح اثناء القيادة لتحقيق أفضل النتائج(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/MBC_Action_DrivenS7--grid-image/original/de9d1b9230a7dab2ed4d2d47fd343bb3deb1490f/MBC_Action_DrivenS7--grid-image.jpg" />
+  </programme>
+  <programme start="20170611163000 +0300" stop="20170611173000 +0300" channel="MBCAction">
+    <title lang="ar">الممالك الثلاث - الموسم 1</title>
+    <desc lang="ar">تتوالى الأحداث المشوقة في مسلسل تاريخي"الممالك الثلاث -الموسم2"،الذى يوثق لحقبة زمنية هي الأصعب في تاريخ الصين.فبعد معركة كبرى أُطلق عليها معركة المنحدر الأحمر؛ يتم تقسيم الصين القديمة إلى 3 ممالك كبرى، لتبقى مملكة الحاكم "كوكو" هي الأقوى، والذي أعد جيوشه مرة أخرى لمهاجمة ممالك "شانكان" و"ليبي" اللتان اتحدتا لموجهة قوة "كوكو" الباطشة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/18-4-2016/MBC-ACTION---Three-Kingdoms--grid-image/original/26144ef84e5cd3705543b40878a05ccb0d586117/MBC-ACTION---Three-Kingdoms--grid-image.jpg" />
+  </programme>
+  <programme start="20170611173000 +0300" stop="20170611181500 +0300" channel="MBCAction">
+    <title lang="ar">The Blacklist- الموسم 2</title>
+    <desc lang="ar">"ريد" مجرم مطلوب أمنيا وصاحب عقل مدبر لأخطر العمليات يستسلم أخيرا لملاحقات جهاز المخابرات الأمريكي ولكنه يعرض عليهم عرضا لا يمكن رفضه حيث يكشف عن قائمة بأشهر المجرمين السياسين والخطط الارهابية ويعرض أن يمد يد العون للمخابرات لالقاء القبض عليهم(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week4/24-10-2016/MBC-ACTION---THE-BLACKLIST-S2--grid-image/original/2b8082a6d72abb04193cc97bc283e14bec70056a/MBC-ACTION---THE-BLACKLIST-S2--grid-image.jpg" />
+  </programme>
+  <programme start="20170611181500 +0300" stop="20170611190000 +0300" channel="MBCAction">
+    <title lang="ar">What Went Down</title>
+    <desc lang="ar">برنامج يعرض لقطات سريعة ومثيرة لكل من يحب أن يشاهد اخطاء الرياضة المضحكة والناس الذين يسقطون أرضا بقوة، ففي كل حلقة يجمع البرنامج أطرف تلك اللقطات معا في كليب واحد لتستمر الاثارة لنصف ساعة كاملة من الفكاهة والمتعة والمرح(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/24-8-2016/What-Went-Down/original/0cb97d79ffe2a888a094c28739bd53ded39f3dfe/What-Went-Down.jpg" />
+  </programme>
+  <programme start="20170611190000 +0300" stop="20170611200000 +0300" channel="MBCAction">
+    <title lang="ar">Two and a Half Men-الموسم 10</title>
+    <desc lang="ar">جاك يستعد لمرحلة جديدة فى حياته، وذلك بعد إعاده تعينيه ليقضى سنة فى خدمته العسكرية باليابان، وعليه يقرر والده ويلدون أن يذهبا معًا فى رحلة للجراند كانيون حيث يستعيدان ذكرياتهما ويقتربا من بعضهاالبعض أكثر، فى حين يبقى الآن فى حالة إكتئاب نتيجة إنفصاله العاطفى الذى يدفعه لإرتكاب حماقات أكثر تضعه فى مواقف صعبة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/august/week-4/29-8-2016/Two-and-a-Half-men/original/dc14bf7603cc46db8a37045cbaddd5442442240b/Two-and-a-Half-men.jpg" />
+  </programme>
+  <programme start="20170611200000 +0300" stop="20170611210000 +0300" channel="MBCAction">
+    <title lang="ar">Revolution</title>
+    <desc lang="ar">مسلسل تلفزيوني أمريكي،يروي قصةأشخاص يعيشون في العام 2027 بعد حدوث دمار هائل للأرض،وبعد 15 عام على انقطاع شامل للتيارالكهربائي في العالم،و تعيش الدول تحت سيطرة الجيوش وبعض قادتها ومنهم الجنرال مونرو " ديفيد لايونس"،الذي يقوم بمهمة هجوم على قرية تشارلي ماثيسون(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2017/march/week1/27-3-2017/MBCA_REVOLUTION-S1_grid-imageRida/original/87f0ae9977928e7f27479bab7e99f60db3b88407/MBCA_REVOLUTION-S1_grid-imageRida.jpg" />
+  </programme>
+  <programme start="20170611210000 +0300" stop="20170611230000 +0300" channel="MBCAction">
+    <title lang="ar">What Lies Beneath</title>
+    <desc lang="ar">بعد ذهاب إبنتها إلى الجامعة وإبتعادها عنها، تبدأ كلير في سماع أصوات غريبة ومشاهدة رؤى لأشباح تسكن منزلها فلا تجد بدا من محاولة التواصل معهم(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/03/WHAT-LIES-BENEATH/original/22529248d12ecbba38749e1e56804edf25d27081/WHAT-LIES-BENEATH.jpg" />
+  </programme>
+  <programme start="20170611230000 +0300" stop="20170612000000 +0300" channel="MBCAction">
+    <title lang="ar">WWE Main Event - الموسم 5</title>
+    <desc lang="ar">مجموعة من اللقطات الحصرية من عروض المصارعة الحرة الشهيرة، "الروو" و "السماكداون"، بالإضافة إلى مواجهتين من العيار الثقيل وتقارير خاصة عن مصارعين الدابليو دابليو إي(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-02/9-8-2015/WWEMainEvent_1024x576/original/14635730135c9c8165bc10571b68702aee779616/WWEMainEvent_1024x576.jpg" />
   </programme>
   <programme start="20170608013000 +0300" stop="20170608031500 +0300" channel="MBCMax">
     <title lang="ar">Austenland</title>
@@ -2637,15 +2491,10 @@
     <desc lang="ar">صحفية تعثر على رسالة غرامية رقيقة للغاية موضوعة في زجاجة رمتها الأمواج على الشاطئ، فتبحث عن صاحبها، وعندما تصل إليه تقع في غرامه</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/2013/june/02/MESSAGE IN A BOTTLE/original/0591eead3e69923af7fa23c6a6d25eb80d56db26/MESSAGE IN A BOTTLE.jpg" />
   </programme>
-  <programme start="20170608153000 +0300" stop="20170608173000 +0300" channel="MBCMax">
+  <programme start="20170608153000 +0300" stop="20170608180000 +0300" channel="MBCMax">
     <title lang="ar">City of Angels</title>
-    <desc lang="ar">يقرر سيث أن يتخلى عن قدراته الملائكية ليتحول إلى بشري في سبيل أن يصبح قادرا على الشعور بالحب</desc>
+    <desc lang="ar">يقرر سيث أن يتخلى عن قدراته الملائكية ليتحول إلى بشري في سبيل أن يصبح قادرا على الشعور بالحب(c)</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/CITY-OF-ANGELS_1024/original/e923b3d7dafb7b6e5949d623805735da692846cf/CITY-OF-ANGELS_1024.jpg" />
-  </programme>
-  <programme start="20170608173000 +0300" stop="20170608180000 +0300" channel="MBCMax">
-    <title lang="ar">The Insider</title>
-    <desc lang="ar">برنامج بديل لاخبار المشاهير يسلط الضوء على أخر قصصهم الجديدة وخاصة الصادمة منها من خلال تتبع اخبارهم بكل الوسائل الممكنة لارضاء فضول المعجبين</desc>
-    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/August/week-04/31-8-2015/The_Insider_september-2015/original/7604de527a2f77ddff484ee13ec316e71c5f7f19/The_Insider_september-2015.jpg" />
   </programme>
   <programme start="20170608180000 +0300" stop="20170608200000 +0300" channel="MBCMax">
     <title lang="ar">Diana</title>
@@ -2802,131 +2651,60 @@
     <desc lang="ar">تسافر مجموعة من رجال عصابات بروك لتوصيل كيس نقود من بلدة مونتانا الصغيرة، فيجدون أنفسهم في مواجهات عسيرة</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/Grid/MAX/2013/june/26-6-2013/KNOCKAROUND-GUYS/original/8950a8140e7cbff48f30e6a9f549d44e1d95e8cb/KNOCKAROUND-GUYS.jpg" />
   </programme>
-  <programme start="20170607000000 +0800" stop="20170607001500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170611011500 +0300" stop="20170611031500 +0300" channel="MBCMax">
+    <title lang="ar">Blow</title>
+    <desc lang="ar">يقرر شاب فقير الإتجار في الماريجوانا بمساعدة صديقه ويحقق نجاح في كاليفورنيا، لكنه يتحول إلى تهريب الكوكايين بحثا عن الثراء الفاحش، وفي النهاية يدفع الثمن(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/september/20-9-2013/mbc2/BLOW_1024/original/d3cadbd20564fc4b3e58131c13e6b084a70e0f8a/BLOW_1024.jpg" />
   </programme>
-  <programme start="20170607001500 +0800" stop="20170607010000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
+  <programme start="20170611031500 +0300" stop="20170611044500 +0300" channel="MBCMax">
+    <title lang="ar">Stolen</title>
+    <desc lang="ar">لص سابق يبحث بشكل محموم عن ابنته المفقودة، التي تم اختطافها، وتخوض الآن تجربة مريرة داخل صندوق سيارة أجرة، فهل يستطيع انقاذ ابنته(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week01/1-10-2016/Stolen/original/a0b9df230913e9d78f0635c6064facdbce2dcc50/Stolen.jpg" />
   </programme>
-  <programme start="20170607010000 +0800" stop="20170607020000 +0800" channel="CGTN">
-    <title lang="zh">Africa Live</title>
+  <programme start="20170611044500 +0300" stop="20170611063000 +0300" channel="MBCMax">
+    <title lang="ar">Rampart</title>
+    <desc lang="ar">يتورط شرطي مغرور يهوى العنف والعنصرية في حادثة ضرب مواطن عادي بعد إصطدامه بسيارته، فلا يبالي بالفضيحة ويحاول حماية أصدقاءه والمحافظة على روابطه الأسرية(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2013/December/week-3/19-12-2013/mbc2/RAMPART_1024/original/38d41d0c1eb00bd6337a3024fc07661154b8f361/RAMPART_1024.jpg" />
   </programme>
-  <programme start="20170607020000 +0800" stop="20170607030000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
+  <programme start="20170611063000 +0300" stop="20170611080000 +0300" channel="MBCMax">
+    <title lang="ar">Ticket Out</title>
+    <desc lang="ar">تتعرض جوسلين وأبنائها لسيطرة زوجها المستبد دينيس، وتحاول بشتى الطرق انقاذ أبنائها من سيطرته حتى لو كلفها ذلك خرق القوانين، فهل تستطيع الفكاك منه(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/January/week-3/17-1-2016/posters/Ticket-Out/original/72f5cf0829e96a168c1e2e848beb9a1785839f41/Ticket Out.jpg" />
   </programme>
-  <programme start="20170607030000 +0800" stop="20170607033000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170611080000 +0300" stop="20170611100000 +0300" channel="MBCMax">
+    <title lang="ar">Dead Man Walking</title>
+    <desc lang="ar">في حين تواسي احدى الراهبات القاتل المدان المحكوم عليهم بالإعدام في جرائم قتل، تتعاطف مع كل من القاتل وأسرضحاياه، بعد تسلمها رسالة من الجاني(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2016/april/week-03/20-4-2016/Dead-Man-Walking/original/77cbc0b1993920b69b33a52bf2104aee4f877435/Dead-Man-Walking.jpg" />
   </programme>
-  <programme start="20170607033000 +0800" stop="20170607040000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
+  <programme start="20170611100000 +0300" stop="20170611120000 +0300" channel="MBCMax">
+    <title lang="ar">Mississippi Burning</title>
+    <desc lang="ar">يسافر اثنان من عملاء مكتب التحقيقات الفيدرالي الى جنوب الميسيسيبي للتحقيق في اختفاء بعض نشطاء الحقوق المدنية، ليواجهان العديد من الصعوبات(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/october/week03/18-10-2016/001/Mississippi-Burning/original/67296852305192d8573d9719c8cd14f5459fe284/Mississippi-Burning.jpg" />
   </programme>
-  <programme start="20170607040000 +0800" stop="20170607041500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
+  <programme start="20170611120000 +0300" stop="20170611140000 +0300" channel="MBCMax">
+    <title lang="ar">Reservation Road</title>
+    <desc lang="ar">قصة أستاذ جامعي حزين على مقتل ابنه يكرس حياته للانتقام من المحامي الذي تسبب في مقتل الابن دون أن يقصد عندما صدمه بسيارته(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/home-of-movies/Frbruary/mbc2/RESERVATION-ROAD_Xl/original/6651faa92583ce0c4491147a25e8cf1c2bee6926/RESERVATION-ROAD_Xl.jpg" />
   </programme>
-  <programme start="20170607041500 +0800" stop="20170607050000 +0800" channel="CGTN">
-    <title lang="zh">World Insight with Tian Wei</title>
+  <programme start="20170611140000 +0300" stop="20170611170000 +0300" channel="MBCMax">
+    <title lang="ar">The Godfather</title>
+    <desc lang="ar">تدور نزاعات وحرب شرسة بين أكبر عائلات المافيا الإيطالية في نييورك، بعد مقتل ابن زعيم العائلة، ويبدأ الجميع في تصفية حساباته(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/2nd/34/original/c88b71c60d8a133d9581245d05f987259c1295c9/33.jpg" />
   </programme>
-  <programme start="20170607050000 +0800" stop="20170607053000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
+  <programme start="20170611170000 +0300" stop="20170611203000 +0300" channel="MBCMax">
+    <title lang="ar">The Godfather: Part II</title>
+    <desc lang="ar">يحكي الفيلم مسيرة فيتو كورليوني منذ الطفولة حتى أصبح زعيما لأكبر العصابات في الولايات المتحدة، وفي الوقت نفسه حكاية مايكل الابن الذي حل مكان أبيه(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/videos-2016/Sep/25-9-2016/The-Godfather-Part-II/original/55fe346e67b1791517a07a5b798ffc4d043cd4b1/The Godfather Part II.jpg" />
   </programme>
-  <programme start="20170607053000 +0800" stop="20170607060000 +0800" channel="CGTN">
-    <title lang="zh">The Point with Liu Xin</title>
+  <programme start="20170611203000 +0300" stop="20170611233000 +0300" channel="MBCMax">
+    <title lang="ar">The Godfather: Part III</title>
+    <desc lang="ar">يعترف دون مايكل كورليوني بذنوبه في عالم الإجرام، ويعمل على اضفاء الشرعية على التعاملات التجارية بين نيويورك وإيطاليا بعد بلوغه الستين(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2016/September/Week-3/19-09-2016/2nd/The-Godfather-Part-III/original/fb07865e605e6b481936c0c00b4017050729ff8d/The Godfather Part III.jpg" />
   </programme>
-  <programme start="20170607060000 +0800" stop="20170607061500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607061500 +0800" stop="20170607070000 +0800" channel="CGTN">
-    <title lang="zh">Americas Now</title>
-  </programme>
-  <programme start="20170607070000 +0800" stop="20170607073000 +0800" channel="CGTN">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme start="20170607073000 +0800" stop="20170607080000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607080000 +0800" stop="20170607090000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170607090000 +0800" stop="20170607093000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607093000 +0800" stop="20170607100000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170607100000 +0800" stop="20170607103000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607103000 +0800" stop="20170607110000 +0800" channel="CGTN">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme start="20170607110000 +0800" stop="20170607111500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607111500 +0800" stop="20170607113000 +0800" channel="CGTN">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme start="20170607113000 +0800" stop="20170607120000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170607120000 +0800" stop="20170607130000 +0800" channel="CGTN">
-    <title lang="zh">Global Watch</title>
-  </programme>
-  <programme start="20170607130000 +0800" stop="20170607140000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170607140000 +0800" stop="20170607143000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607143000 +0800" stop="20170607150000 +0800" channel="CGTN">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme start="20170607150000 +0800" stop="20170607153000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607153000 +0800" stop="20170607160000 +0800" channel="CGTN">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme start="20170607160000 +0800" stop="20170607170000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170607170000 +0800" stop="20170607173000 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607173000 +0800" stop="20170607180000 +0800" channel="CGTN">
-    <title lang="zh">Culture Express</title>
-  </programme>
-  <programme start="20170607180000 +0800" stop="20170607190000 +0800" channel="CGTN">
-    <title lang="zh">Africa Live</title>
-  </programme>
-  <programme start="20170607190000 +0800" stop="20170607193000 +0800" channel="CGTN">
-    <title lang="zh">Asia Today</title>
-  </programme>
-  <programme start="20170607193000 +0800" stop="20170607200000 +0800" channel="CGTN">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170607200000 +0800" stop="20170607201500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607201500 +0800" stop="20170607210000 +0800" channel="CGTN">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170607210000 +0800" stop="20170607213000 +0800" channel="CGTN">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170607213000 +0800" stop="20170607220000 +0800" channel="CGTN">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme start="20170607220000 +0800" stop="20170607221500 +0800" channel="CGTN">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170607221500 +0800" stop="20170607230000 +0800" channel="CGTN">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme start="20170607230000 +0800" stop="20170607233000 +0800" channel="CGTN">
-    <title lang="zh">The Link</title>
-  </programme>
-  <programme start="20170607233000 +0800" stop="20170608000000 +0800" channel="CGTN">
-    <title lang="zh">Culture Express</title>
+  <programme start="20170611233000 +0300" stop="20170612021500 +0300" channel="MBCMax">
+    <title lang="ar">Scarface</title>
+    <desc lang="ar">حكاية صعود المهاجر الكوبي توني مونتانا من قاع المجتمع في ولاية ميامي الأمريكية حتى يصير إمبراطورًا لتجارة المخدرات في الولايات المتحدة(n)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/home-of-movies/Frbruary/mbc2/SCARFACE_XL/original/49d73311b690972f4823cd5c8dcab4b37a85c178/SCARFACE_XL.jpg" />
   </programme>
   <programme start="20170608000000 +0800" stop="20170608001500 +0800" channel="CGTN">
     <title lang="zh">The World Today</title>
@@ -3306,155 +3084,134 @@
   <programme start="20170610233000 +0800" stop="20170611000000 +0800" channel="CGTN">
     <title lang="zh">Icon</title>
   </programme>
-  <programme start="20170607000000 +0800" stop="20170607010000 +0800" channel="ARR">
-    <title lang="zh">Premium Collection</title>
+  <programme start="20170611000000 +0800" stop="20170611001500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607010000 +0800" stop="20170607013000 +0800" channel="ARR">
-    <title lang="zh">Tour Avatar</title>
+  <programme start="20170611001500 +0800" stop="20170611010000 +0800" channel="CGTN">
+    <title lang="zh">China 24</title>
   </programme>
-  <programme start="20170607013000 +0800" stop="20170607020000 +0800" channel="ARR">
-    <title lang="zh">Foreign Correspondents</title>
+  <programme start="20170611010000 +0800" stop="20170611013000 +0800" channel="CGTN">
+    <title lang="zh">Africa Live</title>
   </programme>
-  <programme start="20170607020000 +0800" stop="20170607023000 +0800" channel="ARR">
-    <title lang="zh">Showbiz Korea</title>
+  <programme start="20170611013000 +0800" stop="20170611020000 +0800" channel="CGTN">
+    <title lang="zh">Talk Africa</title>
   </programme>
-  <programme start="20170607023000 +0800" stop="20170607030000 +0800" channel="ARR">
-    <title lang="zh">Pops in Seoul</title>
+  <programme start="20170611020000 +0800" stop="20170611023000 +0800" channel="CGTN">
+    <title lang="zh">Match Point</title>
   </programme>
-  <programme start="20170607030000 +0800" stop="20170607033000 +0800" channel="ARR">
-    <title lang="zh">Prosumer LAB 101</title>
+  <programme start="20170611023000 +0800" stop="20170611030000 +0800" channel="CGTN">
+    <title lang="zh">Icon</title>
   </programme>
-  <programme start="20170607033000 +0800" stop="20170607040000 +0800" channel="ARR">
-    <title lang="zh">The 3s</title>
+  <programme start="20170611030000 +0800" stop="20170611033000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607040000 +0800" stop="20170607050000 +0800" channel="ARR">
-    <title lang="zh">After School Club</title>
+  <programme start="20170611033000 +0800" stop="20170611040000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170607050000 +0800" stop="20170607050500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611040000 +0800" stop="20170611041500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607050500 +0800" stop="20170607053000 +0800" channel="ARR">
-    <title lang="zh">Stylecast</title>
+  <programme start="20170611041500 +0800" stop="20170611050000 +0800" channel="CGTN">
+    <title lang="zh">Crossover</title>
   </programme>
-  <programme start="20170607053000 +0800" stop="20170607060000 +0800" channel="ARR">
-    <title lang="zh">Shaping The Economy</title>
+  <programme start="20170611050000 +0800" stop="20170611053000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607060000 +0800" stop="20170607063000 +0800" channel="ARR">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170611053000 +0800" stop="20170611060000 +0800" channel="CGTN">
+    <title lang="zh">Assignment Asia</title>
   </programme>
-  <programme start="20170607063000 +0800" stop="20170607070000 +0800" channel="ARR">
-    <title lang="zh">Peninsula 24</title>
+  <programme start="20170611060000 +0800" stop="20170611070000 +0800" channel="CGTN">
+    <title lang="zh">Full Frame</title>
   </programme>
-  <programme start="20170607070000 +0800" stop="20170607070500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611070000 +0800" stop="20170611073000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607070500 +0800" stop="20170607080000 +0800" channel="ARR">
-    <title lang="zh">Global Families</title>
+  <programme start="20170611073000 +0800" stop="20170611080000 +0800" channel="CGTN">
+    <title lang="zh">Travelogue</title>
   </programme>
-  <programme start="20170607080000 +0800" stop="20170607080500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611080000 +0800" stop="20170611083000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607080500 +0800" stop="20170607090000 +0800" channel="ARR">
-    <title lang="zh">Arirang Special</title>
+  <programme start="20170611083000 +0800" stop="20170611090000 +0800" channel="CGTN">
+    <title lang="zh">Closer to China with Robert Kuhn</title>
   </programme>
-  <programme start="20170607090000 +0800" stop="20170607093000 +0800" channel="ARR">
-    <title lang="zh">ARIRANG NEWS [L]</title>
+  <programme start="20170611090000 +0800" stop="20170611100000 +0800" channel="CGTN">
+    <title lang="zh">Big Story</title>
   </programme>
-  <programme start="20170607093000 +0800" stop="20170607100000 +0800" channel="ARR">
-    <title lang="zh">Heart to Heart</title>
+  <programme start="20170611100000 +0800" stop="20170611103000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607100000 +0800" stop="20170607100500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611103000 +0800" stop="20170611110000 +0800" channel="CGTN">
+    <title lang="zh">Rediscovering China</title>
   </programme>
-  <programme start="20170607100500 +0800" stop="20170607103000 +0800" channel="ARR">
-    <title lang="zh">Stylecast</title>
+  <programme start="20170611110000 +0800" stop="20170611111500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607103000 +0800" stop="20170607110000 +0800" channel="ARR">
-    <title lang="zh">Shaping The Economy</title>
+  <programme start="20170611111500 +0800" stop="20170611113000 +0800" channel="CGTN">
+    <title lang="zh">Sports Scene</title>
   </programme>
-  <programme start="20170607110000 +0800" stop="20170607113000 +0800" channel="ARR">
-    <title lang="zh">ARIRANG NEWS [L]</title>
+  <programme start="20170611113000 +0800" stop="20170611120000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170607113000 +0800" stop="20170607120000 +0800" channel="ARR">
-    <title lang="zh">Peninsula 24</title>
+  <programme start="20170611120000 +0800" stop="20170611130000 +0800" channel="CGTN">
+    <title lang="zh">Global Watch</title>
   </programme>
-  <programme start="20170607120000 +0800" stop="20170607120500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611130000 +0800" stop="20170611140000 +0800" channel="CGTN">
+    <title lang="zh">Full Frame</title>
   </programme>
-  <programme start="20170607120500 +0800" stop="20170607130000 +0800" channel="ARR">
-    <title lang="zh">Global Families</title>
+  <programme start="20170611140000 +0800" stop="20170611143000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607130000 +0800" stop="20170607133000 +0800" channel="ARR">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170611143000 +0800" stop="20170611150000 +0800" channel="CGTN">
+    <title lang="zh">Assignment Asia</title>
   </programme>
-  <programme start="20170607133000 +0800" stop="20170607140000 +0800" channel="ARR">
-    <title lang="zh">Heart to Heart</title>
+  <programme start="20170611150000 +0800" stop="20170611153000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607140000 +0800" stop="20170607140500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611153000 +0800" stop="20170611160000 +0800" channel="CGTN">
+    <title lang="zh">Sports Scene</title>
   </programme>
-  <programme start="20170607140500 +0800" stop="20170607143000 +0800" channel="ARR">
-    <title lang="zh">Showbiz Korea</title>
+  <programme start="20170611160000 +0800" stop="20170611163000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607143000 +0800" stop="20170607150000 +0800" channel="ARR">
-    <title lang="zh">Pops in Seoul</title>
+  <programme start="20170611163000 +0800" stop="20170611170000 +0800" channel="CGTN">
+    <title lang="zh">Travelogue</title>
   </programme>
-  <programme start="20170607150000 +0800" stop="20170607153000 +0800" channel="ARR">
-    <title lang="zh">Business Daily [L]</title>
+  <programme start="20170611170000 +0800" stop="20170611173000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607153000 +0800" stop="20170607160000 +0800" channel="ARR">
-    <title lang="zh">Stylecast</title>
+  <programme start="20170611173000 +0800" stop="20170611180000 +0800" channel="CGTN">
+    <title lang="zh">Faces of Africa</title>
   </programme>
-  <programme start="20170607160000 +0800" stop="20170607160500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611180000 +0800" stop="20170611190000 +0800" channel="CGTN">
+    <title lang="zh">Africa Live</title>
   </programme>
-  <programme start="20170607160500 +0800" stop="20170607170000 +0800" channel="ARR">
-    <title lang="zh">Arirang Special</title>
+  <programme start="20170611190000 +0800" stop="20170611193000 +0800" channel="CGTN">
+    <title lang="zh">Asia Today</title>
   </programme>
-  <programme start="20170607170000 +0800" stop="20170607173000 +0800" channel="ARR">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170611193000 +0800" stop="20170611200000 +0800" channel="CGTN">
+    <title lang="zh">Dialogue with Yang Rui</title>
   </programme>
-  <programme start="20170607173000 +0800" stop="20170607180000 +0800" channel="ARR">
-    <title lang="zh">Heart to Heart</title>
+  <programme start="20170611200000 +0800" stop="20170611201500 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607180000 +0800" stop="20170607180500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611201500 +0800" stop="20170611210000 +0800" channel="CGTN">
+    <title lang="zh">China 24</title>
   </programme>
-  <programme start="20170607180500 +0800" stop="20170607190000 +0800" channel="ARR">
-    <title lang="zh">Global Families</title>
+  <programme start="20170611210000 +0800" stop="20170611213000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607190000 +0800" stop="20170607193000 +0800" channel="ARR">
-    <title lang="zh">Newscenter [L]</title>
+  <programme start="20170611213000 +0800" stop="20170611220000 +0800" channel="CGTN">
+    <title lang="zh">Closer to China with Robert Kuhn</title>
   </programme>
-  <programme start="20170607193000 +0800" stop="20170607200000 +0800" channel="ARR">
-    <title lang="zh">Shaping The Economy</title>
+  <programme start="20170611220000 +0800" stop="20170611230000 +0800" channel="CGTN">
+    <title lang="zh">Big Story</title>
   </programme>
-  <programme start="20170607200000 +0800" stop="20170607200500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170611230000 +0800" stop="20170611233000 +0800" channel="CGTN">
+    <title lang="zh">The World Today</title>
   </programme>
-  <programme start="20170607200500 +0800" stop="20170607210000 +0800" channel="ARR">
-    <title lang="zh">Arirang Prime</title>
-  </programme>
-  <programme start="20170607210000 +0800" stop="20170607213000 +0800" channel="ARR">
-    <title lang="zh">Arirang News [L]</title>
-  </programme>
-  <programme start="20170607213000 +0800" stop="20170607220000 +0800" channel="ARR">
-    <title lang="zh">Peninsula 24</title>
-  </programme>
-  <programme start="20170607220000 +0800" stop="20170607220500 +0800" channel="ARR">
-    <title lang="zh">Arirang News</title>
-  </programme>
-  <programme start="20170607220500 +0800" stop="20170607223000 +0800" channel="ARR">
-    <title lang="zh">Showbiz Korea (M) ?</title>
-  </programme>
-  <programme start="20170607223000 +0800" stop="20170607230000 +0800" channel="ARR">
-    <title lang="zh">POPS IN SEOUL (M) ?</title>
-  </programme>
-  <programme start="20170607230000 +0800" stop="20170607233000 +0800" channel="ARR">
-    <title lang="zh">Arirang News ?</title>
-  </programme>
-  <programme start="20170607233000 +0800" stop="20170608000000 +0800" channel="ARR">
-    <title lang="zh">Shaping The Economy</title>
+  <programme start="20170611233000 +0800" stop="20170612000000 +0800" channel="CGTN">
+    <title lang="zh">Rediscovering China</title>
   </programme>
   <programme start="20170608000000 +0800" stop="20170608000500 +0800" channel="ARR">
     <title lang="zh">Arirang News</title>
@@ -3915,152 +3672,122 @@
   <programme start="20170610233000 +0800" stop="20170611000000 +0800" channel="ARR">
     <title lang="zh">Global Business Report</title>
   </programme>
-  <programme start="20170607000000 +0800" stop="20170607003000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611000000 +0800" stop="20170611003000 +0800" channel="ARR">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170607003000 +0800" stop="20170607010000 +0800" channel="NHK">
-    <title lang="zh">At Home with Venetia in Kyoto</title>
+  <programme start="20170611003000 +0800" stop="20170611010000 +0800" channel="ARR">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170607010000 +0800" stop="20170607013000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611010000 +0800" stop="20170611013000 +0800" channel="ARR">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170607013000 +0800" stop="20170607020000 +0800" channel="NHK">
-    <title lang="zh">Journeys in Japan</title>
+  <programme start="20170611013000 +0800" stop="20170611020000 +0800" channel="ARR">
+    <title lang="zh">FOREIGN CORRESPONDENTS</title>
   </programme>
-  <programme start="20170607020000 +0800" stop="20170607022900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611020000 +0800" stop="20170611030000 +0800" channel="ARR">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170607022900 +0800" stop="20170607030000 +0800" channel="NHK">
-    <title lang="zh">imagine-nation</title>
+  <programme start="20170611030000 +0800" stop="20170611040000 +0800" channel="ARR">
+    <title lang="zh">Masterpieces of All Time</title>
   </programme>
-  <programme start="20170607030000 +0800" stop="20170607033000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611040000 +0800" stop="20170611050000 +0800" channel="ARR">
+    <title lang="zh">Global Families</title>
   </programme>
-  <programme start="20170607033000 +0800" stop="20170607035500 +0800" channel="NHK">
-    <title lang="zh">Document 72 Hours</title>
+  <programme start="20170611050000 +0800" stop="20170611053000 +0800" channel="ARR">
+    <title lang="zh">InsideBiz</title>
   </programme>
-  <programme start="20170607035500 +0800" stop="20170607040000 +0800" channel="NHK">
-    <title lang="zh">BEGIN Japanology mini</title>
+  <programme start="20170611053000 +0800" stop="20170611060000 +0800" channel="ARR">
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170607040000 +0800" stop="20170607043000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611060000 +0800" stop="20170611063000 +0800" channel="ARR">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170607043000 +0800" stop="20170607050000 +0800" channel="NHK">
-    <title lang="zh">Japanology Plus</title>
+  <programme start="20170611063000 +0800" stop="20170611070000 +0800" channel="ARR">
+    <title lang="zh">Stylecast</title>
   </programme>
-  <programme start="20170607050000 +0800" stop="20170607052900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611070000 +0800" stop="20170611074500 +0800" channel="ARR">
+    <title lang="zh">Korean Music Fest</title>
   </programme>
-  <programme start="20170607052900 +0800" stop="20170607060000 +0800" channel="NHK">
-    <title lang="zh">Science View</title>
+  <programme start="20170611074500 +0800" stop="20170611080000 +0800" channel="ARR">
+    <title lang="zh">The Grand Heritage :Soul of an Artisan</title>
   </programme>
-  <programme start="20170607060000 +0800" stop="20170607063000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611080000 +0800" stop="20170611090000 +0800" channel="ARR">
+    <title lang="zh">Premium Collection</title>
   </programme>
-  <programme start="20170607063000 +0800" stop="20170607070000 +0800" channel="NHK">
-    <title lang="zh">At Home with Venetia in Kyoto</title>
+  <programme start="20170611090000 +0800" stop="20170611093000 +0800" channel="ARR">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170607070000 +0800" stop="20170607073000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611093000 +0800" stop="20170611100000 +0800" channel="ARR">
+    <title lang="zh">Heart to Heart (B)</title>
   </programme>
-  <programme start="20170607073000 +0800" stop="20170607080000 +0800" channel="NHK">
-    <title lang="zh">TOKYO EYE 2020</title>
+  <programme start="20170611100000 +0800" stop="20170611110000 +0800" channel="ARR">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170607080000 +0800" stop="20170607082900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611110000 +0800" stop="20170611111500 +0800" channel="ARR">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170607082900 +0800" stop="20170607090000 +0800" channel="NHK">
-    <title lang="zh">SAMURAI WHEELS</title>
+  <programme start="20170611111500 +0800" stop="20170611113000 +0800" channel="ARR">
+    <title lang="zh">The Grand Heritage :Soul of an Artisan</title>
   </programme>
-  <programme start="20170607090000 +0800" stop="20170607093000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611113000 +0800" stop="20170611120000 +0800" channel="ARR">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170607093000 +0800" stop="20170607100000 +0800" channel="NHK">
-    <title lang="zh">Side by Side</title>
+  <programme start="20170611120000 +0800" stop="20170611130000 +0800" channel="ARR">
+    <title lang="zh">PerformArts Reload</title>
   </programme>
-  <programme start="20170607100000 +0800" stop="20170607103000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611130000 +0800" stop="20170611133000 +0800" channel="ARR">
+    <title lang="zh">Im Live</title>
   </programme>
-  <programme start="20170607103000 +0800" stop="20170607110000 +0800" channel="NHK">
-    <title lang="zh">Japanology Plus</title>
+  <programme start="20170611133000 +0800" stop="20170611140000 +0800" channel="ARR">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170607110000 +0800" stop="20170607112900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611140000 +0800" stop="20170611150000 +0800" channel="ARR">
+    <title lang="zh">Arirang Special</title>
   </programme>
-  <programme start="20170607112900 +0800" stop="20170607120000 +0800" channel="NHK">
-    <title lang="zh">Science View</title>
+  <programme start="20170611150000 +0800" stop="20170611153000 +0800" channel="ARR">
+    <title lang="zh">Arts Avenue</title>
   </programme>
-  <programme start="20170607120000 +0800" stop="20170607123000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611153000 +0800" stop="20170611160000 +0800" channel="ARR">
+    <title lang="zh">Tour Avatar</title>
   </programme>
-  <programme start="20170607123000 +0800" stop="20170607130000 +0800" channel="NHK">
-    <title lang="zh">KABUKI KOOL</title>
+  <programme start="20170611160000 +0800" stop="20170611170000 +0800" channel="ARR">
+    <title lang="zh">Masterpieces of All Time</title>
   </programme>
-  <programme start="20170607130000 +0800" stop="20170607133000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611170000 +0800" stop="20170611171500 +0800" channel="ARR">
+    <title lang="zh">Arirang News [L]</title>
   </programme>
-  <programme start="20170607133000 +0800" stop="20170607140000 +0800" channel="NHK">
-    <title lang="zh">TOKYO EYE 2020</title>
+  <programme start="20170611171500 +0800" stop="20170611173000 +0800" channel="ARR">
+    <title lang="zh">The Grand Heritage :Soul of an Artisan</title>
   </programme>
-  <programme start="20170607140000 +0800" stop="20170607142900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611173000 +0800" stop="20170611180000 +0800" channel="ARR">
+    <title lang="zh">Shaping the Ecomony</title>
   </programme>
-  <programme start="20170607142900 +0800" stop="20170607150000 +0800" channel="NHK">
-    <title lang="zh">SAMURAI WHEELS</title>
+  <programme start="20170611180000 +0800" stop="20170611190000 +0800" channel="ARR">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170607150000 +0800" stop="20170607153000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611190000 +0800" stop="20170611193000 +0800" channel="ARR">
+    <title lang="zh">InsideBiz</title>
   </programme>
-  <programme start="20170607153000 +0800" stop="20170607160000 +0800" channel="NHK">
-    <title lang="zh">Side by Side</title>
+  <programme start="20170611193000 +0800" stop="20170611200000 +0800" channel="ARR">
+    <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170607160000 +0800" stop="20170607163000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611200000 +0800" stop="20170611210000 +0800" channel="ARR">
+    <title lang="zh">Premium Collection</title>
   </programme>
-  <programme start="20170607163000 +0800" stop="20170607170000 +0800" channel="NHK">
-    <title lang="zh">KABUKI KOOL</title>
+  <programme start="20170611210000 +0800" stop="20170611213000 +0800" channel="ARR">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170607170000 +0800" stop="20170607172900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611213000 +0800" stop="20170611220000 +0800" channel="ARR">
+    <title lang="zh">4 Angles</title>
   </programme>
-  <programme start="20170607172900 +0800" stop="20170607180000 +0800" channel="NHK">
-    <title lang="zh">Science View</title>
+  <programme start="20170611220000 +0800" stop="20170611230000 +0800" channel="ARR">
+    <title lang="zh">After School Club [R]</title>
   </programme>
-  <programme start="20170607180000 +0800" stop="20170607183000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170611230000 +0800" stop="20170611233000 +0800" channel="ARR">
+    <title lang="zh">Heart to Heart ?</title>
   </programme>
-  <programme start="20170607183000 +0800" stop="20170607190000 +0800" channel="NHK">
-    <title lang="zh">Side by Side</title>
-  </programme>
-  <programme start="20170607190000 +0800" stop="20170607194400 +0800" channel="NHK">
-    <title lang="zh">NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20170607194400 +0800" stop="20170607200000 +0800" channel="NHK">
-    <title lang="zh">Direct Talk</title>
-  </programme>
-  <programme start="20170607200000 +0800" stop="20170607202900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170607202900 +0800" stop="20170607210000 +0800" channel="NHK">
-    <title lang="zh">TOKYO EYE 2020</title>
-  </programme>
-  <programme start="20170607210000 +0800" stop="20170607213000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170607213000 +0800" stop="20170607220000 +0800" channel="NHK">
-    <title lang="zh">SAMURAI WHEELS</title>
-  </programme>
-  <programme start="20170607220000 +0800" stop="20170607223000 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170607223000 +0800" stop="20170607230000 +0800" channel="NHK">
-    <title lang="zh">Trails to Tsukiji</title>
-  </programme>
-  <programme start="20170607230000 +0800" stop="20170607232900 +0800" channel="NHK">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170607232900 +0800" stop="20170608000000 +0800" channel="NHK">
-    <title lang="zh">great gear</title>
+  <programme start="20170611233000 +0800" stop="20170612000000 +0800" channel="ARR">
+    <title lang="zh">Tour Avatar</title>
   </programme>
   <programme start="20170608000000 +0800" stop="20170608003000 +0800" channel="NHK">
     <title lang="zh">NHK NEWSLINE</title>
@@ -4575,164 +4302,209 @@
   <programme start="20170610231000 +0800" stop="20170611000000 +0800" channel="NHK">
     <title lang="zh">NHK Documentary</title>
   </programme>
-  <programme start="20170607000000 +0800" stop="20170607003000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611000000 +0800" stop="20170611001000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607003000 +0800" stop="20170607003100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611001000 +0800" stop="20170611010000 +0800" channel="NHK">
+    <title lang="zh">Supreme Skills!</title>
   </programme>
-  <programme start="20170607003100 +0800" stop="20170607010000 +0800" channel="CNA">
-    <title lang="zh">Power List Asia 6 (HD)</title>
+  <programme start="20170611010000 +0800" stop="20170611011000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607010000 +0800" stop="20170607010100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611011000 +0800" stop="20170611013500 +0800" channel="NHK">
+    <title lang="zh">Darwins Amazing Animals</title>
   </programme>
-  <programme start="20170607010100 +0800" stop="20170607020000 +0800" channel="CNA">
-    <title lang="zh">City Redesign(HD)</title>
+  <programme start="20170611013500 +0800" stop="20170611014000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607020000 +0800" stop="20170607023000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611014000 +0800" stop="20170611015500 +0800" channel="NHK">
+    <title lang="zh">Inspiring Landscapes</title>
   </programme>
-  <programme start="20170607023000 +0800" stop="20170607023100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611015500 +0800" stop="20170611020000 +0800" channel="NHK">
+    <title lang="zh">BEGIN Japanology mini</title>
   </programme>
-  <programme start="20170607023100 +0800" stop="20170607030000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170611020000 +0800" stop="20170611021000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607030000 +0800" stop="20170607040000 +0800" channel="CNA">
-    <title lang="zh">Singapore Tonight</title>
+  <programme start="20170611021000 +0800" stop="20170611030000 +0800" channel="NHK">
+    <title lang="zh">CYCLE AROUND JAPAN</title>
   </programme>
-  <programme start="20170607040000 +0800" stop="20170607043000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611030000 +0800" stop="20170611031000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607043000 +0800" stop="20170607043100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611031000 +0800" stop="20170611040000 +0800" channel="NHK">
+    <title lang="zh">GLOBAL AGENDA</title>
   </programme>
-  <programme start="20170607043100 +0800" stop="20170607050000 +0800" channel="CNA">
-    <title lang="zh">Power List Asia 6 (HD)</title>
+  <programme start="20170611040000 +0800" stop="20170611041000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607050000 +0800" stop="20170607060000 +0800" channel="CNA">
-    <title lang="zh">Behind the Sirens (HD)</title>
+  <programme start="20170611041000 +0800" stop="20170611044000 +0800" channel="NHK">
+    <title lang="zh">A Century on Film</title>
   </programme>
-  <programme start="20170607060000 +0800" stop="20170607063000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611044000 +0800" stop="20170611045500 +0800" channel="NHK">
+    <title lang="zh">Direct Talk</title>
   </programme>
-  <programme start="20170607063000 +0800" stop="20170607070000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611045500 +0800" stop="20170611050000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607070000 +0800" stop="20170607090000 +0800" channel="CNA">
-    <title lang="zh">First Look Asia</title>
+  <programme start="20170611050000 +0800" stop="20170611051000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607090000 +0800" stop="20170607093000 +0800" channel="CNA">
-    <title lang="zh">Asia Business First</title>
+  <programme start="20170611051000 +0800" stop="20170611060000 +0800" channel="NHK">
+    <title lang="zh">NHK Documentary</title>
   </programme>
-  <programme start="20170607093000 +0800" stop="20170607093200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611060000 +0800" stop="20170611061000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607093200 +0800" stop="20170607100000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170611061000 +0800" stop="20170611070000 +0800" channel="NHK">
+    <title lang="zh">Supreme Skills!</title>
   </programme>
-  <programme start="20170607100000 +0800" stop="20170607103000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611070000 +0800" stop="20170611071000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607103000 +0800" stop="20170607103200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611071000 +0800" stop="20170611080000 +0800" channel="NHK">
+    <title lang="zh">Zero Carbon Ahead</title>
   </programme>
-  <programme start="20170607103200 +0800" stop="20170607110000 +0800" channel="CNA">
-    <title lang="zh">Power List Asia 6 (HD)</title>
+  <programme start="20170611080000 +0800" stop="20170611081000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607110000 +0800" stop="20170607113000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611081000 +0800" stop="20170611083500 +0800" channel="NHK">
+    <title lang="zh">Hometown Stories</title>
   </programme>
-  <programme start="20170607113000 +0800" stop="20170607113200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611083500 +0800" stop="20170611084000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607113200 +0800" stop="20170607120000 +0800" channel="CNA">
-    <title lang="zh">It Figures 5 (HD)</title>
+  <programme start="20170611084000 +0800" stop="20170611090000 +0800" channel="NHK">
+    <title lang="zh">Wild Hokkaido!</title>
   </programme>
-  <programme start="20170607120000 +0800" stop="20170607123000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611090000 +0800" stop="20170611091000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607123000 +0800" stop="20170607123200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611091000 +0800" stop="20170611100000 +0800" channel="NHK">
+    <title lang="zh">The Professionals</title>
   </programme>
-  <programme start="20170607123200 +0800" stop="20170607130000 +0800" channel="CNA">
-    <title lang="zh">First Look Encore</title>
+  <programme start="20170611100000 +0800" stop="20170611101000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607130000 +0800" stop="20170607130200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611101000 +0800" stop="20170611104000 +0800" channel="NHK">
+    <title lang="zh">A Century on Film</title>
   </programme>
-  <programme start="20170607130200 +0800" stop="20170607140000 +0800" channel="CNA">
-    <title lang="zh">Behind the Sirens (HD)</title>
+  <programme start="20170611104000 +0800" stop="20170611105500 +0800" channel="NHK">
+    <title lang="zh">Direct Talk</title>
   </programme>
-  <programme start="20170607140000 +0800" stop="20170607143000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611105500 +0800" stop="20170611110000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607143000 +0800" stop="20170607143200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611110000 +0800" stop="20170611111000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607143200 +0800" stop="20170607150000 +0800" channel="CNA">
-    <title lang="zh">Power List Asia 6 (HD)</title>
+  <programme start="20170611111000 +0800" stop="20170611120000 +0800" channel="NHK">
+    <title lang="zh">NHK Documentary</title>
   </programme>
-  <programme start="20170607150000 +0800" stop="20170607153000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611120000 +0800" stop="20170611121000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607153000 +0800" stop="20170607153200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611121000 +0800" stop="20170611130000 +0800" channel="NHK">
+    <title lang="zh">Somewhere Street</title>
   </programme>
-  <programme start="20170607153200 +0800" stop="20170607160000 +0800" channel="CNA">
-    <title lang="zh">World View</title>
+  <programme start="20170611130000 +0800" stop="20170611131000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607160000 +0800" stop="20170607163000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611131000 +0800" stop="20170611140000 +0800" channel="NHK">
+    <title lang="zh">Zero Carbon Ahead</title>
   </programme>
-  <programme start="20170607163000 +0800" stop="20170607163200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611140000 +0800" stop="20170611141000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607163200 +0800" stop="20170607170000 +0800" channel="CNA">
-    <title lang="zh">Money Mind (HD)</title>
+  <programme start="20170611141000 +0800" stop="20170611143500 +0800" channel="NHK">
+    <title lang="zh">Hometown Stories</title>
   </programme>
-  <programme start="20170607170000 +0800" stop="20170607173000 +0800" channel="CNA">
-    <title lang="zh">News Now</title>
+  <programme start="20170611143500 +0800" stop="20170611144000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607173000 +0800" stop="20170607173200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611144000 +0800" stop="20170611150000 +0800" channel="NHK">
+    <title lang="zh">Wild Hokkaido!</title>
   </programme>
-  <programme start="20170607173200 +0800" stop="20170607180000 +0800" channel="CNA">
-    <title lang="zh">First Look Encore</title>
+  <programme start="20170611150000 +0800" stop="20170611151000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607180000 +0800" stop="20170607180200 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611151000 +0800" stop="20170611160000 +0800" channel="NHK">
+    <title lang="zh">The Professionals</title>
   </programme>
-  <programme start="20170607180200 +0800" stop="20170607190000 +0800" channel="CNA">
-    <title lang="zh">Inventing Southeast Asia with Dr. Farish Noor (HD)</title>
+  <programme start="20170611160000 +0800" stop="20170611161000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607190000 +0800" stop="20170607200000 +0800" channel="CNA">
-    <title lang="zh">Primetime Asia</title>
+  <programme start="20170611161000 +0800" stop="20170611164000 +0800" channel="NHK">
+    <title lang="zh">A Century on Film</title>
   </programme>
-  <programme start="20170607200000 +0800" stop="20170607200100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611164000 +0800" stop="20170611165500 +0800" channel="NHK">
+    <title lang="zh">Direct Talk</title>
   </programme>
-  <programme start="20170607200100 +0800" stop="20170607210000 +0800" channel="CNA">
-    <title lang="zh">Perspectives 6 (HD)</title>
+  <programme start="20170611165500 +0800" stop="20170611170000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
   </programme>
-  <programme start="20170607210000 +0800" stop="20170607213000 +0800" channel="CNA">
-    <title lang="zh">Primetime World</title>
+  <programme start="20170611170000 +0800" stop="20170611171000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607213000 +0800" stop="20170607213100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611171000 +0800" stop="20170611180000 +0800" channel="NHK">
+    <title lang="zh">NHK Documentary</title>
   </programme>
-  <programme start="20170607213100 +0800" stop="20170607220000 +0800" channel="CNA">
-    <title lang="zh">Indias Game Changers (HD)</title>
+  <programme start="20170611180000 +0800" stop="20170611181000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607220000 +0800" stop="20170607230000 +0800" channel="CNA">
-    <title lang="zh">Singapore Tonight</title>
+  <programme start="20170611181000 +0800" stop="20170611190000 +0800" channel="NHK">
+    <title lang="zh">Zero Carbon Ahead</title>
   </programme>
-  <programme start="20170607230000 +0800" stop="20170607230100 +0800" channel="CNA">
-    <title lang="zh">Headline News</title>
+  <programme start="20170611190000 +0800" stop="20170611191000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170607230100 +0800" stop="20170608000000 +0800" channel="CNA">
-    <title lang="zh">Between the Lines (HD)</title>
+  <programme start="20170611191000 +0800" stop="20170611192500 +0800" channel="NHK">
+    <title lang="zh">Direct Talk</title>
+  </programme>
+  <programme start="20170611192500 +0800" stop="20170611194000 +0800" channel="NHK">
+    <title lang="zh">Japan-easy2</title>
+  </programme>
+  <programme start="20170611194000 +0800" stop="20170611195000 +0800" channel="NHK">
+    <title lang="zh">Little Charo</title>
+  </programme>
+  <programme start="20170611195000 +0800" stop="20170611200000 +0800" channel="NHK">
+    <title lang="zh">Doki Doki! WORLD TV</title>
+  </programme>
+  <programme start="20170611200000 +0800" stop="20170611201000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170611201000 +0800" stop="20170611203500 +0800" channel="NHK">
+    <title lang="zh">Hometown Stories</title>
+  </programme>
+  <programme start="20170611203500 +0800" stop="20170611204000 +0800" channel="NHK">
+    <title lang="zh">Fudoki</title>
+  </programme>
+  <programme start="20170611204000 +0800" stop="20170611210000 +0800" channel="NHK">
+    <title lang="zh">Wild Hokkaido!</title>
+  </programme>
+  <programme start="20170611210000 +0800" stop="20170611211000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170611211000 +0800" stop="20170611220000 +0800" channel="NHK">
+    <title lang="zh">The Professionals</title>
+  </programme>
+  <programme start="20170611220000 +0800" stop="20170611221000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170611221000 +0800" stop="20170611230000 +0800" channel="NHK">
+    <title lang="zh">Somewhere Street</title>
+  </programme>
+  <programme start="20170611230000 +0800" stop="20170611231000 +0800" channel="NHK">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170611231000 +0800" stop="20170611234000 +0800" channel="NHK">
+    <title lang="zh">J-MELO</title>
+  </programme>
+  <programme start="20170611234000 +0800" stop="20170611234500 +0800" channel="NHK">
+    <title lang="zh">PythagoraSwitch mini</title>
+  </programme>
+  <programme start="20170611234500 +0800" stop="20170612000000 +0800" channel="NHK">
+    <title lang="zh">Japan-easy2</title>
   </programme>
   <programme start="20170608000000 +0800" stop="20170608003000 +0800" channel="CNA">
     <title lang="zh">News Now</title>
@@ -5252,5 +5024,194 @@
   </programme>
   <programme start="20170610230100 +0800" stop="20170611000000 +0800" channel="CNA">
     <title lang="zh">Singapore Revealed (HD)</title>
+  </programme>
+  <programme start="20170611000000 +0800" stop="20170611003000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611003000 +0800" stop="20170611003100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611003100 +0800" stop="20170611013000 +0800" channel="CNA">
+    <title lang="zh">Japan Hour (HD)</title>
+  </programme>
+  <programme start="20170611013000 +0800" stop="20170611020000 +0800" channel="CNA">
+    <title lang="zh">Expensive Eats</title>
+  </programme>
+  <programme start="20170611020000 +0800" stop="20170611023000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611023000 +0800" stop="20170611023100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611023100 +0800" stop="20170611030000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170611030000 +0800" stop="20170611033000 +0800" channel="CNA">
+    <title lang="zh">SingaporeTonight</title>
+  </programme>
+  <programme start="20170611033000 +0800" stop="20170611040000 +0800" channel="CNA">
+    <title lang="zh">Luxe Asia 3 (HD)</title>
+  </programme>
+  <programme start="20170611040000 +0800" stop="20170611043000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611043000 +0800" stop="20170611043100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611043100 +0800" stop="20170611050000 +0800" channel="CNA">
+    <title lang="zh">Money Mind (HD)</title>
+  </programme>
+  <programme start="20170611050000 +0800" stop="20170611053000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611053000 +0800" stop="20170611053100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611053100 +0800" stop="20170611060000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170611060000 +0800" stop="20170611070000 +0800" channel="CNA">
+    <title lang="zh">Get Rea! (HD)</title>
+  </programme>
+  <programme start="20170611070000 +0800" stop="20170611073000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611073000 +0800" stop="20170611073200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611073200 +0800" stop="20170611080000 +0800" channel="CNA">
+    <title lang="zh">Correspondents Diary</title>
+  </programme>
+  <programme start="20170611080000 +0800" stop="20170611083000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611083000 +0800" stop="20170611083200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611083200 +0800" stop="20170611090000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170611090000 +0800" stop="20170611093000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611093000 +0800" stop="20170611093200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611093200 +0800" stop="20170611100000 +0800" channel="CNA">
+    <title lang="zh">Women of Substance</title>
+  </programme>
+  <programme start="20170611100000 +0800" stop="20170611103000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611103000 +0800" stop="20170611103200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611103200 +0800" stop="20170611110000 +0800" channel="CNA">
+    <title lang="zh">Money Mind (HD)</title>
+  </programme>
+  <programme start="20170611110000 +0800" stop="20170611113000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611113000 +0800" stop="20170611113200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611113200 +0800" stop="20170611120000 +0800" channel="CNA">
+    <title lang="zh">Women of Substance</title>
+  </programme>
+  <programme start="20170611120000 +0800" stop="20170611123000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611123000 +0800" stop="20170611123200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611123200 +0800" stop="20170611130000 +0800" channel="CNA">
+    <title lang="zh">First Look Encore</title>
+  </programme>
+  <programme start="20170611130000 +0800" stop="20170611130200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611130200 +0800" stop="20170611140000 +0800" channel="CNA">
+    <title lang="zh">Japan Hour (HD)</title>
+  </programme>
+  <programme start="20170611140000 +0800" stop="20170611143000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611143000 +0800" stop="20170611143200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611143200 +0800" stop="20170611150000 +0800" channel="CNA">
+    <title lang="zh">Insight (HD)</title>
+  </programme>
+  <programme start="20170611150000 +0800" stop="20170611153000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611153000 +0800" stop="20170611153200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611153200 +0800" stop="20170611160000 +0800" channel="CNA">
+    <title lang="zh">World View</title>
+  </programme>
+  <programme start="20170611160000 +0800" stop="20170611163000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611163000 +0800" stop="20170611163200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611163200 +0800" stop="20170611170000 +0800" channel="CNA">
+    <title lang="zh">Correspondents Diary</title>
+  </programme>
+  <programme start="20170611170000 +0800" stop="20170611173000 +0800" channel="CNA">
+    <title lang="zh">News Now</title>
+  </programme>
+  <programme start="20170611173000 +0800" stop="20170611173200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611173200 +0800" stop="20170611180000 +0800" channel="CNA">
+    <title lang="zh">First Look Encore</title>
+  </programme>
+  <programme start="20170611180000 +0800" stop="20170611180200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611180200 +0800" stop="20170611183000 +0800" channel="CNA">
+    <title lang="zh">Luxe Asia 3 (HD)</title>
+  </programme>
+  <programme start="20170611183000 +0800" stop="20170611190000 +0800" channel="CNA">
+    <title lang="zh">Women of Substance</title>
+  </programme>
+  <programme start="20170611190000 +0800" stop="20170611193000 +0800" channel="CNA">
+    <title lang="zh">Primetime Asia</title>
+  </programme>
+  <programme start="20170611193000 +0800" stop="20170611193200 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611193200 +0800" stop="20170611200000 +0800" channel="CNA">
+    <title lang="zh">Welcome 2 Taiwan (HD)</title>
+  </programme>
+  <programme start="20170611200000 +0800" stop="20170611210000 +0800" channel="CNA">
+    <title lang="zh">Being A Child(HD)</title>
+  </programme>
+  <programme start="20170611210000 +0800" stop="20170611213000 +0800" channel="CNA">
+    <title lang="zh">Primetime World</title>
+  </programme>
+  <programme start="20170611213000 +0800" stop="20170611213100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611213100 +0800" stop="20170611220000 +0800" channel="CNA">
+    <title lang="zh">Correspondents Diary</title>
+  </programme>
+  <programme start="20170611220000 +0800" stop="20170611223000 +0800" channel="CNA">
+    <title lang="zh">SingaporeTonight</title>
+  </programme>
+  <programme start="20170611223000 +0800" stop="20170611230000 +0800" channel="CNA">
+    <title lang="zh">SportsWorld Weekend</title>
+  </programme>
+  <programme start="20170611230000 +0800" stop="20170611230100 +0800" channel="CNA">
+    <title lang="zh">Headline News</title>
+  </programme>
+  <programme start="20170611230100 +0800" stop="20170611233000 +0800" channel="CNA">
+    <title lang="zh">It Figures 5 (HD)</title>
+  </programme>
+  <programme start="20170611233000 +0800" stop="20170612000000 +0800" channel="CNA">
+    <title lang="zh">Welcome 2 Taiwan (HD)</title>
   </programme>
 </tv>
