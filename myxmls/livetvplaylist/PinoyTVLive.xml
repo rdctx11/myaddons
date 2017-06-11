@@ -11,7 +11,7 @@
 
 <item>
 <title>TV 5</title>
-<link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link>
+<!-- <link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link> -->
 <link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/TV5_zpsqhif8ywb.png</thumbnail>
 <genre>News</genre>
@@ -39,7 +39,7 @@ Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's act
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/user/PTVPhilippines/featured</page>
 </regex>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/PTV_zpsjbp5bt0h.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/PTV_zpsaoj11ij5.png</thumbnail>
 <genre>News, Public Service</genre>
 <info>People's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.
 
