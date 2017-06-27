@@ -1,7 +1,7 @@
 
 
 <item>
-<title>[COLOR lightgreen]5Star[/COLOR]</title>
+<title>[COLOR yellow]5Star[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -14,7 +14,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]5USA[/COLOR]</title>
+<title>[COLOR yellow]5USA[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -27,7 +27,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Arirang TV[/COLOR]</title>
+<title>[COLOR yellow]Arirang TV[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -40,7 +40,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Al Jazeera[/COLOR]</title>
+<title>[COLOR yellow]Al Jazeera[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -53,7 +53,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]BBC Four[/COLOR]</title>
+<title>[COLOR yellow]BBC Four[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -66,7 +66,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]BBC News[/COLOR]</title>
+<title>[COLOR yellow]BBC News[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -79,7 +79,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]BBC One[/COLOR]</title>
+<title>[COLOR yellow]BBC One[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -92,7 +92,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]BBC Two[/COLOR]</title>
+<title>[COLOR yellow]BBC Two[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -105,7 +105,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]BBC World News[/COLOR]</title>
+<title>[COLOR yellow]BBC World News[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -118,7 +118,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CBBC[/COLOR]</title>
+<title>[COLOR yellow]CBBC[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -131,7 +131,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CBS Action[/COLOR]</title>
+<title>[COLOR yellow]CBS Action[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -144,7 +144,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CBS Reality[/COLOR]</title>
+<title>[COLOR yellow]CBS Reality[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -157,7 +157,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CBS Drama[/COLOR]</title>
+<title>[COLOR yellow]CBS Drama[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -170,7 +170,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CCTV9 Documentary[/COLOR]</title>
+<title>[COLOR yellow]CCTV9 Documentary[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -183,7 +183,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CCTV F[/COLOR]</title>
+<title>[COLOR yellow]CCTV F[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -196,7 +196,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CGTN[/COLOR]</title>
+<title>[COLOR yellow]CGTN[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -209,7 +209,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CFCN-5 CTV Lethbridge[/COLOR]</title>
+<title>[COLOR yellow]CFCN-5 CTV Lethbridge[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -222,7 +222,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CFRN CTV Edmonton[/COLOR]</title>
+<title>[COLOR yellow]CFRN CTV Edmonton[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -235,7 +235,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Channel 4[/COLOR]</title>
+<title>[COLOR yellow]Channel 4[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -248,7 +248,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Channel 5[/COLOR]</title>
+<title>[COLOR yellow]Channel 5[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -261,7 +261,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Christmastime TV[/COLOR]</title>
+<title>[COLOR yellow]Christmastime TV[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -274,7 +274,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CICC CTV Yorkton[/COLOR]</title>
+<title>[COLOR yellow]CICC CTV Yorkton[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -287,7 +287,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CKCK CTV Regina[/COLOR]</title>
+<title>[COLOR yellow]CKCK CTV Regina[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -300,7 +300,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CNBC Europe[/COLOR]</title>
+<title>[COLOR yellow]CNBC Europe[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -313,7 +313,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]CNN International[/COLOR]</title>
+<title>[COLOR yellow]CNN International[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -326,7 +326,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ComedyTime TV[/COLOR]</title>
+<title>[COLOR yellow]ComedyTime TV[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -339,7 +339,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Dubai Sports[/COLOR]</title>
+<title>[COLOR yellow]Dubai Sports[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -352,7 +352,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Dude Food[/COLOR]</title>
+<title>[COLOR yellow]Dude Food[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -365,7 +365,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]DW English[/COLOR]</title>
+<title>[COLOR yellow]DW English[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -378,7 +378,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]E4[/COLOR]</title>
+<title>[COLOR yellow]E4[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -391,7 +391,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Euronews English[/COLOR]</title>
+<title>[COLOR yellow]Euronews English[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -404,7 +404,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Fashion network[/COLOR]</title>
+<title>[COLOR yellow]Fashion network[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -417,7 +417,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Fashion News Lifestyle[/COLOR]</title>
+<title>[COLOR yellow]Fashion News Lifestyle[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -430,7 +430,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]FightBox[/COLOR]</title>
+<title>[COLOR yellow]FightBox[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -443,7 +443,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]France 24[/COLOR]</title>
+<title>[COLOR yellow]France 24[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -456,7 +456,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV[/COLOR]</title>
+<title>[COLOR yellow]ITV[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -469,7 +469,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV+1[/COLOR]</title>
+<title>[COLOR yellow]ITV+1[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -482,7 +482,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV2[/COLOR]</title>
+<title>[COLOR yellow]ITV2[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -495,7 +495,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV2+1[/COLOR]</title>
+<title>[COLOR yellow]ITV2+1[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -508,7 +508,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV3[/COLOR]</title>
+<title>[COLOR yellow]ITV3[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -521,7 +521,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV3+1[/COLOR]</title>
+<title>[COLOR yellow]ITV3+1[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -534,7 +534,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITV4+1[/COLOR]</title>
+<title>[COLOR yellow]ITV4+1[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -547,7 +547,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]ITVBe[/COLOR]</title>
+<title>[COLOR yellow]ITVBe[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -560,7 +560,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]More4[/COLOR]</title>
+<title>[COLOR yellow]More4[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -573,7 +573,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Really[/COLOR]</title>
+<title>[COLOR yellow]Really[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -586,7 +586,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Travel Channel +1[/COLOR]</title>
+<title>[COLOR yellow]Travel Channel +1[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -599,7 +599,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]truTV[/COLOR]</title>
+<title>[COLOR yellow]truTV[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
@@ -612,7 +612,7 @@
 <fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lightgreen]Yesterday[/COLOR]</title>
+<title>[COLOR yellow]Yesterday[/COLOR]</title>
 <link>$doregex[filmonch]</link>
 <regex>
 <name>filmonch</name>
