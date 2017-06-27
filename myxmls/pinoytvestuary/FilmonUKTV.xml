@@ -1,0 +1,626 @@
+
+
+<item>
+<title>[COLOR lightgreen]5Star[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/851</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/851/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]5USA[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/845</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/845/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Arirang TV[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/932</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/932/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Al Jazeera[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/4</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/4/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]BBC Four[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/103</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/103/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]BBC News[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/27</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/27/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]BBC One[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/14</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/14/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]BBC Two[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/25</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/25/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]BBC World News[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/3268</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3268/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CBBC[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/29</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/29/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CBS Action[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1952</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1952/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CBS Reality[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1808</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1808/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CBS Drama[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1805</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1805/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CCTV9 Documentary[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2786</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2786/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CCTV F[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/4118</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/4118/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CGTN[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1675</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1675/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CFCN-5 CTV Lethbridge[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2059</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2059/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CFRN CTV Edmonton[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2053</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2053/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Channel 4[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Channel 5[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/22</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/22/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Christmastime TV[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/4661</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/4661/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CICC CTV Yorkton[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2062</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2062/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CKCK CTV Regina[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2056</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2056/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CNBC Europe[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/4130</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/4130/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]CNN International[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/115</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/115/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ComedyTime TV[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/344</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/344/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Dubai Sports[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/79</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/79/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Dude Food[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2915</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2915/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]DW English[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2641</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2641/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]E4[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/65</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/65/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Euronews English[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1672</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1672/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Fashion network[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1129</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1129/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Fashion News Lifestyle[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/5534</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/5534/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]FightBox[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1621</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1621/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]France 24[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/298</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/298/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/11</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/11/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV+1[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1817</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1817/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV2[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/67</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/67/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV2+1[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1820</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1820/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV3[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/26</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/26/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV3+1[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1823</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1823/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITV4+1[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1826</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1826/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]ITVBe[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/3211</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3211/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]More4[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/97</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/97/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Really[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/2798</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/2798/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Travel Channel +1[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/842</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/842/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]truTV[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/3707</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3707/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR lightgreen]Yesterday[/COLOR]</title>
+<link>$doregex[filmonch]</link>
+<regex>
+<name>filmonch</name>
+<expres>"high","url":"(.*?)"</expres>
+<page>http://www.filmon.com/api-v2/channel/1039</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36</agent>
+<referer>http://www.filmon.com</referer>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/1039/big_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/1YM_HUywqr8/maxresdefault.jpg</fanart>
+</item>
