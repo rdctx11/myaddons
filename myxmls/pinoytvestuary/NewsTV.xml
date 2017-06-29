@@ -4,15 +4,15 @@
 <title>CNN</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%26url%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F2435a45b85628172c5a47122144a7c67.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bUSA%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-USA.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCNN%2bUSA%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-USA.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F470%252Fcnn_usa__34139_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fp%252F470%252Fcnn_usa__34139_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnn_zps4z9xzj51.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/474.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/474.png</fanart>
 </item>
 
 <item>
 <title>CNN Philippines</title>
 <link>rtmp://54.251.134.121/live/15273.sdp live=1 timeout=10</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</thumbnail>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPH.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/CNNPh_zpskfbptcwq.png</fanart>
 </item>
 
@@ -21,8 +21,8 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb655e03035550c14fc2bcc65d40cff8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNN%2bInternational%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F81584236b35ba70e2e9a12f5fb338ff0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNN%2bInternational%26url%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-International.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCNN%2bInternational%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fchannels%252FCNN-International.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fj%252F051%252Fcnn_international__19122_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.sdwnet.org%252Fproduct_images%252Fj%252F051%252Fcnn_international__19122_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.shadow-net.org%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F53.0.2785.143%2bSafari%252F537.36&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnninternational_zpspjytpvej.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNINT.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNINT.png</fanart>
 </item>
 
 <item>
@@ -36,8 +36,8 @@
 <title>CNBC</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNBC%26url%3dmpd%253A%252F%252F0fa1864db527d3de89020cb06a050b35.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F0fa1864db527d3de89020cb06a050b35.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCNBC%26url%3dmpd%253A%252F%252Faa11677d237b2c2b435fd7decac0d7ad.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dCNBC%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Faa11677d237b2c2b435fd7decac0d7ad.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnbc_zpstqcwvdwc.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cnbc_zpstqcwvdwc.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNBC.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNBC.png</fanart>
 </item>
 
 <item>
@@ -46,8 +46,8 @@
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBloomberg%26url%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dBloomberg%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F208421fcbc090a62f099f85472ded9ba.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
 <link>plugin://plugin.video.F.T.V/?url=81&amp;mode=125&amp;name=Bloomberg&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F81%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Bloomberg2_zps9jqeqtrc.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/194.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/194.png</fanart>
 </item>
 
 <item>
@@ -60,8 +60,8 @@
 </regex>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2bChannel%26url%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dFox%2bNews%2bChannel%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F877e1fd192b3a58577e4387971c215a7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/FoxNews_zps8dj5lwqu.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/FOXNEWS.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/FOXNEWS.png</fanart>
 </item>
 
 <item>
@@ -73,16 +73,16 @@
 <page>https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q</page>
 </regex>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/abcnews24_zpsumr9nhbj.png</fanart>
+<thumbnail>http://gmojudycarman.org/wp-content/uploads/2013/06/abc-24.jpg</thumbnail>
+<fanart>http://gmojudycarman.org/wp-content/uploads/2013/06/abc-24.jpg</fanart>
 </item>
 
 <item>
 <title>Sky News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=y60wDzZt8yg</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bNews%26url%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540News%26videoTitle%3dSky%2bNews%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3b7dd11b6654dd5f35745285ededdbd9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/skynews_zpsmv8j95ar.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/skynews_zpsmv8j95ar.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/192.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/192.png</fanart>
 </item>
 
 <item>
@@ -90,31 +90,31 @@
 <link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8</link>
 <link>plugin://plugin.video.youtube/play/?video_id=UgJtWREOXHA</link>
 <link>plugin://plugin.video.F.T.V/?url=4&amp;mode=125&amp;name=Al+Jazeera&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F4%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/aljazeera_zpswuaiypbc.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/198.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/198.png</fanart>
 </item>
 
 <item>
 <title>NHK World TV</title>
 <link>http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/NHKWorldTV_zpsytzs7fkp.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/NHKWorldTV_zpsytzs7fkp.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NHK.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NHK.png</fanart>
 </item>
 
 <item>
 <title>Channel News Asia</title>
 <link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ChannelNewsAsia_zpspybfkajx.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/ChannelNewsAsia_zpspybfkajx.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNA.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNA.png</fanart>
 </item>
 
 <item>
 <title>Euro News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=vQPShxlX7dM</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/Euronews_zpsohmuwq4e.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/196.png</thumbnail>
 <fanart>https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/05/17175313/Euronews-All-Views_-roue-entiere_logo.jpg</fanart>
 </item>
 
@@ -122,48 +122,40 @@
 <title>France 24</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1Ydto3Iyzic</link>
 <link>plugin://plugin.video.F.T.V/?url=298&amp;mode=125&amp;name=France24&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F298%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/France24_zpsazjinlhj.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/FR24.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/FR24.png</fanart>
 </item>
 
 <item>
 <title>DW News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=gNosnzCaS4I</link>
 <link>plugin://plugin.video.F.T.V/?url=2641&amp;mode=125&amp;name=DW+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2641%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/DW_zps4aduf06j.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/DW.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/DW.png</fanart>
 </item>
 
 <item>
 <title>Voice of America</title>
 <link>plugin://plugin.video.F.T.V/?url=2996&amp;mode=125&amp;name=VoA+English&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2996%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/voa_zpswqtql9ov.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/voa_zpswqtql9ov.png</fanart>
-</item>
-
-<item>
-<title>NASA TV</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
-<link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/nasatv_zps4z836v4m.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/VOA.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/VOA.png</fanart>
 </item>
 
 <item>
 <title>Arirang TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=JVr6yiZ9IMY</link>
 <link>plugin://plugin.video.F.T.V/?url=932&amp;mode=125&amp;name=Arirang+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F932%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/arirang_zpswpoq2wdf.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ARR.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ARR.png</fanart>
 </item>
 
 <item>
 <title>Press TV</title>
 <link>plugin://plugin.video.F.T.V/?url=905&amp;mode=125&amp;name=Press+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F905%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/presstv_zps0pkxqnpe.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/PRESSTV.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/PRESSTV.png</fanart>
 </item>
 
 <item>
@@ -176,16 +168,16 @@
 </regex> -->
 <link>plugin://plugin.video.youtube/play/?video_id=nQ3iylp5NRk</link>
 <link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CGTN+News&amp;iconimage=http%3A%2F%2Fi1297.photobucket.com%2Falbums%2Fag26%2Fnieldc%2FLiveTV%2Fcgtn_zpsufjeskrm.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CGTN.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CGTN.png</fanart>
 </item>
 
 <item>
 <title>Russia Today</title>
 <link>plugin://plugin.video.F.T.V/?url=93&amp;mode=125&amp;name=Russia+Today&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F93%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/russiatoday_zpsf2aydxxb.png</thumbnail>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/russiatoday_zpsf2aydxxb.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/RT.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/RT.png</fanart>
 </item>
 
 <item>

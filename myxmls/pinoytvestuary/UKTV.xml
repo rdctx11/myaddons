@@ -27,25 +27,25 @@
 <item>
 <title>ITV</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV1_zpsf5kgqvmg.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/103.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 2</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV2</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV2_zpsrsuyz1jv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/106.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 3</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV3</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV3_zpsrdef5kku.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/107.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 4</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/ITV4</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/ITV4_zpsvv1nsedx.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/108.png</thumbnail>
 </item>
 
 <item>
@@ -57,13 +57,13 @@
 <item>
 <title>CBS Reality</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Reality</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBSReality1_zpsaalkahdy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/152.png</thumbnail>
 </item>
 
 <item>
 <title>CBS Drama</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Drama</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Drama_zpsct1xalby.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/136.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -72,7 +72,7 @@
 <item>
 <title>CBS Action</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/CBS+Action</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/CBS-Action_zpshhrkhet9.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/135.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -81,7 +81,7 @@
 <item>
 <title>Channel 4</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Channel+4</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel4_zps2b4wfcll.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/105.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -90,7 +90,7 @@
 <item>
 <title>Channel 5</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Channel+5</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Channel5_zpszzddrdqi.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/105.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -99,7 +99,7 @@
 <item>
 <title>E4</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/E4</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E4_zpsscgqicsd.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/109.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -108,7 +108,7 @@
 <item>
 <title>More 4</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/More+4</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/More4_zpsmmjlgdxo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/115.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -118,7 +118,7 @@
 <title>Dave</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Dave</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Dave_zpsacdyn91z.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/111.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -128,7 +128,7 @@
 <title>Quest</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Quest</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/QUEST_zpsmijnkfjy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/144.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -138,7 +138,7 @@
 <title>Film 4</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Film+4</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Film4_zps85mwokqu.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/313.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -147,7 +147,7 @@
 <item>
 <title>5USA</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/5USA</link>
-<thumbnail>http://static.filmon.com/couch/channels/845/extra_big_logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/118.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -203,7 +203,7 @@
 <title>Travel Channel UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Travel+Channel</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/TravelUK_zpspjvtodas.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/156.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -213,7 +213,7 @@
 <title>TLC</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/TLC</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/tlcuk_zpsvfzmzcbq.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/158.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -223,7 +223,7 @@
 <title>E! Entertainment</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/E!</link>
 <link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/E_zpsropnjzl0.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/921.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -232,7 +232,7 @@
 <item>
 <title>National Geographic UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/National+Geographic</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoUK_zpszvanuivv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/171.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>National Geographic Channel is an American digital cable and satellite television channel that is owned by the National Geographic Society and the Fox Cable Networks division of 21st Century Fox. The channel airs non-fiction television programs produced by National Geographic and other production companies. Like History and Discovery Channel, the channel features documentaries with factual content involving nature, science, culture, and history, plus some reality and pseudo-scientific entertainment programming.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/natgeo_fanart_zps805bd99c.jpg</fanart>
@@ -241,7 +241,7 @@
 <item>
 <title>Nat Geo Wild</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Nat+Geo+Wild</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NatGeoWildUK_zpssqp5g1ho.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/172.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -250,7 +250,7 @@
 <item>
 <title>Discovery Channel UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Channel</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryChannelUK_zpsg8monkro.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/161.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Discovery Channel is an American basic cable and satellite television channel (which is also delivered via IPTV, terrestrial television and internet television in other parts of the world) that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. As of June 2012, Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discovery_fanart_zps6f793690.jpg</fanart>
@@ -260,7 +260,7 @@
 <item>
 <title>Discovery Science UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Science</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryScienceUK_zpsjbaj7ymm.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/162.png</thumbnail>
 <genre>Science, Documentary</genre>
 <info>Science is an American digital cable and satellite television network that is owned by Discovery Communications. The channel features programming focusing on the fields of wilderness survival, ufology, manufacturing, construction, technology, space, prehistory and animal science.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/discoscience_fanart_zpszz6dkani.jpg</fanart>
@@ -269,7 +269,7 @@
 <item>
 <title>Animal Planet UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Animal+Planet</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/AnimalPlanetUK_zps9sj0lcix.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/173.png</thumbnail>
 <genre>Educational, Documentary</genre>
 <info>Animal Planet is an American basic cable and satellite television channel owned by Discovery Communications. Originally focused on more educationally-based television shows, the network has featured more reality programming since the late 2000s. It is available throughout the United States, as well as in over 70 countries around the world. Country-specific versions of the channel have been created in Canada, India, Japan, Taiwan and other countries.</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/animalplanet_fanart_zps0f89825d.jpg</fanart>
@@ -278,7 +278,7 @@
 <item>
 <title>Discovery History</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+History</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryHistory_zpsijgs0geb.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/164.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -287,7 +287,7 @@
 <item>
 <title>Discovery Shed</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Shed</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/discovery-shed_zpsyjmpkljy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/165.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -296,7 +296,7 @@
 <item>
 <title>Discovery Turbo</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Discovery+Turbo</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DiscoveryTurbo_zpskzappd9x.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/163.png</thumbnail>
 <genre>Documentary</genre>
 <info></info>
 <fanart></fanart>
@@ -305,7 +305,7 @@
 <item>
 <title>Investigation Discovery UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Investigation+Discovery</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/investigationdiscovery_zpsyybv2bph.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/167.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -314,7 +314,7 @@
 <item>
 <title>Lifetime UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Lifetime</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/LifetimeUK_zpsmj8sdgbd.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/132.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -323,7 +323,7 @@
 <item>
 <title>DMax</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/DMax</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DMAX_zps60h9qixv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/160.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -332,7 +332,7 @@
 <item>
 <title>Drama</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Drama</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Drama_zpsyvliczpz.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/138.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -341,7 +341,7 @@
 <item>
 <title>Sky Arts</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Arts</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/SkyArts_zpsql0tscoy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/125.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -350,7 +350,7 @@
 <item>
 <title>Sky Atlantic</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Atlantic</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Atlantic_zpsvwaaen4b.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/123.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -359,7 +359,7 @@
 <item>
 <title>Sky Living</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Living</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-Living_zpsgdh50tiz.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/124.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -368,7 +368,7 @@
 <item>
 <title>Sky One</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+One</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-1_zpswxg3rgsj.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/121.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -377,7 +377,7 @@
 <item>
 <title>Sky Two</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Two</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Sky-2_zpsj12gxnfm.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/122.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -387,7 +387,7 @@
 <title>Sky Cinema Action</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Action</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26url%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bAction%2b%2526%2bAdventure%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3c909c9218961b2ecfdd5f44a89a90b8.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaaction_zpsgjmrejvy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/307.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -397,7 +397,7 @@
 <title>Sky Cinema Comedy</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Comedy</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bComedy%26url%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bComedy%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fc168262cf8b9775300da0b79b2199ee6.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacomedy_zpsac57vyhs.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/308.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -407,7 +407,7 @@
 <title>Sky Cinema Disney</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDisney%26url%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDisney%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ffb2cde6e0410cf537a19800bd19261f0.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadisney2_zps6lg9od1s.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/305.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -417,7 +417,7 @@
 <title>Sky Cinema Crime</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Crime</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26url%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bCrime%2b%2526%2bThriller%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa84271250d9dc93c1edc84874552d6c7.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemacrime_zpsg8yacrae.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/309.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -427,7 +427,7 @@
 <title>Sky Cinema Family</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Family</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bFamily%26url%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bFamily%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3caed59e3b7e405b3a802cc480a14e32.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemafamily_zpsyt6hds18.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/306.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -437,7 +437,7 @@
 <title>Sky Cinema Drama</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Drama</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26url%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bDrama%2b%2526%2bRomance%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F5081d68d4054bc9209ec2bb1c5ff5eef.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemadrama_zpsxz8jnqq5.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/310.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -447,7 +447,7 @@
 <title>Sky Cinema Premiere</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Premiere</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bPremiere%26url%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bPremiere%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F3265682a41f442e5a4164e9b26393634.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemapremiere_zps318783ts.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/301.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -455,9 +455,9 @@
 
 <item>
 <title>Sky Cinema SciFi</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sci-Fi</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Sci-Fi</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSci-fi%2bHorror%26url%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSci-fi%2bHorror%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F20abccafd4a26b6fce57df892e5040be.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemascifi_zps8usxofdu.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/311.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -465,9 +465,9 @@
 
 <item>
 <title>Sky Cinema Modern Greats</title>
-<link>plugin://plugin.video.pvr.plugin.player/stream_search/Greats</link>
+<link>plugin://plugin.video.pvr.plugin.player/stream_search/Sky+Greats</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26url%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2b%2528Modern%2bGreats%2529%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fa2d025900c268045e4e2da567a8c3f9b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemagreats_zps5xbpt0oi.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/304.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -477,7 +477,7 @@
 <title>Sky Cinema Showcase</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Showcase</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bShowcase%26url%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bShowcase%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fb6f08ad1b0976d993e116cbb72aef8bd.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemashowcase_zps2tlbf3bs.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/SKYSHOW.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -487,7 +487,7 @@
 <title>Sky Cinema Select</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Select</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bMovies%2bSelect%26url%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dSky%2bMovies%2bSelect%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252F760670eeaaa3e62adc1989fee2e8b259.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/skycinemaselect_zpskodhwbiw.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/312.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -497,7 +497,7 @@
 <title>True Movies</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/True+Movies</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%26url%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fd2c73be17b950368083f5c7ca9445cb9.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies1_zpsgjxxgiiy.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/316.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -507,7 +507,7 @@
 <title>True Movies 2</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/True+Movies+2</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTrue%2bMovies%2b2%26url%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dTrue%2bMovies%2b2%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Ff24ec9b08bbf156e4b0d1e0065ed204b.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/truemovies2_zpseqc5c8ke.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/316B.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -516,7 +516,7 @@
 <item>
 <title>Disney Channel UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+Channel</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyChUK_zpsgnrrrt8h.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/291.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -525,7 +525,7 @@
 <item>
 <title>Disney Junior UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+Junior</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyJrUK_zpso5yxnbnv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/292.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -534,7 +534,7 @@
 <item>
 <title>Disney XD</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Disney+XD</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/DisneyXdUK_zpsrjpfwnxw.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/293.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -543,7 +543,7 @@
 <item>
 <title>Nick UK</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Nick</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/Nick_zpsnmjdcpmr.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/294.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
@@ -552,7 +552,7 @@
 <item>
 <title>Nick Junior</title>
 <link>plugin://plugin.video.pvr.plugin.player/stream_search/Nick+Jr</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/UKTV/NickJr_zpsdfmum9ng.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/295.png</thumbnail>
 <genre></genre>
 <info></info>
 <fanart></fanart>
