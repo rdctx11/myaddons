@@ -1,16 +1,6 @@
 ﻿<items>
 
 <item>
-<title>[COLOR yellow]PACQUIAO vs HORN[/COLOR] (Battle of Brisbane)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=BOXNATION:+PACQUIAO+vs+HORN+(Battle+of+Brisbane)+-+NIELDC&amp;url=http://dreamlord.tk:5454/live/ricciskyline@yahoo.co.uk/w6u9HS7t7r/15581.m3u8&amp;iconImage=https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=ESPN:+PACQUIAO+vs+HORN+(Battle+of+Brisbane)+-+NIELDC&amp;url=http://dreamlord.tk:5454/live/ricciskyline@yahoo.co.uk/w6u9HS7t7r/17630.m3u8&amp;iconImage=https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</link>
-<thumbnail>https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</thumbnail>
-<genre></genre>
-<info></info>
-<fanart>http://cdn.mainevent.com.au/cache/950x527/events/thumbnails/pacquiao-vs-horn-960x540.jpg</fanart>
-</item>
-
-<item>
 <title>CNN Philippines</title>
 <link>rtmp://54.251.134.121/live/15273.sdp live=true timeout=15</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNPH.png</thumbnail>

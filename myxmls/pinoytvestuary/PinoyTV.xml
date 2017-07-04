@@ -1,16 +1,6 @@
 ﻿<items>
 
 <item>
-<title>[COLOR yellow]PACQUIAO vs HORN[/COLOR] (Battle of Brisbane)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=BOXNATION:+PACQUIAO+vs+HORN+(Battle+of+Brisbane)+-+NIELDC&amp;url=http://dreamlord.tk:5454/live/ricciskyline@yahoo.co.uk/w6u9HS7t7r/15581.m3u8&amp;iconImage=https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=ESPN:+PACQUIAO+vs+HORN+(Battle+of+Brisbane)+-+NIELDC&amp;url=http://dreamlord.tk:5454/live/ricciskyline@yahoo.co.uk/w6u9HS7t7r/17630.m3u8&amp;iconImage=https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</link>
-<thumbnail>https://sportsnetholidays.com/wp-content/uploads/2010/07/Manny-Pacquiao-vs-Jeff-Horn.jpg</thumbnail>
-<genre></genre>
-<info></info>
-<fanart>http://cdn.mainevent.com.au/cache/950x527/events/thumbnails/pacquiao-vs-horn-960x540.jpg</fanart>
-</item>
-
-<item>
 <title>GMA Pinoy TV (USA)</title>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dGMA%2bPinoy%2bTV%26url%3dhttp%253A%252F%252Fv2.ustreamix.com%252Fstream.php%253Fid%253Dgma-pinoy-tv%26videoTitle%3dGMA%2bPinoy%2bTV%26director%3dtvone1.com%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fv2.ustreamix.com%252Fstream.php%253Fid%253Dgma-pinoy-tv%26definedIn%3dustreamix.com.cfg%26url_%3d%252Fstream.php%253Fid%253Dgma-pinoy-tv%26type%3drss%26event%3dLive%2bnow%253A%2bDestined%2bto%2bbe%2bYours%26title_%3dGMA%2bPinoy%2bTV%2b-%2bGMA%2bNetwork&amp;mode=1</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
