@@ -456,9 +456,9 @@ provider-name="primaeval">
 </addon>
 
 <addon id="plugin.video.stream.searcher"
-version="0.0.6A"
+version="0.0.8"
 name="Stream Searcher"
-provider-name="primaeval">
+provider-name="NIELDC, primaeval">
 <requires>
   <import addon="xbmc.python" version="2.20.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -467,9 +467,11 @@ provider-name="primaeval">
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
 </extension>
+<extension point="xbmc.service" library="service.py" start="login"/>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Stream Searcher</summary>
-  <description lang="en">Use Context Menus[CR]Add Folders with Live TV Streams[CR]Add Channels to match Streams[CR]Add Channels folder into TV Guide Fullscreen[CR]Channel matches are lowercase ignoring spaces</description>
+  <summary lang="en">Search live streams links from different addons</summary>
+  <description lang="en"></description>
+  <disclaimer>Based on service.iptvsimple.plugin.player by TheWiz</disclaimer>
 </extension>
 </addon>
 
