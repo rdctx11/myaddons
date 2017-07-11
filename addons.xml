@@ -372,9 +372,9 @@ http://www.hometheater.co.il</description>
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="0.0.10"
+version="0.1.0"
 name="PVR Plugin Player"
-provider-name="primaeval">
+provider-name="nieldc, primaeval">
 <requires>
   <import addon="xbmc.python" version="2.20.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -456,7 +456,7 @@ provider-name="primaeval">
 </addon>
 
 <addon id="plugin.video.stream.searcher"
-version="0.0.9"
+version="0.1.0"
 name="Stream Searcher"
 provider-name="NIELDC, primaeval">
 <requires>
