@@ -317,6 +317,24 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.pinoyteleserye" name="PINOY TELESERYE" version="1.2.3" provider-name="MALCHUS TV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.36"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">TELESERYE REPLAYS AND PINOY MOVIES</summary>
+	<description lang="en">TELESERYE REPLAYS AND PINOY MOVIES BY MALCHUS TV SPECIAL THANKS TO DANDYMEDIA FOR THE HELP</description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pinoytv-live"
        name="Pinoy TV Live!"
        version="1.1.6"
@@ -653,6 +671,19 @@ provider-name="NIELDC, primaeval">
 		<description>Install addons by Kinkin</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="repository.malchustv" name="Malchus Tv Repository" version="1.0.0" provider-name="MALCHUS TV">
+    <extension point="xbmc.addon.repository" name="Malchus Tv Repository">
+        <info compressed="false">http://www.malchustv.pinoykodigroup.site/_repo/addons.xml</info>
+        <checksum>http://www.malchustv.pinoykodigroup.site/_repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://www.malchustv.pinoykodigroup.site/_repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install all of MALCHUS TV ADD ONS</summary>
+        <description>Download and Install Addons From MALCHUS TV..For Official Support Visit malchustvbuilds on facebook TWITTER@malchus tv</description>
+        <platform>all</platform>
+    </extension>
 </addon>
 
 <addon id="repository.maverickrepo" name="[COLOR lime]MaverickTV Repo[/COLOR]" version="1.3" provider-name="Maverick TV">
@@ -1124,20 +1155,6 @@ Addons Included
 		<summary>Install iVue2 TV Guide </summary>
 		<description>Download and install for iVue2 Tv guide addons </description>
 		<disclaimer> Repo for iVue2 Tv guide addon </disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="xxtrucoxx-repo" name="XxTRUCOxX repository" version="0.0.1" provider-name="XxTRUCOxX">
-	<extension point="xbmc.addon.repository" name="XxTRUCOxX Add-on Repository">
-		<info compressed="false">http://raw.github.com/AiWABR/xxtrucoxx-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/AiWABR/xxtrucoxx-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/AiWABR/xxtrucoxx-repo/master/repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>XxTRUCOxX Addon Repository</summary>
-		<description>Watch Porn Online</description>
-		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
