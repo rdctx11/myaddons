@@ -390,7 +390,7 @@ http://www.hometheater.co.il</description>
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="0.1.0"
+version="1.0.1"
 name="PVR Plugin Player"
 provider-name="nieldc, primaeval">
 <requires>
@@ -474,7 +474,7 @@ provider-name="nieldc, primaeval">
 </addon>
 
 <addon id="plugin.video.stream.searcher"
-version="0.1.0"
+version="1.0.1"
 name="Stream Searcher"
 provider-name="NIELDC, primaeval">
 <requires>
@@ -1115,7 +1115,7 @@ Addons Included
 
 <addon id="service.mypvrtools"
        name="My PVR Tools"
-      version="1.0.2"
+      version="1.0.3"
       provider-name="NIELDC">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
