@@ -348,7 +348,7 @@ http://www.hometheater.co.il</description>
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="1.0.1"
+version="1.0.2"
 name="PVR Plugin Player"
 provider-name="nieldc, primaeval">
 <requires>
@@ -440,7 +440,7 @@ For updates check the readme.
 </addon>
 
 <addon id="plugin.video.stream.searcher"
-version="1.0.1"
+version="1.0.2"
 name="Stream Searcher"
 provider-name="NIELDC, primaeval">
 <requires>
