@@ -348,9 +348,9 @@ http://www.hometheater.co.il</description>
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="1.0.2"
+version="1.0.3"
 name="PVR Plugin Player"
-provider-name="nieldc, primaeval">
+provider-name="NIELDC">
 <requires>
   <import addon="xbmc.python" version="2.20.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -361,7 +361,7 @@ provider-name="nieldc, primaeval">
 </extension>
 <extension point="xbmc.service" library="service.py" start="login"/>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Play Addon Streams from IPTV Simple Client</summary>
+  <summary lang="en">Play Addon Streams from PVR IPTV Simple Client</summary>
   <description lang="en"></description>
   <disclaimer>Based on service.iptvsimple.plugin.player by TheWiz</disclaimer>
 </extension>
@@ -440,9 +440,9 @@ For updates check the readme.
 </addon>
 
 <addon id="plugin.video.stream.searcher"
-version="1.0.2"
+version="1.0.3"
 name="Stream Searcher"
-provider-name="NIELDC, primaeval">
+provider-name="NIELDC">
 <requires>
   <import addon="xbmc.python" version="2.20.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -453,7 +453,7 @@ provider-name="NIELDC, primaeval">
 </extension>
 <extension point="xbmc.service" library="service.py" start="login"/>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Search live streams links from different addons</summary>
+  <summary lang="en">Search live streams links from different addons.</summary>
   <description lang="en"></description>
   <disclaimer>Based on service.iptvsimple.plugin.player by TheWiz</disclaimer>
 </extension>
@@ -1010,6 +1010,29 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 		<description>Themes for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="script.my.maintenance"
+       name="My Maintenance"
+       version="1.0.0"
+       provider-name="NIELDC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+ 	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video executable</provides>
+	</extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Maintenance</summary>
+    <description>Your one stop tool for clearing your device.</description>
+    <language></language>
+    <license></license>
+    <source></source>
+    <forum></forum>
+    <website></website>
+  </extension>
 </addon>
 
 <addon id="script.pinsentry" name="PinSentry" version="1.1.0" provider-name="robwebset">
