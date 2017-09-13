@@ -32,130 +32,6 @@
     <display-name lang="zh">CGTN</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <programme start="20170912001500 -0400" stop="20170912005000 -0400" channel="986">
-    <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu</desc>
-  </programme>
-  <programme start="20170912005000 -0400" stop="20170912012500 -0400" channel="986">
-    <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga</desc>
-  </programme>
-  <programme start="20170912012500 -0400" stop="20170912020000 -0400" channel="986">
-    <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912020000 -0400" stop="20170912023500 -0400" channel="986">
-    <title lang="en">The Promise Of Forever</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912023500 -0400" stop="20170912025500 -0400" channel="986">
-    <title lang="en">Tonight With Boy Abunda</title>
-    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
-  </programme>
-  <programme start="20170912025500 -0400" stop="20170912032500 -0400" channel="986">
-    <title lang="en">Bandila</title>
-    <desc lang="en">A late-night news program</desc>
-  </programme>
-  <programme start="20170912032500 -0400" stop="20170912035500 -0400" channel="986">
-    <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast</desc>
-  </programme>
-  <programme start="20170912035500 -0400" stop="20170912050000 -0400" channel="986">
-    <title lang="en">Magandang Buhay</title>
-    <desc lang="en">A talk show</desc>
-  </programme>
-  <programme start="20170912050000 -0400" stop="20170912053500 -0400" channel="986">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
-  </programme>
-  <programme start="20170912053500 -0400" stop="20170912075000 -0400" channel="986">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent</desc>
-  </programme>
-  <programme start="20170912075000 -0400" stop="20170912094000 -0400" channel="986">
-    <title lang="en">Umagang Kay Ganda</title>
-    <desc lang="en">A morning news and lifestyle magazine</desc>
-  </programme>
-  <programme start="20170912094000 -0400" stop="20170912101000 -0400" channel="986">
-    <title lang="en">Team Yey! Snacks Naman</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912101000 -0400" stop="20170912111500 -0400" channel="986">
-    <title lang="en">Magandang Buhay</title>
-    <desc lang="en">A talk show</desc>
-  </programme>
-  <programme start="20170912111500 -0400" stop="20170912112500 -0400" channel="986">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170912112500 -0400" stop="20170912124500 -0400" channel="986">
-    <title lang="en">TV Patrol</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
-  </programme>
-  <programme start="20170912124500 -0400" stop="20170912150500 -0400" channel="986">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent</desc>
-  </programme>
-  <programme start="20170912150500 -0400" stop="20170912153000 -0400" channel="986">
-    <title lang="en">Mission Possible</title>
-    <desc lang="en">Talk show hosted by Julius Babao features human interest stories</desc>
-  </programme>
-  <programme start="20170912153000 -0400" stop="20170912154000 -0400" channel="986">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170912154000 -0400" stop="20170912161500 -0400" channel="986">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
-  </programme>
-  <programme start="20170912161500 -0400" stop="20170912165000 -0400" channel="986">
-    <title lang="en">The Promise Of Forever</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912165000 -0400" stop="20170912172500 -0400" channel="986">
-    <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912172500 -0400" stop="20170912180500 -0400" channel="986">
-    <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga</desc>
-  </programme>
-  <programme start="20170912180500 -0400" stop="20170912185000 -0400" channel="986">
-    <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912185000 -0400" stop="20170912193000 -0400" channel="986">
-    <title lang="en">La Luna Sangre</title>
-    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents</desc>
-  </programme>
-  <programme start="20170912193000 -0400" stop="20170912201000 -0400" channel="986">
-    <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu</desc>
-  </programme>
-  <programme start="20170912201000 -0400" stop="20170912202000 -0400" channel="986">
-    <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
-  </programme>
-  <programme start="20170912202000 -0400" stop="20170912214000 -0400" channel="986">
-    <title lang="en">Tv Patrol Global Edition</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912214000 -0400" stop="20170912221000 -0400" channel="986">
-    <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast</desc>
-  </programme>
-  <programme start="20170912221000 -0400" stop="20170912230000 -0400" channel="986">
-    <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available</desc>
-  </programme>
-  <programme start="20170912230000 -0400" stop="20170912234000 -0400" channel="986">
-    <title lang="en">La Luna Sangre</title>
-    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents</desc>
-  </programme>
-  <programme start="20170912234000 -0400" stop="20170913001500 -0400" channel="986">
-    <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
-  </programme>
   <programme start="20170913001500 -0400" stop="20170913005000 -0400" channel="986">
     <title lang="en">A Love To Last</title>
     <desc lang="en">The series revolves around relationships in a family milieu</desc>
@@ -407,246 +283,243 @@
   </programme>
   <programme start="20170915001500 -0400" stop="20170915005000 -0400" channel="986">
     <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu(n)</desc>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
   <programme start="20170915005000 -0400" stop="20170915012500 -0400" channel="986">
     <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga(n)</desc>
+    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga</desc>
   </programme>
   <programme start="20170915012500 -0400" stop="20170915020000 -0400" channel="986">
     <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915020000 -0400" stop="20170915023500 -0400" channel="986">
     <title lang="en">The Promise Of Forever</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915023500 -0400" stop="20170915025500 -0400" channel="986">
     <title lang="en">Tonight With Boy Abunda</title>
-    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle(n)</desc>
+    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle</desc>
   </programme>
   <programme start="20170915025500 -0400" stop="20170915032500 -0400" channel="986">
     <title lang="en">Bandila</title>
-    <desc lang="en">A late-night news program(n)</desc>
+    <desc lang="en">A late-night news program</desc>
   </programme>
   <programme start="20170915032500 -0400" stop="20170915035500 -0400" channel="986">
     <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast(n)</desc>
+    <desc lang="en">Filipino-American newscast</desc>
   </programme>
   <programme start="20170915035500 -0400" stop="20170915050000 -0400" channel="986">
     <title lang="en">Magandang Buhay</title>
-    <desc lang="en">A talk show(n)</desc>
+    <desc lang="en">A talk show</desc>
   </programme>
   <programme start="20170915050000 -0400" stop="20170915053500 -0400" channel="986">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?(n)</desc>
+    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
   </programme>
   <programme start="20170915053500 -0400" stop="20170915075000 -0400" channel="986">
     <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent(n)</desc>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
   <programme start="20170915075000 -0400" stop="20170915094000 -0400" channel="986">
     <title lang="en">Umagang Kay Ganda</title>
-    <desc lang="en">A morning news and lifestyle magazine(n)</desc>
+    <desc lang="en">A morning news and lifestyle magazine</desc>
   </programme>
   <programme start="20170915094000 -0400" stop="20170915101000 -0400" channel="986">
     <title lang="en">Team Yey! Storyey</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915101000 -0400" stop="20170915111500 -0400" channel="986">
     <title lang="en">Magandang Buhay</title>
-    <desc lang="en">A talk show(n)</desc>
+    <desc lang="en">A talk show</desc>
   </programme>
   <programme start="20170915111500 -0400" stop="20170915112500 -0400" channel="986">
     <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another(n)</desc>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
   <programme start="20170915112500 -0400" stop="20170915124500 -0400" channel="986">
     <title lang="en">TV Patrol</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
   <programme start="20170915124500 -0400" stop="20170915150500 -0400" channel="986">
     <title lang="en">It's Showtime</title>
-    <desc lang="en">A variety show in which participants showcase their talent(n)</desc>
+    <desc lang="en">A variety show in which participants showcase their talent</desc>
   </programme>
   <programme start="20170915150500 -0400" stop="20170915153000 -0400" channel="986">
     <title lang="en">Sports U</title>
-    <desc lang="en">The show features different sports and sportspersons, including ordinary people, who achieved success in their respective sports after a lot of struggle(n)</desc>
+    <desc lang="en">The show features different sports and sportspersons, including ordinary people, who achieved success in their respective sports after a lot of struggle</desc>
   </programme>
   <programme start="20170915153000 -0400" stop="20170915154000 -0400" channel="986">
     <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another(n)</desc>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
   <programme start="20170915154000 -0400" stop="20170915161500 -0400" channel="986">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?(n)</desc>
+    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
   </programme>
   <programme start="20170915161500 -0400" stop="20170915165000 -0400" channel="986">
     <title lang="en">The Promise Of Forever</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915165000 -0400" stop="20170915172500 -0400" channel="986">
     <title lang="en">Wildflower</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915172500 -0400" stop="20170915180500 -0400" channel="986">
     <title lang="en">Pusong Ligaw</title>
-    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga(n)</desc>
+    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga</desc>
   </programme>
   <programme start="20170915180500 -0400" stop="20170915185000 -0400" channel="986">
     <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915185000 -0400" stop="20170915193000 -0400" channel="986">
     <title lang="en">La Luna Sangre</title>
-    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents(n)</desc>
+    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents</desc>
   </programme>
   <programme start="20170915193000 -0400" stop="20170915201000 -0400" channel="986">
     <title lang="en">A Love To Last</title>
-    <desc lang="en">The series revolves around relationships in a family milieu(n)</desc>
+    <desc lang="en">The series revolves around relationships in a family milieu</desc>
   </programme>
   <programme start="20170915201000 -0400" stop="20170915202000 -0400" channel="986">
     <title lang="en">TFC Connect</title>
-    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another(n)</desc>
+    <desc lang="en">An interactive program allowing viewers to share requests, messages, photos and videos with one another</desc>
   </programme>
   <programme start="20170915202000 -0400" stop="20170915214000 -0400" channel="986">
     <title lang="en">Tv Patrol Global Edition</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915214000 -0400" stop="20170915221000 -0400" channel="986">
     <title lang="en">Balitang America</title>
-    <desc lang="en">Filipino-American newscast(n)</desc>
+    <desc lang="en">Filipino-American newscast</desc>
   </programme>
   <programme start="20170915221000 -0400" stop="20170915230000 -0400" channel="986">
     <title lang="en">Fpj Ang Probinsyano</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915230000 -0400" stop="20170915234000 -0400" channel="986">
     <title lang="en">La Luna Sangre</title>
-    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents(n)</desc>
+    <desc lang="en">The story of Malia, the child of the vampire Mateo and the wolf Lia. Malia was thought to be dead at childbirth but was revived by the love of her parents</desc>
   </programme>
   <programme start="20170915234000 -0400" stop="20170916001500 -0400" channel="986">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
-    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?(n)</desc>
+    <desc lang="en">Childhood sweethearts Bianca and Gabriel part ways after Bianca has to move out of city with her family owing to her father's ill-health. Will they re-unite again?</desc>
   </programme>
-  <programme start="20170912003000 -0400" stop="20170912010000 -0400" channel="987">
-    <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
+  <programme start="20170916001500 -0400" stop="20170916005000 -0400" channel="986">
+    <title lang="en">A Love To Last</title>
+    <desc lang="en">The series revolves around relationships in a family milieu(n)</desc>
   </programme>
-  <programme start="20170912010000 -0400" stop="20170912013000 -0400" channel="987">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170916005000 -0400" stop="20170916012500 -0400" channel="986">
+    <title lang="en">Pusong Ligaw</title>
+    <desc lang="en">A romantic soap opera that centers on the lives of two friends Tessa and Marga. While Tessa is an upcoming designer, Marga is a beauty queen. Things take a turn when Marga's boyfriend Caloy two-times Tessa with Marga(n)</desc>
   </programme>
-  <programme start="20170912013000 -0400" stop="20170912034500 -0400" channel="987">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170916012500 -0400" stop="20170916020000 -0400" channel="986">
+    <title lang="en">Wildflower</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912034500 -0400" stop="20170912041500 -0400" channel="987">
-    <title lang="en">Haplos</title>
-    <desc lang="en">Al returns to his hometown where his mother is buried. There he reconnects with his childhood friend Cristy, who works as a counselor for family planning</desc>
+  <programme start="20170916020000 -0400" stop="20170916023500 -0400" channel="986">
+    <title lang="en">The Promise Of Forever</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912041500 -0400" stop="20170912050000 -0400" channel="987">
-    <title lang="en">My Korean Jagiya</title>
-    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
+  <programme start="20170916023500 -0400" stop="20170916025500 -0400" channel="986">
+    <title lang="en">Tonight With Boy Abunda</title>
+    <desc lang="en">A talk show that features discussion on current affairs, showbiz, lifestyle(n)</desc>
   </programme>
-  <programme start="20170912050000 -0400" stop="20170912054500 -0400" channel="987">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
+  <programme start="20170916025500 -0400" stop="20170916032500 -0400" channel="986">
+    <title lang="en">Bandila</title>
+    <desc lang="en">A late-night news program(n)</desc>
   </programme>
-  <programme start="20170912054500 -0400" stop="20170912061500 -0400" channel="987">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
+  <programme start="20170916032500 -0400" stop="20170916035500 -0400" channel="986">
+    <title lang="en">The Filipino Channel Programming</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912061500 -0400" stop="20170912064500 -0400" channel="987">
-    <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
+  <programme start="20170916035500 -0400" stop="20170916042500 -0400" channel="986">
+    <title lang="en">Balitang America</title>
+    <desc lang="en">Filipino-American newscast(n)</desc>
   </programme>
-  <programme start="20170912064500 -0400" stop="20170912071500 -0400" channel="987">
-    <title lang="en">Imbestigador</title>
-    <desc lang="en">Imbestigador is an investigative show that tackles the issues and inconsistencies in the Philippine government</desc>
+  <programme start="20170916042500 -0400" stop="20170916053500 -0400" channel="986">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">A talk show(n)</desc>
   </programme>
-  <programme start="20170912071500 -0400" stop="20170912091500 -0400" channel="987">
-    <title lang="en">Unang Hirit</title>
-    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning</desc>
+  <programme start="20170916053500 -0400" stop="20170916075000 -0400" channel="986">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent(n)</desc>
   </programme>
-  <programme start="20170912091500 -0400" stop="20170912103000 -0400" channel="987">
-    <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
+  <programme start="20170916075000 -0400" stop="20170916083000 -0400" channel="986">
+    <title lang="en">Matanglawin</title>
+    <desc lang="en">An environmental educational show about wildlife, science concepts, culture, and general knowledge(n)</desc>
   </programme>
-  <programme start="20170912103000 -0400" stop="20170912113000 -0400" channel="987">
-    <title lang="en">24 Oras</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
+  <programme start="20170916083000 -0400" stop="20170916092000 -0400" channel="986">
+    <title lang="en">Salamat Dok</title>
+    <desc lang="en">An interactive health show where viewers can address their queries to a panel of physicians. The program also offers health tips and useful information about various ailments(n)</desc>
   </programme>
-  <programme start="20170912113000 -0400" stop="20170912120000 -0400" channel="987">
-    <title lang="en">Haplos</title>
-    <desc lang="en">Al returns to his hometown where his mother is buried. There he reconnects with his childhood friend Cristy, who works as a counselor for family planning</desc>
+  <programme start="20170916092000 -0400" stop="20170916095000 -0400" channel="986">
+    <title lang="en">Belo 101</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912120000 -0400" stop="20170912123000 -0400" channel="987">
-    <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
+  <programme start="20170916095000 -0400" stop="20170916103500 -0400" channel="986">
+    <title lang="en">Wansapanataym</title>
+    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!(n)</desc>
   </programme>
-  <programme start="20170912123000 -0400" stop="20170912130000 -0400" channel="987">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
+  <programme start="20170916103500 -0400" stop="20170916111500 -0400" channel="986">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170912130000 -0400" stop="20170912133000 -0400" channel="987">
-    <title lang="en">My Korean Jagiya</title>
-    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
+  <programme start="20170916111500 -0400" stop="20170916114500 -0400" channel="986">
+    <title lang="en">Swak Na Swak Sat Ed</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912133000 -0400" stop="20170912140000 -0400" channel="987">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
+  <programme start="20170916114500 -0400" stop="20170916123000 -0400" channel="986">
+    <title lang="en">Family Feud Sat</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912140000 -0400" stop="20170912143000 -0400" channel="987">
-    <title lang="en">Alyas Robinhood 2</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170916123000 -0400" stop="20170916130000 -0400" channel="986">
+    <title lang="en">I Am Filam</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912143000 -0400" stop="20170912150000 -0400" channel="987">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170916130000 -0400" stop="20170916134000 -0400" channel="986">
+    <title lang="en">Home Sweetie Home</title>
+    <desc lang="en">A situational comedy, about a newly married couple Julie and Romeo and their ways to address the needs of a growing household(n)</desc>
   </programme>
-  <programme start="20170912150000 -0400" stop="20170912170000 -0400" channel="987">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170916134000 -0400" stop="20170916140500 -0400" channel="986">
+    <title lang="en">Mga Kwento Ni Marc Logan</title>
+    <desc lang="en">The show features funny local and international viral videos for viewers. It is a compilation of clips ranging from song covers to pranks pulled on people(n)</desc>
   </programme>
-  <programme start="20170912170000 -0400" stop="20170912174500 -0400" channel="987">
-    <title lang="en">Tadhana</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170916140500 -0400" stop="20170916163000 -0400" channel="986">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent(n)</desc>
   </programme>
-  <programme start="20170912174500 -0400" stop="20170912181500 -0400" channel="987">
-    <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
+  <programme start="20170916163000 -0400" stop="20170916173500 -0400" channel="986">
+    <title lang="en">Be Careful With My Heart</title>
+    <desc lang="en">The show revolves around a simple girl named Maya who arrives in a big city to follow her dreams of becoming a flight stewardess. Her life takes an interesting turn when she comes across a handsome and wealthy widower Richard Lim(n)</desc>
   </programme>
-  <programme start="20170912181500 -0400" stop="20170912191500 -0400" channel="987">
-    <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
+  <programme start="20170916173500 -0400" stop="20170916184500 -0400" channel="986">
+    <title lang="en">Maalaala Mo Kaya</title>
+    <desc lang="en">A drama anthology, features weekly real life stories or anecdotes of common people or even famous celebrities and personalities(n)</desc>
   </programme>
-  <programme start="20170912191500 -0400" stop="20170912194500 -0400" channel="987">
-    <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
+  <programme start="20170916184500 -0400" stop="20170916192000 -0400" channel="986">
+    <title lang="en">Wansapanataym</title>
+    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!(n)</desc>
   </programme>
-  <programme start="20170912194500 -0400" stop="20170912214500 -0400" channel="987">
-    <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
+  <programme start="20170916192000 -0400" stop="20170916195500 -0400" channel="986">
+    <title lang="en">Matanglawin</title>
+    <desc lang="en">An environmental educational show about wildlife, science concepts, culture, and general knowledge(n)</desc>
   </programme>
-  <programme start="20170912214500 -0400" stop="20170912221500 -0400" channel="987">
-    <title lang="en">Saksi</title>
-    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world</desc>
+  <programme start="20170916195500 -0400" stop="20170916203500 -0400" channel="986">
+    <title lang="en">Family Feud Sat</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912221500 -0400" stop="20170912230000 -0400" channel="987">
-    <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
+  <programme start="20170916203500 -0400" stop="20170916211500 -0400" channel="986">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170912230000 -0400" stop="20170912234500 -0400" channel="987">
-    <title lang="en">Alyas Robinhood 2</title>
-    <desc lang="en">No additional information is available</desc>
+  <programme start="20170916211500 -0400" stop="20170916234500 -0400" channel="986">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">A variety show in which participants showcase their talent(n)</desc>
   </programme>
-  <programme start="20170912234500 -0400" stop="20170913003000 -0400" channel="987">
-    <title lang="en">My Korean Jagiya</title>
-    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
+  <programme start="20170916234500 -0400" stop="20170917003500 -0400" channel="986">
+    <title lang="en">Ipaglaban Mo</title>
+    <desc lang="en">The show features enactments of real life cases brought and settled by the Supreme Court and Court of Appeals in Philippines. Its aim is to educate viewers on legal matters(n)</desc>
   </programme>
   <programme start="20170913003000 -0400" stop="20170913010000 -0400" channel="987">
     <title lang="en">Impostors</title>
@@ -889,232 +762,214 @@
   </programme>
   <programme start="20170915003000 -0400" stop="20170915010000 -0400" channel="987">
     <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted(n)</desc>
+    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
   </programme>
   <programme start="20170915010000 -0400" stop="20170915013000 -0400" channel="987">
     <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
   </programme>
   <programme start="20170915013000 -0400" stop="20170915034500 -0400" channel="987">
     <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
   </programme>
   <programme start="20170915034500 -0400" stop="20170915041500 -0400" channel="987">
     <title lang="en">Haplos</title>
-    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!(n)</desc>
+    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
   </programme>
   <programme start="20170915041500 -0400" stop="20170915050000 -0400" channel="987">
     <title lang="en">My Korean Jagiya</title>
-    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him(n)</desc>
+    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
   </programme>
   <programme start="20170915050000 -0400" stop="20170915054500 -0400" channel="987">
     <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin(n)</desc>
+    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
   </programme>
   <programme start="20170915054500 -0400" stop="20170915061500 -0400" channel="987">
     <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
   </programme>
   <programme start="20170915061500 -0400" stop="20170915064500 -0400" channel="987">
     <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted(n)</desc>
+    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
   </programme>
   <programme start="20170915064500 -0400" stop="20170915071500 -0400" channel="987">
     <title lang="en">Wish Ko Lang</title>
-    <desc lang="en">Wish Ko Lang is a wish granting program featuring stories of people who struggle to overcome extraordinary situations(n)</desc>
+    <desc lang="en">Wish Ko Lang is a wish granting program featuring stories of people who struggle to overcome extraordinary situations</desc>
   </programme>
   <programme start="20170915071500 -0400" stop="20170915091500 -0400" channel="987">
     <title lang="en">Unang Hirit</title>
-    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning(n)</desc>
+    <desc lang="en">Unang Hirit is a Philippine morning news and talk show aired every weekday morning</desc>
   </programme>
   <programme start="20170915091500 -0400" stop="20170915103000 -0400" channel="987">
     <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
   </programme>
   <programme start="20170915103000 -0400" stop="20170915113000 -0400" channel="987">
     <title lang="en">24 Oras</title>
-    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
   <programme start="20170915113000 -0400" stop="20170915120000 -0400" channel="987">
     <title lang="en">Haplos</title>
-    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!(n)</desc>
+    <desc lang="en">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
   </programme>
   <programme start="20170915120000 -0400" stop="20170915123000 -0400" channel="987">
     <title lang="en">Impostors</title>
-    <desc lang="en">A look at con artists who relied on deception to get what they wanted(n)</desc>
+    <desc lang="en">A look at con artists who relied on deception to get what they wanted</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
   </programme>
   <programme start="20170915123000 -0400" stop="20170915130000 -0400" channel="987">
     <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
   </programme>
   <programme start="20170915130000 -0400" stop="20170915133000 -0400" channel="987">
     <title lang="en">My Korean Jagiya</title>
-    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him(n)</desc>
+    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
   </programme>
   <programme start="20170915133000 -0400" stop="20170915140000 -0400" channel="987">
     <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin(n)</desc>
+    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
   </programme>
   <programme start="20170915140000 -0400" stop="20170915143000 -0400" channel="987">
     <title lang="en">Alyas Robinhood 2</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915143000 -0400" stop="20170915150000 -0400" channel="987">
     <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
   </programme>
   <programme start="20170915150000 -0400" stop="20170915170000 -0400" channel="987">
     <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
   </programme>
   <programme start="20170915170000 -0400" stop="20170915174500 -0400" channel="987">
     <title lang="en">I-Witness</title>
-    <desc lang="en">A documentary news and public affairs television show(n)</desc>
+    <desc lang="en">A documentary news and public affairs television show</desc>
   </programme>
   <programme start="20170915174500 -0400" stop="20170915181500 -0400" channel="987">
     <title lang="en">Ika-6 Na Utos</title>
-    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot</desc>
   </programme>
   <programme start="20170915181500 -0400" stop="20170915191500 -0400" channel="987">
     <title lang="en">Wowowin</title>
-    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame(n)</desc>
+    <desc lang="en">Wowowin is a variety game show presented by Willie Revillame</desc>
   </programme>
   <programme start="20170915191500 -0400" stop="20170915194500 -0400" channel="987">
     <title lang="en">Trops</title>
-    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth(n)</desc>
+    <desc lang="en">A love triangle which has two young men falling in love with the same girl. While romance is the main theme of this rom-com, it is deals with a host of issues that concern youth</desc>
   </programme>
   <programme start="20170915194500 -0400" stop="20170915214500 -0400" channel="987">
     <title lang="en">Eat Bulaga!</title>
-    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers</desc>
   </programme>
   <programme start="20170915214500 -0400" stop="20170915221500 -0400" channel="987">
     <title lang="en">Saksi</title>
-    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world(n)</desc>
+    <desc lang="en">Saksi is a late nightly news bulletin that updates the viewers on the latest developments around the world</desc>
   </programme>
   <programme start="20170915221500 -0400" stop="20170915230000 -0400" channel="987">
     <title lang="en">Mulawin Vs. Ravena</title>
-    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin(n)</desc>
+    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin</desc>
   </programme>
   <programme start="20170915230000 -0400" stop="20170915234500 -0400" channel="987">
     <title lang="en">Alyas Robinhood 2</title>
-    <desc lang="en">No additional information is available(n)</desc>
+    <desc lang="en">No additional information is available</desc>
   </programme>
   <programme start="20170915234500 -0400" stop="20170916003000 -0400" channel="987">
     <title lang="en">My Korean Jagiya</title>
+    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him</desc>
+  </programme>
+  <programme start="20170916003000 -0400" stop="20170916010000 -0400" channel="987">
+    <title lang="en">Impostors</title>
+    <desc lang="en">A look at con artists who relied on deception to get what they wanted(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
+  </programme>
+  <programme start="20170916010000 -0400" stop="20170916034500 -0400" channel="987">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
+  </programme>
+  <programme start="20170916034500 -0400" stop="20170916041500 -0400" channel="987">
+    <title lang="en">Haplos</title>
+    <desc lang="en">Al returns to his hometown where his mother is buried. There he reconnects with his childhood friend Cristy, who works as a counselor for family planning(n)</desc>
+  </programme>
+  <programme start="20170916041500 -0400" stop="20170916050000 -0400" channel="987">
+    <title lang="en">My Korean Jagiya</title>
     <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him(n)</desc>
   </programme>
-  <programme start="20170912010000 -0400" stop="20170912020000 -0400" channel="980">
-    <title lang="en">Castle</title>
-    <sub-title lang="en">The Last Seduction</sub-title>
-    <desc lang="en">The Last Seduction. A seductive con man is killed, and the investigation has Castle and Beckett questioning New York City's upper crust. Meanwhile, Castle has a surprise in store for his and Beckett's one-year anniversary as husband and wife</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
+  <programme start="20170916050000 -0400" stop="20170916054500 -0400" channel="987">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin(n)</desc>
   </programme>
-  <programme start="20170912020000 -0400" stop="20170912030000 -0400" channel="980">
-    <title lang="en">Castle</title>
-    <sub-title lang="en">Mr. &amp; Mrs. Castle</sub-title>
-    <desc lang="en">Mr. &amp; Mrs. Castle. An entertainer on a cruise ship is killed, and Castle and Beckett investigate while trapped on the ship with the murderer</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
+  <programme start="20170916054500 -0400" stop="20170916061500 -0400" channel="987">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
   </programme>
-  <programme start="20170912030000 -0400" stop="20170912040000 -0400" channel="980">
-    <title lang="en">Castle</title>
-    <sub-title lang="en">Cool Boys</sub-title>
-    <desc lang="en">Cool Boys. Det. Slaughter returns seeking Castle's help in a robbery case. However, Slaughter becomes a suspect when the heist case turns into a murder case, and Castle's unsure about whether his pal is innocent or guilty</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
+  <programme start="20170916061500 -0400" stop="20170916064500 -0400" channel="987">
+    <title lang="en">Impostors</title>
+    <desc lang="en">A look at con artists who relied on deception to get what they wanted(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/179841.jpg" />
   </programme>
-  <programme start="20170912040000 -0400" stop="20170912050000 -0400" channel="980">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Tragedy on Rye</sub-title>
-    <desc lang="en">Tragedy on Rye. Following a murder, McCoy and Southerlyn try to circumvent the law to gain access to a crucial piece of evidence that is being withheld by the civilian owners</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170916064500 -0400" stop="20170916093000 -0400" channel="987">
+    <title lang="en">My Korean Jagiya</title>
+    <desc lang="en">A story of young Filipino girl Gia's crush on a Korean matinee idol Kim Jun-ho and the dramatic circumstances under which she gets to meet him(n)</desc>
   </programme>
-  <programme start="20170912050000 -0400" stop="20170912060000 -0400" channel="980">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">The Ring</sub-title>
-    <desc lang="en">The Ring. The body of a woman found in Hell's Kitchen leads the detectives to investigate whether the 9/11 terror attacks were used to cover up her death</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170916093000 -0400" stop="20170916123000 -0400" channel="987">
+    <title lang="en">Mulawin Vs. Ravena</title>
+    <desc lang="en">A sequel of the fantasy series "Mulawin", the serial revolves around a war between two tribes, the Ravena and the Mulawin(n)</desc>
   </programme>
-  <programme start="20170912060000 -0400" stop="20170912070000 -0400" channel="980">
-    <title lang="en">Law &amp; Order</title>
-    <sub-title lang="en">Atonement</sub-title>
-    <desc lang="en">Atonement. The investigation into the murder of a model with a passion for cocaine and partying focuses on the men in her life: a nightclub owner, a basketball player, a photographer and a limousine driver</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
+  <programme start="20170916123000 -0400" stop="20170916130000 -0400" channel="987">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
   </programme>
-  <programme start="20170912070000 -0400" stop="20170912080000 -0400" channel="980">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">We're Off to See the Wizard</sub-title>
-    <desc lang="en">We're Off to See the Wizard. Piper and Paige team up with a wizard to stop the coronation of the new Source. Meanwhile, Phoebe has an announcement to make</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170916130000 -0400" stop="20170916143000 -0400" channel="987">
+    <title lang="en">Magpakailanman</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912080000 -0400" stop="20170912090000 -0400" channel="980">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Long Live the Queen</sub-title>
-    <desc lang="en">Long Live the Queen. Phoebe comes to terms with her new role as Cole's queen of the underworld, but after having a premonition she can't resist trying to save an innocent man from danger and seeks her sisters' help to protect him. A listless Piper struggles to defend her family against a new underworld threat</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170916143000 -0400" stop="20170916150000 -0400" channel="987">
+    <title lang="en">Born to be Wild</title>
+    <desc lang="en">Born to be Wild is a nature documentary show on Philippine television. It features stories about wildlife and the environment(n)</desc>
   </programme>
-  <programme start="20170912090000 -0400" stop="20170912100000 -0400" channel="980">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Womb Raider</sub-title>
-    <desc lang="en">Womb Raider. The Seer (Debbi Morgan) plans to steal Phoebe's unborn baby so she can raise the child to become the next Source and prevent the throne from passing on to another demon. Meanwhile, the baby begins to take over control of Phoebe's body, which proves dangerous to Paige</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
+  <programme start="20170916150000 -0400" stop="20170916174500 -0400" channel="987">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Noon time variety show that features entertaining segments for viewers(n)</desc>
   </programme>
-  <programme start="20170912100000 -0400" stop="20170912110000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Bad Day at Black Rock</sub-title>
-    <desc lang="en">Bad Day at Black Rock. Sam and Dean come into possession of a rabbit's foot that belonged to their dad, but it's not necessarily good luck, because if it's lost, death follows within a week</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916174500 -0400" stop="20170916181500 -0400" channel="987">
+    <title lang="en">Ika-6 Na Utos</title>
+    <desc lang="en">The story of Emma, a cherubic souvenir merchant, who falls in love and marries Rome, a pilot(n)</desc>
   </programme>
-  <programme start="20170912110000 -0400" stop="20170912120000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Sin City</sub-title>
-    <desc lang="en">Sin City. Sam and Dean investigate a hedonistic party town that seems to be full of drinking, gambling and sex - but there is more to the residents than meets the eye</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916181500 -0400" stop="20170916190000 -0400" channel="987">
+    <title lang="en">Daig Kayo Ng Lola Ko</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912120000 -0400" stop="20170912130000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Bedtime Stories</sub-title>
-    <desc lang="en">Bedtime Stories. Once upon a time, Sam and Dean visit a strange town where mysterious deaths seemed linked to fairy tales. Meanwhile, Sam summons the Crossroad Demon (Sandra McCoy) and threatens her with the rebuilt Colt unless Dean is released from the deal</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916190000 -0400" stop="20170916200000 -0400" channel="987">
+    <title lang="en">Wagas</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912130000 -0400" stop="20170912140000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Red Sky at Morning</sub-title>
-    <desc lang="en">Red Sky at Morning. Drownings on dry land are linked to visions of a ghost ship, putting Sam and Dean on a collision course with Bela, who is also investigating the phenomenon</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916200000 -0400" stop="20170916203000 -0400" channel="987">
+    <title lang="en">24 Oras</title>
+    <desc lang="en">A news bulletin that updates the viewers on the latest developments around the world(n)</desc>
   </programme>
-  <programme start="20170912140000 -0400" stop="20170912150000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">Fresh Blood</sub-title>
-    <desc lang="en">Fresh Blood. Sam and Dean learn that a male vampire is using human blood to turn women into unsuspecting bloodsuckers. Meanwhile, Sam is being pursued by Gordon, who has escaped from jail and become a much more dangerous threat</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916203000 -0400" stop="20170916211500 -0400" channel="987">
+    <title lang="en">Dear Uge</title>
+    <desc lang="en">Variety store owner Esperanza hosts a web show where different funny love stories are featured(n)</desc>
   </programme>
-  <programme start="20170912150000 -0400" stop="20170912160000 -0400" channel="980">
-    <title lang="en">Supernatural</title>
-    <sub-title lang="en">A Very Supernatural Christmas</sub-title>
-    <desc lang="en">A Very Supernatural Christmas. Sam and Dean hunt down the 'anti-Santa' who is crawling down chimneys and kidnapping victims. Sam can't accept that this will be the last Christmas he'll spend with his brother</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
+  <programme start="20170916211500 -0400" stop="20170916221500 -0400" channel="987">
+    <title lang="en">Bubble Gang</title>
+    <desc lang="en">A sketch comedy show that features hilarious takes on television commercials, politicians and trending news stories(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/74023.jpg" />
   </programme>
-  <programme start="20170912160000 -0400" stop="20170912180000 -0400" channel="980">
-    <title lang="en">Blade II</title>
-    <desc lang="en">Supernatural vampire action sequel in which Blade reluctantly joins forces with a commando team - the Blood Pack - in order to thwart a killing spree by a race of rogue bloodsuckers known as Reapers</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/124145.jpg" />
+  <programme start="20170916221500 -0400" stop="20170916230000 -0400" channel="987">
+    <title lang="en">Pepito Manaloto</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
-  <programme start="20170912180000 -0400" stop="20170912200000 -0400" channel="980">
-    <title lang="en">Blade: Trinity</title>
-    <desc lang="en">A fearless warrior immune to vampires, Blade has become a hated enemy of the bloodsucking community, and as they gather in their desert compound, a group of vampires is plotting to eliminate Blade once and for all by turning the mortal community against him</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/116284.jpg" />
+  <programme start="20170916230000 -0400" stop="20170916234500 -0400" channel="987">
+    <title lang="en">Road Trip</title>
+    <desc lang="en">A travel show that takes you to enchanting destinations across the Philippines along with a bevy of travel-crazy beauties(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/96709.jpg" />
   </programme>
-  <programme start="20170912200000 -0400" stop="20170912220000 -0400" channel="980">
-    <title lang="en">Law Abiding Citizen</title>
-    <desc lang="en">A brutal, gory revenge thriller starring Gerald Butler and directed by F Gary Gray. Could anything be worse than seeing your wife and child brutally killed in front of you? Well, probably not, but seeing one of their killers walk free after striking a bargain with the prosecuting lawer wouldn't make things any easier. And so it is for Clyde Shelton. But the experience doesn't destroy him; instead it eats away at him for a decade, at which point he snaps and takes sadistic revenge on the freed murderer. And then, even after he himself has been jailed, he embarks on a deadly campaign against everyone else connected with the case - including the police and legal representatives</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/109386.jpg" />
-  </programme>
-  <programme start="20170912220000 -0400" stop="20170913000000 -0400" channel="980">
-    <title lang="en">Blade: Trinity</title>
-    <desc lang="en">A fearless warrior immune to vampires, Blade has become a hated enemy of the bloodsucking community, and as they gather in their desert compound, a group of vampires is plotting to eliminate Blade once and for all by turning the mortal community against him</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/116284.jpg" />
+  <programme start="20170916234500 -0400" stop="20170917003000 -0400" channel="987">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">No additional information is available(n)</desc>
   </programme>
   <programme start="20170913000000 -0400" stop="20170913010000 -0400" channel="980">
     <title lang="en">Law &amp; Order</title>
@@ -1353,244 +1208,224 @@
   <programme start="20170915000000 -0400" stop="20170915010000 -0400" channel="980">
     <title lang="en">Castle</title>
     <sub-title lang="en">Close Encounters of the Murderous Kind</sub-title>
-    <desc lang="en">Close Encounters of the Murderous Kind. Castle's latest theory is alien abduction after an astrophysicist's death is found to be from explosive decompression. A well known alien abduction expert gets involved in the case. To complicate things more, a government agent wants to shut down their investigation(n)</desc>
+    <desc lang="en">Close Encounters of the Murderous Kind. Castle's latest theory is alien abduction after an astrophysicist's death is found to be from explosive decompression. A well known alien abduction expert gets involved in the case. To complicate things more, a government agent wants to shut down their investigation</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
   </programme>
   <programme start="20170915010000 -0400" stop="20170915020000 -0400" channel="980">
     <title lang="en">Castle</title>
     <sub-title lang="en">Last Call</sub-title>
-    <desc lang="en">Last Call. When a corpse is found floating in the East River it leads to the revelation of a secret dating back to prohibition times(n)</desc>
+    <desc lang="en">Last Call. When a corpse is found floating in the East River it leads to the revelation of a secret dating back to prohibition times</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
   </programme>
   <programme start="20170915020000 -0400" stop="20170915030000 -0400" channel="980">
     <title lang="en">Castle</title>
     <sub-title lang="en">Nikki Heat</sub-title>
-    <desc lang="en">Nikki Heat. When Castle's novel Heat Wave is turned into a film the leading lady is sent on a case with him(n)</desc>
+    <desc lang="en">Nikki Heat. When Castle's novel Heat Wave is turned into a film the leading lady is sent on a case with him</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
   </programme>
   <programme start="20170915030000 -0400" stop="20170915040000 -0400" channel="980">
     <title lang="en">Castle</title>
     <sub-title lang="en">Poof! You're Dead</sub-title>
-    <desc lang="en">Poof! You're Dead. When the owner of historic Drake's Magic Shop in New York is found drowned in Houdini's famous water torture tank, Castle and Beckett must delve into the world of magic, magicians and their secrets to find his killer(n)</desc>
+    <desc lang="en">Poof! You're Dead. When the owner of historic Drake's Magic Shop in New York is found drowned in Houdini's famous water torture tank, Castle and Beckett must delve into the world of magic, magicians and their secrets to find his killer</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
   </programme>
   <programme start="20170915040000 -0400" stop="20170915050000 -0400" channel="980">
     <title lang="en">Castle</title>
     <sub-title lang="en">Knockdown</sub-title>
-    <desc lang="en">Knockdown. Beckett meets with the retired detective who handled her mother's homicide case, but he is killed right before he can tell her anything. The subsequent probe leads to a decades-old conspiracy that may reveal who murdered Beckett's mother(n)</desc>
+    <desc lang="en">Knockdown. Beckett meets with the retired detective who handled her mother's homicide case, but he is killed right before he can tell her anything. The subsequent probe leads to a decades-old conspiracy that may reveal who murdered Beckett's mother</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/75394.jpg" />
   </programme>
   <programme start="20170915050000 -0400" stop="20170915060000 -0400" channel="980">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">The Wheel</sub-title>
-    <desc lang="en">The Wheel. After a woman's smoldering body is found outside a Chinese diplomat's flat, a case develops that involves a cult and an old friend(n)</desc>
+    <desc lang="en">The Wheel. After a woman's smoldering body is found outside a Chinese diplomat's flat, a case develops that involves a cult and an old friend</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170915060000 -0400" stop="20170915070000 -0400" channel="980">
     <title lang="en">Law &amp; Order</title>
     <sub-title lang="en">Angel</sub-title>
-    <desc lang="en">Angel. A mother (Elizabeth Hanly Rice), who claims that her baby was taken while she was in church is asked by Curtis to retrace her steps. Fineman: Fisher Stevens. Keith: Michael Dolan. Father Carner: Michael Willis(n)</desc>
+    <desc lang="en">Angel. A mother (Elizabeth Hanly Rice), who claims that her baby was taken while she was in church is asked by Curtis to retrace her steps. Fineman: Fisher Stevens. Keith: Michael Dolan. Father Carner: Michael Willis</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
   <programme start="20170915070000 -0400" stop="20170915080000 -0400" channel="980">
     <title lang="en">Charmed</title>
     <sub-title lang="en">The Eyes Have It</sub-title>
-    <desc lang="en">The Eyes Have It. Holly Marie Combs, Alyssa Milano, Rose McGowan. Drama series about three sisters who have inherited powers of witchcraft. Phoebe goes to a fortune teller to try and find out what has happened to her powers of premonition, and discovers that a demon has been stealing the eyes of gypsies(n)</desc>
+    <desc lang="en">The Eyes Have It. Holly Marie Combs, Alyssa Milano, Rose McGowan. Drama series about three sisters who have inherited powers of witchcraft. Phoebe goes to a fortune teller to try and find out what has happened to her powers of premonition, and discovers that a demon has been stealing the eyes of gypsies</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170915080000 -0400" stop="20170915090000 -0400" channel="980">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Sympathy for the Demon</sub-title>
-    <desc lang="en">Sympathy for the Demon. A demon trapped in Purgatory after battling the Charmed Ones projects his voice into the living world and tricks Paige and Cole into releasing him from his confinement, whereupon he steals Cole's powers(n)</desc>
+    <desc lang="en">Sympathy for the Demon. A demon trapped in Purgatory after battling the Charmed Ones projects his voice into the living world and tricks Paige and Cole into releasing him from his confinement, whereupon he steals Cole's powers</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170915090000 -0400" stop="20170915100000 -0400" channel="980">
     <title lang="en">Charmed</title>
     <sub-title lang="en">A Witch in Time</sub-title>
-    <desc lang="en">A Witch in Time. Phoebe has a premonition about the imminent death of her new boyfriend Miles, and ends up repeatedly saving his life. This enables a warlock named Bacarra to arrive from the future and steal the Book of Shadows, resulting in the deaths of two of the Halliwells. The surviving sister must then decide whether going back in time to save their lives would be the right thing to do(n)</desc>
+    <desc lang="en">A Witch in Time. Phoebe has a premonition about the imminent death of her new boyfriend Miles, and ends up repeatedly saving his life. This enables a warlock named Bacarra to arrive from the future and steal the Book of Shadows, resulting in the deaths of two of the Halliwells. The surviving sister must then decide whether going back in time to save their lives would be the right thing to do</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/106.jpg" />
   </programme>
   <programme start="20170915100000 -0400" stop="20170915110000 -0400" channel="980">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Are You There God? It's Me, Dean Winchester</sub-title>
-    <desc lang="en">Are You There God? It's Me, Dean Winchester. The spirits of Meg and Agent Henricksen appear and accuse Sam and Dean of failing them, as the brothers attempt to help a man haunted by the angry ghosts of children he was unable to save(n)</desc>
+    <desc lang="en">Are You There God? It's Me, Dean Winchester. The spirits of Meg and Agent Henricksen appear and accuse Sam and Dean of failing them, as the brothers attempt to help a man haunted by the angry ghosts of children he was unable to save</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170915110000 -0400" stop="20170915120000 -0400" channel="980">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">In the Beginning</sub-title>
-    <desc lang="en">In the Beginning. US drama about two brothers who hunt down and fight dangerous supernatural beings. Dean is sent back in time to 1973, and meets his parents when they were younger. He also encounters his grandfather, Samuel Campbell, and discovers that Campbell may have some answers about the Winchester family's link to the hunter community(n)</desc>
+    <desc lang="en">In the Beginning. US drama about two brothers who hunt down and fight dangerous supernatural beings. Dean is sent back in time to 1973, and meets his parents when they were younger. He also encounters his grandfather, Samuel Campbell, and discovers that Campbell may have some answers about the Winchester family's link to the hunter community</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170915120000 -0400" stop="20170915130000 -0400" channel="980">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Metamorphosis</sub-title>
-    <desc lang="en">Metamorphosis. Sam and Dean encounter a man with a mysterious infection that transforms him into a flesh-eating monster(n)</desc>
+    <desc lang="en">Metamorphosis. Sam and Dean encounter a man with a mysterious infection that transforms him into a flesh-eating monster</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170915130000 -0400" stop="20170915140000 -0400" channel="980">
     <title lang="en">Supernatural</title>
     <sub-title lang="en">Monster Movie</sub-title>
-    <desc lang="en">Monster Movie. Several murders occur during an Oktoberfest celebration and it's learned a shape-shifting demon is responsible, and that it is taking the form of iconic movie monsters, such as a vampire, werewolf and mummy. The episode is presented in black and white(n)</desc>
+    <desc lang="en">Monster Movie. Several murders occur during an Oktoberfest celebration and it's learned a shape-shifting demon is responsible, and that it is taking the form of iconic movie monsters, such as a vampire, werewolf and mummy. The episode is presented in black and white</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/30144.jpg" />
   </programme>
   <programme start="20170915140000 -0400" stop="20170915150000 -0400" channel="980">
     <title lang="en">Bones</title>
     <sub-title lang="en">The Plain in the Prodigy</sub-title>
-    <desc lang="en">The Plain in the Prodigy. The procedural continues to please with its brand of blood-stained humour. Brennan and Booth investigate the death of an Amish piano prodigy(n)</desc>
+    <desc lang="en">The Plain in the Prodigy. The procedural continues to please with its brand of blood-stained humour. Brennan and Booth investigate the death of an Amish piano prodigy</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
   </programme>
   <programme start="20170915150000 -0400" stop="20170915160000 -0400" channel="980">
     <title lang="en">Bones</title>
     <sub-title lang="en">A Beautiful Day in the Neighborhood</sub-title>
-    <desc lang="en">A Beautiful Day in the Neighborhood. The fourth series finale saw a fantasy sequence in which Brennan and Booth were a married couple running a night club, a scenario that saw them finally seal the deal on their relationship. The episode's conclusion revealed the hallucination/dream came from the mind of a drugged-up Booth, who had undergone surgery for a brain tumour. As Brennan kept a vigil at his bedside, the cop came round from his operation unsure of who she was. Season five picks up a few weeks later and Booth is back at work, but still suffering with side effects from his memory loss(n)</desc>
+    <desc lang="en">A Beautiful Day in the Neighborhood. The fourth series finale saw a fantasy sequence in which Brennan and Booth were a married couple running a night club, a scenario that saw them finally seal the deal on their relationship. The episode's conclusion revealed the hallucination/dream came from the mind of a drugged-up Booth, who had undergone surgery for a brain tumour. As Brennan kept a vigil at his bedside, the cop came round from his operation unsure of who she was. Season five picks up a few weeks later and Booth is back at work, but still suffering with side effects from his memory loss</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
   </programme>
   <programme start="20170915160000 -0400" stop="20170915170000 -0400" channel="980">
     <title lang="en">Bones</title>
     <sub-title lang="en">A Night at the Bones Museum</sub-title>
-    <desc lang="en">A Night at the Bones Museum. Brennan and Booth are thrown a case of historic proportions. The pair are on speed-dial when charred human remains are found by an electrical fence. With the finest forensic tools at her disposal, the witty anthropologist determines that the 'victim' is a mummified Egyptian royal that's on loan to the Jeffersonian. It's not long before there's a nasty twist in the tale: the curator charged with prepping the mummy for exhibition is slaughtered(n)</desc>
+    <desc lang="en">A Night at the Bones Museum. Brennan and Booth are thrown a case of historic proportions. The pair are on speed-dial when charred human remains are found by an electrical fence. With the finest forensic tools at her disposal, the witty anthropologist determines that the 'victim' is a mummified Egyptian royal that's on loan to the Jeffersonian. It's not long before there's a nasty twist in the tale: the curator charged with prepping the mummy for exhibition is slaughtered</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
   </programme>
   <programme start="20170915170000 -0400" stop="20170915180000 -0400" channel="980">
     <title lang="en">Bones</title>
     <sub-title lang="en">The Tough Man in the Tender Chicken</sub-title>
-    <desc lang="en">The Tough Man in the Tender Chicken. Bones is back for a fifth season of creative crime-solving that will include its landmark 100th episode. The fourth series finale saw a fantasy sequence in which Brennan and Booth were a married couple running a night club, a scenario that saw them finally seal the deal on their relationship. The episode's conclusion revealed the hallucination/dream came from the mind of a drugged-up Booth, who had undergone surgery for a brain tumour. As Brennan kept a vigil at his bedside, the cop came round from his operation unsure of who she was. Season five picks up a few weeks later and Booth is back at work, but still suffering with side effects from his memory loss(n)</desc>
+    <desc lang="en">The Tough Man in the Tender Chicken. Bones is back for a fifth season of creative crime-solving that will include its landmark 100th episode. The fourth series finale saw a fantasy sequence in which Brennan and Booth were a married couple running a night club, a scenario that saw them finally seal the deal on their relationship. The episode's conclusion revealed the hallucination/dream came from the mind of a drugged-up Booth, who had undergone surgery for a brain tumour. As Brennan kept a vigil at his bedside, the cop came round from his operation unsure of who she was. Season five picks up a few weeks later and Booth is back at work, but still suffering with side effects from his memory loss</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/33332.jpg" />
   </programme>
   <programme start="20170915180000 -0400" stop="20170915220000 -0400" channel="980">
     <title lang="en">The Lord of the Rings - The Two Towers</title>
-    <desc lang="en">The second chapter of director Peter Jackson's epic trilogy is packed with spectacular action and fierce battle scenes as Frodo continues on his quest to destroy the evil ring.The film won an Academy Award for its visual effects and was nominated for a total of six Oscars, including Best Picture(n)</desc>
+    <desc lang="en">The second chapter of director Peter Jackson's epic trilogy is packed with spectacular action and fierce battle scenes as Frodo continues on his quest to destroy the evil ring.The film won an Academy Award for its visual effects and was nominated for a total of six Oscars, including Best Picture</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/150335.jpg" />
   </programme>
   <programme start="20170915220000 -0400" stop="20170915230000 -0400" channel="980">
     <title lang="en">The Last Ship</title>
     <sub-title lang="en">In Media Res</sub-title>
-    <desc lang="en">In Media Res. In the Series 4 premiere, Nathan James faces yet another global disaster 16 months after thwarting the coup in America(n)</desc>
+    <desc lang="en">In Media Res. In the Series 4 premiere, Nathan James faces yet another global disaster 16 months after thwarting the coup in America</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
   <programme start="20170915230000 -0400" stop="20170916000000 -0400" channel="980">
     <title lang="en">The Last Ship</title>
     <sub-title lang="en">The Pillars of Hercules</sub-title>
-    <desc lang="en">The Pillars of Hercules. Having lost their only lead, the crew of Nathan James continues their search for an item that could save the world(n)</desc>
+    <desc lang="en">The Pillars of Hercules. Having lost their only lead, the crew of Nathan James continues their search for an item that could save the world</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170912000000 +0800" stop="20170912003000 +0800" channel="981">
-    <title lang="en">Sportsdesk</title>
+  <programme start="20170916000000 -0400" stop="20170916010000 -0400" channel="980">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Bread and Circuses</sub-title>
+    <desc lang="en">Bread and Circuses. Nathan James's crew searches for a precious item, leading them to a strange place of opulence and violence where they cross paths with a most unexpected ally(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170912003000 +0800" stop="20170912010000 +0800" channel="981">
-    <title lang="en">Boardroom</title>
+  <programme start="20170916010000 -0400" stop="20170916020000 -0400" channel="980">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Nostos</sub-title>
+    <desc lang="en">Nostos. The crew searches for one of their own as enemies close in on all sides; and Slattery is haunted by visions of the past(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170912010000 +0800" stop="20170912020000 +0800" channel="981">
-    <title lang="en">At This Hour</title>
+  <programme start="20170916020000 -0400" stop="20170916030000 -0400" channel="980">
+    <title lang="en">The Last Ship</title>
+    <sub-title lang="en">Allegiance</sub-title>
+    <desc lang="en">Allegiance. Nathan James is diverted from their mission when they receive a suspicious distress call from a fishing trawler(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183034.jpg" />
   </programme>
-  <programme start="20170912020000 +0800" stop="20170912023000 +0800" channel="981">
-    <title lang="en">CNN Go</title>
+  <programme start="20170916030000 -0400" stop="20170916040000 -0400" channel="980">
+    <title lang="en">Arrow</title>
+    <sub-title lang="en">Ah Sah-Him</sub-title>
+    <desc lang="en">Ah Sah-Him. Oliver goes through a rigorous transformation(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170912023000 +0800" stop="20170912030000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
+  <programme start="20170916040000 -0400" stop="20170916050000 -0400" channel="980">
+    <title lang="en">Arrow</title>
+    <sub-title lang="en">This Is Your Sword</sub-title>
+    <desc lang="en">This Is Your Sword. Al Sah-him completes his training and takes the final steps to become the next Ra's al Ghul(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/158560.jpg" />
   </programme>
-  <programme start="20170912030000 +0800" stop="20170912050000 +0800" channel="981">
-    <title lang="en">CNN Morning Express</title>
+  <programme start="20170916050000 -0400" stop="20170916060000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Double Down</sub-title>
+    <desc lang="en">Double Down. A suspect in a holdup involving the killing of a policeman asks for a deal in exchange for revealing the whereabouts of his missing accomplice(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912050000 +0800" stop="20170912053000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
+  <programme start="20170916060000 -0400" stop="20170916070000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Under God</sub-title>
+    <desc lang="en">Under God. The team experience mixed feelings when they find themselves prosecuting a priest for the murder of an evil drug dealer(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912053000 +0800" stop="20170912060000 +0800" channel="981">
-    <title lang="en">Culinary Journeys</title>
+  <programme start="20170916070000 -0400" stop="20170916080000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Absentia</sub-title>
+    <desc lang="en">Absentia. When a jewellery store is robbed, the team tracks down a civic-minded witness, who then vanishes before the trial(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912060000 +0800" stop="20170912073000 +0800" channel="981">
-    <title lang="en">Newday</title>
+  <programme start="20170916080000 -0400" stop="20170916090000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Star Crossed</sub-title>
+    <desc lang="en">Star Crossed. The investigation of a sportscar saleman's death leads to a woman with expensive tastes and to a mentally challenged man(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912073000 +0800" stop="20170912080000 +0800" channel="981">
-    <title lang="en">Boardroom</title>
+  <programme start="20170916090000 -0400" stop="20170916100000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">B-tch</sub-title>
+    <desc lang="en">B-tch. Memories of a certain multimillionaire household-advice diva may be stirred up by this episode, which begins with the murder of a stockbroker. The first suspect is the victim's girlfriend, who happens to be the daughter of powerful, much-despised cosmetics queen Jackie Scott (Lucie Arnaz). Scott ultimately stands trial for murder, using "hormone replacement therapy withdrawal" as her defense. Complicating matters is the accused's long-standing friendship with District Attorney Arthur Branch (Fred Dalton Thompson)(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912080000 +0800" stop="20170912083000 +0800" channel="981">
-    <title lang="en">Newsroom</title>
+  <programme start="20170916100000 -0400" stop="20170916110000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Suicide Box</sub-title>
+    <desc lang="en">Suicide Box. Gregory Hines plays a charismatic lawyer whose client shot a policewoman in an act of vengeance(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912083000 +0800" stop="20170912090000 +0800" channel="981">
-    <title lang="en">Drive</title>
+  <programme start="20170916110000 -0400" stop="20170916120000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Genius</sub-title>
+    <desc lang="en">Genius. When a cab driver is found stabbed to death under his taxi, Briscoe and Green discover that his last fare was a former convict and aspiring writer(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912090000 +0800" stop="20170912093000 +0800" channel="981">
-    <title lang="en">The Source</title>
+  <programme start="20170916120000 -0400" stop="20170916130000 -0400" channel="980">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Maritime</sub-title>
+    <desc lang="en">Maritime. The discovery of a woman's body leads to a case involving a missing athlete, his troubled brother and their parents(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/180.jpg" />
   </programme>
-  <programme start="20170912093000 +0800" stop="20170912100000 +0800" channel="981">
-    <title lang="en">Talk Asia</title>
+  <programme start="20170916130000 -0400" stop="20170916170000 -0400" channel="980">
+    <title lang="en">The Lord of the Rings - The Two Towers</title>
+    <desc lang="en">The second chapter of director Peter Jackson's epic trilogy is packed with spectacular action and fierce battle scenes as Frodo continues on his quest to destroy the evil ring.The film won an Academy Award for its visual effects and was nominated for a total of six Oscars, including Best Picture(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/150335.jpg" />
   </programme>
-  <programme start="20170912100000 +0800" stop="20170912103000 +0800" channel="981">
-    <title lang="en">Newsroom Ngayon</title>
+  <programme start="20170916170000 -0400" stop="20170916200000 -0400" channel="980">
+    <title lang="en">The Island</title>
+    <desc lang="en">Two cloistered clones who learn the truth about their purpose in life become prey when they try to escape their sterile, self-contained world(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183270.jpg" />
   </programme>
-  <programme start="20170912103000 +0800" stop="20170912110000 +0800" channel="981">
-    <title lang="en">Trippies</title>
+  <programme start="20170916200000 -0400" stop="20170916223000 -0400" channel="980">
+    <title lang="en">San Andreas</title>
+    <desc lang="en">A helicopter pilot races to rescue his estranged daughter after a massive earthquake devastates California(n)</desc>
   </programme>
-  <programme start="20170912110000 +0800" stop="20170912113000 +0800" channel="981">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170912113000 +0800" stop="20170912120000 +0800" channel="981">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170912120000 +0800" stop="20170912123000 +0800" channel="981">
-    <title lang="en">Balitaan</title>
-  </programme>
-  <programme start="20170912123000 +0800" stop="20170912130000 +0800" channel="981">
-    <title lang="en">Flavors</title>
-  </programme>
-  <programme start="20170912130000 +0800" stop="20170912140000 +0800" channel="981">
-    <title lang="en">CNN Newsroom</title>
-  </programme>
-  <programme start="20170912140000 +0800" stop="20170912143000 +0800" channel="981">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170912143000 +0800" stop="20170912150000 +0800" channel="981">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170912150000 +0800" stop="20170912153000 +0800" channel="981">
-    <title lang="en">Global Newsroom</title>
-  </programme>
-  <programme start="20170912153000 +0800" stop="20170912160000 +0800" channel="981">
-    <title lang="en">Boardroom</title>
-  </programme>
-  <programme start="20170912160000 +0800" stop="20170912163000 +0800" channel="981">
-    <title lang="en">Hoop Nation</title>
-  </programme>
-  <programme start="20170912163000 +0800" stop="20170912170000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
-  </programme>
-  <programme start="20170912170000 +0800" stop="20170912173000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
-  </programme>
-  <programme start="20170912173000 +0800" stop="20170912174500 +0800" channel="981">
-    <title lang="en">Art Of Movement</title>
-  </programme>
-  <programme start="20170912174500 +0800" stop="20170912180000 +0800" channel="981">
-    <title lang="en">Traffic Center</title>
-  </programme>
-  <programme start="20170912180000 +0800" stop="20170912190000 +0800" channel="981">
-    <title lang="en">News Night</title>
-  </programme>
-  <programme start="20170912190000 +0800" stop="20170912193000 +0800" channel="981">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170912193000 +0800" stop="20170912200000 +0800" channel="981">
-    <title lang="en">The Source</title>
-  </programme>
-  <programme start="20170912200000 +0800" stop="20170912210000 +0800" channel="981">
-    <title lang="en">Stories</title>
-  </programme>
-  <programme start="20170912210000 +0800" stop="20170912213000 +0800" channel="981">
-    <title lang="en">Newsroom</title>
-  </programme>
-  <programme start="20170912213000 +0800" stop="20170912220000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
-  </programme>
-  <programme start="20170912220000 +0800" stop="20170912223000 +0800" channel="981">
-    <title lang="en">Sportsdesk</title>
-  </programme>
-  <programme start="20170912223000 +0800" stop="20170912230000 +0800" channel="981">
-    <title lang="en">The Service Road</title>
-  </programme>
-  <programme start="20170912230000 +0800" stop="20170912233000 +0800" channel="981">
-    <title lang="en">The Source</title>
+  <programme start="20170916223000 -0400" stop="20170917013000 -0400" channel="980">
+    <title lang="en">King Kong</title>
+    <desc lang="en">In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow(n)</desc>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/116428.jpg" />
   </programme>
   <programme start="20170913000000 +0800" stop="20170913003000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
@@ -1713,61 +1548,61 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170914003000 +0800" stop="20170914010000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170914010000 +0800" stop="20170914020000 +0800" channel="981">
     <title lang="en">At This Hour</title>
   </programme>
   <programme start="20170914020000 +0800" stop="20170914023000 +0800" channel="981">
-    <title lang="en">Hollywood Express</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170914023000 +0800" stop="20170914030000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170914030000 +0800" stop="20170914050000 +0800" channel="981">
     <title lang="en">CNN Morning Express</title>
   </programme>
   <programme start="20170914050000 +0800" stop="20170914053000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Hollywood Express</title>
   </programme>
   <programme start="20170914053000 +0800" stop="20170914060000 +0800" channel="981">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170914060000 +0800" stop="20170914073000 +0800" channel="981">
     <title lang="en">Newday</title>
   </programme>
   <programme start="20170914073000 +0800" stop="20170914080000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170914080000 +0800" stop="20170914083000 +0800" channel="981">
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170914083000 +0800" stop="20170914090000 +0800" channel="981">
-    <title lang="en">Flavors</title>
+    <title lang="en">Hoop Nation</title>
   </programme>
   <programme start="20170914090000 +0800" stop="20170914093000 +0800" channel="981">
     <title lang="en">The Source</title>
   </programme>
   <programme start="20170914093000 +0800" stop="20170914100000 +0800" channel="981">
-    <title lang="en">Hollywood Express</title>
+    <title lang="en">Culinary Journeys</title>
   </programme>
   <programme start="20170914100000 +0800" stop="20170914103000 +0800" channel="981">
     <title lang="en">Newsroom Ngayon</title>
   </programme>
   <programme start="20170914103000 +0800" stop="20170914110000 +0800" channel="981">
-    <title lang="en">Drive</title>
+    <title lang="en">Leading Women</title>
   </programme>
   <programme start="20170914110000 +0800" stop="20170914113000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170914113000 +0800" stop="20170914120000 +0800" channel="981">
-    <title lang="en">Medtalk</title>
+    <title lang="en">Story Of The Filipino</title>
   </programme>
   <programme start="20170914120000 +0800" stop="20170914123000 +0800" channel="981">
     <title lang="en">Balitaan</title>
   </programme>
   <programme start="20170914123000 +0800" stop="20170914130000 +0800" channel="981">
-    <title lang="en">Leading Women</title>
+    <title lang="en">Trippies</title>
   </programme>
   <programme start="20170914130000 +0800" stop="20170914140000 +0800" channel="981">
     <title lang="en">CNN Newsroom</title>
@@ -1782,16 +1617,16 @@
     <title lang="en">Global Newsroom</title>
   </programme>
   <programme start="20170914153000 +0800" stop="20170914160000 +0800" channel="981">
-    <title lang="en">Boardroom</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170914160000 +0800" stop="20170914163000 +0800" channel="981">
-    <title lang="en">Hoop Nation</title>
+    <title lang="en">Drive</title>
   </programme>
   <programme start="20170914163000 +0800" stop="20170914170000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170914170000 +0800" stop="20170914173000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Talk Asia</title>
   </programme>
   <programme start="20170914173000 +0800" stop="20170914174500 +0800" channel="981">
     <title lang="en">Art Of Movement</title>
@@ -1815,7 +1650,7 @@
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170914213000 +0800" stop="20170914220000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170914220000 +0800" stop="20170914223000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
@@ -1830,61 +1665,61 @@
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170915003000 +0800" stop="20170915010000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170915010000 +0800" stop="20170915020000 +0800" channel="981">
     <title lang="en">At This Hour</title>
   </programme>
   <programme start="20170915020000 +0800" stop="20170915023000 +0800" channel="981">
-    <title lang="en">Hollywood Express</title>
+    <title lang="en">Business Traveller</title>
   </programme>
   <programme start="20170915023000 +0800" stop="20170915030000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170915030000 +0800" stop="20170915050000 +0800" channel="981">
     <title lang="en">CNN Morning Express</title>
   </programme>
   <programme start="20170915050000 +0800" stop="20170915053000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Hollywood Express</title>
   </programme>
   <programme start="20170915053000 +0800" stop="20170915060000 +0800" channel="981">
-    <title lang="en">CNN Go</title>
+    <title lang="en">Vital Signs</title>
   </programme>
   <programme start="20170915060000 +0800" stop="20170915073000 +0800" channel="981">
     <title lang="en">Newday</title>
   </programme>
   <programme start="20170915073000 +0800" stop="20170915080000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170915080000 +0800" stop="20170915083000 +0800" channel="981">
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170915083000 +0800" stop="20170915090000 +0800" channel="981">
-    <title lang="en">Flavors</title>
+    <title lang="en">Hoop Nation</title>
   </programme>
   <programme start="20170915090000 +0800" stop="20170915093000 +0800" channel="981">
     <title lang="en">The Source</title>
   </programme>
   <programme start="20170915093000 +0800" stop="20170915100000 +0800" channel="981">
-    <title lang="en">Hollywood Express</title>
+    <title lang="en">Culinary Journeys</title>
   </programme>
   <programme start="20170915100000 +0800" stop="20170915103000 +0800" channel="981">
     <title lang="en">Newsroom Ngayon</title>
   </programme>
   <programme start="20170915103000 +0800" stop="20170915110000 +0800" channel="981">
-    <title lang="en">Drive</title>
+    <title lang="en">Leading Women</title>
   </programme>
   <programme start="20170915110000 +0800" stop="20170915113000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
   </programme>
   <programme start="20170915113000 +0800" stop="20170915120000 +0800" channel="981">
-    <title lang="en">Medtalk</title>
+    <title lang="en">Story Of The Filipino</title>
   </programme>
   <programme start="20170915120000 +0800" stop="20170915123000 +0800" channel="981">
     <title lang="en">Balitaan</title>
   </programme>
   <programme start="20170915123000 +0800" stop="20170915130000 +0800" channel="981">
-    <title lang="en">Leading Women</title>
+    <title lang="en">Trippies</title>
   </programme>
   <programme start="20170915130000 +0800" stop="20170915140000 +0800" channel="981">
     <title lang="en">CNN Newsroom</title>
@@ -1899,22 +1734,25 @@
     <title lang="en">Global Newsroom</title>
   </programme>
   <programme start="20170915153000 +0800" stop="20170915160000 +0800" channel="981">
-    <title lang="en">Boardroom</title>
+    <title lang="en">Profiles</title>
   </programme>
   <programme start="20170915160000 +0800" stop="20170915163000 +0800" channel="981">
-    <title lang="en">Hoop Nation</title>
+    <title lang="en">Drive</title>
   </programme>
   <programme start="20170915163000 +0800" stop="20170915170000 +0800" channel="981">
-    <title lang="en">Vital Signs</title>
+    <title lang="en">CNN Go</title>
   </programme>
   <programme start="20170915170000 +0800" stop="20170915173000 +0800" channel="981">
-    <title lang="en">Business Traveller</title>
+    <title lang="en">Talk Asia</title>
   </programme>
   <programme start="20170915173000 +0800" stop="20170915174500 +0800" channel="981">
     <title lang="en">Art Of Movement</title>
   </programme>
   <programme start="20170915174500 +0800" stop="20170915180000 +0800" channel="981">
     <title lang="en">Traffic Center</title>
+  </programme>
+  <programme start="20170915180000 +0800" stop="20170915190000 +0800" channel="981">
+    <title lang="en">News Night</title>
   </programme>
   <programme start="20170915190000 +0800" stop="20170915193000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
@@ -1929,7 +1767,7 @@
     <title lang="en">Newsroom</title>
   </programme>
   <programme start="20170915213000 +0800" stop="20170915220000 +0800" channel="981">
-    <title lang="en">Story Of The Filipino</title>
+    <title lang="en">Medtalk</title>
   </programme>
   <programme start="20170915220000 +0800" stop="20170915223000 +0800" channel="981">
     <title lang="en">Sportsdesk</title>
@@ -1940,164 +1778,122 @@
   <programme start="20170915230000 +0800" stop="20170915233000 +0800" channel="981">
     <title lang="en">The Source</title>
   </programme>
-  <programme start="20170912000000 +0800" stop="20170912000500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916000000 +0800" stop="20170916003000 +0800" channel="981">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170912000500 +0800" stop="20170912010000 +0800" channel="982">
-    <title lang="zh">Artravel</title>
+  <programme start="20170916003000 +0800" stop="20170916010000 +0800" channel="981">
+    <title lang="en">Profiles</title>
   </programme>
-  <programme start="20170912010000 +0800" stop="20170912013000 +0800" channel="982">
-    <title lang="zh">Arirang News ?</title>
+  <programme start="20170916010000 +0800" stop="20170916020000 +0800" channel="981">
+    <title lang="en">At This Hour</title>
   </programme>
-  <programme start="20170912013000 +0800" stop="20170912020000 +0800" channel="982">
-    <title lang="zh">21st Century</title>
+  <programme start="20170916020000 +0800" stop="20170916023000 +0800" channel="981">
+    <title lang="en">Business Traveller</title>
   </programme>
-  <programme start="20170912020000 +0800" stop="20170912020500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916023000 +0800" stop="20170916030000 +0800" channel="981">
+    <title lang="en">CNN Go</title>
   </programme>
-  <programme start="20170912020500 +0800" stop="20170912023000 +0800" channel="982">
-    <title lang="zh">Showbiz Korea</title>
+  <programme start="20170916030000 +0800" stop="20170916050000 +0800" channel="981">
+    <title lang="en">CNN Morning Express</title>
   </programme>
-  <programme start="20170912023000 +0800" stop="20170912030000 +0800" channel="982">
-    <title lang="zh">Pops in Seoul</title>
+  <programme start="20170916050000 +0800" stop="20170916053000 +0800" channel="981">
+    <title lang="en">Hollywood Express</title>
   </programme>
-  <programme start="20170912030000 +0800" stop="20170912033000 +0800" channel="982">
-    <title lang="zh">Newscenter ?</title>
+  <programme start="20170916053000 +0800" stop="20170916060000 +0800" channel="981">
+    <title lang="en">Vital Signs</title>
   </programme>
-  <programme start="20170912033000 +0800" stop="20170912040000 +0800" channel="982">
-    <title lang="zh">Tour Avatar</title>
+  <programme start="20170916060000 +0800" stop="20170916073000 +0800" channel="981">
+    <title lang="en">Newday</title>
   </programme>
-  <programme start="20170912040000 +0800" stop="20170912040500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916073000 +0800" stop="20170916080000 +0800" channel="981">
+    <title lang="en">Profiles</title>
   </programme>
-  <programme start="20170912040500 +0800" stop="20170912050000 +0800" channel="982">
-    <title lang="zh">Intelligence High School Debate</title>
+  <programme start="20170916080000 +0800" stop="20170916083000 +0800" channel="981">
+    <title lang="en">Newsroom</title>
   </programme>
-  <programme start="20170912050000 +0800" stop="20170912050500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916083000 +0800" stop="20170916090000 +0800" channel="981">
+    <title lang="en">Hoop Nation</title>
   </programme>
-  <programme start="20170912050500 +0800" stop="20170912053000 +0800" channel="982">
-    <title lang="zh">The 3s</title>
+  <programme start="20170916090000 +0800" stop="20170916093000 +0800" channel="981">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170912053000 +0800" stop="20170912060000 +0800" channel="982">
-    <title lang="zh">Prosumer LAB 101</title>
+  <programme start="20170916093000 +0800" stop="20170916100000 +0800" channel="981">
+    <title lang="en">Culinary Journeys</title>
   </programme>
-  <programme start="20170912060000 +0800" stop="20170912063000 +0800" channel="982">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170916100000 +0800" stop="20170916103000 +0800" channel="981">
+    <title lang="en">Newsroom Ngayon</title>
   </programme>
-  <programme start="20170912063000 +0800" stop="20170912070000 +0800" channel="982">
-    <title lang="zh">Foreign Correspondents</title>
+  <programme start="20170916103000 +0800" stop="20170916110000 +0800" channel="981">
+    <title lang="en">Leading Women</title>
   </programme>
-  <programme start="20170912070000 +0800" stop="20170912070500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916110000 +0800" stop="20170916113000 +0800" channel="981">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170912070500 +0800" stop="20170912080000 +0800" channel="982">
-    <title lang="zh">After School Club</title>
+  <programme start="20170916113000 +0800" stop="20170916120000 +0800" channel="981">
+    <title lang="en">Story Of The Filipino</title>
   </programme>
-  <programme start="20170912080000 +0800" stop="20170912080500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916120000 +0800" stop="20170916123000 +0800" channel="981">
+    <title lang="en">Balitaan</title>
   </programme>
-  <programme start="20170912080500 +0800" stop="20170912090000 +0800" channel="982">
-    <title lang="zh">Premium Collection</title>
+  <programme start="20170916123000 +0800" stop="20170916130000 +0800" channel="981">
+    <title lang="en">Trippies</title>
   </programme>
-  <programme start="20170912090000 +0800" stop="20170912093000 +0800" channel="982">
-    <title lang="zh">ARIRANG NEWS [L]</title>
+  <programme start="20170916130000 +0800" stop="20170916140000 +0800" channel="981">
+    <title lang="en">CNN Newsroom</title>
   </programme>
-  <programme start="20170912093000 +0800" stop="20170912100000 +0800" channel="982">
-    <title lang="zh">Heart to Heart</title>
+  <programme start="20170916140000 +0800" stop="20170916143000 +0800" channel="981">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170912100000 +0800" stop="20170912100500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916143000 +0800" stop="20170916150000 +0800" channel="981">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170912100500 +0800" stop="20170912103000 +0800" channel="982">
-    <title lang="zh">The 3s</title>
+  <programme start="20170916150000 +0800" stop="20170916153000 +0800" channel="981">
+    <title lang="en">Global Newsroom</title>
   </programme>
-  <programme start="20170912103000 +0800" stop="20170912110000 +0800" channel="982">
-    <title lang="zh">Prosumer LAB 101</title>
+  <programme start="20170916153000 +0800" stop="20170916160000 +0800" channel="981">
+    <title lang="en">Profiles</title>
   </programme>
-  <programme start="20170912110000 +0800" stop="20170912113000 +0800" channel="982">
-    <title lang="zh">ARIRANG NEWS [L]</title>
+  <programme start="20170916160000 +0800" stop="20170916163000 +0800" channel="981">
+    <title lang="en">Drive</title>
   </programme>
-  <programme start="20170912113000 +0800" stop="20170912120000 +0800" channel="982">
-    <title lang="zh">Foreign Correspondents</title>
+  <programme start="20170916163000 +0800" stop="20170916170000 +0800" channel="981">
+    <title lang="en">CNN Go</title>
   </programme>
-  <programme start="20170912120000 +0800" stop="20170912120500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916170000 +0800" stop="20170916173000 +0800" channel="981">
+    <title lang="en">Talk Asia</title>
   </programme>
-  <programme start="20170912120500 +0800" stop="20170912130000 +0800" channel="982">
-    <title lang="zh">After School Club [L]</title>
+  <programme start="20170916173000 +0800" stop="20170916174500 +0800" channel="981">
+    <title lang="en">Art Of Movement</title>
   </programme>
-  <programme start="20170912130000 +0800" stop="20170912133000 +0800" channel="982">
-    <title lang="zh">Arirang News [L]</title>
+  <programme start="20170916174500 +0800" stop="20170916180000 +0800" channel="981">
+    <title lang="en">Traffic Center</title>
   </programme>
-  <programme start="20170912133000 +0800" stop="20170912140000 +0800" channel="982">
-    <title lang="zh">Heart to Heart</title>
+  <programme start="20170916180000 +0800" stop="20170916190000 +0800" channel="981">
+    <title lang="en">News Night</title>
   </programme>
-  <programme start="20170912140000 +0800" stop="20170912140500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916190000 +0800" stop="20170916193000 +0800" channel="981">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170912140500 +0800" stop="20170912143000 +0800" channel="982">
-    <title lang="zh">Showbiz Korea</title>
+  <programme start="20170916193000 +0800" stop="20170916200000 +0800" channel="981">
+    <title lang="en">The Source</title>
   </programme>
-  <programme start="20170912143000 +0800" stop="20170912150000 +0800" channel="982">
-    <title lang="zh">Pops in Seoul</title>
+  <programme start="20170916200000 +0800" stop="20170916210000 +0800" channel="981">
+    <title lang="en">Stories</title>
   </programme>
-  <programme start="20170912150000 +0800" stop="20170912153000 +0800" channel="982">
-    <title lang="zh">Business Daily [L]</title>
+  <programme start="20170916210000 +0800" stop="20170916213000 +0800" channel="981">
+    <title lang="en">Newsroom</title>
   </programme>
-  <programme start="20170912153000 +0800" stop="20170912160000 +0800" channel="982">
-    <title lang="zh">The 3s</title>
+  <programme start="20170916213000 +0800" stop="20170916220000 +0800" channel="981">
+    <title lang="en">Medtalk</title>
   </programme>
-  <programme start="20170912160000 +0800" stop="20170912160500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
+  <programme start="20170916220000 +0800" stop="20170916223000 +0800" channel="981">
+    <title lang="en">Sportsdesk</title>
   </programme>
-  <programme start="20170912160500 +0800" stop="20170912170000 +0800" channel="982">
-    <title lang="zh">Premium Collection</title>
+  <programme start="20170916223000 +0800" stop="20170916230000 +0800" channel="981">
+    <title lang="en">The Service Road</title>
   </programme>
-  <programme start="20170912170000 +0800" stop="20170912173000 +0800" channel="982">
-    <title lang="zh">Arirang News [L]</title>
-  </programme>
-  <programme start="20170912173000 +0800" stop="20170912180000 +0800" channel="982">
-    <title lang="zh">Heart to Heart</title>
-  </programme>
-  <programme start="20170912180000 +0800" stop="20170912180500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
-  </programme>
-  <programme start="20170912180500 +0800" stop="20170912190000 +0800" channel="982">
-    <title lang="zh">The Sensation</title>
-  </programme>
-  <programme start="20170912190000 +0800" stop="20170912193000 +0800" channel="982">
-    <title lang="zh">Newscenter [L]</title>
-  </programme>
-  <programme start="20170912193000 +0800" stop="20170912200000 +0800" channel="982">
-    <title lang="zh">Prosumer LAB 101</title>
-  </programme>
-  <programme start="20170912200000 +0800" stop="20170912200500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
-  </programme>
-  <programme start="20170912200500 +0800" stop="20170912210000 +0800" channel="982">
-    <title lang="zh">Premium Collection</title>
-  </programme>
-  <programme start="20170912210000 +0800" stop="20170912213000 +0800" channel="982">
-    <title lang="zh">Arirang News [L]</title>
-  </programme>
-  <programme start="20170912213000 +0800" stop="20170912220000 +0800" channel="982">
-    <title lang="zh">Foreign Correspondents</title>
-  </programme>
-  <programme start="20170912220000 +0800" stop="20170912220500 +0800" channel="982">
-    <title lang="zh">Arirang News</title>
-  </programme>
-  <programme start="20170912220500 +0800" stop="20170912223000 +0800" channel="982">
-    <title lang="zh">Showbiz Korea (M) ?</title>
-  </programme>
-  <programme start="20170912223000 +0800" stop="20170912230000 +0800" channel="982">
-    <title lang="zh">POPS IN SEOUL (M) ?</title>
-  </programme>
-  <programme start="20170912230000 +0800" stop="20170912233000 +0800" channel="982">
-    <title lang="zh">Arirang News ?</title>
-  </programme>
-  <programme start="20170912233000 +0800" stop="20170913000000 +0800" channel="982">
-    <title lang="zh">Prosumer LAB 101</title>
+  <programme start="20170916230000 +0800" stop="20170916233000 +0800" channel="981">
+    <title lang="en">The Source</title>
   </programme>
   <programme start="20170913000000 +0800" stop="20170913000500 +0800" channel="982">
     <title lang="zh">Arirang News</title>
@@ -2576,170 +2372,134 @@
   <programme start="20170915233000 +0800" stop="20170916000000 +0800" channel="982">
     <title lang="zh">BizSmart</title>
   </programme>
-  <programme start="20170912000000 +0800" stop="20170912003000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916000000 +0800" stop="20170916000500 +0800" channel="982">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170912003000 +0800" stop="20170912005500 +0800" channel="983">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170916000500 +0800" stop="20170916010000 +0800" channel="982">
+    <title lang="zh">Simply K-pop</title>
   </programme>
-  <programme start="20170912005500 +0800" stop="20170912010000 +0800" channel="983">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170916010000 +0800" stop="20170916013000 +0800" channel="982">
+    <title lang="zh">ARIRANG NEWS ?</title>
   </programme>
-  <programme start="20170912010000 +0800" stop="20170912013000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916013000 +0800" stop="20170916020000 +0800" channel="982">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170912013000 +0800" stop="20170912020000 +0800" channel="983">
-    <title lang="zh">Seasoning the Seasons</title>
+  <programme start="20170916020000 +0800" stop="20170916020500 +0800" channel="982">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170912020000 +0800" stop="20170912022900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916020500 +0800" stop="20170916023000 +0800" channel="982">
+    <title lang="zh">SHOWBIZ KOREA</title>
   </programme>
-  <programme start="20170912022900 +0800" stop="20170912030000 +0800" channel="983">
-    <title lang="zh">TOKYO FASHION EXPRESS</title>
+  <programme start="20170916023000 +0800" stop="20170916030000 +0800" channel="982">
+    <title lang="zh">Pops in Seoul</title>
   </programme>
-  <programme start="20170912030000 +0800" stop="20170912033000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916030000 +0800" stop="20170916033000 +0800" channel="982">
+    <title lang="zh">Newscenter ?</title>
   </programme>
-  <programme start="20170912033000 +0800" stop="20170912040000 +0800" channel="983">
-    <title lang="zh">Inside Lens</title>
+  <programme start="20170916033000 +0800" stop="20170916040000 +0800" channel="982">
+    <title lang="zh">Im Live</title>
   </programme>
-  <programme start="20170912040000 +0800" stop="20170912043000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916040000 +0800" stop="20170916040500 +0800" channel="982">
+    <title lang="zh">Arirang News</title>
   </programme>
-  <programme start="20170912043000 +0800" stop="20170912050000 +0800" channel="983">
-    <title lang="zh">J-Trip Plan</title>
+  <programme start="20170916040500 +0800" stop="20170916050000 +0800" channel="982">
+    <title lang="zh">PerformArts Reload</title>
   </programme>
-  <programme start="20170912050000 +0800" stop="20170912052900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916050000 +0800" stop="20170916053000 +0800" channel="982">
+    <title lang="zh">The 3s</title>
   </programme>
-  <programme start="20170912052900 +0800" stop="20170912060000 +0800" channel="983">
-    <title lang="zh">Medical Frontiers</title>
+  <programme start="20170916053000 +0800" stop="20170916060000 +0800" channel="982">
+    <title lang="zh">Prosumer LAB 101</title>
   </programme>
-  <programme start="20170912060000 +0800" stop="20170912063000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916060000 +0800" stop="20170916063000 +0800" channel="982">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170912063000 +0800" stop="20170912065500 +0800" channel="983">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170916063000 +0800" stop="20170916070000 +0800" channel="982">
+    <title lang="zh">Peace Insight</title>
   </programme>
-  <programme start="20170912065500 +0800" stop="20170912070000 +0800" channel="983">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170916070000 +0800" stop="20170916080000 +0800" channel="982">
+    <title lang="zh">Global Familes</title>
   </programme>
-  <programme start="20170912070000 +0800" stop="20170912073000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916080000 +0800" stop="20170916090000 +0800" channel="982">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170912073000 +0800" stop="20170912080000 +0800" channel="983">
-    <title lang="zh">Journeys in Japan</title>
+  <programme start="20170916090000 +0800" stop="20170916093000 +0800" channel="982">
+    <title lang="zh">Upfront</title>
   </programme>
-  <programme start="20170912080000 +0800" stop="20170912082900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916093000 +0800" stop="20170916100000 +0800" channel="982">
+    <title lang="zh">Heart to Heart (A)</title>
   </programme>
-  <programme start="20170912082900 +0800" stop="20170912090000 +0800" channel="983">
-    <title lang="zh">imagine-nation</title>
+  <programme start="20170916100000 +0800" stop="20170916110000 +0800" channel="982">
+    <title lang="zh">The Sensation</title>
   </programme>
-  <programme start="20170912090000 +0800" stop="20170912093000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916110000 +0800" stop="20170916111500 +0800" channel="982">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170912093000 +0800" stop="20170912095500 +0800" channel="983">
-    <title lang="zh">Document 72 Hours</title>
+  <programme start="20170916111500 +0800" stop="20170916113000 +0800" channel="982">
+    <title lang="zh">The Grand Heritage</title>
   </programme>
-  <programme start="20170912095500 +0800" stop="20170912100000 +0800" channel="983">
-    <title lang="zh">BEGIN Japanology mini</title>
+  <programme start="20170916113000 +0800" stop="20170916120000 +0800" channel="982">
+    <title lang="zh">The Grand Heritage</title>
   </programme>
-  <programme start="20170912100000 +0800" stop="20170912103000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916120000 +0800" stop="20170916130000 +0800" channel="982">
+    <title lang="zh">Intelligence High School Debate</title>
   </programme>
-  <programme start="20170912103000 +0800" stop="20170912110000 +0800" channel="983">
-    <title lang="zh">J-Trip Plan</title>
+  <programme start="20170916130000 +0800" stop="20170916133000 +0800" channel="982">
+    <title lang="zh">Arts Avenue</title>
   </programme>
-  <programme start="20170912110000 +0800" stop="20170912112900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916133000 +0800" stop="20170916140000 +0800" channel="982">
+    <title lang="zh">Heart to Heart (B)</title>
   </programme>
-  <programme start="20170912112900 +0800" stop="20170912120000 +0800" channel="983">
-    <title lang="zh">Medical Frontiers</title>
+  <programme start="20170916140000 +0800" stop="20170916150000 +0800" channel="982">
+    <title lang="zh">SHOWBIZ KOREA WEEKEND EDITION</title>
   </programme>
-  <programme start="20170912120000 +0800" stop="20170912123000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916150000 +0800" stop="20170916153000 +0800" channel="982">
+    <title lang="zh">Korea In the Sky</title>
   </programme>
-  <programme start="20170912123000 +0800" stop="20170912125500 +0800" channel="983">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170916153000 +0800" stop="20170916160000 +0800" channel="982">
+    <title lang="zh">The 3s</title>
   </programme>
-  <programme start="20170912125500 +0800" stop="20170912130000 +0800" channel="983">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170916160000 +0800" stop="20170916163000 +0800" channel="982">
+    <title lang="zh">4 Angles</title>
   </programme>
-  <programme start="20170912130000 +0800" stop="20170912133000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916163000 +0800" stop="20170916170000 +0800" channel="982">
+    <title lang="zh">Peninsula 24</title>
   </programme>
-  <programme start="20170912133000 +0800" stop="20170912140000 +0800" channel="983">
-    <title lang="zh">Journeys in Japan</title>
+  <programme start="20170916170000 +0800" stop="20170916171500 +0800" channel="982">
+    <title lang="zh">ARIRANG NEWS [L]</title>
   </programme>
-  <programme start="20170912140000 +0800" stop="20170912142900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916171500 +0800" stop="20170916173000 +0800" channel="982">
+    <title lang="zh">The Grand Heritage</title>
   </programme>
-  <programme start="20170912142900 +0800" stop="20170912150000 +0800" channel="983">
-    <title lang="zh">imagine-nation</title>
+  <programme start="20170916173000 +0800" stop="20170916180000 +0800" channel="982">
+    <title lang="zh">Heart to Heart ?</title>
   </programme>
-  <programme start="20170912150000 +0800" stop="20170912153000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916180000 +0800" stop="20170916190000 +0800" channel="982">
+    <title lang="zh">After School Club</title>
   </programme>
-  <programme start="20170912153000 +0800" stop="20170912155500 +0800" channel="983">
-    <title lang="zh">Document 72 Hours</title>
+  <programme start="20170916190000 +0800" stop="20170916193000 +0800" channel="982">
+    <title lang="zh">Prosumer LAB 101</title>
   </programme>
-  <programme start="20170912155500 +0800" stop="20170912160000 +0800" channel="983">
-    <title lang="zh">BEGIN Japanology mini</title>
+  <programme start="20170916193000 +0800" stop="20170916200000 +0800" channel="982">
+    <title lang="zh">Global Business Report</title>
   </programme>
-  <programme start="20170912160000 +0800" stop="20170912163000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916200000 +0800" stop="20170916210000 +0800" channel="982">
+    <title lang="zh">Arirang Prime</title>
   </programme>
-  <programme start="20170912163000 +0800" stop="20170912165500 +0800" channel="983">
-    <title lang="zh">GRAND SUMO Highlights</title>
+  <programme start="20170916210000 +0800" stop="20170916213000 +0800" channel="982">
+    <title lang="zh">Globetrotters</title>
   </programme>
-  <programme start="20170912165500 +0800" stop="20170912170000 +0800" channel="983">
-    <title lang="zh">Sumopedia</title>
+  <programme start="20170916213000 +0800" stop="20170916220000 +0800" channel="982">
+    <title lang="zh">The Grand Heritage</title>
   </programme>
-  <programme start="20170912170000 +0800" stop="20170912172900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
+  <programme start="20170916220000 +0800" stop="20170916230000 +0800" channel="982">
+    <title lang="zh">Simply K-pop</title>
   </programme>
-  <programme start="20170912172900 +0800" stop="20170912180000 +0800" channel="983">
-    <title lang="zh">Medical Frontiers</title>
+  <programme start="20170916230000 +0800" stop="20170916233000 +0800" channel="982">
+    <title lang="zh">Heart to Heart (A)</title>
   </programme>
-  <programme start="20170912180000 +0800" stop="20170912183000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170912183000 +0800" stop="20170912185500 +0800" channel="983">
-    <title lang="zh">Document 72 Hours</title>
-  </programme>
-  <programme start="20170912185500 +0800" stop="20170912190000 +0800" channel="983">
-    <title lang="zh">BEGIN Japanology mini</title>
-  </programme>
-  <programme start="20170912190000 +0800" stop="20170912194400 +0800" channel="983">
-    <title lang="zh">NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20170912194400 +0800" stop="20170912200000 +0800" channel="983">
-    <title lang="zh">Direct Talk</title>
-  </programme>
-  <programme start="20170912200000 +0800" stop="20170912202900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170912202900 +0800" stop="20170912210000 +0800" channel="983">
-    <title lang="zh">Journeys in Japan</title>
-  </programme>
-  <programme start="20170912210000 +0800" stop="20170912213000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170912213000 +0800" stop="20170912220000 +0800" channel="983">
-    <title lang="zh">imagine-nation</title>
-  </programme>
-  <programme start="20170912220000 +0800" stop="20170912223000 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170912223000 +0800" stop="20170912230000 +0800" channel="983">
-    <title lang="zh">Japanology Plus</title>
-  </programme>
-  <programme start="20170912230000 +0800" stop="20170912232900 +0800" channel="983">
-    <title lang="zh">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20170912232900 +0800" stop="20170913000000 +0800" channel="983">
-    <title lang="zh">Science View</title>
+  <programme start="20170916233000 +0800" stop="20170917000000 +0800" channel="982">
+    <title lang="zh">Global Business Report</title>
   </programme>
   <programme start="20170913000000 +0800" stop="20170913003000 +0800" channel="983">
     <title lang="zh">NHK NEWSLINE</title>
@@ -3218,23 +2978,218 @@
   <programme start="20170915235500 +0800" stop="20170916000000 +0800" channel="983">
     <title lang="zh">World Heritage Wonders</title>
   </programme>
-  <programme start="20170912000000 +0800" stop="20170912040000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916000000 +0800" stop="20170916003000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170912040000 +0800" stop="20170912080000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916003000 +0800" stop="20170916005500 +0800" channel="983">
+    <title lang="zh">GRAND SUMO Highlights</title>
   </programme>
-  <programme start="20170912080000 +0800" stop="20170912120000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916005500 +0800" stop="20170916010000 +0800" channel="983">
+    <title lang="zh">Sumopedia</title>
   </programme>
-  <programme start="20170912120000 +0800" stop="20170912160000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916010000 +0800" stop="20170916013000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
   </programme>
-  <programme start="20170912160000 +0800" stop="20170912200000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916013000 +0800" stop="20170916020000 +0800" channel="983">
+    <title lang="zh">SPIRIT OF JAPAN</title>
   </programme>
-  <programme start="20170912200000 +0800" stop="20170913000000 +0800" channel="984">
-    <title lang="zh">No schedule provided from Channel.</title>
+  <programme start="20170916020000 +0800" stop="20170916022900 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916022900 +0800" stop="20170916030000 +0800" channel="983">
+    <title lang="zh">Kawaii International</title>
+  </programme>
+  <programme start="20170916030000 +0800" stop="20170916033000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916033000 +0800" stop="20170916040000 +0800" channel="983">
+    <title lang="zh">Asia Insight</title>
+  </programme>
+  <programme start="20170916040000 +0800" stop="20170916043000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916043000 +0800" stop="20170916050000 +0800" channel="983">
+    <title lang="zh">Dining with the Chef</title>
+  </programme>
+  <programme start="20170916050000 +0800" stop="20170916052900 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916052900 +0800" stop="20170916055500 +0800" channel="983">
+    <title lang="zh">Todays Close-Up</title>
+  </programme>
+  <programme start="20170916055500 +0800" stop="20170916060000 +0800" channel="983">
+    <title lang="zh">World Heritage Wonders</title>
+  </programme>
+  <programme start="20170916060000 +0800" stop="20170916063000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916063000 +0800" stop="20170916065500 +0800" channel="983">
+    <title lang="zh">GRAND SUMO Highlights</title>
+  </programme>
+  <programme start="20170916065500 +0800" stop="20170916070000 +0800" channel="983">
+    <title lang="zh">Sumopedia</title>
+  </programme>
+  <programme start="20170916070000 +0800" stop="20170916071000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916071000 +0800" stop="20170916080000 +0800" channel="983">
+    <title lang="zh">Medical Frontiers Special</title>
+  </programme>
+  <programme start="20170916080000 +0800" stop="20170916081000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916081000 +0800" stop="20170916085500 +0800" channel="983">
+    <title lang="zh">Train Cruise</title>
+  </programme>
+  <programme start="20170916085500 +0800" stop="20170916090000 +0800" channel="983">
+    <title lang="zh">Blends</title>
+  </programme>
+  <programme start="20170916090000 +0800" stop="20170916091000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916091000 +0800" stop="20170916100000 +0800" channel="983">
+    <title lang="zh">First Class</title>
+  </programme>
+  <programme start="20170916100000 +0800" stop="20170916101000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916101000 +0800" stop="20170916104000 +0800" channel="983">
+    <title lang="zh">Dining with the Chef</title>
+  </programme>
+  <programme start="20170916104000 +0800" stop="20170916105000 +0800" channel="983">
+    <title lang="zh">Dive into UKIYO-E</title>
+  </programme>
+  <programme start="20170916105000 +0800" stop="20170916110000 +0800" channel="983">
+    <title lang="zh">Little Charo</title>
+  </programme>
+  <programme start="20170916110000 +0800" stop="20170916111000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916111000 +0800" stop="20170916113500 +0800" channel="983">
+    <title lang="zh">Todays Close-Up</title>
+  </programme>
+  <programme start="20170916113500 +0800" stop="20170916114900 +0800" channel="983">
+    <title lang="zh">Direct Talk</title>
+  </programme>
+  <programme start="20170916114900 +0800" stop="20170916115500 +0800" channel="983">
+    <title lang="zh">World Heritage Wonders</title>
+  </programme>
+  <programme start="20170916115500 +0800" stop="20170916120000 +0800" channel="983">
+    <title lang="zh">PythagoraSwitch mini</title>
+  </programme>
+  <programme start="20170916120000 +0800" stop="20170916121000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916121000 +0800" stop="20170916122500 +0800" channel="983">
+    <title lang="zh">Ceramic Treasures</title>
+  </programme>
+  <programme start="20170916122500 +0800" stop="20170916123000 +0800" channel="983">
+    <title lang="zh">Hokkaido in Focus</title>
+  </programme>
+  <programme start="20170916123000 +0800" stop="20170916125500 +0800" channel="983">
+    <title lang="zh">GRAND SUMO Highlights</title>
+  </programme>
+  <programme start="20170916125500 +0800" stop="20170916130000 +0800" channel="983">
+    <title lang="zh">Sumopedia</title>
+  </programme>
+  <programme start="20170916130000 +0800" stop="20170916131000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916131000 +0800" stop="20170916140000 +0800" channel="983">
+    <title lang="zh">Medical Frontiers Special</title>
+  </programme>
+  <programme start="20170916140000 +0800" stop="20170916141000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916141000 +0800" stop="20170916145500 +0800" channel="983">
+    <title lang="zh">Train Cruise</title>
+  </programme>
+  <programme start="20170916145500 +0800" stop="20170916150000 +0800" channel="983">
+    <title lang="zh">Blends</title>
+  </programme>
+  <programme start="20170916150000 +0800" stop="20170916151000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916151000 +0800" stop="20170916160000 +0800" channel="983">
+    <title lang="zh">First Class</title>
+  </programme>
+  <programme start="20170916160000 +0800" stop="20170916161000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916161000 +0800" stop="20170916162500 +0800" channel="983">
+    <title lang="zh">Ceramic Treasures</title>
+  </programme>
+  <programme start="20170916162500 +0800" stop="20170916163000 +0800" channel="983">
+    <title lang="zh">Hokkaido in Focus</title>
+  </programme>
+  <programme start="20170916163000 +0800" stop="20170916165500 +0800" channel="983">
+    <title lang="zh">GRAND SUMO Highlights</title>
+  </programme>
+  <programme start="20170916165500 +0800" stop="20170916170000 +0800" channel="983">
+    <title lang="zh">Sumopedia</title>
+  </programme>
+  <programme start="20170916170000 +0800" stop="20170916171000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916171000 +0800" stop="20170916173500 +0800" channel="983">
+    <title lang="zh">Todays Close-Up</title>
+  </programme>
+  <programme start="20170916173500 +0800" stop="20170916174900 +0800" channel="983">
+    <title lang="zh">Direct Talk</title>
+  </programme>
+  <programme start="20170916174900 +0800" stop="20170916175500 +0800" channel="983">
+    <title lang="zh">World Heritage Wonders</title>
+  </programme>
+  <programme start="20170916175500 +0800" stop="20170916180000 +0800" channel="983">
+    <title lang="zh">PythagoraSwitch mini</title>
+  </programme>
+  <programme start="20170916180000 +0800" stop="20170916181000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916181000 +0800" stop="20170916190000 +0800" channel="983">
+    <title lang="zh">Medical Frontiers Special</title>
+  </programme>
+  <programme start="20170916190000 +0800" stop="20170916191000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916191000 +0800" stop="20170916194000 +0800" channel="983">
+    <title lang="zh">Supreme Skills!</title>
+  </programme>
+  <programme start="20170916194000 +0800" stop="20170916195500 +0800" channel="983">
+    <title lang="zh">EXTREME JAPAN</title>
+  </programme>
+  <programme start="20170916195500 +0800" stop="20170916200000 +0800" channel="983">
+    <title lang="zh">Your Japanese Kitchen mini</title>
+  </programme>
+  <programme start="20170916200000 +0800" stop="20170916201000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916201000 +0800" stop="20170916205500 +0800" channel="983">
+    <title lang="zh">Train Cruise</title>
+  </programme>
+  <programme start="20170916205500 +0800" stop="20170916210000 +0800" channel="983">
+    <title lang="zh">Blends</title>
+  </programme>
+  <programme start="20170916210000 +0800" stop="20170916211000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916211000 +0800" stop="20170916220000 +0800" channel="983">
+    <title lang="zh">First Class</title>
+  </programme>
+  <programme start="20170916220000 +0800" stop="20170916221000 +0800" channel="983">
+    <title lang="zh">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20170916221000 +0800" stop="20170916224000 +0800" channel="983">
+    <title lang="zh">A Century on Film</title>
+  </programme>
+  <programme start="20170916224000 +0800" stop="20170916225500 +0800" channel="983">
+    <title lang="zh">Direct Talk</title>
+  </programme>
+  <programme start="20170916225500 +0800" stop="20170916231000 +0800" channel="983">
+    <title lang="zh">Fudoki</title>
+  </programme>
+  <programme start="20170916231000 +0800" stop="20170917000000 +0800" channel="983">
+    <title lang="zh">NHK Documentary</title>
   </programme>
   <programme start="20170913000000 +0800" stop="20170913040000 +0800" channel="984">
     <title lang="zh">No schedule provided from Channel.</title>
@@ -3290,137 +3245,23 @@
   <programme start="20170915200000 +0800" stop="20170916000000 +0800" channel="984">
     <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912000000 +0800" stop="20170912001500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
+  <programme start="20170916000000 +0800" stop="20170916040000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912001500 +0800" stop="20170912010000 +0800" channel="985">
-    <title lang="zh">China 24</title>
+  <programme start="20170916040000 +0800" stop="20170916080000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912010000 +0800" stop="20170912020000 +0800" channel="985">
-    <title lang="zh">Africa Live</title>
+  <programme start="20170916080000 +0800" stop="20170916120000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912020000 +0800" stop="20170912030000 +0800" channel="985">
-    <title lang="zh">Global Business</title>
+  <programme start="20170916120000 +0800" stop="20170916160000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912030000 +0800" stop="20170912033000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
+  <programme start="20170916160000 +0800" stop="20170916200000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
-  <programme start="20170912033000 +0800" stop="20170912040000 +0800" channel="985">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170912040000 +0800" stop="20170912041500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912041500 +0800" stop="20170912050000 +0800" channel="985">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme start="20170912050000 +0800" stop="20170912053000 +0800" channel="985">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170912053000 +0800" stop="20170912060000 +0800" channel="985">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme start="20170912060000 +0800" stop="20170912061500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912061500 +0800" stop="20170912070000 +0800" channel="985">
-    <title lang="zh">Full Frame</title>
-  </programme>
-  <programme start="20170912070000 +0800" stop="20170912073000 +0800" channel="985">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme start="20170912073000 +0800" stop="20170912080000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912080000 +0800" stop="20170912090000 +0800" channel="985">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170912090000 +0800" stop="20170912093000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912093000 +0800" stop="20170912100000 +0800" channel="985">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170912100000 +0800" stop="20170912103000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912103000 +0800" stop="20170912110000 +0800" channel="985">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme start="20170912110000 +0800" stop="20170912111500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912111500 +0800" stop="20170912113000 +0800" channel="985">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme start="20170912113000 +0800" stop="20170912120000 +0800" channel="985">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170912120000 +0800" stop="20170912130000 +0800" channel="985">
-    <title lang="zh">Global Watch</title>
-  </programme>
-  <programme start="20170912130000 +0800" stop="20170912131500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912131500 +0800" stop="20170912133000 +0800" channel="985">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme start="20170912133000 +0800" stop="20170912140000 +0800" channel="985">
-    <title lang="zh">Assignment Asia</title>
-  </programme>
-  <programme start="20170912140000 +0800" stop="20170912143000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912143000 +0800" stop="20170912150000 +0800" channel="985">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme start="20170912150000 +0800" stop="20170912153000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912153000 +0800" stop="20170912160000 +0800" channel="985">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme start="20170912160000 +0800" stop="20170912170000 +0800" channel="985">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170912170000 +0800" stop="20170912173000 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912173000 +0800" stop="20170912180000 +0800" channel="985">
-    <title lang="zh">Culture Express</title>
-  </programme>
-  <programme start="20170912180000 +0800" stop="20170912190000 +0800" channel="985">
-    <title lang="zh">Africa Live</title>
-  </programme>
-  <programme start="20170912190000 +0800" stop="20170912193000 +0800" channel="985">
-    <title lang="zh">Asia Today</title>
-  </programme>
-  <programme start="20170912193000 +0800" stop="20170912200000 +0800" channel="985">
-    <title lang="zh">Dialogue with Yang Rui</title>
-  </programme>
-  <programme start="20170912200000 +0800" stop="20170912201500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912201500 +0800" stop="20170912210000 +0800" channel="985">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme start="20170912210000 +0800" stop="20170912213000 +0800" channel="985">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme start="20170912213000 +0800" stop="20170912220000 +0800" channel="985">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme start="20170912220000 +0800" stop="20170912221500 +0800" channel="985">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme start="20170912221500 +0800" stop="20170912230000 +0800" channel="985">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme start="20170912230000 +0800" stop="20170912233000 +0800" channel="985">
-    <title lang="zh">The Link</title>
-  </programme>
-  <programme start="20170912233000 +0800" stop="20170913000000 +0800" channel="985">
-    <title lang="zh">Culture Express</title>
+  <programme start="20170916200000 +0800" stop="20170917000000 +0800" channel="984">
+    <title lang="zh">No schedule provided from Channel.</title>
   </programme>
   <programme start="20170913000000 +0800" stop="20170913001500 +0800" channel="985">
     <title lang="zh">The World Today</title>
@@ -3817,5 +3658,131 @@
   </programme>
   <programme start="20170915233000 +0800" stop="20170916000000 +0800" channel="985">
     <title lang="zh">Culture Express</title>
+  </programme>
+  <programme start="20170916000000 +0800" stop="20170916001500 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916001500 +0800" stop="20170916010000 +0800" channel="985">
+    <title lang="zh">China 24</title>
+  </programme>
+  <programme start="20170916010000 +0800" stop="20170916020000 +0800" channel="985">
+    <title lang="zh">Africa Live</title>
+  </programme>
+  <programme start="20170916020000 +0800" stop="20170916030000 +0800" channel="985">
+    <title lang="zh">Global Business</title>
+  </programme>
+  <programme start="20170916030000 +0800" stop="20170916033000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916033000 +0800" stop="20170916040000 +0800" channel="985">
+    <title lang="zh">Dialogue with Yang Rui</title>
+  </programme>
+  <programme start="20170916040000 +0800" stop="20170916041500 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916041500 +0800" stop="20170916050000 +0800" channel="985">
+    <title lang="zh">World Insight with Tian Wei</title>
+  </programme>
+  <programme start="20170916050000 +0800" stop="20170916053000 +0800" channel="985">
+    <title lang="zh">Global Business</title>
+  </programme>
+  <programme start="20170916053000 +0800" stop="20170916060000 +0800" channel="985">
+    <title lang="zh">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20170916060000 +0800" stop="20170916070000 +0800" channel="985">
+    <title lang="zh">Big Story</title>
+  </programme>
+  <programme start="20170916070000 +0800" stop="20170916073000 +0800" channel="985">
+    <title lang="zh">The Heat</title>
+  </programme>
+  <programme start="20170916073000 +0800" stop="20170916080000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916080000 +0800" stop="20170916090000 +0800" channel="985">
+    <title lang="zh">Global Business</title>
+  </programme>
+  <programme start="20170916090000 +0800" stop="20170916093000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916093000 +0800" stop="20170916100000 +0800" channel="985">
+    <title lang="zh">China 24</title>
+  </programme>
+  <programme start="20170916100000 +0800" stop="20170916103000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916103000 +0800" stop="20170916110000 +0800" channel="985">
+    <title lang="zh">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20170916110000 +0800" stop="20170916111500 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916111500 +0800" stop="20170916113000 +0800" channel="985">
+    <title lang="zh">Sports Scene</title>
+  </programme>
+  <programme start="20170916113000 +0800" stop="20170916120000 +0800" channel="985">
+    <title lang="zh">Dialogue with Yang Rui</title>
+  </programme>
+  <programme start="20170916120000 +0800" stop="20170916130000 +0800" channel="985">
+    <title lang="zh">Global Watch</title>
+  </programme>
+  <programme start="20170916130000 +0800" stop="20170916140000 +0800" channel="985">
+    <title lang="zh">Americas Now</title>
+  </programme>
+  <programme start="20170916140000 +0800" stop="20170916143000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916143000 +0800" stop="20170916150000 +0800" channel="985">
+    <title lang="zh">The Heat</title>
+  </programme>
+  <programme start="20170916150000 +0800" stop="20170916153000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916153000 +0800" stop="20170916160000 +0800" channel="985">
+    <title lang="zh">Sports Scene</title>
+  </programme>
+  <programme start="20170916160000 +0800" stop="20170916163000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916163000 +0800" stop="20170916170000 +0800" channel="985">
+    <title lang="zh">New Money</title>
+  </programme>
+  <programme start="20170916170000 +0800" stop="20170916173000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916173000 +0800" stop="20170916180000 +0800" channel="985">
+    <title lang="zh">Icon</title>
+  </programme>
+  <programme start="20170916180000 +0800" stop="20170916190000 +0800" channel="985">
+    <title lang="zh">Africa Live</title>
+  </programme>
+  <programme start="20170916190000 +0800" stop="20170916193000 +0800" channel="985">
+    <title lang="zh">Asia Today</title>
+  </programme>
+  <programme start="20170916193000 +0800" stop="20170916200000 +0800" channel="985">
+    <title lang="zh">Dialogue with Yang Rui</title>
+  </programme>
+  <programme start="20170916200000 +0800" stop="20170916201500 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916201500 +0800" stop="20170916210000 +0800" channel="985">
+    <title lang="zh">China 24</title>
+  </programme>
+  <programme start="20170916210000 +0800" stop="20170916213000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916213000 +0800" stop="20170916220000 +0800" channel="985">
+    <title lang="zh">Assignment Asia</title>
+  </programme>
+  <programme start="20170916220000 +0800" stop="20170916221500 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916221500 +0800" stop="20170916230000 +0800" channel="985">
+    <title lang="zh">Crossover</title>
+  </programme>
+  <programme start="20170916230000 +0800" stop="20170916233000 +0800" channel="985">
+    <title lang="zh">The World Today</title>
+  </programme>
+  <programme start="20170916233000 +0800" stop="20170917000000 +0800" channel="985">
+    <title lang="zh">Icon</title>
   </programme>
 </tv>
