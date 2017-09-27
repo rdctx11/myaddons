@@ -101,6 +101,13 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</fanart>
 </item>
 
+<item>
+<title>MYX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8002.ts&amp;streamtype=TSDOWNLOADER&amp;name=MYX TV</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/MYX.png</thumbnail>
+<fanart></fanart>
+</item>
+
 <!-- <item>
 <title>TV Maria</title>
 <link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
