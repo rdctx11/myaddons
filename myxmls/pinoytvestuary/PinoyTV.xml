@@ -47,15 +47,6 @@
 </item>
 
 <item>
-<title>CNN Philippines</title>
-<link>rtmp://54.251.134.121/live/15273.sdp live=true timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNPH.png</thumbnail>
-<genre>News</genre>
-<info>CNN Philippines (abbreviated CNN PH) is an all-news and current affairs channel in the Philippines. It is owned and operated by Nine Media Corporation together with Radio Philippines Network (RPN) as the main content provider under the license of US-based media company Turner Broadcasting System (a division of Time Warner). Replacing 9TV, CNN Philippines is the local franchise of the Cable News Network (CNN).</info>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</fanart>
-</item>
-
-<item>
 <title>Kapatid TV 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8009.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
@@ -101,6 +92,14 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <fanart></fanart>
 </item>
 
+<item>
+<title>CNN Philippines</title>
+<link>rtmp://54.251.134.121/live/15273.sdp live=true timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNPH.png</thumbnail>
+<genre>News</genre>
+<info>CNN Philippines (abbreviated CNN PH) is an all-news and current affairs channel in the Philippines. It is owned and operated by Nine Media Corporation together with Radio Philippines Network (RPN) as the main content provider under the license of US-based media company Turner Broadcasting System (a division of Time Warner). Replacing 9TV, CNN Philippines is the local franchise of the Cable News Network (CNN).</info>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</fanart>
+</item>
 
 <!-- <item>
 <title>TV Maria</title>
@@ -177,27 +176,13 @@ Slogan: "One Nation, One Station"</info>
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>CCTN 47</title>
 <link>http://iphone-streaming.ustream.tv/uhls/16474576/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CCTN.png</thumbnail>
 <genre>Religion</genre>
 <info>Cebu Catholic Television Network (CCTN 47) is a broadcast television channel owned by the Archdiocese of Cebu in the Philippines. The station's studios located at the CCTN Broadcast Center, Cardinal Rosales Avenue, Cebu Business Park, Cebu City. This also known as the first Catholic TV station on free TV.</info>
 <fanart>http://static-cdn2.ustream.tv/i/channel/picture/1/3/7/4/13744811/13744811_cctn47cebu_1365072333,640x360,r:1.jpg</fanart>
-</item>
-
-<item>
-<title>Radio Television Malacanang</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/user/RTVMalacanang/featured</page>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/RTVM.png</thumbnail>
-<genre>News, Public Service</genre>
-<info>PBS-RTVM is open and working 24 hours a day, 7 days a week, rain or shine. Its personnel are among the most dedicated workers in government, reporting for duty in the late hours of the night and the wee hours of the morning – packing heavy broadcast equipment, traveling to wherever duty calls in good roads and in bad. The main strength of the men and women of RTVM is their professionalism – working with minimum supervision and delivering the best product within the deadline required.</info>
-<fanart>https://i.ytimg.com/vi/i1m99Mc31k0/maxresdefault.jpg</fanart>
-</item>
+</item> -->
 
 </items>
