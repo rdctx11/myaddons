@@ -22,10 +22,28 @@
 </item>
 
 <item>
-<title>TFC (USA)</title>
-<link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTFC%26url%3dhttp%253A%252F%252Fv2.ustreamix.com%252Fstream.php%253Fid%253Dtfc-pinoy%26videoTitle%3dTFC%26director%3dtvone1.com%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fv2.ustreamix.com%252Fstream.php%253Fid%253Dtfc-pinoy%26definedIn%3dustreamix.com.cfg%26url_%3d%252Fstream.php%253Fid%253Dtfc-pinoy%26type%3drss%26event%3dLive%2bnow%253A%2bIt%2527s%2bShowtime%26title_%3dTFC%2bPinoy&amp;mode=1</link>
+<title>TFC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8010.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TFC.png</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>Cinema One Global</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8006.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/C1.png</thumbnail>
+</item>
+
+<item>
+<title>ANC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8005.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ANC.png</thumbnail>
+</item>
+
+<item>
+<title>DZMM Teleradyo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8008.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/DZMMTV.png</thumbnail>
 </item>
 
 <item>
@@ -38,23 +56,22 @@
 </item>
 
 <item>
-<title>TV 5</title>
-<!-- <link>http://origin2.cignal.tv/aes/smil:tv5.smil/playlist.m3u8</link> -->
-<link>http://stream3.news5.ph/bc/singko_3/chunklist_w1092850888.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TV5.png</thumbnail>
+<title>Kapatid TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8009.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <genre>News</genre>
 <info></info>
 <fanart>http://cms.interaksyon.com/entertainment/assets/media/2013/01/21-Kapatid-stars-gather-onstage-for-fitting-finale-e1358345770549.jpg</fanart>
 </item>
 
-<!-- <item>
-<title>Aksyon TV</title>
-<link>http://origin2.cignal.tv/aes/smil:aksyon.smil/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/aksyontv1_zpsw3h7wjnk.png</thumbnail>
+<item>
+<title>Aksyon TV International</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8004.ts&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News</genre>
 <info></info>
 <fanart>http://cms.interaksyon.com/entertainment/assets/media/2013/01/21-Kapatid-stars-gather-onstage-for-fitting-finale-e1358345770549.jpg</fanart>
-</item> -->
+</item>
 
 <item>
 <title>People's Television</title>
@@ -73,17 +90,8 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 </item>
 
 <item>
-<title>NET 25</title>
-<link>http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NET25.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>Net 25 is a Philippine terrestrial/cable television network owned and operated by Eagle Broadcasting Corporation. The network is named for its flagship station in Metro Manila, DZEC-TV, which is carried on UHF channel 25 on terrestrial TV, and has carried by major cable operators in the country. This station's broadcast facilities are located at #25 Central Ave., New Era, Quezon City.
-Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Alaska and Hawaii and the whole of Asia including Singapore, Japan, Hong Kong, Macau (in Portuguese), Taiwan, China as well as Australia, New Zealand, the UK, Turkey, France, Spain, Italy, Greece, Germany, Monaco, Switzerland, Iceland, Denmark, Norway, Finland, Sweden and the entire continent of Europe.</info>
-<fanart></fanart>
-</item>
-
-<item>
-<title>UNTV 37</title>
+<title>UNTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNTV</link>
 <link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
@@ -94,7 +102,7 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 </item>
 
 
-<item>
+<!-- <item>
 <title>TV Maria</title>
 <link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TVM.png</thumbnail>
@@ -103,7 +111,17 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 
 Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
 <fanart></fanart>
-</item>
+</item> -->
+
+<!-- <item>
+<title>NET 25</title>
+<link>http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NET25.png</thumbnail>
+<genre>Entertainment, News, Public Service</genre>
+<info>Net 25 is a Philippine terrestrial/cable television network owned and operated by Eagle Broadcasting Corporation. The network is named for its flagship station in Metro Manila, DZEC-TV, which is carried on UHF channel 25 on terrestrial TV, and has carried by major cable operators in the country. This station's broadcast facilities are located at #25 Central Ave., New Era, Quezon City.
+Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Alaska and Hawaii and the whole of Asia including Singapore, Japan, Hong Kong, Macau (in Portuguese), Taiwan, China as well as Australia, New Zealand, the UK, Turkey, France, Spain, Italy, Greece, Germany, Monaco, Switzerland, Iceland, Denmark, Norway, Finland, Sweden and the entire continent of Europe.</info>
+<fanart></fanart>
+</item> -->
 
 <item>
 <title>INC TV</title>
@@ -181,47 +199,5 @@ Slogan: "One Nation, One Station"</info>
 <info>PBS-RTVM is open and working 24 hours a day, 7 days a week, rain or shine. Its personnel are among the most dedicated workers in government, reporting for duty in the late hours of the night and the wee hours of the morning – packing heavy broadcast equipment, traveling to wherever duty calls in good roads and in bad. The main strength of the men and women of RTVM is their professionalism – working with minimum supervision and delivering the best product within the deadline required.</info>
 <fanart>https://i.ytimg.com/vi/i1m99Mc31k0/maxresdefault.jpg</fanart>
 </item>
-
-<!-- <item>
-<title>ANC</title>
-<link>plugin://plugin.video.f4mTester/?proxy_for_chunks=False&amp;maxbitrate=0&amp;name=ANC&amp;url=http://abscbnhdlive-f.akamaihd.net/z/anc_1@49740/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=STCNIKFSNLDP&amp;proxy=&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/anc.png</thumbnail>
-<genre>News</genre>
-<info>The ABS-CBN News Channel (or simply ANC) is a global subscription television news network targeted to Filipino audience. It is notable for being the country's first all-news cable network, the country's first 24-hour news network, and the country's first English language news network. The majority of its programs are produced and developed by ABS-CBN News. It is available globally in direct-to-home satellite, cable, IPTV, online video streaming, video on demand and other over-the-top content platforms.</info>
-<fanart>http://4.bp.blogspot.com/-jKcWypmqFIk/Vk8tR8VkRuI/AAAAAAAALWo/zOUwDPP5nGM/s1600/APEC%2BABS-CBN%2BNews%2BChannel%2BKaren%2BDavila%2BCes%2BDrilon%2BCathy%2BYang.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>DZMM Teleradyo</title>
-<link>plugin://plugin.video.f4mTester/?name=Teleradyo&amp;url=http://abscbnhdlive-f.akamaihd.net/z/teleradyo_1@49742/manifest.f4m?hdnea=ip=178.152.37.5&amp;hdcore=2.11.2&amp;g=YSPSIWCQOMWT&amp;mode=play</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/62302783/PVR/logos/teleradyo.png</thumbnail>
-<genre>News</genre>
-<info>DZMM TeleRadyo (TeleRadyo is a stylised portmanteau of the Filipino words for "television" and "radio") is a 24-hour cable TV channel that broadcasts ABS-CBN's flagship AM radio station DZMM 630. The channel is owned by the ABS-CBN Corporation under the ABS-CBN News and Current Affairs brand, and is available on cable providers throughout the Philippines. DZMM Teleradyo is also included as an exclusive digital subchannel on digital terrestrial television via the ABS-CBN TVplus service. DZMM TeleRadyo is also simulcast via The Filipino Channel</info>
-<fanart>https://upload.wikimedia.org/wikipedia/en/1/16/DZMM_TeleRadyo_2014.jpeg</fanart>
-</item> -->
-
-<!-- <item>
-<title>GMA 7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GMA+Life+TV&amp;url=http://62.4.21.70:8000/live/morad4/morad4/5073.ts&amp;iconImage=https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMALifeTV_zps44awgouh.png</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=GMA+Pinoy+TV&amp;url=http://86.96.161.179:18080/PLTV/88888888/224/3221229428/index.m3u8</link>
-<link>http://iphone-streaming.ustream.tv/uhls/22683492/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMA7_zps4dfoxrzw.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
-
-Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
-</item> -->
-
-<!-- <item>
-<title>Test</title>
-<link>plugin://plugin.video.pinoytv/?channel=channels.abscbn&amp;id=tvpatrol&amp;name=TV%20Patrol&amp;play=0</link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/gma1_zps91qjtubj.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>GMA Network (GMA) is a major commercial television and radio network in the Philippines. It is commonly signified to as the "Kapuso Network" in reference to the outline of the company logo.
-
-Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/GMA_7_logo_by_logtr_zpsab0f6f5a.jpg</fanart>
-</item> -->
 
 </items>
