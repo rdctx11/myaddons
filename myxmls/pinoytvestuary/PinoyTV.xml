@@ -2,53 +2,61 @@
 
 <item>
 <title>GMA Pinoy TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA Life TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMALIFETV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA News TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/7505.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMANEWSTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8010.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TFC.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Cinema One Global</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8006.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/C1.png</thumbnail>
 </item>
 
 <item>
 <title>ANC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8005.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ANC.png</thumbnail>
 </item>
 
 <item>
 <title>DZMM Teleradyo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8008.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/DZMMTV.png</thumbnail>
 </item>
 
 <item>
 <title>Kapatid TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8009.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -56,13 +64,20 @@
 </item>
 
 <item>
+<title>Knowledge Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
+</item>
+
+<!-- <item>
 <title>Aksyon TV International</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8004.ts&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News</genre>
 <info></info>
 <fanart>http://cms.interaksyon.com/entertainment/assets/media/2013/01/21-Kapatid-stars-gather-onstage-for-fitting-finale-e1358345770549.jpg</fanart>
-</item>
+</item> -->
 
 <item>
 <title>People's Television</title>
@@ -82,7 +97,7 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 
 <item>
 <title>UNTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNTV</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=UNTV</link> -->
 <link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
@@ -101,31 +116,10 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>MYX TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://client-proiptv.com:8080/live/Amersfoort/Amersfoort/8002.ts&amp;streamtype=TSDOWNLOADER&amp;name=MYX TV</link>
+<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=MYX TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/MYX.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>TV Maria</title>
-<link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TVM.png</thumbnail>
-<genre>Religion</genre>
-<info>TV Maria is the first Filipino Catholic Channel in the Philippines. Its goal is to evangelize and spread the WORD through television and the internet.
-
-Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
-<fanart></fanart>
-</item> -->
-
-<!-- <item>
-<title>NET 25</title>
-<link>http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NET25.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>Net 25 is a Philippine terrestrial/cable television network owned and operated by Eagle Broadcasting Corporation. The network is named for its flagship station in Metro Manila, DZEC-TV, which is carried on UHF channel 25 on terrestrial TV, and has carried by major cable operators in the country. This station's broadcast facilities are located at #25 Central Ave., New Era, Quezon City.
-Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Alaska and Hawaii and the whole of Asia including Singapore, Japan, Hong Kong, Macau (in Portuguese), Taiwan, China as well as Australia, New Zealand, the UK, Turkey, France, Spain, Italy, Greece, Germany, Monaco, Switzerland, Iceland, Denmark, Norway, Finland, Sweden and the entire continent of Europe.</info>
 <fanart></fanart>
 </item> -->
 
@@ -182,6 +176,27 @@ Slogan: "One Nation, One Station"</info>
 <info>Central Luzon Television is a regional free TV in the Philippines. It focusses on a centralized media coverage, starting off with Pampanga and the provinces of Central Luzon or Region III. These provinces include Nueva Ecija, Bulacan, Bataan, Tarlac, Zambales and Aurora. CLTV can also seen in some areas in Metro Manila, Rizal and Cavite via a weak signal. CLTV 36 can be seen from 8:00AM to 10:30PM (Mondays to Sundays)</info>
 <fanart></fanart>
 </item>
+
+<!-- <item>
+<title>TV Maria</title>
+<link>http://iphone-streaming.ustream.tv/uhls/1141049/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TVM.png</thumbnail>
+<genre>Religion</genre>
+<info>TV Maria is the first Filipino Catholic Channel in the Philippines. Its goal is to evangelize and spread the WORD through television and the internet.
+
+Slogan:  "Umaakay sa Kaganapan ng Buhay"</info>
+<fanart></fanart>
+</item> -->
+
+<!-- <item>
+<title>NET 25</title>
+<link>http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NET25.png</thumbnail>
+<genre>Entertainment, News, Public Service</genre>
+<info>Net 25 is a Philippine terrestrial/cable television network owned and operated by Eagle Broadcasting Corporation. The network is named for its flagship station in Metro Manila, DZEC-TV, which is carried on UHF channel 25 on terrestrial TV, and has carried by major cable operators in the country. This station's broadcast facilities are located at #25 Central Ave., New Era, Quezon City.
+Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Alaska and Hawaii and the whole of Asia including Singapore, Japan, Hong Kong, Macau (in Portuguese), Taiwan, China as well as Australia, New Zealand, the UK, Turkey, France, Spain, Italy, Greece, Germany, Monaco, Switzerland, Iceland, Denmark, Norway, Finland, Sweden and the entire continent of Europe.</info>
+<fanart></fanart>
+</item> -->
 
 <!-- <item>
 <title>CCTN 47</title>
