@@ -756,6 +756,19 @@ provider-name="NIELDC">
     </extension>
 </addon>
 
+<addon id="repository.prismtv" name="[COLORpurple]Prism[/COLOR] Repository" version="4.0.0" provider-name="Team Prism">
+		<extension point="xbmc.addon.repository" name="Bla Bla Repository">
+			<info compressed="false">http://46.4.84.105/WebSpace/keepyournoseout/addons.xml</info>
+			<checksum>http://46.4.84.105/WebSpace/keepyournoseout/addonsmd5.txt</checksum>
+			<datadir zip="true">http://46.4.84.105/WebSpace/keepyournoseout/addons/</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>Use At Your Own Risk</summary>
+			<description>I Do What I Want With My Repo, If You Dont Like That, Please Do Not Proceed To Install..</description>
+			<platform>all</platform>
+		</extension>
+</addon>
+
 <addon id="repository.robwebset" name="robwebset's Repository" version="1.0.0" provider-name="robwebset">
     <extension point="xbmc.addon.repository" name="robwebset's Repository">
         <info compressed="false">http://raw.github.com/robwebset/repository.robwebset/master/addons.xml</info>
@@ -987,6 +1000,30 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Kodis Youtube Addons</summary>
                 <description>Download and install addons from the Kodi Youtube group. This plugin is not official from Google.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.covenant.artwork" version="1.0.3" name="Covenant Artwork" provider-name="Covenant">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Covenant Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.covenant.metadata" version="1.0.2" name="Covenant Metadata" provider-name="Covenant">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Covenant Addon</summary>
+		<description>Metadata for Covenant are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
 </addon>
