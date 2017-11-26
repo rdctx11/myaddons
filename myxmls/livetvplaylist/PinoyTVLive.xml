@@ -9,7 +9,7 @@
 <fanart>https://s30.postimg.org/jzaplu4k1/CNN_Philippines_logo.jpg</fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>GMA Pinoy TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
@@ -80,7 +80,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
-</item>
+</item> -->
 
 <item>
 <title>TV 5</title>
