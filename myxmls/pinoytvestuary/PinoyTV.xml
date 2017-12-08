@@ -1,8 +1,8 @@
 ﻿<items>
 
-<!-- <item>
+<item>
 <title>GMA Pinoy TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link> -->
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 
 <item>
 <title>GMA Life TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link> -->
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMALIFETV.png</thumbnail>
 <fanart></fanart>
@@ -18,7 +18,7 @@
 
 <item>
 <title>GMA News TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link> -->
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMANEWSTV.png</thumbnail>
 <fanart></fanart>
@@ -26,23 +26,23 @@
 
 <item>
 <title>TFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link> -->
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TFC.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>Cinema One Global</title>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/C1.png</thumbnail>
-</item>
+</item> -->
 
 <item>
 <title>ANC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link> -->
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ANC.png</thumbnail>
 </item>
 
@@ -55,8 +55,8 @@
 
 <item>
 <title>Kapatid TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
+<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link> -->
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -68,16 +68,16 @@
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
 <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
-</item> -->
+</item>
 
-<!-- <item>
+<item>
 <title>Aksyon TV International</title>
-<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News</genre>
 <info></info>
 <fanart>http://cms.interaksyon.com/entertainment/assets/media/2013/01/21-Kapatid-stars-gather-onstage-for-fitting-finale-e1358345770549.jpg</fanart>
-</item> -->
+</item>
 
 <item>
 <title>People's Television</title>
