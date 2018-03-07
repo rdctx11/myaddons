@@ -2,61 +2,45 @@
 
 <item>
 <title>GMA Pinoy TV</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+PINOY+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA Life TV</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+LIFE+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMALIFETV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA News TV</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=GMA+NEWS+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMANEWSTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TFC</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TFC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/TFC.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>Cinema One Global</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA+ONE+GLOBAL</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/C1.png</thumbnail>
-</item> -->
+</item>
 
 <item>
 <title>ANC</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANC</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ANC.png</thumbnail>
 </item>
 
 <item>
 <title>DZMM Teleradyo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DZMM+TELERADYO</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/DZMMTV.png</thumbnail>
 </item>
 
 <item>
 <title>Kapatid TV 5</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link> -->
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=KAPATID+TV5</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -65,14 +49,11 @@
 
 <item>
 <title>Knowledge Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/samir/samir/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Knowledge+Channel</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
 </item>
 
 <item>
 <title>Aksyon TV International</title>
-<link>plugin://plugin.video.f4mTester/?url=http://faizuliptv.myonlineportal.org:8080/live/lary/lary/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=AKSYON+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News</genre>
 <info></info>
@@ -97,8 +78,7 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 
 <item>
 <title>UNTV</title>
-<!-- <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=UNTV</link> -->
-<link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
+<link>https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/manifest.m3u8?auto</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.
@@ -115,13 +95,6 @@ Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
 <info>CNN Philippines (abbreviated CNN PH) is an all-news and current affairs channel in the Philippines. It is owned and operated by Nine Media Corporation together with Radio Philippines Network (RPN) as the main content provider under the license of US-based media company Turner Broadcasting System (a division of Time Warner). Replacing 9TV, CNN Philippines is the local franchise of the Cable News Network (CNN).</info>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png</fanart>
 </item>
-
-<!-- <item>
-<title>MYX TV</title>
-<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=MYX TV</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/MYX.png</thumbnail>
-<fanart></fanart>
-</item> -->
 
 <item>
 <title>INC TV</title>

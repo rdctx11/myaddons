@@ -122,7 +122,7 @@ Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
 
 <item>
 <title>UNTV 37</title>
-<link>rtmp://livestream01.untvweb.com/public//untvwebstream live=1 timeout=10</link>
+<link>https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/manifest.m3u8?auto</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
 <info>UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.
