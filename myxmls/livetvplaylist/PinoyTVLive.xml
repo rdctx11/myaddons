@@ -11,7 +11,7 @@
 
 <item>
 <title>GMA Pinoy TV</title>
-<link>plugin://plugin.video.tvone11/play/http://185.21.216.159:7071/tinybeta/gmapinoy/playlist.m3u8</link>
+<link>plugin://plugin.video.tvone11/play/http://185.21.216.159:7071/newserver/gmapinoy/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
 </item>
