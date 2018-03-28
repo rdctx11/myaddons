@@ -1,6 +1,13 @@
 ﻿<items>
 
 <item>
+<title>Refresh Streams</title>
+<link>plugin://plugin.video.tvone11/refresh</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/swiftrefresh.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>CNN Philippines</title>
 <link>rtmp://54.251.134.121/live/15273.sdp live=true timeout=15</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/CNNPH.png</thumbnail>
@@ -27,6 +34,39 @@
 <title>GMA News TV</title>
 <link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.159%3A7071%2Ftinybeta%2Fgmanews%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMANEWSTV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>People's Television</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/user/PTVPhilippines/featured</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/PTV.png</thumbnail>
+<genre>News, Public Service</genre>
+<info>Slogan:  "Telebisyon ng Bayan" (People's Television)\n\nPeople's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UNTV 37</title>
+<link>https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/manifest.m3u8?auto</link>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
+<genre>Entertainment, News, Public Service</genre>
+<info>Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)\n\nUNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>INC TV</title>
+<link>http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8</link>
+<!-- <link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2Fcoctesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link> -->
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/INCTV.png</thumbnail>
+<genre>Religion</genre>
+<info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
 <fanart></fanart>
 </item>
 
@@ -99,43 +139,6 @@ Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)
 Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's action, here in AksyonTV, News, Public Service and Sports)</info>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/aksyontv_zps546091c1.jpg</fanart>
 </item> -->
-
-<item>
-<title>People's Television</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/user/PTVPhilippines/featured</page>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/PTV.png</thumbnail>
-<genre>News, Public Service</genre>
-<info>People's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.
-
-Slogan:  "Telebisyon ng Bayan" (People's Television)</info>
-<fanart></fanart>
-</item>
-
-<item>
-<title>UNTV 37</title>
-<link>https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/manifest.m3u8?auto</link>
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.
-
-Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)</info>
-<fanart></fanart>
-</item>
-
-<item>
-<title>INC TV</title>
-<link>http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8</link>
-<!-- <link>plugin://plugin.video.f4mTester/?name=INCTV&amp;url=http%3A%2F%2Fchurchrus2-lh.akamaihd.net%2Fz%2Fcoctesting_1%4057550%2Fmanifest.f4m%3Fg%3DGOUBELWJIGIW%26hdcore%3D3.3.0&amp;mode=play</link> -->
-<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/INCTV.png</thumbnail>
-<genre>Religion</genre>
-<info>Christian Era Broadcasting Service also known as Iglesia ni Cristo Television, (formerly Global Expansion Media) is a Philippine television and radio network, and a religious broadcast arm of Iglesia ni Cristo. This station studios are located in Quezon City. It is a sister company of the Net 25, which owns DZEC and Pinas FM 95.5. Currently, its flagship television station, DZCE-UHF TV Channel 49 (INC TV) in Metro Manila.</info>
-<fanart></fanart>
-</item>
 
 <!-- <item>
 <title>Ang Dating Daan</title>
