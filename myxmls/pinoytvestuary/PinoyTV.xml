@@ -50,7 +50,11 @@
 <link>plugin://plugin.video.tvone11/play/http%3A%2F%2Fserver4.servep2p.com%3A7071%2Ftinybeta%2Faksyontv%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News / Sports</genre>
-<info>Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)\n\nAksyonTV (English: Action TV) is a 24-hour non-stop news and sports-related television network in the Philippines. Owned and operated by ABC Development Corporation.\n\nBasta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's action, here in AksyonTV, News, Public Service and Sports)</info>
+<info>Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)
+
+AksyonTV (English: Action TV) is a 24-hour non-stop news and sports-related television network in the Philippines. Owned and operated by ABC Development Corporation.
+
+Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's action, here in AksyonTV, News, Public Service and Sports)</info>
 <fanart></fanart>
 </item>
 
@@ -70,7 +74,9 @@
 </regex>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/PTV.png</thumbnail>
 <genre>News, Public Service</genre>
-<info>Slogan:  "Telebisyon ng Bayan" (People's Television)\n\nPeople's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.</info>
+<info>Slogan:  "Telebisyon ng Bayan" (People's Television)
+
+People's Television Network (Filipino: Telebisyon ng Bayan, abbreviated PTV) is the flagship government television network owned by the Philippine Government through People's Television Network, Inc.  PTV airs several news and public service shows, documentaries and other programs. PTV serves as the main television broadcast arm of the government. The network is a part of the Messaging Division of the government's newly-formed Presidential Communications Group.</info>
 <fanart></fanart>
 </item>
 
@@ -79,7 +85,9 @@
 <link>https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/manifest.m3u8?auto</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/UNTV.png</thumbnail>
 <genre>Entertainment, News, Public Service</genre>
-<info>Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)\n\nUNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.</info>
+<info>Slogan:  "Tahanan Mo, Tahanan Natin" (Your Home, Our Home)
+
+UNTV is a major TV broadcast network with 24-hour programming. An Ultra High Frequency station with strong brand content that appeal to everyone, UNTV is one of the most trusted and successful Philippine networks that guarantees wholesome and quality viewing experience.</info>
 <fanart></fanart>
 </item>
 
@@ -199,17 +207,6 @@ Slogan:  "Kayo ang laman ng Aming Puso" (You are The Flesh of Our Hearts)</info>
 Net 25 reaches TV audiences on the Eastern and Pacific coasts, United States, Alaska and Hawaii and the whole of Asia including Singapore, Japan, Hong Kong, Macau (in Portuguese), Taiwan, China as well as Australia, New Zealand, the UK, Turkey, France, Spain, Italy, Greece, Germany, Monaco, Switzerland, Iceland, Denmark, Norway, Finland, Sweden and the entire continent of Europe.</info>
 <fanart></fanart>
 </item> -->
-
-<!-- <itemxx>
-<title>ABS-CBN [COLOR red]Available only at 8:30pm Manila Time.[/COLOR]</title>
-<link></link>
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/PinoyTV/abscbn_zps601491ef.png</thumbnail>
-<genre>Entertainment, News, Public Service</genre>
-<info>ABS-CBN is a major commercial television network in the Philippines. It is the oldest and the leading television network in the country. Branded as The Kapamilya Network (Kapamilya is a Tagalog term for "a member of the family")
-
-Slogan:  "In the Service of the Filipino."</info>
-<fanart>http://i1297.photobucket.com/albums/ag26/nieldc/Fanarts/abs-cbn_zps49357a5c.jpg</fanart>
-</itemxx> -->
 
 <!-- <item>
 <title>CCTN 47</title>
