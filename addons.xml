@@ -265,39 +265,21 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pinoystreams"
-	name="Pinoy Streams"
-	version="1.2.1"
-	provider-name="nieldc">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.urlresolver"  version="2.1.2"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Pinoy Streams</summary>
-    <description lang="en">Pinoy Streams</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.pinoyteleserye" name="PINOY TELESERYE" version="2.0.1" provider-name="MALCHUS TV">
+<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.0" provider-name="NIELDC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="2.10.12"/>
 	<import addon="script.module.addon.common" />
 	<import addon="script.module.requests" />
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">TELESERYE REPLAYS AND PINOY MOVIES</summary>
-	<description lang="en">TELESERYE REPLAYS AND PINOY MOVIES BY MALCHUS TV SPECIAL THANKS TO DANDYMEDIA FOR THE HELP AND SUPPORT</description>
-	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+	<summary lang="en">Pinoy Movies, Teleserye Replay, PBA Games Replay, Pinoy TV and Pinoy Radio Live Streams</summary>
+	<description lang="en">Pinoy Streams provides Filipino contents scraped from different websites. Dedicated to all Kabayans living abroad.</description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners.</disclaimer>
 	<platform>all</platform>
   </extension>
 </addon>
@@ -1148,6 +1130,24 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 		<description>Themes for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="script.module.beautifulsoup"
+       name="BeautifulSoup"
+       version="3.2.1"
+       provider-name="Leonard Richardson (leonardr@segfault.org)">
+  <requires>
+    <import addon="xbmc.python"
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>HTML/XML parser for quick-turnaround applications like screen-scraping</summary>
+    <description>Beautiful Soup parses arbitrarily invalid SGML and provides a variety of methods and Pythonic idioms for iterating and searching the parse tree.</description>
+    <license>BSD</license>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="script.my.maintenance"
