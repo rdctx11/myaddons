@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.abscbnnews"
-	name="ABS-CBN News" version="1.0.3" provider-name="NIELDC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">ABS-CBN News and Current Affairs youtube videos.</summary>
-    <description lang="en">This is the official YouTube video channel of ABS-CBN News and Current Affairs</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.covenant" version="1.1.11" name="Covenant" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
@@ -105,46 +88,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.FTFA" version="3.4.9" name="[COLOR lime]FTFA[/COLOR]" provider-name="WDS Brettus">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
-		<import addon="script.module.simplejson" version="3.3.0"/>
-		<import addon="script.module.ftfa" version="1.0.4" />
-		<import addon="script.module.pyxbmct" version="1.1.4" />
-		<import addon="script.module.urlresolver" version="3.0.0"/>
-		<import addon="script.module.liveresolver" version="0.1.24"/>
-		<import addon="script.video.F4mProxy" version="2.2.3"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">ftfa addon</summary>
-		<description lang="en">ftfa addon</description>
-		<platform>all</platform>
-		<forum></forum>
-		<website></website>
-	</extension>
-</addon>
-
-<addon id="plugin.video.gmanews"
-	name="GMA News Online" version="1.0.3" provider-name="NIELDC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">GMA News and Public Affairs online videos.</summary>
-    <description lang="en">The official YouTube Channel of GMA News and Public Affairs.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.live.streamspro"
        name="LiveStreamsPro"
        version="2.8.1"
@@ -186,23 +129,6 @@
         11. support for google captcha, now you can show and then post the text
 
     </description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.livehub" name="[B][COLOR ghostwhite]Live[/COLOR][COLOR red] Hub[/COLOR][/B]" version="1.8" provider-name="sClarke">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" />
-	<import addon="script.video.F4mProxy" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Live Hub - Bringing Live TV To Your Media Device</summary>
-    <description lang="en">Live Hub - Bringing Live TV To Your Media Device. Kodi 17+ is Recommended.</description>
-	<disclaimer lang="en">The author does not host or own any content found within this Addon. The Author is not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
@@ -265,7 +191,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.3" provider-name="NIELDC">
+<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.4" provider-name="NIELDC">
   <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver"  version="2.10.12"/>
@@ -348,24 +274,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.prosport" name="Pro Sport" version="0.83" provider-name="gerikss, podgod, iCanuck">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-     <import addon="script.module.requests" version="2.9.1" />
-     <import addon="script.module.urlresolver" version="3.0.24" />
-     <import addon="repository.icanuck" version="3.1.0" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Live HD sport streams from reddit</summary>
-    <description>Live HD sport streams from reddit</description>
-    <platform>all</platform>
-    <language>en</language>
-  </extension>
-</addon>
-
 <addon id="plugin.video.pvr.plugin.player"
 version="1.0.5"
 name="PVR Plugin Player"
@@ -384,27 +292,6 @@ provider-name="NIELDC">
   <description lang="en"></description>
   <disclaimer>Based on service.iptvsimple.plugin.player by TheWiz</disclaimer>
 </extension>
-</addon>
-
-<addon id="plugin.video.salts" version="2.0.200" name="Stream All The Sources" provider-name="k3l3vra">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0"/>
-        <import addon="script.module.urlresolver" version="3.0.0"/>
-        <import addon="script.module.myconnpy" version="1.1.6" />
-        <import addon="script.module.tknorris.shared" version="0.0.19"/>
-        <import addon="script.module.six"/>
-        <import addon="script.module.dateutil"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-     <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary>Last Version Made From The TVA Guys</summary>
-        <description>Last Version Made From The TVA Guys, trying to fix the install fail probs some are getting
-        </description>
-        <platform>all</platform>
-	</extension>
 </addon>
 
 <addon id="plugin.video.sambuhaytvmass"
@@ -567,40 +454,6 @@ provider-name="NIELDC">
     </extension>
 </addon>
 
-<addon id="repository.aresproject" name="[COLOR blue]A[/COLOR][COLOR white]res Project[/COLOR]" version="0.0.8" provider-name="Ares Team">
-	<extension point="xbmc.addon.repository" name="AresRepo">
-		<info compressed="false">https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/ares-fortress/repo/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>AresProject.</summary>
-		<description>Ares-Project Addons Source. Visit Us At https://ares-project.uk</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="3.2" provider-name="Blazetamer">
-<extension point="xbmc.addon.repository" name="Blaztamer's Addon Repository">
-    <dir>
-	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
-	        <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
-	        <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
-    </dir>
-    <dir>
-            <info compressed="false">https://offshoregit.com/Blazetamer/repo/raw/master/addons.xml</info>
-            <checksum>https://offshoregit.com/Blazetamer/repo/raw/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://offshoregit.com/Blazetamer/repo/raw/master/zips</datadir>
-    </dir>
-
-</extension>
-<extension point="xbmc.addon.metadata">
-<summary>Install all of Blazetamer's Addons</summary>
-<description>Download and install addons from Blazetamer.......For Official Support Visit TVADDONS.AG</description>
-<platform>all</platform>
-</extension>
-</addon>
-
 <addon id="repository.Brettusrepo" name="Brettus Builds repository" version="1.0" provider-name="Brettus">
 	<extension point="xbmc.addon.repository" name="Brettus Builds repository">
 		<info compressed="false">http://brettusbuilds.com/brettusrepo/files/addons.xml</info>
@@ -709,19 +562,6 @@ provider-name="NIELDC">
 	</extension>
 </addon>
 
-<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="10.4" provider-name="iSTREAM">
-	<extension point="xbmc.addon.repository" name="iSTREAM">
-		<info compressed="false">https://raw.githubusercontent.com/mucky-duck/istream/master/repo/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/mucky-duck/istream/master/repo/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/mucky-duck/istream/master/repo/zips/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>iSTREAM XBMC Addons and Extensions</summary>
-		<description>iSTREAM XBMC Addons and Extensions</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
 <addon id="repository.kodil" name=".[COLOR blue].Kodil [/COLOR][COLOR white] Repository [/COLOR]" version="1.3" provider-name="kodil">
     <extension point="xbmc.addon.repository" name=".Kodil  Repository ">
         <info compressed="false">https://raw.githubusercontent.com/kodil/kodil/master/addons.xml</info>
@@ -745,26 +585,6 @@ provider-name="NIELDC">
 	<extension point="xbmc.addon.metadata">
 		<summary>The MaverickTV Repository v1.3</summary>
 		<description>The MaverickTV Repository for add-on and dependencies</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="2.0.0" provider-name="MetalKettle">
-	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
-	<dir>
-		<info compressed="false">https://raw.githubusercontent.com/MetalKettle/MK/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/MetalKettle/MK/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/MetalKettle/MK/master/zips/</datadir>
-	</dir>
-	<dir>
-		<info compressed="false">https://github.com/zqfaen/tva-common/raw/master/addons.xml</info>
-        	<checksum>https://github.com/zqfaen/tva-common/raw/master/addons.xml.md5</checksum>
-        	<datadir zip="true">https://github.com/zqfaen/tva-common/raw/master/zips/</datadir>
-	</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Install my Addons</summary>
-		<description>Download and install addons from MetalKettle</description>
 		<platform>all</platform>
 	</extension>
 </addon>
@@ -838,19 +658,6 @@ provider-name="NIELDC">
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
     </extension>
-</addon>
-
-<addon id="repository.prismtv" name="[COLORpurple]Prism[/COLOR] Repository" version="4.0.0" provider-name="Team Prism">
-		<extension point="xbmc.addon.repository" name="Bla Bla Repository">
-			<info compressed="false">http://46.4.84.105/WebSpace/keepyournoseout/addons.xml</info>
-			<checksum>http://46.4.84.105/WebSpace/keepyournoseout/addonsmd5.txt</checksum>
-			<datadir zip="true">http://46.4.84.105/WebSpace/keepyournoseout/addons/</datadir>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary>Use At Your Own Risk</summary>
-			<description>I Do What I Want With My Repo, If You Dont Like That, Please Do Not Proceed To Install..</description>
-			<platform>all</platform>
-		</extension>
 </addon>
 
 <addon id="repository.robwebset" name="robwebset's Repository" version="1.0.0" provider-name="robwebset">
@@ -1078,20 +885,6 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="1.1.6" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
-	<extension point="xbmc.addon.repository" name="Mikey1234 Addon Repository">
-		<info compressed="false">http://xtyrepo.me/xunitytalk/addons/addons.xml</info>
-		<checksum>http://xtyrepo.me/xunitytalk/addons/addons.xml.md5</checksum>
-		<datadir zip="true">http://xtyrepo.me/xunitytalk/addons</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</summary>
-		<description>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</description>
-		<platform>all</platform>
-	</extension>
-<extension point="xbmc.service" library="service.py" start="login" />
-</addon>
-
 <addon id="repository.ytplugin" name="Youtube Addon Repo" version="1.0" provider-name="Jeffrey Frasure">
 	<extension point="xbmc.addon.repository" name="Youtube Addon Repository">
 		<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
@@ -1182,76 +975,6 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     <forum></forum>
     <website></website>
   </extension>
-</addon>
-
-<addon id="script.pinsentry" name="PinSentry" version="1.1.0" provider-name="robwebset">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="3.3.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="plugin.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="login">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.python.script" library="default.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="bg">Защитава съдържанието на Kodi с PIN код</summary>
-		<summary lang="de">Kodi-Inhalt mit einem PIN-Code sichern</summary>
-		<summary lang="el">Προστασία περιεχομένου Kodi με κωδικό PIN</summary>
-		<summary lang="en">Protect Kodi Content With A Pin Code</summary>
-		<summary lang="en_NZ">Protect Kodi Content With A PIN Code</summary>
-		<summary lang="en_US">Protect Kodi Content With A Pin Code</summary>
-		<summary lang="fr">Protéger le contenu de Kodi avec un code PIN</summary>
-		<summary lang="fr_CA">Protéger le contenu de Kodi avec un NIP</summary>
-		<summary lang="he">להגן על תוכן Kodi באמצעות קוד PIN</summary>
-		<summary lang="ko">PIN 코드로 Kodi 콘텐츠를 보호합니다</summary>
-		<summary lang="lt">Apsaugoti Kodi turinį PIN kodu</summary>
-		<summary lang="nl">Bescherm Kodi inhoud met een PINcode</summary>
-		<summary lang="pl">Umożliwia zabezpieczenie zawartości Kodi przy pomocy kodu PIN.</summary>
-		<summary lang="pt_BR">Proteger o Conteúdo do Kodi com um Código Pin</summary>
-		<description lang="bg">Принуждава потребителите да въвеждат определен PIN код за да им бъде предоставен достъп до посочено съдържание.</description>
-		<description lang="de">Von Anwendern die Eingabe der korrekten PIN für den angegebenen Inhalt erzwingen.</description>
-		<description lang="en">Force users to enter the correct pin code for given content.</description>
-		<description lang="en_US">Force users to enter the correct pin code for given content.</description>
-		<description lang="fr">Force les utilisateurs à saisir le bon code PIN pour un contenu donné.</description>
-		<description lang="fr_CA">Forcer les utilisateurs à saisir le bon NIP pour un contenu donné.</description>
-		<description lang="ko">특정 콘텐츠에서 PIN 코드 입력을 요구합니다.</description>
-		<description lang="lt">Reikalauti vartotojų įvesti teisingą PIN kodą pasirinktam turiniui.</description>
-		<description lang="nl">Forceer gebruikers een geldige PIN in te voeren voor gegeven content.</description>
-		<description lang="pl">Wymusza na użytkownikach wprowadzenie poprawnego kodu PIN, przez uzyskaniem dostępu do danej zawartości.</description>
-		<description lang="pt_BR">Força o usuário a entrar o código Pin correto para lhe dar acesso aos conteúdos.</description>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>http://forum.kodi.tv/showthread.php?tid=228451</forum>
-		<source>https://github.com/robwebset/script.pinsentry</source>
-	</extension>
-</addon>
-
-<addon id="script.ptvguide" name="PTV Guide" version="1.2.3" provider-name="nieldc">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py"/>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">EPG for your favourite Live TV Channels.</summary>
-		<summary lang="en_US">EPG for your favourite Live TV Channels.</summary>
-		<description lang="en">PTV Guide is an electronic program guide that allows you to combine some of your favourite plugins to use for the Live TV Channel links.</description>
-		<description lang="en_US">PTV Guide is an electronic program guide that allows you to combine some of your favourite plugins to use for the Live TV Channel links.</description>
-		<disclaimer lang="en">PTV Guide is based on the original FTV Guide addon by bluezed.</disclaimer>
-		<language></language>
-		<platform>all</platform>
-		<license>GPLv2</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-	</extension>
 </addon>
 
 <addon id="script.video.F4mProxy"
