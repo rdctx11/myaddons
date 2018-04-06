@@ -1014,7 +1014,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 
 <addon id="service.mypvrtools"
        name="My PVR Tools"
-      version="1.0.4"
+      version="1.0.5"
       provider-name="NIELDC">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
@@ -1024,7 +1024,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     <extension point="xbmc.service" library="service.py" start="login"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">A simple pvr iptv tool addon for kodi (PVR IPTV Simple)</summary>
-         <description lang="en">This addon allows you to download, extract and merge xmltv files to make a single xmltv file for PVR IPTV Simple addon. It supports internet files compressed in gzip format (or plain xml). The same is applied to different m3u lists (local or hosted on the web)</description>
+         <description lang="en">This addon allows you to download, extract and merge xmltv files to make a single xmltv file for PVR IPTV Simple addon. It supports internet files compressed in gzip or zip format (or just plain xml). The same is applied to different m3u lists (local or hosted on the web)</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 		<assets>
