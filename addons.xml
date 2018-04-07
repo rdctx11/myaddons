@@ -1014,7 +1014,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 
 <addon id="service.mypvrtools"
        name="My PVR Tools"
-      version="1.0.7"
+      version="1.0.8"
       provider-name="NIELDC">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
