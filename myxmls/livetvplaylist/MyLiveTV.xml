@@ -1,6 +1,6 @@
 ﻿<items>
 
-<item>
+<!-- <item>
 <title>ABC</title>
 <link>plugin://plugin.video.ustvnow.tva/?mode=play&amp;name=ABC</link>
 <link>plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dabc%26url%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26cfg%3dtvone1.tv.cfg%2540Streams%2540Channels%26videoTitle%3dabc%26director%3dtvone1.tv%26genre%3dLive%2bTV%26referer%3dmpd%253A%252F%252Fba354149f3c117ceb69529a1542b6281.m3u8%26definedIn%3dtvone1.tv.cfg%26type%3drss&amp;mode=1</link>
@@ -518,7 +518,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <fanart></fanart>
 </item> -->
 
-<item>
+<!-- <item>
 <title>Really</title>
 <link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Reality+TV&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F2798%2Fbig_logo.png&amp;description=2798</link>
 <link>plugin://plugin.video.filmon.simple/?url=http%3A%2F%2Fwww.filmon.com%2Fgroup%2Fuk-live-tv&amp;mode=2&amp;name=Really&amp;iconimage=https%3A%2F%2Fstatic.filmon.com%2Fassets%2Fchannels%2F372%2Fbig_logo.png&amp;description=372</link>
@@ -1088,7 +1088,7 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <page>https://www.youtube.com/channel/UCviqjOZN3ZvDEmZfHuUKCIQ</page>
 </regex>
 <!-- <link>plugin://plugin.video.F.T.V/?url=1675&amp;mode=125&amp;name=CGTN+News&amp;iconimage=http%3A%2F%2Fi1297.photobucket.com%2Falbums%2Fag26%2Fnieldc%2FLiveTV%2Fcgtn_zpsufjeskrm.png&amp;start=na&amp;ch_fanart=na</link> -->
-<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</thumbnail>
+<!-- <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</thumbnail>
 <fanart>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/cgtn_zpsufjeskrm.png</fanart>
 </item>
 
@@ -1130,21 +1130,21 @@ The network is named after sister company 20th Century Fox, and indirectly for p
 <link></link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/LiveTV/mbcaction_zps6il41qmw.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
-<title></title>
+<title>Arirang TV</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/ARR.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
+<title>NHK World TV</title>
+<link>http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8</link>
 <link></link>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/NHK.png</thumbnail>
 <fanart></fanart>
 </item>
 
