@@ -172,25 +172,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.navixxx"
-	name="Navi XXX"
-	version="1.0.6"
-	provider-name="nieldc">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.urlresolver"  version="2.1.2"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Adult videos from Navi-X</summary>
-    <description lang="en">Adult videos from Navi-X</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.4" provider-name="NIELDC">
   <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -275,7 +256,7 @@
 </addon>
 
 <addon id="plugin.video.pvr.plugin.player"
-version="1.0.5"
+version="1.0.6"
 name="PVR Plugin Player"
 provider-name="NIELDC">
 <requires>
