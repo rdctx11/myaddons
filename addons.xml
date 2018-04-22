@@ -172,7 +172,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.8" provider-name="NIELDC">
+<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.1.9" provider-name="NIELDC">
   <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver"  version="2.10.12"/>
@@ -346,7 +346,7 @@ provider-name="NIELDC">
 </extension>
 </addon>
 
-<addon id="plugin.video.tvone" name="UKTVNOW" version="9A" provider-name="RACC">
+<addon id="plugin.video.tvone" name="UKTVNow" version="10A" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
@@ -370,7 +370,7 @@ provider-name="NIELDC">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone1" name="MOBDRO" version="9A" provider-name="RACC">
+<addon id="plugin.video.tvone1" name="MOBDRO" version="11A" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
@@ -394,7 +394,7 @@ provider-name="NIELDC">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone11" name="Swift Streamz" version="7A" provider-name="RACC">
+<addon id="plugin.video.tvone11" name="SWIFT STREAMZ" version="8A" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.livestreamer" />
