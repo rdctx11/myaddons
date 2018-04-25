@@ -19,7 +19,6 @@
 <item>
 <title>GMA Pinoy TV</title>
 <link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fgmapinoy%2Fplaylist.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?url=http://185.21.216.189:7071/super/gmalife/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=GMA+PINOY+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
 </item>
