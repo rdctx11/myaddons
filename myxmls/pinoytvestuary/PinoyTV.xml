@@ -18,28 +18,29 @@
 
 <item>
 <title>GMA Pinoy TV</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.159%3A7071%2Ftinybeta%2Fgmapinoy%2Fplaylist.m3u8</link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fgmapinoy%2Fplaylist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://185.21.216.189:7071/super/gmalife/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=GMA+PINOY+TV</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA Life TV</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.159%3A7071%2Ftinybeta%2Fgmalife%2Fplaylist.m3u8</link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fgmalife%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMALIFETV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>GMA News TV</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.159%3A7071%2Ftinybeta%2Fgmanews%2Fplaylist.m3u8</link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fgmanews%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMANEWSTV.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Kapatid TV 5</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2Fserver4.servep2p.com%3A7071%2Ftinybeta%2Fkapatid%2Fplaylist.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -47,7 +48,7 @@
 
 <item>
 <title>Aksyon TV International</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2Fserver4.servep2p.com%3A7071%2Ftinybeta%2Faksyontv%2Fplaylist.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News / Sports</genre>
 <info>Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)
@@ -60,7 +61,7 @@ Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's act
 
 <item>
 <title>Knowledge Channel</title>
-<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.159%3A7071%2Ftinybeta%2Fkchannel%2Fplaylist.m3u8</link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fkchannel%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
 </item>
 
