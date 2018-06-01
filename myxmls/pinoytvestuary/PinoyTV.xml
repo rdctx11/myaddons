@@ -39,7 +39,7 @@
 
 <item>
 <title>Kapatid TV 5</title>
-<link></link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.169%3A7071%2Fcdn%2Fkapatid%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KTV5.png</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -47,7 +47,7 @@
 
 <item>
 <title>Aksyon TV International</title>
-<link></link>
+<link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.169%3A7071%2Fcdn%2Faksyontv%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/AKTVINT.png</thumbnail>
 <genre>News / Sports</genre>
 <info>Slogan:  Higit sa Balita, Aksyon! (Better than News, Action!)
