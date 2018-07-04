@@ -1,11 +1,11 @@
 ﻿<items>
 
-<item>
+<!-- <item>
 <title>Refresh Streams</title>
 <link>plugin://plugin.video.tvone11/refresh</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/refresh.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>CNN Philippines</title>
@@ -16,7 +16,7 @@
 <fanart>https://s30.postimg.org/jzaplu4k1/CNN_Philippines_logo.jpg</fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>GMA Pinoy TV</title>
 <link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.217.79%3A7071%2Fsuper%2Fgmapinoy%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/GMAPTV.png</thumbnail>
@@ -62,7 +62,7 @@ Basta Maaksyon, nasa AksyonTV, News, Public Service at Sports (Where there's act
 <title>Knowledge Channel</title>
 <link>plugin://plugin.video.tvone11/play/http%3A%2F%2F185.21.216.189%3A7071%2Fsuper%2Fkchannel%2Fplaylist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/rdctx11/myaddons/master/logos/KNWLDG.png</thumbnail>
-</item>
+</item> -->
 
 <item>
 <title>People's Television</title>
