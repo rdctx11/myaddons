@@ -196,7 +196,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.3.6" provider-name="NIELDC">
+<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.3.7" provider-name="NIELDC">
   <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver"  version="2.10.12"/>
