@@ -228,23 +228,27 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pinoytv-live"
-       name="Pinoy TV Live!"
-       version="1.1.6"
-       provider-name="nieldc">
+<addon id="plugin.video.pinoytv-live" name="Pinoy TV Live" version="1.2.0" provider-name="NIELDC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.beautifulsoup" version="3.0.8"/>
-    <import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
   </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Pinoy Live TV Channels</summary>
-    <description>Live streaming of Pinoy TV Channels</description>
+    <summary lang="en_gb">Pinoy Live TV Channels</summary>
+    <description lang="en_gb">Live streaming of Pinoy TV Channels</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
     <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
   </extension>
 </addon>
 
