@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.3.9" provider-name="NIELDC">
+<addon id="plugin.video.pinoystreams" name="PINOY STREAMS" version="2.4.1" provider-name="NIELDC">
   <requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.urlresolver"  />
