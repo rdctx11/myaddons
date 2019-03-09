@@ -280,26 +280,6 @@
     <icon src="http://content.osn.com/logo/channel/cropped/SP5.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="BeinMoviesHD1">
-    <display-name lang="en">MoviesHD1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" />
-    <url>http://www.bein.net</url>
-  </channel>
-  <channel id="BeinMoviesHD2">
-    <display-name lang="en">MoviesHD2</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" />
-    <url>http://www.bein.net</url>
-  </channel>
-  <channel id="BeinMoviesHD3">
-    <display-name lang="en">MoviesHD3</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" />
-    <url>http://www.bein.net</url>
-  </channel>
-  <channel id="BeinMoviesHD4">
-    <display-name lang="en">MoviesHD4</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" />
-    <url>http://www.bein.net</url>
-  </channel>
   <channel id="4K">
     <display-name lang="en">4K</display-name>
     <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
@@ -323,6 +303,22 @@
   </channel>
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="BeinMoviesHD1">
+    <display-name lang="en">Bein Movies Premiere</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="BeinMoviesHD2">
+    <display-name lang="en">Bein Movies Action</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="BeinMoviesHD3">
+    <display-name lang="en">Bein Movies Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="BeinMoviesHD4">
+    <display-name lang="en">Bein Movies Family</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="empty">
@@ -40167,685 +40163,6 @@
     <icon src="http://content.osn.com/bob/745x419/SP5.jpg" />
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20190309014500 +0000" stop="20190309033000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Devil's Gate</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309033000 +0000" stop="20190309050000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Lucky</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309050000 +0000" stop="20190309064500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Hurricane Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309064500 +0000" stop="20190309081500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The House of Tomorrow</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309081500 +0000" stop="20190309103000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Accountant</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309103000 +0000" stop="20190309121500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Hurricane Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309121500 +0000" stop="20190309143000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Hostiles</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309143000 +0000" stop="20190309161500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Wife</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309161500 +0000" stop="20190309180000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Little Italy</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309180000 +0000" stop="20190309200000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Life of the Party</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309200000 +0000" stop="20190309220000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Trouble with You</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309220000 +0000" stop="20190309234500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Once Upon a Time at Christmas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309234500 +0000" stop="20190310013000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Amanda And Jack Go Glamping</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310014500 +0000" stop="20190310033000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Devil's Gate</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310033000 +0000" stop="20190310050000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Lucky</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310050000 +0000" stop="20190310064500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Hurricane Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310064500 +0000" stop="20190310081500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The House of Tomorrow</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310081500 +0000" stop="20190310103000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Accountant</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310103000 +0000" stop="20190310121500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Hurricane Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310121500 +0000" stop="20190310143000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Hostiles</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310143000 +0000" stop="20190310161500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Wife</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310161500 +0000" stop="20190310180000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Little Italy</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310180000 +0000" stop="20190310200000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Life of the Party</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310200000 +0000" stop="20190310220000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Trouble with You</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310220000 +0000" stop="20190310234500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Once Upon a Time at Christmas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310234500 +0000" stop="20190311013000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Amanda And Jack Go Glamping</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311013000 +0000" stop="20190311031500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Everfall</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311031500 +0000" stop="20190311050000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Cardinal Matter</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311050000 +0000" stop="20190311064500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Amanda And Jack Go Glamping</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311064500 +0000" stop="20190311083000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Lucky</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311083000 +0000" stop="20190311101500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Wife</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311101500 +0000" stop="20190311120000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Little Italy</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311120000 +0000" stop="20190311140000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">The Trouble with You</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311140000 +0000" stop="20190311160000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Life of the Party</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311160000 +0000" stop="20190311180000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Our Brand Is Crisis</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311180000 +0000" stop="20190311203000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Redbad</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311203000 +0000" stop="20190311221500 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Woodshock</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311221500 +0000" stop="20190312000000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Attrition</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190312221500 +0000" stop="20190313000000 +0000" channel="BeinMoviesHD1">
-    <title lang="en">Attrition</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309003000 +0000" stop="20190309021500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Jawbone</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309021500 +0000" stop="20190309040000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Mercenary</title>
-    <sub-title lang="en">Absolution</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309040000 +0000" stop="20190309053500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Elephant White</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309053500 +0000" stop="20190309073000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Outlaws and Angels</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309073000 +0000" stop="20190309091500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">One Last Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309091500 +0000" stop="20190309111500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">6 Ways to Sundown</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309111500 +0000" stop="20190309130000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Europa Report</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309130000 +0000" stop="20190309144000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Elephant White</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309144000 +0000" stop="20190309163000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">6 Ways to Sundown</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309163000 +0000" stop="20190309190000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Inception</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309190000 +0000" stop="20190309203000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">The Lazarus Effect</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309203000 +0000" stop="20190309220500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Ninja II</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309220500 +0000" stop="20190309234500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Incarnate</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309234500 +0000" stop="20190310011500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Retribution</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310021500 +0000" stop="20190310040000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Mercenary</title>
-    <sub-title lang="en">Absolution</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310040000 +0000" stop="20190310053500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Elephant White</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310053500 +0000" stop="20190310073000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Outlaws and Angels</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310073000 +0000" stop="20190310091500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">One Last Heist</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310091500 +0000" stop="20190310111500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">6 Ways to Sundown</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310111500 +0000" stop="20190310130000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Europa Report</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310130000 +0000" stop="20190310144000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Elephant White</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310144000 +0000" stop="20190310163000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">6 Ways to Sundown</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310163000 +0000" stop="20190310190000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Inception</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310190000 +0000" stop="20190310203000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">The Lazarus Effect</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310203000 +0000" stop="20190310220500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Ninja II</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310220500 +0000" stop="20190310234500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Incarnate</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310234500 +0000" stop="20190311011500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Retribution</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311011500 +0000" stop="20190311032000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Goldstone</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311032000 +0000" stop="20190311050000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Jawbone</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311050000 +0000" stop="20190311064000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Retribution</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311064000 +0000" stop="20190311093000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Inception</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311093000 +0000" stop="20190311111500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Mercenary</title>
-    <sub-title lang="en">Absolution</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311111500 +0000" stop="20190311124500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">The Lazarus Effect</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311124500 +0000" stop="20190311152000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Inception</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311152000 +0000" stop="20190311170000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Ninja II</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311170000 +0000" stop="20190311190000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Birth of the Dragon</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311190000 +0000" stop="20190311210000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">I Am Legend</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311210000 +0000" stop="20190311224000 +0000" channel="BeinMoviesHD2">
-    <title lang="en">I Am Wrath</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311224000 +0000" stop="20190312001500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Weaponized</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190312224000 +0000" stop="20190313001500 +0000" channel="BeinMoviesHD2">
-    <title lang="en">Weaponized</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309003000 +0000" stop="20190309021500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Whole Truth</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309021500 +0000" stop="20190309041500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Rendition</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309041500 +0000" stop="20190309060000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Experimenter</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309060000 +0000" stop="20190309081500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Zookeeper's Wife</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309081500 +0000" stop="20190309100000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309100000 +0000" stop="20190309120000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Crazy, Stupid, Love</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309120000 +0000" stop="20190309134500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Horrible Bosses</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309134500 +0000" stop="20190309153000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309153000 +0000" stop="20190309170000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Perfect Wave</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309170000 +0000" stop="20190309184500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Submission</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309184500 +0000" stop="20190309211500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Goodfellas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309211500 +0000" stop="20190309231500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Conjuring</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309231500 +0000" stop="20190310010000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Unforgettable</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310021500 +0000" stop="20190310041500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Rendition</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310041500 +0000" stop="20190310060000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Experimenter</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310060000 +0000" stop="20190310081500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Zookeeper's Wife</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310081500 +0000" stop="20190310100000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310100000 +0000" stop="20190310120000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Crazy, Stupid, Love</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310120000 +0000" stop="20190310134500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Horrible Bosses</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310134500 +0000" stop="20190310153000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310153000 +0000" stop="20190310170000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Perfect Wave</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310170000 +0000" stop="20190310184500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Submission</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310184500 +0000" stop="20190310211500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Goodfellas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310211500 +0000" stop="20190310231500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Conjuring</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310231500 +0000" stop="20190311010000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Unforgettable</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311010000 +0000" stop="20190311024500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">American Pastime</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311024500 +0000" stop="20190311043000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Here Alone</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311043000 +0000" stop="20190311061500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Whole Truth</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311061500 +0000" stop="20190311080000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Trip to Spain</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311080000 +0000" stop="20190311094500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Submission</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311094500 +0000" stop="20190311111500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Perfect Wave</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311111500 +0000" stop="20190311134500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Goodfellas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311134500 +0000" stop="20190311153000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Submission</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311153000 +0000" stop="20190311184500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Sybil</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311184500 +0000" stop="20190311210000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">Due Date</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311210000 +0000" stop="20190311221500 +0000" channel="BeinMoviesHD3">
-    <title lang="en">It Had to Be You</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311221500 +0000" stop="20190312000000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Virginian</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190312221500 +0000" stop="20190313000000 +0000" channel="BeinMoviesHD3">
-    <title lang="en">The Virginian</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309010000 +0000" stop="20190309022500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">A Dennis the Menace Christmas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309022500 +0000" stop="20190309040500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Throne Of Elves</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309040500 +0000" stop="20190309051500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Stone Boy</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309051500 +0000" stop="20190309063000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">DC Super Hero Girls</title>
-    <sub-title lang="en">Intergalactic Games</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309063000 +0000" stop="20190309082000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Golden Compass</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309082000 +0000" stop="20190309100000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Free Willy</title>
-    <sub-title lang="en">Escape from Pirate's Cove</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309100000 +0000" stop="20190309113000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">ScoobyDoo</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309113000 +0000" stop="20190309130000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Lego ScoobyDoo!</title>
-    <sub-title lang="en">Haunted Hollywood</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309130000 +0000" stop="20190309143000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Ant Bully</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309143000 +0000" stop="20190309160000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Kiko Riki</title>
-    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309160000 +0000" stop="20190309174000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Lego Ninjago Movie</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309174000 +0000" stop="20190309191000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Le Petit Spirou</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309191000 +0000" stop="20190309203000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Mr. Troop Mom</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309203000 +0000" stop="20190309220000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309220000 +0000" stop="20190309234000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Free Willy</title>
-    <sub-title lang="en">Escape from Pirate's Cove</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190309234000 +0000" stop="20190310011000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">A Dennis the Menace Christmas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310022500 +0000" stop="20190310040500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Throne Of Elves</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310040500 +0000" stop="20190310051500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Stone Boy</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310051500 +0000" stop="20190310063000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">DC Super Hero Girls</title>
-    <sub-title lang="en">Intergalactic Games</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310063000 +0000" stop="20190310082000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Golden Compass</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310082000 +0000" stop="20190310100000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Free Willy</title>
-    <sub-title lang="en">Escape from Pirate's Cove</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310100000 +0000" stop="20190310113000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">ScoobyDoo</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310113000 +0000" stop="20190310130000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Lego ScoobyDoo!</title>
-    <sub-title lang="en">Haunted Hollywood</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310130000 +0000" stop="20190310143000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Ant Bully</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310143000 +0000" stop="20190310160000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Kiko Riki</title>
-    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310160000 +0000" stop="20190310174000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Lego Ninjago Movie</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310174000 +0000" stop="20190310191000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Le Petit Spirou</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310191000 +0000" stop="20190310203000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Mr. Troop Mom</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310203000 +0000" stop="20190310220000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310220000 +0000" stop="20190310234000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Free Willy</title>
-    <sub-title lang="en">Escape from Pirate's Cove</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190310234000 +0000" stop="20190311011000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">A Dennis the Menace Christmas</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311011000 +0000" stop="20190311022500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311022500 +0000" stop="20190311035500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sgt. Stubby</title>
-    <sub-title lang="en">An Unlikely Hero</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311035500 +0000" stop="20190311051000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Lego ScoobyDoo!</title>
-    <sub-title lang="en">Haunted Hollywood</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311051000 +0000" stop="20190311064000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Ant Bully</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311064000 +0000" stop="20190311080500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">ScoobyDoo</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311080500 +0000" stop="20190311094500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Mr. Troop Mom</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311094500 +0000" stop="20190311113000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Le Petit Spirou</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311113000 +0000" stop="20190311130000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Kiko Riki</title>
-    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311130000 +0000" stop="20190311144000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">The Lego Ninjago Movie</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311144000 +0000" stop="20190311160000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Lego Dc Superhero Girls</title>
-    <sub-title lang="en">Brain Drain</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311160000 +0000" stop="20190311173000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Wonder Woman</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311173000 +0000" stop="20190311190500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Richie Rich's Christmas Wish</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311190500 +0000" stop="20190311203000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Felicity</title>
-    <sub-title lang="en">An American Girl Adventure</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311203000 +0000" stop="20190311220500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Samantha</title>
-    <sub-title lang="en">An American Girl Holiday</sub-title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311220500 +0000" stop="20190311233000 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Mr. Troop Mom</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190311233000 +0000" stop="20190312004500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20190312233000 +0000" stop="20190313004500 +0000" channel="BeinMoviesHD4">
-    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
-    <category lang="en">Movies</category>
-  </programme>
   <programme start="20190309020000 +0000" stop="20190309041500 +0000" channel="4K">
     <title lang="en">Real Madrid vs Barcelona</title>
     <sub-title lang="en">4K - Spanish La Liga 2018/19 4K</sub-title>
@@ -41229,6 +40546,10 @@
     <desc lang="en">In 2028, the multinational OmniCorp is at the center of robot and weapon technology. With their technology used by the military, they want to bring it home to fight crime. Their chance has come when Alex Murphy, a loving father and a good cop who is doing his best to fight crime in Detroit, is seriously injured. OmniCorp sees their chance for a part man part robot police officer. Targeting billions of profits, they're envisioning a RoboCop in every city, but what about the man inside the suit</desc>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b3f7328c1a2497f5290e6bac9d62c43162f74cd71d38708bea43662d9276b830.jpg" />
   </programme>
+  <programme start="20190312060000 +0200" stop="20190312073000 +0200" channel="MBC 2">
+    <title lang="en">Blair Witch</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_213ec8bbc3f4188b3fbc19847c5d0c585a445ece15a4dba5d78e8482eab0baeb.jpg" />
+  </programme>
   <programme start="20190309000000 +0200" stop="20190309004500 +0200" channel="MBC Action">
     <title lang="en">معك خبر؟</title>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d2252b588689fd2cee94dd981d7debec840b9a16cc74afe40bf00ec257b1e14a.jpg" />
@@ -41573,6 +40894,11 @@
   <programme start="20190312045000 +0200" stop="20190312054000 +0200" channel="MBC Action">
     <title lang="en">The Tomorrow People</title>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_77b6455c56feb6e1da716f03d0fc52d47b94617522ff6b22143fb678202fe3d6.jpg" />
+  </programme>
+  <programme start="20190312054000 +0200" stop="20190312073000 +0200" channel="MBC Action">
+    <title lang="en">The Book of Eli</title>
+    <desc lang="en">A catastrophic war ends all forms of civilization on Earth. In the aftermath darkness, ignorance and chaos prevail. Eli, a former businessman, retains his upright principles and becomes a figure that fights for justice. At some point he is entrusted with the task of carrying a book that holds the secrets of civilization and thus becomes the guardian of mankind’s future</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_260db5e336f48fdc768909d76264eeeeb54246c4d35390688f449f8a21622304.jpg" />
   </programme>
   <programme start="20190309010000 +0200" stop="20190309033000 +0200" channel="MBC Max">
     <title lang="en">The Good Shepherd</title>
@@ -42187,6 +41513,14 @@
     <title lang="en">The Goldbergs 4</title>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
+  <programme start="20190312053000 +0200" stop="20190312060000 +0200" channel="MBC 4">
+    <title lang="en">The Goldbergs 4</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190312060000 +0200" stop="20190312070000 +0200" channel="MBC 4">
+    <title lang="en">The Real Housewives Of Orange County 8</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
   <programme start="20190309000000 +0200" stop="20190309020000 +0200" channel="Dubai One">
     <title lang="en">Tammy</title>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4d698331c1fb6f70c30a8eb1423fc6d3c602d701b117f27f23c57ec1b47095ca.jpg" />
@@ -42253,5 +41587,681 @@
   <programme start="20190309210000 +0200" stop="20190309233000 +0200" channel="Dubai One">
     <title lang="en">فاشن ستار</title>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4a2d4f61e245975fa13be099b66eb91a6120103c49d1592b961119ec40ba2bf7.jpg" />
+  </programme>
+  <programme start="20190309014500 +0200" stop="20190309033000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Devil's Gate</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309033000 +0200" stop="20190309050000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Lucky</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309050000 +0200" stop="20190309064500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Hurricane Heist</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309064500 +0200" stop="20190309081500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The House of Tomorrow</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309081500 +0200" stop="20190309103000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Accountant</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309103000 +0200" stop="20190309121500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Hurricane Heist</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309121500 +0200" stop="20190309143000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Hostiles</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309143000 +0200" stop="20190309161500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Wife</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309161500 +0200" stop="20190309180000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Little Italy</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309191500 +0200" stop="20190309210000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Little Italy</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_64a0a1043640932ecd48439ac42552303c603764659beddfe176bbc7dd8b97d0.jpg" />
+  </programme>
+  <programme start="20190309210000 +0200" stop="20190309230000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Life of the Party</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1039ee10c55256e30039e20369c972af864b0198e5e4049cb1b31689b5d25046.jpg" />
+  </programme>
+  <programme start="20190309230000 +0200" stop="20190310010000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Trouble with You</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_02201b899623d18e8c22179946fac9374021f0be3c508c4203b3d5fdce099601.jpg" />
+  </programme>
+  <programme start="20190310010000 +0200" stop="20190310024500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Once Upon a Time at Christmas</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dd2da28088bd93b2acc202042f689a279c7f26742e439abeb1138671ca5ad8db.jpg" />
+  </programme>
+  <programme start="20190310024500 +0200" stop="20190310043000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Amanda &amp; Jack Go Glamping</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6c58d453529f537b7d5f1a67ebc71f65ea30170ba90a1eec78a5b242c26c8341.jpg" />
+  </programme>
+  <programme start="20190310043000 +0200" stop="20190310061500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Everfall</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_36507e91df24fa298453659b2b0200db7a6d8087a06db04009e0f764f7004444.jpg" />
+  </programme>
+  <programme start="20190310061500 +0200" stop="20190310080000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Cardinal Matter</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_371c5bccb82dd5486a666c128f2797037e9fa476f9133cbb6b356fe4476f7957.jpg" />
+  </programme>
+  <programme start="20190310080000 +0200" stop="20190310094500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Amanda &amp; Jack Go Glamping</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6c58d453529f537b7d5f1a67ebc71f65ea30170ba90a1eec78a5b242c26c8341.jpg" />
+  </programme>
+  <programme start="20190310094500 +0200" stop="20190310113000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Lucky</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bdf31af75032efe01b47c139b44732be8d404d45ac72435b7e4d663e2400e00.jpg" />
+  </programme>
+  <programme start="20190310113000 +0200" stop="20190310131500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Wife</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9fed94974d79b5d3ad7a4e19f2e8b6f766d04987ff25f2cf9b4adeb209d92ce8.jpg" />
+  </programme>
+  <programme start="20190310131500 +0200" stop="20190310150000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Little Italy</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_64a0a1043640932ecd48439ac42552303c603764659beddfe176bbc7dd8b97d0.jpg" />
+  </programme>
+  <programme start="20190310150000 +0200" stop="20190310170000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Trouble with You</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_02201b899623d18e8c22179946fac9374021f0be3c508c4203b3d5fdce099601.jpg" />
+  </programme>
+  <programme start="20190310170000 +0200" stop="20190310190000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Life of the Party</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1039ee10c55256e30039e20369c972af864b0198e5e4049cb1b31689b5d25046.jpg" />
+  </programme>
+  <programme start="20190310190000 +0200" stop="20190310210000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Our Brand Is Crisis</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_be05634dcad6ee0f25551b4cdbcd415a34256dd3aa20f37b16dda7b2ed0f20c4.jpg" />
+  </programme>
+  <programme start="20190310210000 +0200" stop="20190310233000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Redbad</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_64056293066b851205d11fb754679fbb4f44d8e39dbbeb185e8211578d743502.jpg" />
+  </programme>
+  <programme start="20190310233000 +0200" stop="20190311011500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Woodshock</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2e5531323438ffcd77e82aa07c9413cb37330f0c2ec2958044b5e2ba7fc38bf0.jpg" />
+  </programme>
+  <programme start="20190311013000 +0200" stop="20190311031500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Everfall</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311031500 +0200" stop="20190311050000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Cardinal Matter</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311050000 +0200" stop="20190311064500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Amanda And Jack Go Glamping</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311064500 +0200" stop="20190311083000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Lucky</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311083000 +0200" stop="20190311101500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Wife</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311101500 +0200" stop="20190311120000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Little Italy</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311120000 +0200" stop="20190311140000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">The Trouble with You</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311140000 +0200" stop="20190311160000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Life of the Party</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311160000 +0200" stop="20190311180000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Our Brand Is Crisis</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311180000 +0200" stop="20190311203000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Redbad</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311203000 +0200" stop="20190311221500 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Woodshock</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311221500 +0200" stop="20190312000000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Attrition</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190312221500 +0200" stop="20190313000000 +0200" channel="BeinMoviesHD1">
+    <title lang="en">Attrition</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309003000 +0200" stop="20190309021500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Jawbone</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309021500 +0200" stop="20190309040000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Mercenary</title>
+    <sub-title lang="en">Absolution</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309040000 +0200" stop="20190309053500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Elephant White</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309053500 +0200" stop="20190309073000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Outlaws and Angels</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309073000 +0200" stop="20190309091500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">One Last Heist</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309091500 +0200" stop="20190309111500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">6 Ways to Sundown</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309111500 +0200" stop="20190309130000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Europa Report</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309130000 +0200" stop="20190309144000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Elephant White</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309144000 +0200" stop="20190309163000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">6 Ways to Sundown</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309163000 +0200" stop="20190309190000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309193000 +0200" stop="20190309220000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <desc lang="en">Dominic Cobb (Leonardo DiCaprio) is coveted for his skills at extraction and inception. Extraction refers to a process whereby the victim’s mind is accessed during sleep and a hidden thought is “stolen” from the victim. Inception is the reverse process whereby an idea is planted into a victim’s mind. A shady industrialist called Saito (Ken Watanabe) has hired Cobb to infiltrate the mind of his business rival and plant an idea that will dissolve his business empire. This sci-fi masterpiece was written, directed and produced by Christopher Nolan</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2028a02da250c809cc4493409e19f7f80e2f37f9045ef28cf033448f56968505.jpg" />
+  </programme>
+  <programme start="20190309220000 +0200" stop="20190309233000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">The Lazarus Effect</title>
+    <desc lang="en">The film follows a group of researchers led by Frank and his fiancé Zoe who've achieved the unimaginable - bringing the dead back to life. When the dean of their university learns of their underground experiments, their project is unexpectedly shut down. When Frank and Zoe attempt to recreate their experiments, things go fatally wrong and Zoe dies. But Frank successfully brings Zoe back to life, only to discover that she now has a completely different and strange new persona</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_695c3a8cde8913f03e54b05c96e32442a0d3e6b2ca273534cb7171014dbf08fa.jpg" />
+  </programme>
+  <programme start="20190309233000 +0200" stop="20190310010500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Ninja: Shadow of a Tear</title>
+    <desc lang="en">Ninja master Casey Bowman lives his life by a simple creed: trust no one and fight everyone. After his wife is murdered and his life shattered, he vows to take revenge by any means possible. He tracks the killer from Oskaka to Bangkok to Rangoon, taking his training and skills to the next level as he does everything he can to truly embody Ninja warrior title</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_34ebe93ee710e9f13a79f7e6bf1fdcad28215170b4a4f45aa59acf46e8c284b7.jpg" />
+  </programme>
+  <programme start="20190310010500 +0200" stop="20190310024500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Incarnate</title>
+    <desc lang="en">A scientist with the ability to enter the subconscious minds of the possessed must save a young boy from the grips of a demon with powers never seen before, while facing the horrors of his past</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_677043b05a3df09a625497e9d70b8fb4271562a577c3c62b0654c07d46ae749e.jpg" />
+  </programme>
+  <programme start="20190310024500 +0200" stop="20190310041500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Retribution</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310041500 +0200" stop="20190310062000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Goldstone</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3fc9aa77a1dd5c2c0374cc4bdd57959953d065617c8d061903f4ee599442886d.jpg" />
+  </programme>
+  <programme start="20190310062000 +0200" stop="20190310080000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Jawbone</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_eee7cce64e5499f13b57542fd65bcbd88548da6011b1bf06cb65ad0d30e931dd.jpg" />
+  </programme>
+  <programme start="20190310080000 +0200" stop="20190310094000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Retribution</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310094000 +0200" stop="20190310123000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <desc lang="en">Dominic Cobb (Leonardo DiCaprio) is coveted for his skills at extraction and inception. Extraction refers to a process whereby the victim’s mind is accessed during sleep and a hidden thought is “stolen” from the victim. Inception is the reverse process whereby an idea is planted into a victim’s mind. A shady industrialist called Saito (Ken Watanabe) has hired Cobb to infiltrate the mind of his business rival and plant an idea that will dissolve his business empire. This sci-fi masterpiece was written, directed and produced by Christopher Nolan</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2028a02da250c809cc4493409e19f7f80e2f37f9045ef28cf033448f56968505.jpg" />
+  </programme>
+  <programme start="20190310123000 +0200" stop="20190310141500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Absolution</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_98f92350f589b7ca9e7ee302d2de927dbe4d7493dd254f1588d109a8b3caeff8.jpg" />
+  </programme>
+  <programme start="20190310141500 +0200" stop="20190310154500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">The Lazarus Effect</title>
+    <desc lang="en">The film follows a group of researchers led by Frank and his fiancé Zoe who've achieved the unimaginable - bringing the dead back to life. When the dean of their university learns of their underground experiments, their project is unexpectedly shut down. When Frank and Zoe attempt to recreate their experiments, things go fatally wrong and Zoe dies. But Frank successfully brings Zoe back to life, only to discover that she now has a completely different and strange new persona</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_695c3a8cde8913f03e54b05c96e32442a0d3e6b2ca273534cb7171014dbf08fa.jpg" />
+  </programme>
+  <programme start="20190310154500 +0200" stop="20190310182000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <desc lang="en">Dominic Cobb (Leonardo DiCaprio) is coveted for his skills at extraction and inception. Extraction refers to a process whereby the victim’s mind is accessed during sleep and a hidden thought is “stolen” from the victim. Inception is the reverse process whereby an idea is planted into a victim’s mind. A shady industrialist called Saito (Ken Watanabe) has hired Cobb to infiltrate the mind of his business rival and plant an idea that will dissolve his business empire. This sci-fi masterpiece was written, directed and produced by Christopher Nolan</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2028a02da250c809cc4493409e19f7f80e2f37f9045ef28cf033448f56968505.jpg" />
+  </programme>
+  <programme start="20190310182000 +0200" stop="20190310200000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Ninja: Shadow of a Tear</title>
+    <desc lang="en">Ninja master Casey Bowman lives his life by a simple creed: trust no one and fight everyone. After his wife is murdered and his life shattered, he vows to take revenge by any means possible. He tracks the killer from Oskaka to Bangkok to Rangoon, taking his training and skills to the next level as he does everything he can to truly embody Ninja warrior title</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_34ebe93ee710e9f13a79f7e6bf1fdcad28215170b4a4f45aa59acf46e8c284b7.jpg" />
+  </programme>
+  <programme start="20190310200000 +0200" stop="20190310220000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Birth of the Dragon</title>
+    <desc lang="en">Set against the backdrop of 1960s San Francisco, Birth of the Dragon is a modern take on the classic movies that Bruce Lee was part of. It takes its inspiration from the epic and still controversial showdown between an up-and-coming Bruce Lee and kung fu master Wong Jack Man - a battle that gave birth to a legend</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_92dc14d19ed10bae8fc1695f48d009998f3d4610f2618c77cdf361f9c04e2419.jpg" />
+  </programme>
+  <programme start="20190310220000 +0200" stop="20190311000000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">I Am Legend</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0a28c2ef4016c77cc54140bfa42ae50028ba2db4067eb20c9995e61b0ded3d22.jpg" />
+  </programme>
+  <programme start="20190311011500 +0200" stop="20190311032000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Goldstone</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311032000 +0200" stop="20190311050000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Jawbone</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311050000 +0200" stop="20190311064000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Retribution</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311064000 +0200" stop="20190311093000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311093000 +0200" stop="20190311111500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Mercenary</title>
+    <sub-title lang="en">Absolution</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311111500 +0200" stop="20190311124500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">The Lazarus Effect</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311124500 +0200" stop="20190311152000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Inception</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311152000 +0200" stop="20190311170000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Ninja II</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311170000 +0200" stop="20190311190000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Birth of the Dragon</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311190000 +0200" stop="20190311210000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">I Am Legend</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311210000 +0200" stop="20190311224000 +0200" channel="BeinMoviesHD2">
+    <title lang="en">I Am Wrath</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311224000 +0200" stop="20190312001500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Weaponized</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190312224000 +0200" stop="20190313001500 +0200" channel="BeinMoviesHD2">
+    <title lang="en">Weaponized</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309003000 +0200" stop="20190309021500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Whole Truth</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309021500 +0200" stop="20190309041500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Rendition</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309041500 +0200" stop="20190309060000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Experimenter</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309060000 +0200" stop="20190309081500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Zookeeper's Wife</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309081500 +0200" stop="20190309100000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Man Who Knew Infinity</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309100000 +0200" stop="20190309120000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Crazy, Stupid, Love</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309120000 +0200" stop="20190309134500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Horrible Bosses</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309134500 +0200" stop="20190309153000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Man Who Knew Infinity</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309153000 +0200" stop="20190309170000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Perfect Wave</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309170000 +0200" stop="20190309184500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309200000 +0200" stop="20190309214500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190309214500 +0200" stop="20190310001500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Goodfellas</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a4465aef01eead1deb55fef7bf8b38d14ebe0649c518f78bb5bf2bdd6550aa38.jpg" />
+  </programme>
+  <programme start="20190310001500 +0200" stop="20190310021500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Conjuring</title>
+    <desc lang="en">Famed paranormal investigators Ed and Lorraine Warren get entangled in the most horrifying case they've come across when they're called in to investigate a demonic presence in a secluded farmhouse</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d7a5ee872e0689b47c0273e45f4fd30f52a203785129217e2019c791de774807.jpg" />
+  </programme>
+  <programme start="20190310021500 +0200" stop="20190310040000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Unforgettable</title>
+    <desc lang="en">Tessa Connover (Katherine Heighl) finds it hard to adapt to her divorce especially after seeing how happy her ex-husband David (Geoff Stults) is because of his engagement to Julia Banks (Rosario Dawson), and not only did Julia move to Tessa's old house, but she has become involved in her daughter Lily's (Isabella Rai Rice) life. Julia, happy to have finally met the man of her dreams, tries to get used to her new role as a wife and a step-mother but have her dreams turned into nightmares because of Tessa's sickening jealousy</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2c584b6ff86611b8d7e25464fae1fc0a647b14a69e700968ece376fee389a8fc.jpg" />
+  </programme>
+  <programme start="20190310040000 +0200" stop="20190310054500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">American Pastime</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0e669a6e5e9b7a6b65e83b95e9e5281df0a9ad83f410cc66bef2f9dfeaa22fbd.jpg" />
+  </programme>
+  <programme start="20190310054500 +0200" stop="20190310073000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Here Alone</title>
+    <desc lang="en">A young woman struggles to survive on her own in the wake of a mysterious epidemic that has killed most of her society, and forced her deep into the unforgiving wilderness</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_27943bcc4e4eb586809f07d87d4920de6586a88221cee89a5f001460dc8f4ccd.jpg" />
+  </programme>
+  <programme start="20190310073000 +0200" stop="20190310091500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Whole Truth</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9c61b9f5448ce5232b528db557dde8ff624a67158799c8a64c4dd75d5f32e8fd.jpg" />
+  </programme>
+  <programme start="20190310091500 +0200" stop="20190310110000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Trip to Spain</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5365acb8efea1dda32d5ed47e3fbbc211296fc56663ccbb1ae936fcbc2a4dde6.jpg" />
+  </programme>
+  <programme start="20190310110000 +0200" stop="20190310124500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310124500 +0200" stop="20190310141500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Perfect Wave</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310141500 +0200" stop="20190310164500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Goodfellas</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a4465aef01eead1deb55fef7bf8b38d14ebe0649c518f78bb5bf2bdd6550aa38.jpg" />
+  </programme>
+  <programme start="20190310164500 +0200" stop="20190310183000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310183000 +0200" stop="20190310214500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Sybil</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7b9a5e0757f17574cd680d8b3335fff22b10031d2da3f53858e0412b08bfb2d2.jpg" />
+  </programme>
+  <programme start="20190310214500 +0200" stop="20190311000000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Due Date</title>
+    <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth of his first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane. In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d5867dd26353fb6d715defd6a164c815f657ed7b534a130f11f97a53ecac5b25.jpg" />
+  </programme>
+  <programme start="20190311010000 +0200" stop="20190311024500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">American Pastime</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311024500 +0200" stop="20190311043000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Here Alone</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311043000 +0200" stop="20190311061500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Whole Truth</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311061500 +0200" stop="20190311080000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Trip to Spain</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311080000 +0200" stop="20190311094500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311094500 +0200" stop="20190311111500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Perfect Wave</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311111500 +0200" stop="20190311134500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Goodfellas</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311134500 +0200" stop="20190311153000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Submission</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311153000 +0200" stop="20190311184500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Sybil</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311184500 +0200" stop="20190311210000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">Due Date</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311210000 +0200" stop="20190311221500 +0200" channel="BeinMoviesHD3">
+    <title lang="en">It Had to Be You</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311221500 +0200" stop="20190312000000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Virginian</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190312221500 +0200" stop="20190313000000 +0200" channel="BeinMoviesHD3">
+    <title lang="en">The Virginian</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309010000 +0200" stop="20190309022500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">A Dennis the Menace Christmas</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309022500 +0200" stop="20190309040500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Throne Of Elves</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309040500 +0200" stop="20190309051500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Stone Boy</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309051500 +0200" stop="20190309063000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">DC Super Hero Girls</title>
+    <sub-title lang="en">Intergalactic Games</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309063000 +0200" stop="20190309082000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Golden Compass</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309082000 +0200" stop="20190309100000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Free Willy</title>
+    <sub-title lang="en">Escape from Pirate's Cove</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309100000 +0200" stop="20190309113000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">ScoobyDoo</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309113000 +0200" stop="20190309130000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Lego ScoobyDoo!</title>
+    <sub-title lang="en">Haunted Hollywood</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309130000 +0200" stop="20190309143000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Ant Bully</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309143000 +0200" stop="20190309160000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Kiko Riki</title>
+    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309160000 +0200" stop="20190309174000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Lego Ninjago Movie</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309174000 +0200" stop="20190309191000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Le Petit Spirou</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309191000 +0200" stop="20190309203000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Mr. Troop Mom</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190309204000 +0200" stop="20190309221000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Little Spirou</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_35e48a1fdfa961552e2a4f77d60fc1d6627ba1adfa46be8d1e12042de3b9b3b5.jpg" />
+  </programme>
+  <programme start="20190309221000 +0200" stop="20190309233000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Mr. Troop Mom</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6e7145a8b346f48ae91983c4e2f6539b82db01ff7e6f0668ff61e7d019be79c4.jpg" />
+  </programme>
+  <programme start="20190309233000 +0200" stop="20190310010000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sophia Grace &amp; Rosie's Royal Adventure</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2c9c23ce1370a9eb8db38e9608f181299f5235fff62760e05a9ae6b7738ca65.jpg" />
+  </programme>
+  <programme start="20190310010000 +0200" stop="20190310024000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Free Willy: Escape from Pirate's Cove</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f2f552dc96a09fcd3232e093edb92b982a0a0f83dd3b79d916504992c966e0d8.jpg" />
+  </programme>
+  <programme start="20190310024000 +0200" stop="20190310041000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">دينيس المشاغب في عيد الميلاد</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0da45f899f6df3be553d35a4d2b8f5f9f617ca3460b005be4c784c7c3e6b8e2f.jpg" />
+  </programme>
+  <programme start="20190310041000 +0200" stop="20190310052500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sophia Grace &amp; Rosie's Royal Adventure</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2c9c23ce1370a9eb8db38e9608f181299f5235fff62760e05a9ae6b7738ca65.jpg" />
+  </programme>
+  <programme start="20190310052500 +0200" stop="20190310065500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sgt. Stubby: An American Hero</title>
+    <desc lang="en">The movie tells the true story of the most decorated dog in American history, Sergeant Stubby, showing everything he had done for the USA in WW1</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_befc48f0239d67ed76b7037608369fd0ffa7dd2fcb47c0161994572305acebcc.jpg" />
+  </programme>
+  <programme start="20190310065500 +0200" stop="20190310081000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Lego Scooby-Doo!: Haunted Hollywood</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_2d271b95e534085d55596ab7a1eeb85173c4e09eb69be0af723c626a3d28e79a.jpg" />
+  </programme>
+  <programme start="20190310081000 +0200" stop="20190310094000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Ant Bully</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_07f9952c0234901bdcb7e737c19001922ab47d2cbb23f604d4e25bcfa32ab2b6.jpg" />
+  </programme>
+  <programme start="20190310094000 +0200" stop="20190310110500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Scooby-Doo</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310110500 +0200" stop="20190310124500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Mr. Troop Mom</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6e7145a8b346f48ae91983c4e2f6539b82db01ff7e6f0668ff61e7d019be79c4.jpg" />
+  </programme>
+  <programme start="20190310124500 +0200" stop="20190310143000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Little Spirou</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_35e48a1fdfa961552e2a4f77d60fc1d6627ba1adfa46be8d1e12042de3b9b3b5.jpg" />
+  </programme>
+  <programme start="20190310143000 +0200" stop="20190310160000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Kiko Riki</title>
+    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190310160000 +0200" stop="20190310174000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Lego Ninjago Movie</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190310174000 +0200" stop="20190310190000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Lego DC Super Hero Girls: Brain Drain</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ee7c33f13e97bb41acc3f206d83c377c994d7d1059b094c30e2b997f023e4707.jpg" />
+  </programme>
+  <programme start="20190310190000 +0200" stop="20190310203000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Wonder Woman</title>
+    <desc lang="en">Princess Diana, Princess of the Amazon, was trained at Paradise Island to become an invincible warrior. When an American pilot lands on her island and tells her about the outside world, she decides to leave her home in the hope of seeing new cultures and meeting other warriors from Greece. She becomes Wonder Woman and tries to stop ongoing wars while testing her superpowers</desc>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_52707cba913b2d8be7f9b249c39c862e51845bbbb7e41603dca090b853e8343a.jpg" />
+  </programme>
+  <programme start="20190310203000 +0200" stop="20190310220500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Richie Rich's Christmas Wish</title>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190310220500 +0200" stop="20190310233000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">An American Girl Adventure</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_91fa25041181e17a6e5d8d423535a6feaf4a6f6fa596765c641a18ece22e4dd2.jpg" />
+  </programme>
+  <programme start="20190310233000 +0200" stop="20190311010500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Samantha: An American Girl Holiday</title>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dbb1f23b4e8531590394b406825086bf925b8305169c80a61b49f87277756d29.jpg" />
+  </programme>
+  <programme start="20190311011000 +0200" stop="20190311022500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311022500 +0200" stop="20190311035500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sgt. Stubby</title>
+    <sub-title lang="en">An Unlikely Hero</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311035500 +0200" stop="20190311051000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Lego ScoobyDoo!</title>
+    <sub-title lang="en">Haunted Hollywood</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311051000 +0200" stop="20190311064000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Ant Bully</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311064000 +0200" stop="20190311080500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">ScoobyDoo</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311080500 +0200" stop="20190311094500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Mr. Troop Mom</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311094500 +0200" stop="20190311113000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Le Petit Spirou</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311113000 +0200" stop="20190311130000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Kiko Riki</title>
+    <sub-title lang="en">Legend of the Golden Dragon</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311130000 +0200" stop="20190311144000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">The Lego Ninjago Movie</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311144000 +0200" stop="20190311160000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Lego Dc Superhero Girls</title>
+    <sub-title lang="en">Brain Drain</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311160000 +0200" stop="20190311173000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Wonder Woman</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311173000 +0200" stop="20190311190500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Richie Rich's Christmas Wish</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311190500 +0200" stop="20190311203000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Felicity</title>
+    <sub-title lang="en">An American Girl Adventure</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311203000 +0200" stop="20190311220500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Samantha</title>
+    <sub-title lang="en">An American Girl Holiday</sub-title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311220500 +0200" stop="20190311233000 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Mr. Troop Mom</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190311233000 +0200" stop="20190312004500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20190312233000 +0200" stop="20190313004500 +0200" channel="BeinMoviesHD4">
+    <title lang="en">Sophia Grace and Rosie's Royal Adventure</title>
+    <category lang="en">Movies</category>
   </programme>
 </tv>
